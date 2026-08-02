@@ -1,0 +1,121 @@
+{
+    "name": "Errata2",
+    "code": "ERR2",
+    "icon": "",
+    "encounter_sets": [],
+    "cards": [
+        {
+            "name": "Hunter's Instinct",
+            "id": "6f5ad300-cbd2-4b2b-905e-b356114ed0d5",
+            "amount": 2,
+            "front": {
+                "type": "asset",
+                "classes": [
+                    "survivor"
+                ],
+                "level": "2",
+                "cost": "2",
+                "name": "Hunter's Instinct",
+                "text": "Limit 1 per investigator. Uses (3 supplies). If there are no supplies on <name>, discard it.\n<reaction> After you engage an enemy, spend 1 supply and exhaust <name>: Add a level 0-2 event in your discard pile to your hand.",
+                "icons": "CAQ",
+                "traits": "Talent.",
+                "illustrator": "Illus. Carlos Palma Cruchaga",
+                "copyright": "\u00a9 2026 FFG",
+                "illustration": "./img/60574.png",
+                "illustration_scale": 2.2,
+                "illustration_pan_y": 34.0,
+                "illustration_pan_x": 60.0,
+                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/miguel.svg\">",
+                "collection_number": "24"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Machete",
+            "id": "b76dd387-4ac7-4a8f-82fb-6c31d68cf10c",
+            "amount": 2,
+            "front": {
+                "type": "asset",
+                "classes": [
+                    "guardian"
+                ],
+                "cost": "3",
+                "icons": "C",
+                "traits": "Item. Weapon. Melee.",
+                "text": "<action>: <b>Fight</b> (<combat>). You get +1<combat> for this attack. If you succeed and the attacked enemy is the only enemy engaged with you, you may exhaust Machete to deal +1 damage for this attack.",
+                "copyright": "\u00a9 2026 FFG",
+                "slots": [
+                    "hand"
+                ],
+                "illustrator": "Illus. Jason Caffoe",
+                "illustration": "./img/ahc01-020 Machete-Jason Caffoe.jpg",
+                "illustration_pan_y": 221.0,
+                "illustration_pan_x": 111.0,
+                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/core_2026.svg\">",
+                "collection_number": "20",
+                "flavor_text": "Cuts through vines, underbrush, and tentacles equally well.",
+                "illustration_scale": 1.96
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Scrape By",
+            "id": "bb67ab9d-6efc-42fd-940f-c3ef54dc889c",
+            "amount": 2,
+            "front": {
+                "type": "event",
+                "classes": [
+                    "survivor"
+                ],
+                "level": "1",
+                "traits": "Fortune.",
+                "copyright": "\u00a9 2026 FFG",
+                "illustrator": "Illus. Stanislav Dikolenko",
+                "text": "Fast. Play when you would fail a skill test during which a non-<auto_fail> token was revealed.\nYou succeed at that skill test by 0 instead. If a token with a symbol was revealed during that skill test, take 1 horror.",
+                "illustration_pan_y": 72.0,
+                "illustration_scale": 2.23,
+                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/core_2026.svg\">",
+                "collection_number": "82",
+                "icons": "Q",
+                "cost": "1"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Endurance",
+            "id": "0cc7f1a4-1c28-4b66-82a4-70c29da09f14",
+            "amount": 2,
+            "front": {
+                "type": "asset",
+                "classes": [
+                    "guardian"
+                ],
+                "cost": "2",
+                "icons": "CAQ",
+                "traits": "Talent.",
+                "text": "Starting. <i>(You may begin the game with 1 copy of a starting card in your opening hand.)</i>\n<free>Spend 1 resource: You get +1 <combat> for this skill test (+2 <combat> instead if this is an attack or evasion).\n<free> Spend 1 resource: You get +1 <agility> for this skill test (+2 <agility> instead if this is an attack or evasion).",
+                "copyright": "\u00a9 2026 FFG",
+                "illustrator": "Illus. Lin Hsiang",
+                "illustration_pan_y": 221.0,
+                "illustration_pan_x": 111.0,
+                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/core_2026.svg\">",
+                "collection_number": "28",
+                "illustration_scale": 1.96,
+                "level": "3"
+            },
+            "back": {
+                "type": "player"
+            }
+        }
+    ],
+    "id": "1dd2d9c8-40be-4db6-94f2-abef12436c60",
+    "meta": {
+        "dirty": []
+    }
+}
