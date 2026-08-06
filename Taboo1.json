@@ -78,7 +78,11 @@
                 "classes": [
                     "survivor"
                 ],
-                "icons": "I"
+                "icons": "I",
+                "illustration": "./img/ahc60-073 Scavenging - revcore - Aleksander Karcz.jpg",
+                "illustration_pan_x": 9.0,
+                "illustration_pan_y": 251.0,
+                "illustration_scale": 0.895
             },
             "amount": 2,
             "back": {
@@ -826,7 +830,11 @@
                 "classes": [
                     "survivor"
                 ],
-                "icons": "W"
+                "icons": "W",
+                "illustration": "./img/ahc29-159 Drawing Thin - Borja Pindado.jpg",
+                "illustration_pan_x": 69.0,
+                "illustration_pan_y": 224.0,
+                "illustration_scale": 2.008
             },
             "amount": 2,
             "back": {
@@ -974,7 +982,11 @@
                 "classes": [
                     "survivor"
                 ],
-                "icons": "QQ"
+                "icons": "QQ",
+                "illustration": "./img/ahc29-324 Eucatastrophe - Julian Kok.png",
+                "illustration_pan_x": 39.0,
+                "illustration_pan_y": 20.0,
+                "illustration_scale": 2.06
             },
             "amount": 2,
             "back": {
@@ -1102,7 +1114,11 @@
                 "classes": [
                     "survivor"
                 ],
-                "icons": "II"
+                "icons": "II",
+                "illustration": "./img/ahc60-073 Scavenging - revcore - Aleksander Karcz.jpg",
+                "illustration_pan_x": 9.0,
+                "illustration_pan_y": 251.0,
+                "illustration_scale": 0.895
             },
             "amount": 2,
             "back": {
@@ -1154,7 +1170,11 @@
                 "illustrator": "Illus. Tiziano Baracchi",
                 "classes": [
                     "survivor"
-                ]
+                ],
+                "illustration": "./img/ahc52-122 Ancient Covenant - exported - Tiziano Baracchi.png",
+                "illustration_pan_x": 110.0,
+                "illustration_pan_y": 176.0,
+                "illustration_scale": 1.95
             },
             "amount": 1,
             "back": {
@@ -1176,7 +1196,10 @@
                 "classes": [
                     "survivor"
                 ],
-                "icons": "Q"
+                "icons": "Q",
+                "illustration": "./img/ahc52-197 Signum Crucis - David Hovey.png",
+                "illustration_pan_x": 60.0,
+                "illustration_pan_y": 232.0
             },
             "amount": 2,
             "back": {
@@ -1226,7 +1249,11 @@
                 "classes": [
                     "survivor"
                 ],
-                "icons": "WW"
+                "icons": "WW",
+                "illustration": "./img/ahc52-269 A Watchful Peace - export - Romana Kendelic.png",
+                "illustration_pan_x": 68.0,
+                "illustration_pan_y": 69.0,
+                "illustration_scale": 1.019
             },
             "amount": 2,
             "back": {
@@ -1402,7 +1429,11 @@
                 "classes": [
                     "survivor"
                 ],
-                "icons": "Q"
+                "icons": "Q",
+                "illustration": "./img/ahc63-076 Burn After Reading (Ian Hardaway) - Romana Kendelic.jpg",
+                "illustration_pan_x": 84.0,
+                "illustration_pan_y": 77.0,
+                "illustration_scale": 2.504
             },
             "amount": 0,
             "back": {
@@ -1715,7 +1746,8 @@
                 "classes": [
                     "survivor"
                 ],
-                "icons": "IA"
+                "icons": "IA",
+                "illustration": "./img/ahc69-108 Shed a Light - exported - Anders Finer.png"
             },
             "amount": 2,
             "back": {
@@ -1741,7 +1773,11 @@
                 "slots": [
                     "hand"
                 ],
-                "icons": "II"
+                "icons": "II",
+                "illustration": "./img/ahc51-007 Old Key Ring - Robert Laskey.jpg",
+                "illustration_pan_x": 79.0,
+                "illustration_pan_y": -34.0,
+                "illustration_scale": 2.519
             },
             "amount": 2,
             "back": {
