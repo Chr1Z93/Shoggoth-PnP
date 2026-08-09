@@ -51,9 +51,9 @@
         "4d1e1141-5fb3-5a94-be7a-35552ddf4bef": {
             "name": "\u015awiece rytualne",
             "front": {
-                "text": "Zmutowana.\n<reaction> Po tym jak podczas wykonywanego przez ciebie testu zostanie odkryty dowolny symbol: do tego testu dostajesz +1 do warto\u015bci umiej\u0119tno\u015bci.",
-                "traits": "Przedmiot.",
-                "flavor_text": "Knoty jarzy\u0142y si\u0119 upiornym blaskiem, a p\u0142omienie porusza\u0142y si\u0119, jakby by\u0142y \u017cywe."
+                "text": "Zmutowana.\n<reaction> Po tym, jak podczas wykonywanego przez ciebie testu zostanie odkryty dowolny symbol: do tego testu dostajesz +1 do warto\u015bci umiej\u0119tno\u015bci.",
+                "flavor_text": "Knoty jarzy\u0142y si\u0119 upiornym blaskiem, a p\u0142omienie porusza\u0142y si\u0119, jakby by\u0142y \u017cywe.",
+                "traits": "Przedmiot."
             },
             "back": {}
         },
@@ -69,9 +69,10 @@
         "84e54e1a-3f26-5d73-9500-0881898933e0": {
             "name": "Nadmierna ciekawo\u015b\u0107",
             "front": {
-                "text": "Zmutowana.\nW kolejno\u015bci graczy ka\u017cdy badacz dobiera 1 kart\u0119 z wierzchu talii spotka\u0144. Nast\u0119pnie dodaj Nadmiern\u0105 dociekliwo\u015b\u0107 do puli zwyci\u0119stwa.\nLimit grupowy 2 kopie Nadmiernej dociekliwo\u015bci w puli zwyci\u0119stwa.",
-                "traits": "Informacja.",
-                "flavor_text": "Gdy ju\u017c co\u015b ujrzysz, nie da si\u0119 tego cofn\u0105\u0107."
+                "text": "Zmutowana.\nW kolejno\u015bci graczy ka\u017cdy badacz dobiera 1 kart\u0119 z wierzchu talii spotka\u0144. Nast\u0119pnie dodaj Nadmiern\u0105 ciekawo\u015b\u0107 do puli zwyci\u0119stwa.\nLimit grupowy 2 kopie Nadmiernej ciekawo\u015bci w puli zwyci\u0119stwa.",
+                "flavor_text": "\nGdy ju\u017c co\u015b ujrzysz, nie da si\u0119 tego cofn\u0105\u0107.<br> <br> <br> ",
+                "victory": "Zwyci\u0119stwo 1.",
+                "traits": "Informacja."
             },
             "back": {}
         },
@@ -274,7 +275,7 @@
         "912d4384-23d8-530f-983d-d17a9e96505f": {
             "name": "Uwi\u0105d",
             "front": {
-                "text": "Mutated.\n<action>: <b>Fight.</b> This attack uses [willpower] instead of [combat]. If a symbol token is revealed during this attack, the attacked enemy gets -1 fight and -1 evade for the remainder of the turn (to a minimum of 1).",
+                "text": "Zmutowana.\n<action>: <b>Walka.</b> Ten atak u\u017cywa [willpower] zamiast [combat]. <br>Je\u015bli podczas tego ataku zostanie odkryty dowlony symbol, do ko\u0144ca tury zaatakowany wr\u00f3g dostaje -1 do walki i -1 do wymykania si\u0119 (do minimum 1).",
                 "traits": "Zakl\u0119cie."
             },
             "back": {}
@@ -323,7 +324,7 @@
         "11bde63c-45f3-5719-9898-e6ffb3f47c0e": {
             "name": "Uwi\u0105d",
             "front": {
-                "text": "Mutated.\n<action>: <b>Fight.</b> This attack uses [willpower] instead of [combat]. You get +2 [willpower] for this attack. If a symbol token is revealed during this attack, the attacked enemy gets -1 fight, -1 health, and -1 evade until the end of the phase (to a minimum of 1).",
+                "text": "Zmutowana.\n<action>: <b>Walka.</b> Ten atak u\u017cywa [willpower] zamiast [combat]. <br>Do tego ataku dostajesz +2 [willpower]. Je\u015bli podczas tego ataku zostanie odkryty dowlony symbol, do ko\u0144ca tury zaatakowany wr\u00f3g dostaje -1 walki, -1 do wytrzyma\u0142o\u015bci i -1 do warto\u015bci wymykania si\u0119 (do minimum 1).",
                 "traits": "Zakl\u0119cie."
             },
             "back": {}
@@ -406,7 +407,8 @@
         "977b07c5-60ef-5b31-ba26-253f0183c08c": {
             "name": "Flet Zewn\u0119trznych Bog\u00f3w",
             "front": {
-                "text": "Mutated. Seal (up to X <curse>). Limit 1 per deck.\n<action> Exhaust Flute of the Outer Gods and release 1 <curse> token sealed on it: Choose a non-<t>Elite</t> enemy at your location. Either move the chosen enemy to a connecting location, or deal its damage to any enemy at its location. This action does not provoke attacks of opportunity.",
+                "name": "<unique><name>",
+                "text": "Zmutowana. Piecz\u0119\u0107 (maksymalnie X <curse>). Limit 1 na tali\u0119.\n<action> Wyczerp Flet Zewn\u0119trznych Bog\u00f3w i uwolnij 1 zapiecz\u0119towany na nim \u017ceton <curse>: wybierz nie-<t>Elitarnego</t> wroga w twojej lokalizacji. Porusz wybranego wroga do po\u0142\u0105czonej lokalizacji albo zadaj warto\u015b\u0107 jego obra\u017ce\u0144 dowolnemu wrogowi w jego lokalizacji. Ta akcja nie wywo\u0142uje atak\u00f3w towarzysz\u0105cych.",
                 "traits": "Przedmiot. Instrument. Relikwia. Przekl\u0119ty."
             },
             "back": {}
@@ -431,7 +433,7 @@
         "aec1d788-1ce7-59a0-9c4b-f2afe5978bb0": {
             "name": "Rytua\u0142 r\u00f3wnowagi",
             "front": {
-                "text": "Rozwi\u0105zany (-2 Do\u015bwiadczenie).\nWybierz jedno:\n- Dodaj do worka chaosu X \u017ceton\u00f3w <curse>, aby doda\u0107 do worka chaosu X \u017ceton\u00f3w <blessing>.\n- Usu\u0144 z worka chaosu X \u017ceton\u00f3w <curse> i X \u017ceton\u00f3w <blessing>, aby wyleczy\u0107 \u0142\u0105cznie X punkt\u00f3w przera\u017cenia spo\u015br\u00f3d kart w twojej lokalizacji.",
+                "text": "Rozwi\u0105zana (-2 do\u015bwiadczenia).\nWybierz jedno:\n- Dodaj do worka chaosu X \u017ceton\u00f3w <curse>, aby doda\u0107 do worka chaosu X \u017ceton\u00f3w <blessing>.\n- Usu\u0144 z worka chaosu X \u017ceton\u00f3w <curse> i X \u017ceton\u00f3w <blessing>, aby wyleczy\u0107 \u0142\u0105cznie X punkt\u00f3w przera\u017cenia spo\u015br\u00f3d kart w twojej<br> lokalizacji.",
                 "traits": "Zakl\u0119cie. B\u0142ogos\u0142awiony. Przekl\u0119ty."
             },
             "back": {}
@@ -563,7 +565,7 @@
         "edc9b569-6c7d-53b6-ab09-8ac6772819cb": {
             "name": "Pot\u0119ga s\u0142owa",
             "front": {
-                "text": "Zmutowana. Przystosowalny. Szybka. Zagraj tylko podczas twojej tury.\nDo\u0142\u0105cz do nie-<t>Elitarnego</t> wroga w twojej lokalizacji.\n<action> Je\u015bli wr\u00f3g, do kt\u00f3rego do\u0142\u0105czono t\u0119 kart\u0119, znajduje si\u0119 w twojej lokalizacji: <b>Pertraktacje.</b> Wykonaj test [willpower](2). Je\u017celi test zako\u0144czy\u0142 si\u0119 sukcesem, wydaj mu rozkaz (limit raz na rund\u0119 na ka\u017cdy rozkaz) -\n- \u201eId\u017a\u201d. Ten wr\u00f3g porusza si\u0119 1 raz w wybranym przez ciebie kierunku.",
+                "text": "Zmutowana. Przystosowalny. Szybka. Zagraj tylko podczas twojej tury.\nDo\u0142\u0105cz do nie-<t>Elitarnego</t> wroga w twojej lokalizacji.\n<action> Je\u015bli wr\u00f3g, do kt\u00f3rego do\u0142\u0105czono t\u0119 kart\u0119, znajduje si\u0119 w twojej lokalizacji: <b>Pertraktacje.</b> Wykonaj test <br>[willpower] (2). Je\u017celi test zako\u0144czy\u0142 si\u0119 sukcesem, wydaj mu rozkaz (limit raz na rund\u0119 na ka\u017cdy rozkaz) --\n- \u201eId\u017a\u201d. Ten wr\u00f3g porusza si\u0119 1 raz w wybranym przez ciebie kierunku.",
                 "traits": "Zakl\u0119cie."
             },
             "back": {}
@@ -639,18 +641,20 @@
         "4ac067f2-de08-5ff6-84ce-76e11ca6572c": {
             "name": "R\u00f3\u017cd\u017cka Carnamagosa",
             "front": {
-                "text": "Skr\u0119powany (+2 Do\u015bwiadczenie).\nLimit 1 na tali\u0119.\n<free> Wybierz nie-<t>Elitarnego</t> wroga w dowolnej lokalizacji i wyczerp R\u00f3\u017cd\u017ck\u0119 Carnamagosa: Odkryj 5 losowych \u017ceton\u00f3w chaosu z worka chaosu. Je\u015bli zosta\u0142 odkryty \u017ceton <curse>, przeszukaj twoje powi\u0105zane karty w poszukiwaniu losowej karty wydarzenia z cech\u0105 <t>Zgnilizna</t> i do\u0142\u0105cz j\u0105 do danego wroga.",
-                "traits": "Przedmiot. Relikwia. Okultyzm. Przekl\u0119ty.",
-                "subtitle": "Ber\u0142o szalonego proroka"
+                "name": "<unique><name>",
+                "text": "Skr\u0119powana (+2 do\u015bwiadczenia).\nLimit 1 na tali\u0119.\n<free> Wybierz nie-<t>Elitarnego</t> wroga w dowolnej lokalizacji i wyczerp R\u00f3\u017cd\u017ck\u0119 Carnamagosa: Odkryj 5 losowych \u017ceton\u00f3w chaosu z worka chaosu. Je\u015bli zosta\u0142 odkryty \u017ceton <curse>, przeszukaj twoje powi\u0105zane karty w poszukiwaniu losowej karty wydarzenia z cech\u0105 <t>Zgnilizna</t> i do\u0142\u0105cz j\u0105 do danego wroga.",
+                "subtitle": "Ber\u0142o szalonego proroka",
+                "traits": "Przedmiot. Relikwia. Okultyzm. Przekl\u0119ty."
             },
             "back": {}
         },
         "74449a75-3083-5b44-87cf-c4c843af77d0": {
             "name": "R\u00f3\u017cd\u017cka Carnamagosa",
             "front": {
-                "text": "Skr\u0119powany (+2 Do\u015bwiadczenie).\n<free> Wybierz nie-<t>Elitarnego</t> wroga w dowolnej lokalizacji i wyczerp <name>: Odkryj 5 losowych \u017ceton\u00f3w chaosu z worka chaosu. Dla ka\u017cdego odkrytego \u017cetonu<curse>, mo\u017cesz przeszuka\u0107 twoje powi\u0105zane karty w poszukiwaniu karty wydarzenia z cech\u0105 <t>Zgnilizna</t> i do\u0142\u0105czy\u0107 j\u0105 do danego wroga.",
-                "traits": "Przedmiot. Relikwia. Okultyzm. Przekl\u0119ty.",
-                "subtitle": "Ber\u0142o szalonego proroka"
+                "name": "<unique><name>",
+                "text": "Skr\u0119powana (+2 do\u015bwiadczenia).\n<free> Wybierz nie-<t>Elitarnego</t> wroga w dowolnej lokalizacji i wyczerp R\u00f3\u017cd\u017ck\u0119 Carnamagosa: Odkryj 5 losowych \u017ceton\u00f3w chaosu z worka chaosu. Dla ka\u017cdego odkrytego \u017cetonu <curse>, mo\u017cesz przeszuka\u0107 twoje powi\u0105zane karty w poszukiwaniu karty wydarzenia z cech\u0105 <t>Zgnilizna</t> i do\u0142\u0105czy\u0107 j\u0105 do danego wroga.",
+                "subtitle": "Ber\u0142o szalonego proroka",
+                "traits": "Przedmiot. Relikwia. Okultyzm. Przekl\u0119ty."
             },
             "back": {}
         },
@@ -674,16 +678,17 @@
         "6bbf9949-4b10-500f-b443-7933ef521321": {
             "name": "Krew Tota",
             "front": {
-                "text": "Zmutowana.\n<reaction> Kiedy \u017ceton zag\u0142ady zostaje umieszczony na karcie, kt\u00f3r\u0105 kontrolujesz: umie\u015b\u0107 1 \u017ceton zasobu <i>(z puli \u017ceton\u00f3w)</i> na Krwi Tota, jako ofiar\u0119.\n<free> Podczas fazy badaczy, ale nie podczas akcji, wydaj 2 ofiary z Krwi Tota i wyczerp j\u0105: wybierz badacza w twojej lokalizacji, aby natychmiast wykona\u0142 akcj\u0119 tak, jakby trwa\u0142a jego tura.",
-                "traits": "Przedmiot. Relikwia.",
-                "subtitle": "Prawo wcielone"
+                "name": "<unique><name>",
+                "text": "Zmutowana.\n<reaction> Kiedy \u017ceton zag\u0142ady zostaje umieszczony na karcie, kt\u00f3r\u0105 kontrolujesz: umie\u015b\u0107 1 \u017ceton zasobu na tej karcie <i>(z puli \u017ceton\u00f3w)</i>, jako ofiar\u0119.\n<free> Podczas fazy badaczy, ale nie podczas akcji, wydaj 2 ofiary z Krwi Tota i wyczerp j\u0105: wybierz badacza w twojej lokalizacji, aby natychmiast wykona\u0142 akcj\u0119 tak, jakby trwa\u0142a jego tura.",
+                "subtitle": "Prawo wcielone",
+                "traits": "Przedmiot. Relikwia."
             },
             "back": {}
         },
         "eb4e9014-df25-5ebb-839c-7cdcc4ded192": {
             "name": "Duchowa tarcza",
             "front": {
-                "text": "Mutated. Fast. Play only during your turn. Attach to a player card with health and/or sanity at your location.\n<for> The first time attached card takes 1 or more damage/horror each round: Cancel 1 of that damage/horror. The owner of Spectral Shield must remove 1 charge from an asset they control. If they cannot, discard Spectral Shield.",
+                "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury. Do\u0142\u0105cz do karty gracza w twojej lokalizacji, kt\u00f3ra posiada wytrzyma\u0142o\u015b\u0107 i/lub poczytalno\u015b\u0107.\n<b>Wymuszony</b> -- Kiedy karta, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119, po raz pierwszy otrzyma 1 lub wi\u0119cej obra\u017ce\u0144 / punkt\u00f3w przera\u017cenia: anuluj 1 z tych obra\u017ce\u0144 lub punkt\u00f3w przera\u017cenia. W\u0142a\u015bciciel Duchowej tarczy musi usun\u0105\u0107 1 \u0142adunek z atutu, kt\u00f3ry kontroluje. Je\u015bli nie mo\u017ce tego zrobi\u0107, odrzu\u0107 Duchow\u0105 tarcz\u0119.",
                 "traits": "Zakl\u0119cie. Duch."
             },
             "back": {}
@@ -691,7 +696,7 @@
         "4d8c023a-5c79-598a-8c9e-e26667d22bdb": {
             "name": "Duchowe echo",
             "front": {
-                "text": "Mutated. Fast. Play only during your turn.\nAttach to your location. Limit 1 per location.\n<reaction> After you activate an <action> or <free> ability on a <t>Spell</t> or <t>Ritual</t> asset: Perform that ability again at attached location as if you were there, ignoring that asset's <action> cost, if any. <i>(You may trigger this ability from any location.)</i> Return Spiritual Echo to your hand at the end of your turn. (Limit once per round.)",
+                "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury.\nDo\u0142\u0105cz do twojej lokalizacji. Limit 1 na lokalizacj\u0119.\n<reaction> Po tym, jak aktywujesz zdolno\u015b\u0107 <action> lub <free> z atutu z cech\u0105 <t>Zakl\u0119cie</t> lub <t>Rytua\u0142</t>: rozpatrz dan\u0105 zdolno\u015b\u0107 ponownie w lokalizacji, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119 tak, jakby\u015b si\u0119 w niej znajdowa\u0142, ignoruj\u0105c koszt <action> na tym atucie, je\u015bli jaki\u015b jest. <i>(Mo\u017cesz aktywowa\u0107 t\u0119 zdolno\u015b\u0107 z dowolnej lokalizacji.)</i> Cofnij Duchowe echo na twoj\u0105 r\u0119k\u0119. (Limit raz na rund\u0119.)",
                 "traits": "Rytua\u0142."
             },
             "back": {}
@@ -760,7 +765,7 @@
         "7e3d5ade-b500-52ad-80f4-8440080fde1d": {
             "name": "G\u0142os Ra",
             "front": {
-                "text": "Zmutowana.\nZyskaj 1 \u017ceton zasobu. Odkryj 3 losowe \u017cetony z worka chaosu. Za ka\u017cdy odkryty dowolny symbol zyskaj 2 dodatkowe \u017cetony zasob\u00f3w.",
+                "text": "Zmutowana.\nZyskaj 1 \u017ceton zasobu. Odkryj 3 losowe \u017cetony z worka chaosu. Za ka\u017cdy odkryty dowolny symbol zyskaj 2 dodatkowe \u017cetony<br>zasob\u00f3w.",
                 "traits": "Zakl\u0119cie."
             },
             "back": {}
@@ -768,7 +773,7 @@
         "a1bc3f0f-281e-59d0-8742-3d905a401d23": {
             "name": "Hipnotyzuj\u0105ce spojrzenie",
             "front": {
-                "text": "Zmutowana. Fast. Zagraj, kiedy wr\u00f3g zaatakuje badacza w twojej lokalizacji.\nAnuluj ten atak. Nast\u0119pnie odkryj losowy \u017ceton z worka chaosu. Je\u015bli ma dowolny symbol, zadaj atakuj\u0105cemu wrogowi obra\u017cenia w liczbie r\u00f3wnej jego warto\u015bci obra\u017ce\u0144 lub przera\u017cenia.",
+                "text": "Zmutowana. Szybka. Zagraj, kiedy wr\u00f3g zaatakuje badacza w twojej lokalizacji.\nAnuluj ten atak. Nast\u0119pnie odkryj losowy \u017ceton z worka chaosu. Je\u015bli ma dowolny symbol, zadaj atakuj\u0105cemu wrogowi obra\u017cenia w liczbie r\u00f3wnej jego warto\u015bci obra\u017ce\u0144 lub przera\u017cenia.",
                 "traits": "Zakl\u0119cie."
             },
             "back": {}

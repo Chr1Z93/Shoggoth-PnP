@@ -162,7 +162,11 @@
                     "hand"
                 ],
                 "icons": "W",
-                "flavor_text": "The wax tapers give off an eerie glow, and the flames move as if they are alive."
+                "flavor_text": "The wax tapers give off an eerie glow, and the flames move as if they are alive.",
+                "illustration": "./img/ahc02-029 Ritual Candles - Kristina Gehrmann.png",
+                "illustration_pan_x": 48.0,
+                "illustration_scale": 2.06,
+                "illustration_pan_y": 45.0
             },
             "amount": 2,
             "back": {
@@ -197,7 +201,7 @@
             "name": "Delve Too Deep",
             "id": "84e54e1a-3f26-5d73-9500-0881898933e0",
             "front": {
-                "text": "Mutated.\nIn player order, each investigator draws 1 card from the top of the encounter deck. Then, add <name> to the victory display.\nGroup limit 2 copies of <name> in the victory display.",
+                "text": "Mutated.\nIn player order, each investigator draws 1 card from the top of the encounter deck. Then, add <name> to the victory display.\nGroup limit 2 copies of <name> in the victory display.<br> ",
                 "traits": "Insight.",
                 "type": "event",
                 "cost": "1",
@@ -209,7 +213,9 @@
                 "classes": [
                     "mystic"
                 ],
-                "flavor_text": "Some things, once seen, can't be unseen."
+                "illustration": "./img/ahc02-111 Delve Too Deep - Anders Fin\u00e9r (not Jessie Calderon_).jpg",
+                "victory": "Victory 1.",
+                "flavor_text": "Some things, once seen, can't be unseen.<br> <br> <br> "
             },
             "amount": 2,
             "back": {
@@ -232,7 +238,11 @@
                 "classes": [
                     "mystic"
                 ],
-                "icons": "CA"
+                "icons": "CA",
+                "illustration": "./img/ahc02-153 Hypnotic Gaze - export - Falk Haensel.png",
+                "illustration_pan_x": 72.0,
+                "illustration_pan_y": 54.0,
+                "illustration_scale": 2.038
             },
             "amount": 2,
             "back": {
@@ -354,7 +364,11 @@
                     "accessory"
                 ],
                 "icons": "Q",
-                "subtitle": "Gift of the Homunculi"
+                "subtitle": "Gift of the Homunculi",
+                "illustration": "./img/ahc02-269 Jewel of Aureolus - Dani Hartel.png",
+                "illustration_pan_y": 173.0,
+                "illustration_scale": 2.0,
+                "illustration_pan_x": 80.0
             },
             "amount": 2,
             "back": {
@@ -482,7 +496,11 @@
                     "ally"
                 ],
                 "icons": "I",
-                "subtitle": "Esteemed Eschatologist"
+                "subtitle": "Esteemed Eschatologist",
+                "illustration": "./img/ahc11-112 David Renfield - Alexandre Dainche.png",
+                "illustration_pan_x": 111.0,
+                "illustration_pan_y": 210.0,
+                "illustration_scale": 1.974
             },
             "amount": 2,
             "back": {
@@ -536,7 +554,11 @@
                     "mystic"
                 ],
                 "icons": "WA",
-                "flavor_text": "The secrets were written in the stars."
+                "flavor_text": "The secrets were written in the stars.",
+                "illustration": "./img/ahc19-032 Dark Prophecy - Alice Duke.png",
+                "illustration_pan_y": 28.0,
+                "illustration_scale": 2.0,
+                "illustration_pan_x": 70.0
             },
             "amount": 2,
             "back": {
@@ -583,7 +605,11 @@
                     "mystic"
                 ],
                 "icons": "WI",
-                "flavor_text": "\"Not on my watch.\""
+                "flavor_text": "\"Not on my watch.\"",
+                "illustration": "./img/ahc19-110 Counterspell - export - Matthew Cowdery.png",
+                "illustration_pan_x": 34.0,
+                "illustration_pan_y": 59.0,
+                "illustration_scale": 1.019
             },
             "amount": 2,
             "back": {
@@ -700,7 +726,8 @@
                 "classes": [
                     "mystic"
                 ],
-                "icons": "WA"
+                "icons": "WA",
+                "illustration": "./img/ahc29-113 Banish - Stephen Somers.jpg"
             },
             "amount": 2,
             "back": {
@@ -807,7 +834,11 @@
                 "slots": [
                     "arcane"
                 ],
-                "icons": "C"
+                "icons": "C",
+                "illustration": "./img/ahc29-157 Wither-blurry - Damien Worm.jpg",
+                "illustration_pan_x": 123.0,
+                "illustration_pan_y": 241.0,
+                "illustration_scale": 1.468
             },
             "amount": 2,
             "back": {
@@ -886,7 +917,11 @@
                 "slots": [
                     "hand"
                 ],
-                "icons": "WI"
+                "icons": "WI",
+                "illustration": "./img/ahc29-116 Scroll of Secrets (Multiclass) - Matthew Cowdery.png",
+                "illustration_pan_x": 63.0,
+                "illustration_pan_y": 190.0,
+                "illustration_scale": 2.06
             },
             "amount": 2,
             "back": {
@@ -959,7 +994,11 @@
                 "slots": [
                     "arcane"
                 ],
-                "icons": "CC"
+                "icons": "CC",
+                "illustration": "./img/ahc29-157 Wither-blurry - Damien Worm.jpg",
+                "illustration_pan_y": 241.0,
+                "illustration_pan_x": 123.0,
+                "illustration_scale": 1.468
             },
             "amount": 2,
             "back": {
@@ -1214,7 +1253,6 @@
                 "traits": "Item. Instrument. Relic. Cursed.",
                 "name": "<unique><name>",
                 "type": "asset",
-                "cost": "-2",
                 "level": "4",
                 "collection_number": "268",
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
@@ -1226,7 +1264,12 @@
                 "slots": [
                     "hand"
                 ],
-                "icons": "WCA"
+                "icons": "WCA",
+                "illustration": "./img/ahc52-268 Flute of the Outer Gods - Carlos Palma Cruchaga.png",
+                "illustration_pan_x": 33.0,
+                "illustration_pan_y": 158.0,
+                "illustration_scale": 2.06,
+                "cost": "X"
             },
             "amount": 1,
             "back": {
@@ -1300,7 +1343,11 @@
                 "classes": [
                     "mystic"
                 ],
-                "icons": "Q"
+                "icons": "Q",
+                "illustration": "./img/ahc52-308 Rite of Equilibrium - export - maybe extended - Adam S Doyle.png",
+                "illustration_scale": 1.0,
+                "illustration_pan_y": 60.0,
+                "illustration_pan_x": 77.0
             },
             "amount": 2,
             "back": {
@@ -1711,7 +1758,7 @@
             "name": "Power Word",
             "id": "edc9b569-6c7d-53b6-ab09-8ac6772819cb",
             "front": {
-                "text": "Mutated. Customizable. Fast. Play only during your turn.\nAttach to a non-<t>Elite</t> enemy at your location.\n<action> If attached enemy is at your location: <b>Parley.</b> Test [willpower](2). If you succeed, give it a command (limit once per round per command)\n \u2013 \"Go.\" This enemy moves once in a direction of your choice.",
+                "text": "Mutated. Customizable. Fast. Play only during your turn.\nAttach to a non-<t>Elite</t> enemy at your location.\n<action> If attached enemy is at your location: <b>Parley.</b> Test [willpower] (2). If you succeed, give it a command (limit once per round per command) --\n <bullet> \"Go.\" This enemy moves once in a direction of your choice.",
                 "traits": "Spell.",
                 "type": "event",
                 "cost": "3",
@@ -1723,7 +1770,11 @@
                 "classes": [
                     "mystic"
                 ],
-                "icons": "I"
+                "icons": "I",
+                "illustration": "./img/ahc69-081 Power Word - export - darkened - Anders Finer..png",
+                "illustration_pan_x": 64.0,
+                "illustration_pan_y": 49.0,
+                "illustration_scale": 2.038
             },
             "amount": 2,
             "back": {
@@ -1950,7 +2001,11 @@
                     "hand"
                 ],
                 "icons": "W",
-                "subtitle": "Scepter of the Mad Seer"
+                "subtitle": "Scepter of the Mad Seer",
+                "illustration": "./img/ahc76-085 Rod of Carnamagos - Borja Pindado.jpg",
+                "illustration_pan_x": 95.0,
+                "illustration_pan_y": -70.0,
+                "illustration_scale": 1.35
             },
             "amount": 1,
             "back": {
@@ -1978,7 +2033,11 @@
                     "hand"
                 ],
                 "icons": "W",
-                "subtitle": "Scepter of the Mad Seer"
+                "subtitle": "Scepter of the Mad Seer",
+                "illustration": "./img/ahc76-085 Rod of Carnamagos - Borja Pindado.jpg",
+                "illustration_scale": 1.35,
+                "illustration_pan_y": -70.0,
+                "illustration_pan_x": 95.0
             },
             "amount": 2,
             "back": {
@@ -2080,7 +2139,11 @@
                 "classes": [
                     "mystic"
                 ],
-                "icons": "Q"
+                "icons": "Q",
+                "illustration": "./img/ahc83-071 Spectral Shield - export - David Hovey.png",
+                "illustration_pan_x": 78.0,
+                "illustration_pan_y": 63.0,
+                "illustration_scale": 1.0
             },
             "amount": 2,
             "back": {
@@ -2103,7 +2166,11 @@
                 "classes": [
                     "mystic"
                 ],
-                "icons": "WC"
+                "icons": "WC",
+                "illustration": "./img/ahc83-075 Spiritual Echo - export - Andreas Zafiratos.png",
+                "illustration_pan_y": 48.0,
+                "illustration_scale": 1.0,
+                "illustration_pan_x": 53.0
             },
             "amount": 2,
             "back": {
@@ -2305,7 +2372,11 @@
                 "classes": [
                     "mystic"
                 ],
-                "icons": "W"
+                "icons": "W",
+                "illustration": "./img/ahc50-016 Voice of Ra - Matt Bradbury.png",
+                "illustration_pan_x": 93.0,
+                "illustration_pan_y": 70.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -2328,7 +2399,11 @@
                 "classes": [
                     "mystic"
                 ],
-                "icons": "CAA"
+                "icons": "CAA",
+                "illustration": "./img/ahc02-153 Hypnotic Gaze - export - Falk Haensel.png",
+                "illustration_pan_x": 72.0,
+                "illustration_pan_y": 54.0,
+                "illustration_scale": 2.038
             },
             "amount": 2,
             "back": {
