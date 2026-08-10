@@ -17,7 +17,7 @@
         "9ca5c216-77e4-5662-9f1a-c3d22a51679e": {
             "name": "Nieuchwytno\u015b\u0107",
             "front": {
-                "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury.\nUwolnij si\u0119 ze zwarcia z ka\u017cdym wrogiem, kt\u00f3ry jest z tob\u0105 w zwarciu, i porusz si\u0119 do po\u0142\u0105czonej lokalizacji, w kt\u00f3rej nie ma \u017cadnych wrog\u00f3w.",
+                "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury.\nUwolnij si\u0119 ze zwarcia z ka\u017cdym wrogiem, kt\u00f3ry jest z tob\u0105 w zwarciu i porusz si\u0119 do po\u0142\u0105czonej lokalizacji, w kt\u00f3rej nie ma \u017cadnych wrog\u00f3w.",
                 "traits": "Taktyka."
             },
             "back": {}
@@ -112,7 +112,7 @@
         "686e8a45-184b-5382-8fb0-444ee43a9f29": {
             "name": "As w r\u0119kawie",
             "front": {
-                "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury.\nW tej turze mo\u017cesz wykona\u0107 3 dodatkowe akcje. (Maksymalnie raz na rund\u0119).",
+                "text": "Zmutowana. Wyj\u0105tkowa. Szybka. Zagraj tylko podczas twojej tury.\nW tej turze mo\u017cesz wykona\u0107 3 dodatkowe akcje. (Maksymalnie raz na rund\u0119).",
                 "traits": "Sztuczka."
             },
             "back": {}
@@ -267,7 +267,7 @@
         "7cafbf34-f365-5e0e-b339-e889f9151f2d": {
             "name": "B\u0142yskawiczna reakcja",
             "front": {
-                "text": "Zmutowana. Szybka. Zagraj podczas tury dowolnego badacza, ale nie podczas akcji.\nNatychmiast wykonaj akcj\u0119 tak, jakby trwa\u0142a twoja tura. Ta akcja nie wlicza si\u0119 w liczb\u0119 akcji, kt\u00f3re mo\u017cesz wykona\u0107 w ka\u017cdej turze. (Limit dwa razy na rund\u0119).",
+                "text": "Zmutowana. Szybka. Zagraj podczas tury dowolnego badacza, ale nie podczas akcji.\nNatychmiast wykonaj akcj\u0119 tak, jakby trwa\u0142a twoja tura. Ta akcja nie wlicza si\u0119 w liczb\u0119 akcji, kt\u00f3re mo\u017cesz wykona\u0107 w ka\u017cdej turze. (Limit dwa razy na rund\u0119.)",
                 "traits": "Gambit."
             },
             "back": {}
@@ -382,11 +382,15 @@
         "ca884f4c-f3e2-5cde-bdfa-9f4b74c4309d": {
             "name": "Trish Scarborough",
             "front": {
+                "name": "<unique><name>",
                 "text": "Zmutowana.\n<reaction> Po tym, jak odkryjesz 1 lub wi\u0119cej \u017ceton\u00f3w wskaz\u00f3wek w lokalizacji, w kt\u00f3rej znajduje si\u0119 wr\u00f3g: odkryj 1 dodatkowy \u017ceton wskaz\u00f3wki w danej lokalizacji albo automatycznie wymknij si\u0119 danemu wrogowi je\u015bli jest nie-<t>Elitarny</t>. (Limit raz na rund\u0119).\nEfekt <elder_sign>: +2. Je\u015bli ten test to badanie, mo\u017cesz wybra\u0107 dowoln\u0105 odkryt\u0105 lokalizacj\u0119; wykonujesz to badanie tak, jakby\u015b zamiast tego znajdowa\u0142 si\u0119 w danej lokalizacji.",
-                "traits": "Agencja. Detektyw.",
-                "subtitle": "Szpieg"
+                "subtitle": "Szpieg",
+                "traits": "Agencja. Detektyw."
             },
-            "back": {}
+            "back": {
+                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, Neutral cards level 0-5, Seeker cards ([seeker]) level 0-2.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): In the Shadows, Shadow Agents, 1 random basic weakness.",
+                "flavor_text": "Trish had always excelled in both body and mind, her unwavering focus on excellence and her fearless disposition a winning combination. Given her stellar academic and athletic records, everyone expected to see her become something great. Instead, Trish took a job at a commercial code company. The initial shock of her humble work eventually wore off, and the exceptional <name> faded into obscurity. This suited Trish just fine, as it made it harder for anyone to realize the truth: her job was a cover for her true work as a spy with the Black Chamber, the Bureau's code-breaking agency."
+            }
         },
         "ab71754f-2ae9-5efe-b266-e25fcdab7c77": {
             "name": "Staro\u017cytne Przymierze",
@@ -557,7 +561,7 @@
         "d2635689-be19-52e6-8b78-1b60e4fa44c3": {
             "name": "Nielegalny handel",
             "front": {
-                "text": "Skr\u0119powany (+2 Do\u015bwiadczenie).\nTrwa\u0142y. Wyj\u0105tkowa. Rozmiar twojej talii jest zwi\u0119kszony o 10.\n<reaction> Przed dobraniem pocz\u0105tkowej r\u0119ki wybierz 10 kart z cech\u0105 <t>Nielegalny</t> z twojej talii: potasuj je osobno i umie\u015b\u0107 obok Nielegalnego handlu jako tali\u0119 handlu.\n<reaction> Pocz\u0105tek twojej tury: odkryj 2 wierzchnie karty twojej talii handlu. Mo\u017cesz wyda\u0107 1 zas\u00f3b, aby dobra\u0107 1 z nich. Pozosta\u0142e umie\u015b\u0107 na spodzie talii handlu w dowolnej kolejno\u015bci.",
+                "text": "Skr\u0119powana (+2 do\u015bwiadczenia).\nTrwa\u0142y. Wyj\u0105tkowa. Rozmiar twojej talii jest zwi\u0119kszony o 10.\n<reaction> Przed dobraniem pocz\u0105tkowej r\u0119ki wybierz 10 kart z cech\u0105 <t>Nielegalny</t> z twojej talii: potasuj je osobno i umie\u015b\u0107 obok Nielegalnego handlu jako tali\u0119 handlu.\n<reaction> Pocz\u0105tek twojej tury: odkryj 2 wierzchnie karty twojej talii handlu. Mo\u017cesz wyda\u0107 1 zas\u00f3b, aby dobra\u0107 1 z nich. Pozosta\u0142e umie\u015b\u0107 na spodzie talii handlu w dowolnej kolejno\u015bci.",
                 "traits": "Powi\u0105zanie. Nielegalny."
             },
             "back": {}
@@ -670,7 +674,7 @@
         "394c9318-70f8-5f5c-983c-a1b94c3c84d9": {
             "name": "Za fraki",
             "front": {
-                "text": "Skr\u0119powany (+1 Do\u015bwiadczenie).\n<b>Wymykanie si\u0119.</b> Dodaj warto\u015b\u0107 twojej [combat] do warto\u015bci twojej umiej\u0119tno\u015bci do tej pr\u00f3by wymykania si\u0119. Je\u015bli test zako\u0144czy si\u0119 sukcesem o 2 lub wi\u0119cej, zadaj 1 obra\u017cenie danemu wrogowi. Je\u015bli ten wr\u00f3g jest nie-<t>Elitarny</t>, mo\u017cesz poruszy\u0107 go do po\u0142\u0105czonej lokalizacji.",
+                "text": "Skr\u0119powana (+1 do\u015bwiadczenie).\n<b>Wymykanie si\u0119.</b> Dodaj warto\u015b\u0107 twojej [combat] do warto\u015bci twojej umiej\u0119tno\u015bci do tej pr\u00f3by wymykania si\u0119. Je\u015bli test zako\u0144czy si\u0119 sukcesem o 2 lub wi\u0119cej, zadaj 1 obra\u017cenie danemu wrogowi. Je\u015bli ten wr\u00f3g jest nie-<t>Elitarny</t>, mo\u017cesz poruszy\u0107 go do po\u0142\u0105czonej lokalizacji.",
                 "traits": "Taktyka. Sztuczka."
             },
             "back": {}
@@ -748,7 +752,7 @@
         "af38fcb2-5b99-51c9-99c3-0c69b89edd1e": {
             "name": "Strzelec wyborowy",
             "front": {
-                "text": "Rozwi\u0105zany (-1 Do\u015bwiadczenie).\n<reaction> Kiedy u\u017cywasz zdolno\u015bci Walka na atucie z cech\u0105 <t>Palna</t>, wyczerp Strzelca wyborowego: Wybierz jedno lub oba - \n- Ten atak u\u017cywa [agility] zamiast [combat]. Wszystkie modyfikatory twojej [combat] do tego ataku zamiast tego modyfikuj\u0105 twoj\u0105 [agility].\n- Do tego ataku u\u017cyj warto\u015bci wymykania si\u0119 atakowanego wroga zamiast jego warto\u015bci walki.",
+                "text": "Rozwi\u0105zana (-1 do\u015bwiadczenie).\n<reaction> Kiedy u\u017cywasz zdolno\u015bci Walka na atucie z cech\u0105 <t>Palna</t>, wyczerp Strzelca wyborowego: Wybierz jedno lub oba - \n- Ten atak u\u017cywa [agility] zamiast [combat]. Wszystkie modyfikatory twojej [combat] do tego ataku zamiast tego modyfikuj\u0105 twoj\u0105 [agility].\n- Do tego ataku u\u017cyj warto\u015bci wymykania si\u0119 atakowanego wroga zamiast jego warto\u015bci walki.",
                 "traits": "Talent."
             },
             "back": {}
