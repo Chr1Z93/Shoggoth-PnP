@@ -112,13 +112,22 @@
                 "combat": "2",
                 "agility": "3",
                 "subtitle": "The Reporter",
-                "flavor_text": "\"This time, nothing will stop me from getting at the truth!\""
+                "flavor_text": "\"This time, nothing will stop me from getting at the truth!\"",
+                "illustration": "./img/Rex Murphy (ahc02-002) - Cristi Balanescu.jpg",
+                "mask_template": true,
+                "illustration_pan_x": -270.0,
+                "illustration_pan_y": 103.0,
+                "illustration_scale": 0.919
             },
             "amount": 1,
             "back": {
                 "type": "investigator_back",
                 "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to five other level 0 cards from any other class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Search for the Truth, Rex's Curse, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No [[Fortune]] cards.",
-                "flavor_text": "When disaster strikes, <name> is usually on hand, suffering the consequences. After spending a day with Rex, even the most hardened skeptic will concede that the man is cursed. Anytime he had a lead on a good story, something would go wrong. That business in Innsmouth with the photographs that had blown out to sea. The tracks in Dunwich that had washed away in the rain just before he'd brought the sheriff. His terrible fortune has more than once exposed him to gruesome beasts and occult conspiracies. To survive, Rex has developed an inquisitive mind, keeping one step ahead of the next disaster."
+                "flavor_text": "When disaster strikes, <name> is usually on hand, suffering the consequences. After spending a day with Rex, even the most hardened skeptic will concede that the man is cursed. Anytime he had a lead on a good story, something would go wrong. That business in Innsmouth with the photographs that had blown out to sea. The tracks in Dunwich that had washed away in the rain just before he'd brought the sheriff. His terrible fortune has more than once exposed him to gruesome beasts and occult conspiracies. To survive, Rex has developed an inquisitive mind, keeping one step ahead of the next disaster.",
+                "illustration": "./img/Rex Murphy (ahc02-002) - Cristi Balanescu.jpg",
+                "illustration_pan_x": -237.0,
+                "illustration_pan_y": -33.0,
+                "illustration_scale": 0.649
             }
         },
         {
@@ -194,7 +203,11 @@
                     "seeker"
                 ],
                 "icons": "A",
-                "flavor_text": "Searchers after horror haunt strange, far places. - H. P. Lovecraft, \"The Picture in the House\""
+                "flavor_text": "<center>Searchers after horror haunt strange, far places. \n<right>-- <i>H. P. Lovecraft</i>, \"The Picture in the House\"",
+                "illustration": "./img/ahc02-108 Pathfinder - Adam Lane.png",
+                "illustration_pan_x": 68.0,
+                "illustration_pan_y": 73.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -322,7 +335,11 @@
                     "seeker"
                 ],
                 "icons": "CC",
-                "subtitle": "Acidic Ichor"
+                "subtitle": "Acidic Ichor",
+                "illustration": "./img/ahc02-021 Strange Solution - Tiziano Baracchi.jpg",
+                "illustration_pan_y": 120.0,
+                "illustration_scale": 0.52,
+                "illustration_pan_x": 64.0
             },
             "amount": 2,
             "back": {
@@ -597,7 +614,11 @@
                 "classes": [
                     "seeker"
                 ],
-                "icons": "WI"
+                "icons": "WI",
+                "illustration": "./img/ahc19-105 Persuasion - export - Rafal Hrynkiewicz.png",
+                "illustration_pan_x": 59.0,
+                "illustration_pan_y": 55.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -808,7 +829,11 @@
                 ],
                 "icons": "W",
                 "subtitle": "Dealer in Secrets",
-                "flavor_text": "\"Are you sure you want to know? There is no going back.\""
+                "flavor_text": "\"Are you sure you want to know? There is no going back.\"",
+                "illustration": "./img/ahc29-153 Mr. Rook - Romana Kendelic.png",
+                "illustration_pan_x": 71.0,
+                "illustration_pan_y": 267.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -917,7 +942,11 @@
                 "slots": [
                     "hand"
                 ],
-                "icons": "II"
+                "icons": "II",
+                "illustration": "./img/ahc29-116 Scroll of Secrets (Multiclass) - Matthew Cowdery.png",
+                "illustration_pan_y": 190.0,
+                "illustration_pan_x": 63.0,
+                "illustration_scale": 2.06
             },
             "amount": 2,
             "back": {
@@ -994,7 +1023,10 @@
                     "seeker"
                 ],
                 "icons": "WI",
-                "flavor_text": "... and power corrupts."
+                "flavor_text": "... and power corrupts.",
+                "illustration": "./img/ahc29-231 Knowledge is Power-wide - Michal Milkowski.png",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": -34.0
             },
             "amount": 2,
             "back": {
@@ -1079,13 +1111,22 @@
                 "intellect": "5",
                 "combat": "1",
                 "agility": "3",
-                "subtitle": "The Researcher"
+                "subtitle": "The Researcher",
+                "illustration": "./img/Mandy Thompson (ahc37-002) - Tony Foti.jpg",
+                "mask_template": true,
+                "illustration_pan_x": -131.0,
+                "illustration_pan_y": 274.0,
+                "illustration_scale": 1.361
             },
             "amount": 1,
             "back": {
                 "type": "investigator_back",
-                "text": "Mutated.\n<b>Deck Size</b>: 50.\n<b>Secondary Class Choice</b>: At deck creation, choose Mystic ([mystic]), Rogue ([rogue]), or Survivor ([survivor]).\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of Occult Evidence, Shocking Discovery, 1 random basic weakness.",
-                "flavor_text": "Ever since she was a child, Mandy would read whenever she could not sleep. Such has been the case on many nights. Her remarkable memory and ability to correlate facts have landed her a highly valued job as a researcher for Miskatonic University. She has spent hours poring over the profane pages of ancient, forbidden texts. In doing so, she has discovered a pattern indicating an impending catacylsm. Has paranoia finally caught up to her? Or is a disaster of truly epic proportions on the horizon?"
+                "text": "Mutated.\n<b>Deck Size</b>: 50.\n<b>Secondary Class Choice</b>: At deck creation, choose Mystic (<mystic>), Rogue (<rogue>), or Survivor (<survivor>).\n<b>Deckbuilding Options</b>: Seeker cards (<seeker>) level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of Occult Evidence, Shocking Discovery, 1 random basic weakness.",
+                "flavor_text": "Ever since she was a child, Mandy would read whenever she could not sleep. Such has been the case on many nights. Her remarkable memory and ability to correlate facts have landed her a highly valued job as a researcher for Miskatonic University. She has spent hours poring over the profane pages of ancient, forbidden texts. In doing so, she has discovered a pattern indicating an impending catacylsm. Has paranoia finally caught up to her? Or is a disaster of truly epic proportions on the horizon?",
+                "illustration": "./img/Mandy Thompson (ahc37-002) - Tony Foti.jpg",
+                "illustration_pan_x": -139.0,
+                "illustration_pan_y": 78.0,
+                "illustration_scale": 0.961
             }
         },
         {
@@ -1108,7 +1149,11 @@
                 "slots": [
                     "accessory"
                 ],
-                "subtitle": "Of Nothing at All"
+                "subtitle": "Of Nothing at All",
+                "illustration": "./img/ahc37-022 Pendant of the Queen - Diana Mart\u00ednez.jpg",
+                "illustration_pan_x": -39.0,
+                "illustration_pan_y": 220.0,
+                "illustration_scale": 0.84
             },
             "amount": 0,
             "back": {
@@ -1215,7 +1260,11 @@
                 "combat": "2",
                 "agility": "4",
                 "subtitle": "The Spy",
-                "illustration": "./img/Trish Scarborough (ahc52-003) - Magali Villeneuve.webp"
+                "illustration": "./img/Trish Scarborough (ahc52-003) - Magali Villeneuve.webp",
+                "mask_template": true,
+                "illustration_pan_x": 103.0,
+                "illustration_pan_y": 280.0,
+                "illustration_scale": 1.0
             },
             "amount": 1,
             "back": {
@@ -1465,7 +1514,11 @@
                     "hand"
                 ],
                 "icons": "QQ",
-                "subtitle": "Atlas of the Unknowable"
+                "subtitle": "Atlas of the Unknowable",
+                "illustration": "./img/ahc63-045 Prophesae Profana - Drazenka Kimpel.jpg",
+                "illustration_pan_x": 46.0,
+                "illustration_pan_y": 126.0,
+                "illustration_scale": 1.85
             },
             "amount": 2,
             "back": {
@@ -1691,7 +1744,7 @@
             "name": "Empirical Hypothesis",
             "id": "84a12d2d-5e93-56f6-9faf-65ef684ea25a",
             "front": {
-                "text": "Customizable. Limit 1 per investigator.\n<for> At the start of the round: Choose one of the following criteria for this round\n- You fail a test by 2 or more.\n- You succeed at a test by 3 or more.\nWhen the chosen criteria is met, you may exhaust <name> to add 1 evidence to it.\n<free> Spend 1 evidence: Draw 1 card. (Limit twice per round.)",
+                "text": "Mutated. Customizable. Limit 1 per investigator.\n<for> At the start of the round: Choose one of the following criteria for this round\n- You fail a test by 2 or more.\n- You succeed at a test by 3 or more.\nWhen the chosen criteria is met, you may exhaust <name> to add 1 evidence to it.\n<free> Spend 1 evidence: Draw 1 card. (Limit twice per round.)",
                 "traits": "Talent. Science.",
                 "type": "asset",
                 "cost": "2",
@@ -1733,7 +1786,11 @@
                 "slots": [
                     "hand"
                 ],
-                "icons": "I"
+                "icons": "I",
+                "illustration": "./img/ahc69-045 Research Notes - Pixoloid Studios.jpg",
+                "illustration_pan_x": 8.0,
+                "illustration_pan_y": 205.0,
+                "illustration_scale": 1.33
             },
             "amount": 2,
             "back": {
@@ -1993,7 +2050,11 @@
                 "health": "1",
                 "sanity": "1",
                 "icons": "I",
-                "subtitle": "Sentient Strain"
+                "subtitle": "Sentient Strain",
+                "illustration": "./img/ahc76-044 Ravenous Myconid - JB Casacop.webp",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 129.0,
+                "illustration_scale": 1.284
             },
             "amount": 1,
             "back": {
@@ -2019,7 +2080,11 @@
                 "health": "1",
                 "sanity": "1",
                 "icons": "C",
-                "subtitle": "Carnivorous Strain"
+                "subtitle": "Carnivorous Strain",
+                "illustration": "./img/ahc76-044 Ravenous Myconid - JB Casacop.webp",
+                "illustration_pan_y": 129.0,
+                "illustration_pan_x": 0.0,
+                "illustration_scale": 1.284
             },
             "amount": 1,
             "back": {
@@ -2319,7 +2384,11 @@
                     "hand"
                 ],
                 "icons": "IIIII",
-                "subtitle": "Petrus de Dacia Translation"
+                "subtitle": "Petrus de Dacia Translation",
+                "illustration": "./img/ahc48-033 The Necronomicon Petrus de Dacis - Dimitri Bielak.png",
+                "illustration_pan_x": 64.0,
+                "illustration_pan_y": 92.0,
+                "illustration_scale": 1.98
             },
             "amount": 0,
             "back": {

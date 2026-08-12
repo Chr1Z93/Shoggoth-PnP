@@ -33,12 +33,16 @@
         "830e2fc4-02a4-5d72-9d6a-df2fe87bdb09": {
             "name": "Rex Murphy",
             "front": {
-                "text": "Zmutowana.\n<reaction> Po tym, jak podczas badania zako\u0144czysz test umiej\u0119tno\u015bci z sukcesem o 2 lub wi\u0119cej: odkryj 1 \u017ceton wskaz\u00f3wki w twojej lokalizacji. (Limit raz na rund\u0119.)\nEfekt <elder_sign>: +2. Zamiast tego mo\u017cesz zdecydowa\u0107, \u017ce ten test automatycznie ko\u0144czy si\u0119 pora\u017ck\u0105, aby dobra\u0107 3 karty.",
-                "traits": "Reporter.",
+                "name": "<unique><name>",
+                "text": "Zmutowana.\n<reaction> Po tym, jak podczas badania zako\u0144czysz test umiej\u0119tno\u015bci z sukcesem o 2 lub wi\u0119cej: odkryj 1 \u017ceton wskaz\u00f3wki w twojej lokalizacji. (Limit raz na rund\u0119).\nEfekt <elder_sign>: +2. Zamiast tego mo\u017cesz zdecydowa\u0107, \u017ce ten test automatycznie ko\u0144czy si\u0119 pora\u017ck\u0105, aby dobra\u0107 3 karty.",
+                "flavor_text": "\"Tym razem nic mnie nie powstrzyma przed odkryciem prawdy.\"",
                 "subtitle": "Reporter",
-                "flavor_text": "\"Tym razem nic mnie nie powstrzyma przed odkryciem prawdy\""
+                "traits": "Reporter."
             },
-            "back": {}
+            "back": {
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: Karty Poszukiwacza (<seeker>) o poziomie 0-5, karty neutralne o poziomie 0-5, do pi\u0119ciu kart o poziomie 0 z dowolnej innej klasy.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielko\u015bci talii): Poszukiwanie prawdy, Kl\u0105twa Rexa, 1 losowe podstawowe os\u0142abienie.\n<b>Ograniczenia w tworzeniu talii</b>: Bez kart z cech\u0105 Los.",
+                "flavor_text": "Kiedy przydarza si\u0119 jakie\u015b nieszcz\u0119\u015bcie, Rex Murphy jest zwykle w pobli\u017cu i odczuwa jego skutki. Nawet najbardziej zatwardzia\u0142y sceptyk po sp\u0119dzeniu jednego dnia z Rexem jest got\u00f3w przysi\u0105c, \u017ce nad facetem wisi jakie\u015b fatum. Za ka\u017cdym razem, kiedy trafia na \u015blad ciekawej historii, zawsze co\u015b p\u00f3jdzie nie tak. Na przyk\u0142ad ta sprawa w Innsmouth, kiedy wiatr porwa\u0142 mu fotografie do morza albo dziwne \u015blady w Dunwich zmyte przez deszcz, zanim zd\u0105\u017cy\u0142 je pokaza\u0107 szeryfowi. Parszywy los niejednokrotnie sprawia\u0142, \u017ce stawa\u0142 si\u0119 celem jakich\u015b potwornych bestii albo okultystycznych spisk\u00f3w. \u017beby jako\u015b prze\u017cy\u0107, Rex rozwin\u0105\u0142 w sobie przenikliwy umys\u0142 i zawsze pr\u00f3buje wyprzedza\u0107 o krok ka\u017cd\u0105 katastrof\u0119."
+            }
         },
         "a4189009-b7a0-5df1-b19c-93394663a7e7": {
             "name": "Podwajam stawk\u0119",
@@ -60,9 +64,9 @@
         "6ea165db-f369-5e7e-980b-0ec4849bcc8e": {
             "name": "Pionier",
             "front": {
-                "text": "Skr\u0119powany (+1 Do\u015bwiadczenie).\n<free> Podczas twojej tury, je\u015bli nie znajdujesz si\u0119 w zwarciu z \u017cadnymi wrogami, wyczerp <name>a: porusz si\u0119 do po\u0142\u0105czonej lokalizacji.",
-                "traits": "Talent.",
-                "flavor_text": "Poszukiwacze grozy nawiedzaj\u0105 dziwne, odleg\u0142e miejsca. - H. P. Lovecraft, \"Rycina w starym domu\""
+                "text": "Skr\u0119powana (+1 do\u015bwiadczenie).\n<free> Podczas twojej tury, je\u015bli nie znajdujesz si\u0119 w zwarciu z \u017cadnymi wrogami, wyczerp <name>a: porusz si\u0119 do po\u0142\u0105czonej lokalizacji.",
+                "flavor_text": "<center>Poszukiwacze grozy nawiedzaj\u0105 dziwne, odleg\u0142e miejsca. \n<right>-- <i>H. P. Lovecraft</i>, \"Rycina w starym domu\"",
+                "traits": "Talent."
             },
             "back": {}
         },
@@ -103,9 +107,9 @@
         "623013c1-a86f-5f36-9e19-d4e0d622326a": {
             "name": "Dziwny roztw\u00f3r",
             "front": {
-                "text": "Mo\u017cesz zawrze\u0107 ten atut w swojej talii tylko poprzez ulepszenie go z Dziwnego roztworu (Niezidentyfikowanego) i tylko je\u015bli \"uda\u0142o ci si\u0119 znale\u017a\u0107 rozwi\u0105zanie\" patrz Dziennik kampanii.\nZmutowana. Zu\u017cywalny (3 zapasy).\n<action> Wydaj 1 zapasy: <b>Walka.</b> Zaatakuj z podstawow\u0105 umiej\u0119tno\u015bci\u0105 [combat] o warto\u015bci 6. Ten atak zadaje +1 obra\u017cenie.",
-                "traits": "Przedmiot. Nauka.",
-                "subtitle": "\u017br\u0105ca posoka"
+                "text": "Zmutowana. Zbadany. Zu\u017cywalny (3 zapasy).\n<action> Wydaj 1 zapasy: <b>Walka.</b> Zaatakuj z podstawow\u0105 umiej\u0119tno\u015bci\u0105 [combat] o warto\u015bci 6. Ten atak zadaje +1 obra\u017cenie.",
+                "subtitle": "\u017br\u0105ca posoka",
+                "traits": "Przedmiot. Nauka."
             },
             "back": {}
         },
@@ -191,7 +195,7 @@
         "6ab25512-0a13-508d-920d-17ea175d0769": {
             "name": "Perswazja",
             "front": {
-                "text": "Zmutowana.\n<b>Pertraktacje.</b> Wybierz wroga nie-os\u0142abienie znajduj\u0105cego si\u0119 w twojej lokalizacji i wykonaj test[intellect] (3). Ten test dostaje +X do trudno\u015bci, gdzie X to warto\u015b\u0107 przera\u017cenia danego wroga. Je\u015bli test zako\u0144czy si\u0119 sukcesem, wtasuj wybranego wroga do talii spotka\u0144. Je\u015bli wybrany wr\u00f3g posiada cech\u0119 <t>Elite</t>, zamiast tego natychmiast si\u0119 mu wymykasz.",
+                "text": "Zmutowana.\n<b>Pertraktacje.</b> Wybierz wroga nie-os\u0142abienie znajduj\u0105cego si\u0119 w twojej lokalizacji i wykonaj test [intellect] (3). Ten test dostaje +X do trudno\u015bci, gdzie X to warto\u015b\u0107 przera\u017cenia danego wroga. Je\u015bli test zako\u0144czy si\u0119 sukcesem, wtasuj wybranego wroga do talii spotka\u0144. Je\u015bli wybrany wr\u00f3g posiada cech\u0119 <t>Elitarny</t>, zamiast tego natychmiast si\u0119 mu wymykasz.",
                 "traits": "Informacja. Sztuczka."
             },
             "back": {}
@@ -257,17 +261,18 @@
         "b1140411-eba8-5393-bba5-b7358bce9c2b": {
             "name": "Pan \"Szuler\"",
             "front": {
+                "name": "<unique><name>",
                 "text": "Zmutowana. Zu\u017cywalny (3 sekrety).\n<action> Wyczerp Pana \"Szulera\" i wydaj 1 sekret: przeszukaj 3, 6 albo 9 wierzchnich kart z twojej talii w poszukiwaniu dowolnej karty i dobierz j\u0105. Je\u015bli po\u015br\u00f3d przeszukiwanych kart znajduje si\u0119 przynajmniej 1 os\u0142abienie, dobierz r\u00f3wnie\u017c 1 z nich. Potasuj twoj\u0105 tali\u0119.",
-                "traits": "Sprzymierzeniec.",
+                "flavor_text": "\"Jeste\u015b pewien, \u017ce chcesz to wiedzie\u0107? Nie b\u0119dzie odwrotu.\"",
                 "subtitle": "Handlarz sekret\u00f3w",
-                "flavor_text": "\"Jeste\u015b pewien, \u017ce chcesz to wiedzie\u0107? Nie b\u0119dzie odwrotu.\""
+                "traits": "Sprzymierzeniec."
             },
             "back": {}
         },
         "7cafbf34-f365-5e0e-b339-e889f9151f2d": {
             "name": "B\u0142yskawiczna reakcja",
             "front": {
-                "text": "Zmutowana. Szybka. Zagraj podczas tury dowolnego badacza, ale nie podczas akcji.\nNatychmiast wykonaj akcj\u0119 tak, jakby trwa\u0142a twoja tura. Ta akcja nie wlicza si\u0119 w liczb\u0119 akcji, kt\u00f3re mo\u017cesz wykona\u0107 w ka\u017cdej turze. (Limit dwa razy na rund\u0119.)",
+                "text": "Zmutowana. Szybka. Zagraj podczas tury dowolnego badacza, ale nie podczas akcji.\nNatychmiast wykonaj akcj\u0119 tak, jakby trwa\u0142a twoja tura. Ta akcja nie wlicza si\u0119 w liczb\u0119 akcji, kt\u00f3re mo\u017cesz wykona\u0107 w ka\u017cdej turze. (Limit dwa razy na rund\u0119).",
                 "traits": "Gambit."
             },
             "back": {}
@@ -315,9 +320,9 @@
         "4c954890-578f-5fe1-9d0a-1e6747cee513": {
             "name": "Wiedza to pot\u0119ga",
             "front": {
-                "text": "Skr\u0119powany (+2 Do\u015bwiadczenie).\nSzybka. Zagraj tylko podczas twojej tury.\nWybierz kontrolowany przez siebie atut z cech\u0105 <t>Ksi\u0119ga</t> lub <t>Zakl\u0119cie</t> albo odkryj atut z cech\u0105 <t>Ksi\u0119ga</t> lub <t>Zakl\u0119cie</t> z twojej r\u0119ki. Rozpatrz zdolno\u015b\u0107 <action> lub <free> z danego atutu ignoruj\u0105c wszystkie koszty <i>(wliczaj\u0105c w to koszt <action>, je\u015bli jest jaki\u015b)</i>. Nast\u0119pnie, je\u015bli dany atut znajdowa\u0142 si\u0119 na twojej r\u0119ce, mo\u017cesz go odrzuci\u0107, aby dobra\u0107 1 kart\u0119.",
-                "traits": "Informacja.",
-                "flavor_text": "... a pot\u0119ga bywa przekle\u0144stwem"
+                "text": "Skr\u0119powana (+2 do\u015bwiadczenia).\nSzybka. Zagraj tylko podczas twojej tury.\nWybierz kontrolowany przez siebie atut z cech\u0105 <t>Ksi\u0119ga</t> lub <t>Zakl\u0119cie</t> albo odkryj atut z cech\u0105 <t>Ksi\u0119ga</t> lub <t>Zakl\u0119cie</t> z twojej r\u0119ki. Rozpatrz zdolno\u015b\u0107 <action> lub <free> z danego atutu ignoruj\u0105c wszystkie koszty <i>(wliczaj\u0105c w to koszt <action>, je\u015bli jest jaki\u015b)</i>. Nast\u0119pnie, je\u015bli dany atut znajdowa\u0142 si\u0119 na twojej r\u0119ce, mo\u017cesz go odrzuci\u0107, aby dobra\u0107 1 kart\u0119.",
+                "flavor_text": "... a pot\u0119ga bywa przekle\u0144stwem.",
+                "traits": "Informacja."
             },
             "back": {}
         },
@@ -340,11 +345,15 @@
         "b009a440-c0f7-5e67-8981-4030ac17a433": {
             "name": "Mandy Thompson",
             "front": {
+                "name": "<unique><name>",
                 "text": "<reaction> Kiedy dowolny badacz w twojej lokalizacji mia\u0142by przeszuka\u0107 swoj\u0105 tali\u0119 lub tali\u0119 spotka\u0144: mo\u017ce przeszuka\u0107 3 dodatkowe karty albo rozpatrzy\u0107 1 dodatkowy cel danego przeszukiwania. (Limit raz na rund\u0119).\nEfekt <elder_sign>: +0. Przeszukaj 3 wierzchnie karty twojej talii w poszukiwaniu dowolnej karty i dobierz j\u0105 albo przeznacz do tego testu, je\u015bli to mo\u017cliwe. Potasuj twoj\u0105 tali\u0119.",
-                "traits": "Asystent. Uczony.",
-                "subtitle": "Pracownik naukowy"
+                "subtitle": "Pracownik naukowy",
+                "traits": "Asystent. Uczony."
             },
-            "back": {}
+            "back": {
+                "text": "Zmutowana.\n<b>Rozmiar talii</b>: 50.\n<b>Wyb\u00f3r drugorz\u0119dnej klasy</b>: podczas tworzenia talii wybierz Mistyka (<mystic>), \u0141otra (<rogue>) lub Ocala\u0142ego <br>(<survivor>).<br> <b>Opcje tworzenia talii</b>: karty Poszukiwacza (<seeker>) o poziomie 0-5, karty neutralne o poziomie 0-5, do 10 kart wydarze\u0144 i/lub umiej\u0119tno\u015bci twojej wybranej drugorz\u0119dnej klasy o poziomie 0-1.<br> <b>Wymogi tworzenia talii (nie wliczane do wielko\u015bci talii)</b>: 3 kopie Dowodu okultyzmu, Szokuj\u0105ce odkrycie, 1 losowe podstawowe os\u0142abienie.",
+                "flavor_text": "Ju\u017c od dziecka Mandy lubi\u0142a czyta\u0107, gdy nie mog\u0142a zasn\u0105\u0107. Czyli prawie co noc. Niesamowita pami\u0119\u0107 i zdolno\u015b\u0107 kojarzenia fakt\u00f3w pozwoli\u0142y jej sta\u0107 si\u0119 cenionym pracownikiem naukowym Uniwersytetu Miskatonic. Sp\u0119dzi\u0142a wiele godzin nad blu\u017anierczymi stronicami staro\u017cytnych, zakazanych pism, co pozwoli\u0142o jej odkry\u0107 pewien wz\u00f3r m\u00f3wi\u0105cy o nadci\u0105gaj\u0105cym kataklizmie. Czy w ko\u0144cu i ona zacz\u0119\u0142a popada\u0107 w paranoj\u0119? A mo\u017ce ludzko\u015bci naprawd\u0119 grozi katastrofa na niewyobra\u017caln\u0105 skal\u0119?"
+            }
         },
         "de19fd60-e138-55d1-af2d-2795f094f3b7": {
             "name": "Wisior kr\u00f3lowej",
@@ -388,8 +397,30 @@
                 "traits": "Agencja. Detektyw."
             },
             "back": {
-                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, Neutral cards level 0-5, Seeker cards ([seeker]) level 0-2.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): In the Shadows, Shadow Agents, 1 random basic weakness.",
-                "flavor_text": "Trish had always excelled in both body and mind, her unwavering focus on excellence and her fearless disposition a winning combination. Given her stellar academic and athletic records, everyone expected to see her become something great. Instead, Trish took a job at a commercial code company. The initial shock of her humble work eventually wore off, and the exceptional <name> faded into obscurity. This suited Trish just fine, as it made it harder for anyone to realize the truth: her job was a cover for her true work as a spy with the Black Chamber, the Bureau's code-breaking agency."
+                "text": "<b>Rozmiar talii:</b> 30\n<b>Opcje tworzenia talii:</b> karty \u0141otra (<rogue>) o poziomie 0-5, karty neutralne o poziomie 0-5, karty Poszukiwacza (<seeker>) o poziomie 0-2.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielko\u015bci talii): Po\u015br\u00f3d cieni, Nieust\u0119pliwi \u015bledczy, 1 losowe podstawowe os\u0142abienie.",
+                "flavor_text": "Trish zawsze wyr\u00f3\u017cnia\u0142a si\u0119 zar\u00f3wno sprawno\u015bci\u0105 fizyczn\u0105, jak i m\u0105dro\u015bci\u0105, a jej niezachwiane skupienie na samodoskonaleniu i nieustraszona postawa gwarantowa\u0142y jej zwyci\u0119stwo. Bior\u0105c pod uwag\u0119 jej znakomite wyniki w nauce i sporcie, wszyscy oczekiwali, \u017ce osi\u0105gnie w \u017cyciu naprawd\u0119 wiele. Jednak zamiast tego Trish podj\u0119\u0142a prac\u0119 w firmie specjalizuj\u0105cej si\u0119 w prawie handlowym. Pocz\u0105tkowy szok wynikaj\u0105cy z podj\u0119cia przez ni\u0105 tak skromnej pracy w ko\u0144cu min\u0105\u0142, a wyj\u0105tkowa Trish Scarborough popad\u0142a w zapomnienie. Dla Trish by\u0142a to idealna sytuacja, poniewa\u017c utrudnia\u0142a innym odkrycie prawdy: jej praca by\u0142a jedynie przykrywk\u0105 dla prawdziwej kariery jako szpiega w Czarnej Komorze, agencji Biura \u0142ami\u0105cej tajne szyfry.",
+                "entries": [
+                    [
+                        "<b>Rozmiar talii:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii:</b>",
+                        "karty \u0141otra (<rogue>) o poziomie 0-5, karty neutralne o poziomie 0-5, karty Poszukiwacza (<seeker>) o poziomie 0-2."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielko\u015bci talii):",
+                        "Po\u015br\u00f3d cieni, Nieust\u0119pliwi \u015bledczy, 1 losowe podstawowe os\u0142abienie."
+                    ],
+                    [
+                        "<b>Deckbuilding Restrictions:</b>",
+                        ""
+                    ]
+                ]
             }
         },
         "ab71754f-2ae9-5efe-b266-e25fcdab7c77": {
@@ -453,9 +484,10 @@
         "f66dfea0-0f5b-5e4f-90a2-61064d56b4a1": {
             "name": "Jeremiah Kirby",
             "front": {
+                "name": "<unique><name>",
                 "text": "Zmutowana.\nDostajesz +1 [intellect].\n<reaction> Po tym, jak <name> wejdzie do gry, wybierz \u201eparzyste\u201d lub \u201enieparzyste\u201d: odkryj 5 wierzchnich kart z twojej talii. Dobierz ka\u017cd\u0105 kart\u0119, kt\u00f3rej koszt odpowiada wybranej przez ciebie opcji. Wtasuj pozosta\u0142e karty z powrotem do twojej talii. (Maksymalnie 2 razy na gr\u0119).",
-                "traits": "Sprzymierzeniec. Miskatonic. Podr\u00f3\u017cnik.",
-                "subtitle": "Archeolog z Arktyki"
+                "subtitle": "Archeolog z Arktyki",
+                "traits": "Sprzymierzeniec. Miskatonic. Podr\u00f3\u017cnik."
             },
             "back": {}
         },
@@ -536,7 +568,7 @@
         "84a12d2d-5e93-56f6-9faf-65ef684ea25a": {
             "name": "Hipoteza empiryczna",
             "front": {
-                "text": "Przystosowalny. Limit 1 na badacza.\n<b>Wymuszony</b> - Pocz\u0105tek rundy: wybierz jeden z nast\u0119puj\u0105cych warunk\u00f3w na t\u0119 rund\u0119:\n- tw\u00f3j test zako\u0144czy si\u0119 pora\u017ck\u0105 o 2 lub wi\u0119cej.\n- tw\u00f3j test zako\u0144czy si\u0119 sukcesem o 3 lub wi\u0119cej.\nKiedy wybrany warunek zostanie spe\u0142niony, mo\u017cesz wyczerpa\u0107 Hipotez\u0119 empiryczn\u0105, aby doda\u0107 na ni\u0105 1 dow\u00f3d.\n<free> Wydaj 1 dow\u00f3d: dobierz 1 kart\u0119. (Limit 2 razy na rund\u0119).",
+                "text": "Zmutowana. Przystosowalny. Limit 1 na badacza.\n<b>Wymuszony</b> - Pocz\u0105tek rundy: wybierz jeden z nast\u0119puj\u0105cych warunk\u00f3w na t\u0119 rund\u0119:\n- tw\u00f3j test zako\u0144czy si\u0119 pora\u017ck\u0105 o 2 lub wi\u0119cej.\n- tw\u00f3j test zako\u0144czy si\u0119 sukcesem o 3 lub wi\u0119cej.\nKiedy wybrany warunek zostanie spe\u0142niony, mo\u017cesz wyczerpa\u0107 Hipotez\u0119 empiryczn\u0105, aby doda\u0107 na ni\u0105 1 dow\u00f3d.\n<free> Wydaj 1 dow\u00f3d: dobierz 1 kart\u0119. (Limit 2 razy na rund\u0119).",
                 "traits": "Talent. Nauka."
             },
             "back": {}
@@ -627,18 +659,18 @@
         "18e9ad41-26a2-5975-8357-013fa09d41c0": {
             "name": "\u017bar\u0142oczny mykonid",
             "front": {
-                "text": "Mutated. Researched. Limit 1 per deck.\n<free>: Search your bonded cards for Uncanny Growth and add it to your hand. (Limit once per round.)\n<reaction> When an investigator draws a non-weakness treachery card, if their location's shroud is less than Ravenous Myconid's growth: Cancel that treachery's effects and discard it. Remove all growth from Ravenous Myconid.",
-                "traits": "Stworzenie. Nauka.",
-                "subtitle": "Odmiana \u015bwiadoma"
+                "text": "Zmutowana. Zbadany. Limit 1 na tali\u0119.\n<free>: Przeszukaj twoje powi\u0105zane karty w poszukiwaniu Niespotykanego rozrostu i dodaj go na twoj\u0105 r\u0119k\u0119. (Limit raz na rund\u0119).\n<reaction> Kiedy dowolny badacz dobierze kart\u0119 podst\u0119pu nieb\u0119d\u0105c\u0105 os\u0142abieniem, je\u015bli warto\u015b\u0107 zas\u0142ony jego lokalizacji jest mniejsza od liczby rozrost\u00f3w na \u017bar\u0142ocznym mykonidzie: anuluj efekty danej karty podst\u0119pu i odrzu\u0107 j\u0105. Usu\u0144 wszystkie rozrosty z Zar\u0142ocznego <br>mykonida.",
+                "subtitle": "Odmiana \u015bwiadoma",
+                "traits": "Stworzenie. Nauka."
             },
             "back": {}
         },
         "c8caeb08-e4ab-53e5-a2ae-bf8cf44bfd62": {
             "name": "\u017bar\u0142oczny mykonid",
             "front": {
-                "text": "Skr\u0119powany (+1 Do\u015bwiadczenie).\nZbadany. Limit 1 na tali\u0119.\n<free>: Przeszukaj twoje powi\u0105zane karty w poszukiwaniu Niespotykanego rozrostu i dodaj go na twoj\u0105 r\u0119k\u0119. (Limit raz na rund\u0119.)\n<free> Wybierz nie-<t>Elitarnego</t> wroga w twojej lokalizacji kt\u00f3ry ma tyle samo lub mniej pozosta\u0142ej wytrzyma\u0142o\u015bci ni\u017c liczba rozrost\u00f3w na \u017bar\u0142ocznym mykonidzie: pokonaj danego wroga. Usu\u0144 wszystkie rozrosty z \u017bar\u0142ocznego mykonida.",
-                "traits": "Potw\u00f3r. Nauka.",
-                "subtitle": "Odmiana mi\u0119so\u017cerna"
+                "text": "Skr\u0119powana (+1 do\u015bwiadczenie).\nZbadany. Limit 1 na tali\u0119.\n<free>: Przeszukaj twoje powi\u0105zane karty w poszukiwaniu Niespotykanego rozrostu i dodaj go na twoj\u0105 r\u0119k\u0119. (Limit raz na rund\u0119).\n<free> Wybierz nie-<t>Elitarnego</t> wroga w twojej lokalizacji kt\u00f3ry ma tyle samo lub mniej pozosta\u0142ej wytrzyma\u0142o\u015bci ni\u017c liczba rozrost\u00f3w na \u017bar\u0142ocznym mykonidzie: pokonaj danego wroga. Usu\u0144 wszystkie rozrosty z \u017bar\u0142ocznego mykonida.",
+                "subtitle": "Odmiana mi\u0119so\u017cerna",
+                "traits": "Potw\u00f3r. Nauka."
             },
             "back": {}
         },
@@ -700,7 +732,7 @@
         "4d8c023a-5c79-598a-8c9e-e26667d22bdb": {
             "name": "Duchowe echo",
             "front": {
-                "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury.\nDo\u0142\u0105cz do twojej lokalizacji. Limit 1 na lokalizacj\u0119.\n<reaction> Po tym, jak aktywujesz zdolno\u015b\u0107 <action> lub <free> z atutu z cech\u0105 <t>Zakl\u0119cie</t> lub <t>Rytua\u0142</t>: rozpatrz dan\u0105 zdolno\u015b\u0107 ponownie w lokalizacji, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119 tak, jakby\u015b si\u0119 w niej znajdowa\u0142, ignoruj\u0105c koszt <action> na tym atucie, je\u015bli jaki\u015b jest. <i>(Mo\u017cesz aktywowa\u0107 t\u0119 zdolno\u015b\u0107 z dowolnej lokalizacji.)</i> Cofnij Duchowe echo na twoj\u0105 r\u0119k\u0119. (Limit raz na rund\u0119.)",
+                "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury.\nDo\u0142\u0105cz do twojej lokalizacji. Limit 1 na lokalizacj\u0119.\n<reaction> Po tym, jak aktywujesz zdolno\u015b\u0107 <action> lub <free> z atutu z cech\u0105 <t>Zakl\u0119cie</t> lub <t>Rytua\u0142</t>: rozpatrz dan\u0105 zdolno\u015b\u0107 ponownie w lokalizacji, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119 tak, jakby\u015b si\u0119 w niej znajdowa\u0142, ignoruj\u0105c koszt <action> na tym atucie, je\u015bli jaki\u015b jest. <i>(Mo\u017cesz aktywowa\u0107 t\u0119 zdolno\u015b\u0107 z dowolnej lokalizacji).</i> Cofnij Duchowe echo na twoj\u0105 r\u0119k\u0119. (Limit raz na rund\u0119).",
                 "traits": "Rytua\u0142."
             },
             "back": {}
