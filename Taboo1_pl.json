@@ -25,7 +25,7 @@
         "eed4a465-9a0d-509b-a6de-84d0fbf10ea0": {
             "name": "Zbieractwo",
             "front": {
-                "text": "Skr\u0119powana (+2 do\u015bwiadczenia).\n<reaction> Wyczerp <name> po tym, jak badanie zako\u0144czy si\u0119 sukcesem o 2 lub wi\u0119cej: wybierz znajduj\u0105c\u0105 si\u0119 na twoim stosie kart odrzuconych kart\u0119 z cech\u0105 <t>Przedmiot</t> i dodaj j\u0105 na twoj\u0105 r\u0119k\u0119.",
+                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\n<reaction> Wyczerp <name> po tym, jak badanie zako\u0144czy si\u0119 sukcesem o 2 lub wi\u0119cej: wybierz znajduj\u0105c\u0105 si\u0119 na twoim stosie kart odrzuconych kart\u0119 z cech\u0105 <t>Przedmiot</t> i dodaj j\u0105 na twoj\u0105 r\u0119k\u0119.",
                 "traits": "Talent."
             },
             "back": {}
@@ -64,7 +64,7 @@
         "6ea165db-f369-5e7e-980b-0ec4849bcc8e": {
             "name": "Pionier",
             "front": {
-                "text": "Skr\u0119powana (+1 do\u015bwiadczenie).\n<free> Podczas twojej tury, je\u015bli nie znajdujesz si\u0119 w zwarciu z \u017cadnymi wrogami, wyczerp <name>a: porusz si\u0119 do po\u0142\u0105czonej lokalizacji.",
+                "text": "Sp\u0119tana (+1 do\u015bwiadczenie).\n<free> Podczas twojej tury, je\u015bli nie znajdujesz si\u0119 w zwarciu z \u017cadnymi wrogami, wyczerp <name>a: porusz si\u0119 do po\u0142\u0105czonej lokalizacji.",
                 "flavor_text": "<center>Poszukiwacze grozy nawiedzaj\u0105 dziwne, odleg\u0142e miejsca. \n<right>-- <i>H. P. Lovecraft</i>, \"Rycina w starym domu\"",
                 "traits": "Talent."
             },
@@ -133,7 +133,7 @@
         "cffb03cb-ca0f-5f75-ad5f-d47a84347b4c": {
             "name": "Pogromca potwor\u00f3w",
             "front": {
-                "text": "Rozwi\u0105zana (-2 do\u015bwiadczenia).\n<b>Walka.</b> Je\u015bli ten atak powiedzie si\u0119 przeciw nie-<t>Elitarnemu</t> wrogowi, pokonaj tego<br> wroga.",
+                "text": "Uwolniona (-2 do\u015bwiadczenia).\n<b>Walka.</b> Je\u015bli ten atak powiedzie si\u0119 przeciw nie-<t>Elitarnemu</t> wrogowi, pokonaj tego<br> wroga.",
                 "traits": "Duch."
             },
             "back": {}
@@ -224,7 +224,7 @@
         "5ce16f4b-12cd-533e-a5de-b95f8448e71e": {
             "name": "Miotacz ognia",
             "front": {
-                "text": "Skr\u0119powana (+1 do\u015bwiadczenie).\nZu\u017cywalny (4 naboje).\n<action> Wydaj 1 nab\u00f3j: <b>Walka.</b> Do tego ataku musi zosta\u0107 wybrany b\u0119d\u0105cy z toba w zwarciu wr\u00f3g o najwy\u017cszej warto\u015bci walki. Do tego ataku dostajesz +4 [combat]. Je\u015bli ten atak zako\u0144czy si\u0119 sukcesem, zamiast standardowych obra\u017ce\u0144 mo\u017cesz przypisa\u0107 \u0142\u0105cznie maksymalnie 4 obra\u017cenia wrogom b\u0119d\u0105cym z tob\u0105 w zwarciu <i>(ka\u017cde dodatkowe obra\u017cenie nale\u017cy doda\u0107 do tej liczby)</i>.",
+                "text": "Sp\u0119tana (+1 do\u015bwiadczenie).\nZu\u017cywalny (4 naboje).\n<action> Wydaj 1 nab\u00f3j: <b>Walka.</b> Do tego ataku musi zosta\u0107 wybrany b\u0119d\u0105cy z toba w zwarciu wr\u00f3g o najwy\u017cszej warto\u015bci walki. Do tego ataku dostajesz +4 [combat]. Je\u015bli ten atak zako\u0144czy si\u0119 sukcesem, zamiast standardowych obra\u017ce\u0144 mo\u017cesz przypisa\u0107 \u0142\u0105cznie maksymalnie 4 obra\u017cenia wrogom b\u0119d\u0105cym z tob\u0105 w zwarciu <i>(ka\u017cde dodatkowe obra\u017cenie nale\u017cy doda\u0107 do tej liczby)</i>.",
                 "traits": "Przedmiot. Bro\u0144. Palna."
             },
             "back": {}
@@ -292,7 +292,7 @@
         "b4538e9c-1465-5dc8-80b7-a700cb37507d": {
             "name": "Ryzykowne zagranie",
             "front": {
-                "text": "Skr\u0119powana (+3 do\u015bwiadczenia).\n<reaction> Kiedy inicjujesz test umiej\u0119tno\u015bci, wyczerp <name>: zwi\u0119ksz o 2 trudno\u015b\u0107 tego testu. Zyskaj 2 \u017cetony zasob\u00f3w lub dobierz 1 kart\u0119.",
+                "text": "Sp\u0119tana (+3 do\u015bwiadczenia).\n<reaction> Kiedy inicjujesz test umiej\u0119tno\u015bci, wyczerp <name>: zwi\u0119ksz o 2 trudno\u015b\u0107 tego testu. Zyskaj 2 \u017cetony zasob\u00f3w lub dobierz 1 kart\u0119.",
                 "traits": "Talent."
             },
             "back": {}
@@ -324,7 +324,7 @@
         "4c954890-578f-5fe1-9d0a-1e6747cee513": {
             "name": "Wiedza to pot\u0119ga",
             "front": {
-                "text": "Skr\u0119powana (+2 do\u015bwiadczenia).\nSzybka. Zagraj tylko podczas twojej tury.\nWybierz kontrolowany przez siebie atut z cech\u0105 <t>Ksi\u0119ga</t> lub <t>Zakl\u0119cie</t> albo odkryj atut z cech\u0105 <t>Ksi\u0119ga</t> lub <t>Zakl\u0119cie</t> z twojej r\u0119ki. Rozpatrz zdolno\u015b\u0107 <action> lub <free> z danego atutu ignoruj\u0105c wszystkie koszty <i>(wliczaj\u0105c w to koszt <action>, je\u015bli jest jaki\u015b)</i>. Nast\u0119pnie, je\u015bli dany atut znajdowa\u0142 si\u0119 na twojej r\u0119ce, mo\u017cesz go odrzuci\u0107, aby dobra\u0107 1 kart\u0119.",
+                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\nSzybka. Zagraj tylko podczas twojej tury.\nWybierz kontrolowany przez siebie atut z cech\u0105 <t>Ksi\u0119ga</t> lub <t>Zakl\u0119cie</t> albo odkryj atut z cech\u0105 <t>Ksi\u0119ga</t> lub <t>Zakl\u0119cie</t> z twojej r\u0119ki. Rozpatrz zdolno\u015b\u0107 <action> lub <free> z danego atutu ignoruj\u0105c wszystkie koszty <i>(wliczaj\u0105c w to koszt <action>, je\u015bli jest jaki\u015b)</i>. Nast\u0119pnie, je\u015bli dany atut znajdowa\u0142 si\u0119 na twojej r\u0119ce, mo\u017cesz go odrzuci\u0107, aby dobra\u0107 1 kart\u0119.",
                 "flavor_text": "... a pot\u0119ga bywa przekle\u0144stwem.",
                 "traits": "Informacja."
             },
@@ -387,7 +387,7 @@
         "d8959476-99db-5db4-a9d6-36a459f10170": {
             "name": "Zbieractwo",
             "front": {
-                "text": "Skr\u0119powana (+2 do\u015bwiadczenia).\n<reaction> Wyczerp <name> po tym, jak twoje badanie zako\u0144czy si\u0119 sukcesem o 2 lub wi\u0119cej: wybierz znajduj\u0105ca si\u0119 na twoim stosie kart odrzuconych kart\u0119 z cech\u0105 <t>Przedmiot</t> i dodaj j\u0105 na twoj\u0105 r\u0119k\u0119 albo zagraj j\u0105 <i>(p\u0142ac\u0105c jej koszt)</i>.",
+                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\n<reaction> Wyczerp <name> po tym, jak twoje badanie zako\u0144czy si\u0119 sukcesem o 2 lub wi\u0119cej: wybierz znajduj\u0105ca si\u0119 na twoim stosie kart odrzuconych kart\u0119 z cech\u0105 <t>Przedmiot</t> i dodaj j\u0105 na twoj\u0105 r\u0119k\u0119 albo zagraj j\u0105 <i>(p\u0142ac\u0105c jej koszt)</i>.",
                 "traits": "Talent."
             },
             "back": {}
@@ -438,7 +438,7 @@
         "c787931f-3382-5b3a-8e38-2ca3f7408b3d": {
             "name": "Signum Crucis",
             "front": {
-                "text": "Rozwi\u0105zana (-2 do\u015bwiadczenia).\nPrzeznacz tylko do wykonywanego przez ciebie testu umiej\u0119tno\u015bci i tylko wtedy, gdy poziom trudno\u015bci danego testu jest wy\u017cszy od twojej podstawowej warto\u015bci umiej\u0119tno\u015bci.\nPo tym, jak przeznaczysz <name> do testu umiej\u0119tno\u015bci, dodaj X \u017ceton\u00f3w <blessing> do worka chaosu. X to r\u00f3\u017cnica pomi\u0119dzy trudno\u015bci\u0105 tego testu a twoj\u0105 bazow\u0105 warto\u015bci\u0105 umiej\u0119tno\u015bci.",
+                "text": "Uwolniona (-2 do\u015bwiadczenia).\nPrzeznacz tylko do wykonywanego przez ciebie testu umiej\u0119tno\u015bci i tylko wtedy, gdy poziom trudno\u015bci danego testu jest wy\u017cszy od twojej podstawowej warto\u015bci umiej\u0119tno\u015bci.\nPo tym, jak przeznaczysz <name> do testu umiej\u0119tno\u015bci, dodaj X \u017ceton\u00f3w <blessing> do worka chaosu. X to r\u00f3\u017cnica pomi\u0119dzy trudno\u015bci\u0105 tego testu a twoj\u0105 bazow\u0105 warto\u015bci\u0105 umiej\u0119tno\u015bci.",
                 "traits": "Nabyta. B\u0142ogos\u0142awiony."
             },
             "back": {}
@@ -472,7 +472,7 @@
         "aec1d788-1ce7-59a0-9c4b-f2afe5978bb0": {
             "name": "Rytua\u0142 r\u00f3wnowagi",
             "front": {
-                "text": "Rozwi\u0105zana (-2 do\u015bwiadczenia).\nWybierz jedno:\n- Dodaj do worka chaosu X \u017ceton\u00f3w <curse>, aby doda\u0107 do worka chaosu X \u017ceton\u00f3w <blessing>.\n- Usu\u0144 z worka chaosu X \u017ceton\u00f3w <curse> i X \u017ceton\u00f3w <blessing>, aby wyleczy\u0107 \u0142\u0105cznie X punkt\u00f3w przera\u017cenia spo\u015br\u00f3d kart w twojej<br> lokalizacji.",
+                "text": "Uwolniona (-2 do\u015bwiadczenia).\nWybierz jedno:\n- Dodaj do worka chaosu X \u017ceton\u00f3w <curse>, aby doda\u0107 do worka chaosu X \u017ceton\u00f3w <blessing>.\n- Usu\u0144 z worka chaosu X \u017ceton\u00f3w <curse> i X \u017ceton\u00f3w <blessing>, aby wyleczy\u0107 \u0142\u0105cznie X punkt\u00f3w przera\u017cenia spo\u015br\u00f3d kart w twojej<br> lokalizacji.",
                 "traits": "Zakl\u0119cie. B\u0142ogos\u0142awiony. Przekl\u0119ty."
             },
             "back": {}
@@ -540,7 +540,7 @@
             "name": "Gen\u00e9 Beauregard",
             "front": {
                 "name": "<unique><name>",
-                "text": "Skr\u0119powana (+2 do\u015bwiadczenia).\nDostajesz +1 [intellect] i +1 [agility].\n<reaction> Podczas twojej tury, po tym jak poruszysz si\u0119 do dowolnej lokalizacji, wyczerp <name>: porusz 1 \u017ceton wskaz\u00f3wki albo nie-<t>Elitarnego</t> wroga z po\u0142\u0105czonej lokalizacji do twojej lokalizacji, albo na odwr\u00f3t.",
+                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\nDostajesz +1 [intellect] i +1 [agility].\n<reaction> Podczas twojej tury, po tym jak poruszysz si\u0119 do dowolnej lokalizacji, wyczerp <name>: porusz 1 \u017ceton wskaz\u00f3wki albo nie-<t>Elitarnego</t> wroga z po\u0142\u0105czonej lokalizacji do twojej lokalizacji, albo na odwr\u00f3t.",
                 "subtitle": "Nieustraszony odkrywca",
                 "traits": "Sprzymierzeniec. Podr\u00f3\u017cnik."
             },
@@ -599,7 +599,7 @@
         "d2635689-be19-52e6-8b78-1b60e4fa44c3": {
             "name": "Nielegalny handel",
             "front": {
-                "text": "Skr\u0119powana (+2 do\u015bwiadczenia).\nTrwa\u0142y. Wyj\u0105tkowa. Rozmiar twojej talii jest zwi\u0119kszony o 10.\n<reaction> Przed dobraniem pocz\u0105tkowej r\u0119ki wybierz 10 kart z cech\u0105 <t>Nielegalny</t> z twojej talii: potasuj je osobno i umie\u015b\u0107 obok Nielegalnego handlu jako tali\u0119 handlu.\n<reaction> Pocz\u0105tek twojej tury: odkryj 2 wierzchnie karty twojej talii handlu. Mo\u017cesz wyda\u0107 1 zas\u00f3b, aby dobra\u0107 1 z nich. Pozosta\u0142e umie\u015b\u0107 na spodzie talii handlu w dowolnej kolejno\u015bci.",
+                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\nTrwa\u0142y. Wyj\u0105tkowa. Rozmiar twojej talii jest zwi\u0119kszony o 10.\n<reaction> Przed dobraniem pocz\u0105tkowej r\u0119ki wybierz 10 kart z cech\u0105 <t>Nielegalny</t> z twojej talii: potasuj je osobno i umie\u015b\u0107 obok Nielegalnego handlu jako tali\u0119 handlu.\n<reaction> Pocz\u0105tek twojej tury: odkryj 2 wierzchnie karty twojej talii handlu. Mo\u017cesz wyda\u0107 1 zas\u00f3b, aby dobra\u0107 1 z nich. Pozosta\u0142e umie\u015b\u0107 na spodzie talii handlu w dowolnej kolejno\u015bci.",
                 "traits": "Powi\u0105zanie. Nielegalny."
             },
             "back": {}
@@ -615,7 +615,7 @@
         "e7f55df8-117f-5334-acf6-f15ed8a16eb5": {
             "name": "Roztaczanie \u015bwiat\u0142a",
             "front": {
-                "text": "Skr\u0119powana (+2 do\u015bwiadczenia).\nSzybka. Zagraj przed odkryciem \u017cetonu chaosu podczas wykonywanego przez ciebie badania i tylko je\u015bli trudno\u015b\u0107 tego testu wynosi obecnie 0.\nTen test automatycznie ko\u0144czy si\u0119 sukcesem. Odkrywasz 1 dodatkowy \u017ceton wskaz\u00f3wki w tej lokalizacji i 1 dodatkowy \u017ceton wskaz\u00f3wki w dowolnej innej lokalizacji.",
+                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\nSzybka. Zagraj przed odkryciem \u017cetonu chaosu podczas wykonywanego przez ciebie badania i tylko je\u015bli trudno\u015b\u0107 tego testu wynosi obecnie 0.\nTen test automatycznie ko\u0144czy si\u0119 sukcesem. Odkrywasz 1 dodatkowy \u017ceton wskaz\u00f3wki w tej lokalizacji i 1 dodatkowy \u017ceton wskaz\u00f3wki w dowolnej innej lokalizacji.",
                 "traits": "Informacja. Sztuczka."
             },
             "back": {}
@@ -623,7 +623,7 @@
         "67969b87-3b89-5810-97e6-40c6fc34b5de": {
             "name": "Stary p\u0119k kluczy",
             "front": {
-                "text": "Skr\u0119powana (+1 do\u015bwiadczenie).\nZu\u017cywalny (3 klucze). Je\u015bli na Starym p\u0119ku kluczy nie ma \u017cadnych kluczy, odrzu\u0107 go.\n<action>: <b>Badanie.</b> Do tego badania twoja lokalizacja dostaje -2 zas\u0142ony. Je\u015bli test zako\u0144czy si\u0119 sukcesem, usu\u0144 1 klucz ze Starego p\u0119ku kluczy, a je\u015bli trudno\u015b\u0107 tego testu wynosi 0, odkrywasz 1 dodatkowy \u017ceton wskaz\u00f3wki.",
+                "text": "Sp\u0119tana (+1 do\u015bwiadczenie).\nZu\u017cywalny (3 klucze). Je\u015bli na Starym p\u0119ku kluczy nie ma \u017cadnych kluczy, odrzu\u0107 go.\n<action>: <b>Badanie.</b> Do tego badania twoja lokalizacja dostaje -2 zas\u0142ony. Je\u015bli test zako\u0144czy si\u0119 sukcesem, usu\u0144 1 klucz ze Starego p\u0119ku kluczy, a je\u015bli trudno\u015b\u0107 tego testu wynosi 0, odkrywasz 1 dodatkowy \u017ceton wskaz\u00f3wki.",
                 "traits": "Przedmiot. Narz\u0119dzie."
             },
             "back": {}
@@ -649,7 +649,7 @@
         "40f5a4a7-eb80-530b-b77f-6c2034a763a0": {
             "name": "Silna r\u0119ka",
             "front": {
-                "text": "Skr\u0119powana (+1 do\u015bwiadczenie).\nKiedy <name> zostanie przeznaczona do ataku przy pomocy atutu z cech\u0105 <t>Bia\u0142a</t> lub <t>Dystansowa</t>, ten atak zadaje +1 obra\u017cenie. Po odkryciu \u017cetonu chaosu do tego testu umiej\u0119tno\u015bci mo\u017cesz otrzyma\u0107 1 obra\u017cenie aby anulowa\u0107 dany \u017ceton chaosu, cofn\u0105\u0107 go do worka chaosu, i odkry\u0107 nowy. <i>(Mo\u017cesz to zrobi\u0107 dowoln\u0105 liczb\u0119 razy).</i>",
+                "text": "Sp\u0119tana (+1 do\u015bwiadczenie).\nKiedy <name> zostanie przeznaczona do ataku przy pomocy atutu z cech\u0105 <t>Bia\u0142a</t> lub <t>Dystansowa</t>, ten atak zadaje +1 obra\u017cenie. Po odkryciu \u017cetonu chaosu do tego testu umiej\u0119tno\u015bci mo\u017cesz otrzyma\u0107 1 obra\u017cenie aby anulowa\u0107 dany \u017ceton chaosu, cofn\u0105\u0107 go do worka chaosu, i odkry\u0107 nowy. <i>(Mo\u017cesz to zrobi\u0107 dowoln\u0105 liczb\u0119 razy).</i>",
                 "traits": "Wrodzona."
             },
             "back": {}
@@ -657,7 +657,7 @@
         "2543e0e7-e7c1-5f6a-bda1-a43c50bd3bbc": {
             "name": "Lawina cios\u00f3w ",
             "front": {
-                "text": "Rozwi\u0105zana (-2 do\u015bwiadczenia).\nZagraj tylko, je\u015bli kt\u00f3ry kontrolujesz atut z cech\u0105 <t>Bia\u0142a</t>. Jako dodatkowy koszt zagrania Lawiny cios\u00f3w wydaj akcj\u0119.\n<b>Walka.</b> Wybierz atut z cech\u0105 <t>Bia\u0142a</t> kt\u00f3ry kontrolujesz i natychmiast wykonaj akcj\u0119 walki przy pomocy danego atutu <i>(bez p\u0142acenia jej kosztu <action>)</i>. Mo\u017cesz powt\u00f3rzy\u0107 ten efekt maksymalnie trzy razy. Je\u015bli trwa twoja tura po rozpatrzeniu ostatniego ataku ko\u0144czysz swoj\u0105 tur\u0119.",
+                "text": "Uwolniona (-2 do\u015bwiadczenia).\nZagraj tylko, je\u015bli kt\u00f3ry kontrolujesz atut z cech\u0105 <t>Bia\u0142a</t>. Jako dodatkowy koszt zagrania Lawiny cios\u00f3w wydaj akcj\u0119.\n<b>Walka.</b> Wybierz atut z cech\u0105 <t>Bia\u0142a</t> kt\u00f3ry kontrolujesz i natychmiast wykonaj akcj\u0119 walki przy pomocy danego atutu <i>(bez p\u0142acenia jej kosztu <action>)</i>. Mo\u017cesz powt\u00f3rzy\u0107 ten efekt maksymalnie trzy razy. Je\u015bli trwa twoja tura po rozpatrzeniu ostatniego ataku ko\u0144czysz swoj\u0105 tur\u0119.",
                 "traits": "Taktyka. Podw\u00f3jny. Przeznaczony."
             },
             "back": {}
@@ -674,7 +674,7 @@
         "c8caeb08-e4ab-53e5-a2ae-bf8cf44bfd62": {
             "name": "\u017bar\u0142oczny mykonid",
             "front": {
-                "text": "Skr\u0119powana (+1 do\u015bwiadczenie).\nZbadany. Limit 1 na tali\u0119.\n<free>: Przeszukaj twoje powi\u0105zane karty w poszukiwaniu Niespotykanego rozrostu i dodaj go na twoj\u0105 r\u0119k\u0119. (Limit raz na rund\u0119).\n<free> Wybierz nie-<t>Elitarnego</t> wroga w twojej lokalizacji kt\u00f3ry ma tyle samo lub mniej pozosta\u0142ej wytrzyma\u0142o\u015bci ni\u017c liczba rozrost\u00f3w na \u017bar\u0142ocznym mykonidzie: pokonaj danego wroga. Usu\u0144 wszystkie rozrosty z \u017bar\u0142ocznego mykonida.",
+                "text": "Sp\u0119tana (+1 do\u015bwiadczenie).\nZbadany. Limit 1 na tali\u0119.\n<free>: Przeszukaj twoje powi\u0105zane karty w poszukiwaniu Niespotykanego rozrostu i dodaj go na twoj\u0105 r\u0119k\u0119. (Limit raz na rund\u0119).\n<free> Wybierz nie-<t>Elitarnego</t> wroga w twojej lokalizacji kt\u00f3ry ma tyle samo lub mniej pozosta\u0142ej wytrzyma\u0142o\u015bci ni\u017c liczba rozrost\u00f3w na \u017bar\u0142ocznym mykonidzie: pokonaj danego wroga. Usu\u0144 wszystkie rozrosty z \u017bar\u0142ocznego mykonida.",
                 "subtitle": "Odmiana mi\u0119so\u017cerna",
                 "traits": "Potw\u00f3r. Nauka."
             },
@@ -684,7 +684,7 @@
             "name": "R\u00f3\u017cd\u017cka Carnamagosa",
             "front": {
                 "name": "<unique><name>",
-                "text": "Skr\u0119powana (+2 do\u015bwiadczenia).\nLimit 1 na tali\u0119.\n<free> Wybierz nie-<t>Elitarnego</t> wroga w dowolnej lokalizacji i wyczerp R\u00f3\u017cd\u017ck\u0119 Carnamagosa: Odkryj 5 losowych \u017ceton\u00f3w chaosu z worka chaosu. Je\u015bli zosta\u0142 odkryty \u017ceton <curse>, przeszukaj twoje powi\u0105zane karty w poszukiwaniu losowej karty wydarzenia z cech\u0105 <t>Zgnilizna</t> i do\u0142\u0105cz j\u0105 do danego wroga.",
+                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\nLimit 1 na tali\u0119.\n<free> Wybierz nie-<t>Elitarnego</t> wroga w dowolnej lokalizacji i wyczerp R\u00f3\u017cd\u017ck\u0119 Carnamagosa: Odkryj 5 losowych \u017ceton\u00f3w chaosu z worka chaosu. Je\u015bli zosta\u0142 odkryty \u017ceton <curse>, przeszukaj twoje powi\u0105zane karty w poszukiwaniu losowej karty wydarzenia z cech\u0105 <t>Zgnilizna</t> i do\u0142\u0105cz j\u0105 do danego wroga.",
                 "subtitle": "Ber\u0142o szalonego proroka",
                 "traits": "Przedmiot. Relikwia. Okultyzm. Przekl\u0119ty."
             },
@@ -694,7 +694,7 @@
             "name": "R\u00f3\u017cd\u017cka Carnamagosa",
             "front": {
                 "name": "<unique><name>",
-                "text": "Skr\u0119powana (+2 do\u015bwiadczenia).\n<free> Wybierz nie-<t>Elitarnego</t> wroga w dowolnej lokalizacji i wyczerp R\u00f3\u017cd\u017ck\u0119 Carnamagosa: Odkryj 5 losowych \u017ceton\u00f3w chaosu z worka chaosu. Dla ka\u017cdego odkrytego \u017cetonu <curse>, mo\u017cesz przeszuka\u0107 twoje powi\u0105zane karty w poszukiwaniu karty wydarzenia z cech\u0105 <t>Zgnilizna</t> i do\u0142\u0105czy\u0107 j\u0105 do danego wroga.",
+                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\n<free> Wybierz nie-<t>Elitarnego</t> wroga w dowolnej lokalizacji i wyczerp R\u00f3\u017cd\u017ck\u0119 Carnamagosa: Odkryj 5 losowych \u017ceton\u00f3w chaosu z worka chaosu. Dla ka\u017cdego odkrytego \u017cetonu <curse>, mo\u017cesz przeszuka\u0107 twoje powi\u0105zane karty w poszukiwaniu karty wydarzenia z cech\u0105 <t>Zgnilizna</t> i do\u0142\u0105czy\u0107 j\u0105 do danego wroga.",
                 "subtitle": "Ber\u0142o szalonego proroka",
                 "traits": "Przedmiot. Relikwia. Okultyzm. Przekl\u0119ty."
             },
@@ -703,7 +703,7 @@
         "4123c580-dfef-512b-bf9e-4486d1099a80": {
             "name": "Szybki strza\u0142",
             "front": {
-                "text": "Rozwi\u0105zana (-2 do\u015bwiadczenia).\nNiezliczone. Szybka. Zagraj tylko podczas twojej tury.\nZadaj 1 obra\u017cenie wrogowi w twojej lokalizacji.\n<reaction> Po tym, jak dobierzesz <name> w trakcie twojej tury: zagraj go, obni\u017caj\u0105c jego koszt o 2.",
+                "text": "Uwolniona (-2 do\u015bwiadczenia).\nNiezliczone. Szybka. Zagraj tylko podczas twojej tury.\nZadaj 1 obra\u017cenie wrogowi w twojej lokalizacji.\n<reaction> Po tym, jak dobierzesz <name> w trakcie twojej tury: zagraj go, obni\u017caj\u0105c jego koszt o 2.",
                 "flavor_text": "Nie bez powodu m\u00f3wili, \u017ce Siostra Sofia to \u201er\u0119ka Boga\u201d.",
                 "traits": "Duch."
             },
@@ -712,7 +712,7 @@
         "394c9318-70f8-5f5c-983c-a1b94c3c84d9": {
             "name": "Za fraki",
             "front": {
-                "text": "Skr\u0119powana (+1 do\u015bwiadczenie).\n<b>Wymykanie si\u0119.</b> Dodaj warto\u015b\u0107 twojej [combat] do warto\u015bci twojej umiej\u0119tno\u015bci do tej pr\u00f3by wymykania si\u0119. Je\u015bli test zako\u0144czy si\u0119 sukcesem o 2 lub wi\u0119cej, zadaj 1 obra\u017cenie danemu wrogowi. Je\u015bli ten wr\u00f3g jest nie-<t>Elitarny</t>, mo\u017cesz poruszy\u0107 go do po\u0142\u0105czonej lokalizacji.",
+                "text": "Sp\u0119tana (+1 do\u015bwiadczenie).\n<b>Wymykanie si\u0119.</b> Dodaj warto\u015b\u0107 twojej [combat] do warto\u015bci twojej umiej\u0119tno\u015bci do tej pr\u00f3by wymykania si\u0119. Je\u015bli test zako\u0144czy si\u0119 sukcesem o 2 lub wi\u0119cej, zadaj 1 obra\u017cenie danemu wrogowi. Je\u015bli ten wr\u00f3g jest nie-<t>Elitarny</t>, mo\u017cesz poruszy\u0107 go do po\u0142\u0105czonej lokalizacji.",
                 "traits": "Taktyka. Sztuczka."
             },
             "back": {}
@@ -747,7 +747,7 @@
             "name": "Archibald MacVeigh",
             "front": {
                 "name": "<unique><name>",
-                "text": "Rozwi\u0105zana (-2 do\u015bwiadczenia).\nTylko talia <t>Asystenta</t>, <t>Reportera</t> lub <t>Uczonego</t>. Zu\u017cywalny (4 sekrety).\nDostajesz +1 [intellect].\nSekrety na atutach, kt\u00f3re kontrolujesz, mog\u0105 by\u0107 wydawane jako \u017cetony zasob\u00f3w, aby op\u0142aci\u0107 koszt wydarze\u0144 z cech\u0105 <t>Informacja</t>, kt\u00f3re zagrywasz.",
+                "text": "Uwolniona (-2 do\u015bwiadczenia).\nTylko talia <t>Asystenta</t>, <t>Reportera</t> lub <t>Uczonego</t>. Zu\u017cywalny (4 sekrety).\nDostajesz +1 [intellect].\nSekrety na atutach, kt\u00f3re kontrolujesz, mog\u0105 by\u0107 wydawane jako \u017cetony zasob\u00f3w, aby op\u0142aci\u0107 koszt wydarze\u0144 z cech\u0105 <t>Informacja</t>, kt\u00f3re zagrywasz.",
                 "flavor_text": "\u201e'Publikuj albo zgi\u0144', m\u00f3wili. Mo\u017ce zdarzy si\u0119 jedno i drugie\u201d.",
                 "subtitle": "Utalentowany wyk\u0142adowca",
                 "traits": "Sprzymierzeniec."
@@ -791,7 +791,7 @@
         "af38fcb2-5b99-51c9-99c3-0c69b89edd1e": {
             "name": "Strzelec wyborowy",
             "front": {
-                "text": "Rozwi\u0105zana (-1 do\u015bwiadczenie).\n<reaction> Kiedy u\u017cywasz zdolno\u015bci Walka na atucie z cech\u0105 <t>Palna</t>, wyczerp Strzelca wyborowego: Wybierz jedno lub oba - \n- Ten atak u\u017cywa [agility] zamiast [combat]. Wszystkie modyfikatory twojej [combat] do tego ataku zamiast tego modyfikuj\u0105 twoj\u0105 [agility].\n- Do tego ataku u\u017cyj warto\u015bci wymykania si\u0119 atakowanego wroga zamiast jego warto\u015bci walki.",
+                "text": "Uwolniona (-1 do\u015bwiadczenie).\n<reaction> Kiedy u\u017cywasz zdolno\u015bci Walka na atucie z cech\u0105 <t>Palna</t>, wyczerp Strzelca wyborowego: Wybierz jedno lub oba - \n- Ten atak u\u017cywa [agility] zamiast [combat]. Wszystkie modyfikatory twojej [combat] do tego ataku zamiast tego modyfikuj\u0105 twoj\u0105 [agility].\n- Do tego ataku u\u017cyj warto\u015bci wymykania si\u0119 atakowanego wroga zamiast jego warto\u015bci walki.",
                 "traits": "Talent."
             },
             "back": {}
