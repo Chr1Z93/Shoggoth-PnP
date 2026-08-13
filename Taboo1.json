@@ -55,7 +55,8 @@
                 "classes": [
                     "rogue"
                 ],
-                "icons": "IA"
+                "icons": "IA",
+                "illustration": "./img/ahc01-050 Elusive-Adam Schumpert.jpg"
             },
             "amount": 2,
             "back": {
@@ -111,13 +112,22 @@
                 "combat": "2",
                 "agility": "3",
                 "subtitle": "The Reporter",
-                "flavor_text": "\"This time, nothing will stop me from getting at the truth!\""
+                "flavor_text": "\"This time, nothing will stop me from getting at the truth!\"",
+                "illustration": "./img/Rex Murphy (ahc02-002) - Cristi Balanescu.jpg",
+                "mask_template": true,
+                "illustration_pan_x": -270.0,
+                "illustration_pan_y": 103.0,
+                "illustration_scale": 0.919
             },
             "amount": 1,
             "back": {
                 "type": "investigator_back",
                 "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to five other level 0 cards from any other class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Search for the Truth, Rex's Curse, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No [[Fortune]] cards.",
-                "flavor_text": "When disaster strikes, <name> is usually on hand, suffering the consequences. After spending a day with Rex, even the most hardened skeptic will concede that the man is cursed. Anytime he had a lead on a good story, something would go wrong. That business in Innsmouth with the photographs that had blown out to sea. The tracks in Dunwich that had washed away in the rain just before he'd brought the sheriff. His terrible fortune has more than once exposed him to gruesome beasts and occult conspiracies. To survive, Rex has developed an inquisitive mind, keeping one step ahead of the next disaster."
+                "flavor_text": "When disaster strikes, <name> is usually on hand, suffering the consequences. After spending a day with Rex, even the most hardened skeptic will concede that the man is cursed. Anytime he had a lead on a good story, something would go wrong. That business in Innsmouth with the photographs that had blown out to sea. The tracks in Dunwich that had washed away in the rain just before he'd brought the sheriff. His terrible fortune has more than once exposed him to gruesome beasts and occult conspiracies. To survive, Rex has developed an inquisitive mind, keeping one step ahead of the next disaster.",
+                "illustration": "./img/Rex Murphy (ahc02-002) - Cristi Balanescu.jpg",
+                "illustration_pan_x": -237.0,
+                "illustration_pan_y": -33.0,
+                "illustration_scale": 0.649
             }
         },
         {
@@ -135,7 +145,10 @@
                 "classes": [
                     "rogue"
                 ],
-                "icons": "Q"
+                "icons": "Q",
+                "illustration": "./img/ahc02-026 Double or Nothing - Mark Molnar.jpg",
+                "illustration_pan_x": 41.0,
+                "illustration_pan_y": 232.0
             },
             "amount": 0,
             "back": {
@@ -190,7 +203,11 @@
                     "seeker"
                 ],
                 "icons": "A",
-                "flavor_text": "Searchers after horror haunt strange, far places. - H. P. Lovecraft, \"The Picture in the House\""
+                "flavor_text": "<center>Searchers after horror haunt strange, far places. \n<right>-- <i>H. P. Lovecraft</i>, \"The Picture in the House\"",
+                "illustration": "./img/ahc02-108 Pathfinder - Adam Lane.png",
+                "illustration_pan_x": 68.0,
+                "illustration_pan_y": 73.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -266,9 +283,13 @@
                     "guardian"
                 ],
                 "slots": [
-                    "hand x2"
+                    "hands"
                 ],
-                "icons": "CA"
+                "icons": "CA",
+                "illustration": ".\\img\\ahc02-226 Springfield M1903-photoshopped edges - Jason Caffoe.png",
+                "illustration_pan_x": 99.0,
+                "illustration_pan_y": 219.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -290,7 +311,11 @@
                 "classes": [
                     "rogue"
                 ],
-                "icons": "Q"
+                "icons": "Q",
+                "illustration": "./img/ahc02-229 Quick Thinking - David Auden Nash.jpg",
+                "illustration_pan_x": 27.0,
+                "illustration_pan_y": 237.0,
+                "illustration_scale": 0.555
             },
             "amount": 2,
             "back": {
@@ -314,7 +339,11 @@
                     "seeker"
                 ],
                 "icons": "CC",
-                "subtitle": "Acidic Ichor"
+                "subtitle": "Acidic Ichor",
+                "illustration": "./img/ahc02-021 Strange Solution - Tiziano Baracchi.jpg",
+                "illustration_pan_y": 120.0,
+                "illustration_scale": 0.52,
+                "illustration_pan_x": 64.0
             },
             "amount": 2,
             "back": {
@@ -336,7 +365,11 @@
                 "illustrator": "Illus. John Pacer",
                 "classes": [
                     "rogue"
-                ]
+                ],
+                "illustration": "./img/ahc02-266 Ace in the Hole - narrow - bright - export - John Pacer.png",
+                "illustration_pan_x": 88.0,
+                "illustration_pan_y": 63.0,
+                "illustration_scale": 1.0
             },
             "amount": 1,
             "back": {
@@ -391,7 +424,11 @@
                 "classes": [
                     "guardian"
                 ],
-                "icons": "CQ"
+                "icons": "CQ",
+                "illustration_pan_x": 64.0,
+                "illustration_pan_y": 67.0,
+                "illustration_scale": 1.24,
+                "illustration": ".\\img\\ahc02-300 Monster Slayer - Henning Ludvigsen.jpg"
             },
             "amount": 2,
             "back": {
@@ -420,13 +457,22 @@
                 "combat": "3",
                 "agility": "3",
                 "subtitle": "The Actress",
-                "flavor_text": "Perhaps this would be her big comeback."
+                "flavor_text": "Perhaps this would be her big comeback.",
+                "mask_template": true,
+                "illustration_pan_x": 107.0,
+                "illustration_pan_y": 183.0,
+                "illustration_scale": 0.445,
+                "illustration": "./img/Lola Hayes (ahc11-006)-screenshot - Magali Villeneuve.jpg"
             },
             "amount": 1,
             "back": {
                 "type": "investigator_back",
-                "text": "Mutated.\n<b>Deck Size</b>: 35.\n<b>Deckbuilding Options</b>: Survivor, Guardian, Seeker, Rogue, and Mystic cards ([survivor], [guardian], [seeker], [rogue], and [mystic]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 2 copies of Improvisation, 2 copies of Crisis of Identity, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include at least 7 cards each from 3 different classes ([survivor], [guardian], [seeker], [rogue], or [mystic]).\n<b>Additional Setup</b>: After you draw your opening hand, choose a role ([survivor], [guardian], [seeker], [rogue], [mystic], or Neutral).",
-                "flavor_text": "Lola has performed to sold-out houses worldwide, but no play has been as haunting or as odd as The King in Yellow. Even during rehearsals, everything about it brought calamity and dread. When her co-star, Miriam, was found floating dead in the Seine, she decided she'd had enough, and penned a letter to the director explaining that her next performance would be her last. Now she heads home to Arkham for one final show, hoping she can finally be rid of this dreadful play."
+                "text": "Mutated.\n<b>Deck Size</b>: 35.\n<b>Deckbuilding Options</b>: Survivor, Guardian, Seeker, Rogue, and Mystic cards (<survivor>, <guardian>, <seeker>, <rogue>, and <mystic>) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 2 copies of Improvisation, 2 copies of Crisis of Identity, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include at least 7 cards each from 3 different classes (<survivor>, <guardian>, <seeker>, <rogue>, or <mystic>).\n<b>Additional Setup</b>: After you draw your opening hand, choose a role (<survivor>, <guardian>, <seeker>, <rogue>, <mystic>, or Neutral).",
+                "flavor_text": "Lola has performed to sold-out houses worldwide, but no play has been as haunting or as odd as The King in Yellow. Even during rehearsals, everything about it brought calamity and dread. When her co-star, Miriam, was found floating dead in the Seine, she decided she'd had enough, and penned a letter to the director explaining that her next performance would be her last. Now she heads home to Arkham for one final show, hoping she can finally be rid of this dreadful play.",
+                "illustration": "./img/Lola Hayes (ahc11-006)-screenshot - Magali Villeneuve.jpg",
+                "illustration_pan_x": 121.0,
+                "illustration_pan_y": 77.0,
+                "illustration_scale": 0.276
             }
         },
         {
@@ -443,7 +489,11 @@
                 "classes": [
                     "weakness"
                 ],
-                "flavor_text": "\"I've played so many roles. Madness is to be expected.\""
+                "flavor_text": "\"I've played so many roles. Madness is to be expected.\"<br> ",
+                "illustration": ".\\img\\ahc11-019 Crisis of Identity - Matt Bradbury.png",
+                "illustration_pan_y": 71.0,
+                "illustration_pan_x": 103.0,
+                "illustration_scale": 1.73
             },
             "amount": 2,
             "back": {
@@ -466,7 +516,11 @@
                 "classes": [
                     "rogue"
                 ],
-                "icons": "IA"
+                "icons": "IA",
+                "illustration": "./img/ahc11-029 Sleight of Hand - export - tall - Ilich Henriquez.png",
+                "illustration_scale": 1.0,
+                "illustration_pan_x": 60.0,
+                "illustration_pan_y": 46.0
             },
             "amount": 2,
             "back": {
@@ -530,7 +584,11 @@
                     "accessory"
                 ],
                 "icons": "WQ",
-                "subtitle": "Let the Storm Rage"
+                "subtitle": "Let the Storm Rage",
+                "illustration": ".\\img\\ahc11-315 Key of Ys - Stephen Somers.jpg",
+                "illustration_pan_x": 15.0,
+                "illustration_pan_y": 84.0,
+                "illustration_scale": 2.0
             },
             "amount": 1,
             "back": {
@@ -581,7 +639,11 @@
                 "classes": [
                     "seeker"
                 ],
-                "icons": "WI"
+                "icons": "WI",
+                "illustration": "./img/ahc19-105 Persuasion - export - Rafal Hrynkiewicz.png",
+                "illustration_pan_x": 59.0,
+                "illustration_pan_y": 55.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -631,7 +693,11 @@
                 "illustrator": "Illus. Dual Brush Studios",
                 "classes": [
                     "rogue"
-                ]
+                ],
+                "illustration": "./img/ahc19-233 Pay Day - Dual Brush Studios (Richard Jossy).png",
+                "illustration_pan_x": 79.0,
+                "illustration_pan_y": 57.0,
+                "illustration_scale": 2.038
             },
             "amount": 2,
             "back": {
@@ -655,9 +721,13 @@
                     "guardian"
                 ],
                 "slots": [
-                    "body. hand x2"
+                    "hands"
                 ],
-                "icons": "CCQ"
+                "icons": "CCQ",
+                "illustration": ".\\img\\ahc19-305 Flamethrower - Jose Vega.png",
+                "illustration_pan_x": 64.0,
+                "illustration_pan_y": 131.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -679,7 +749,10 @@
                 "classes": [
                     "rogue"
                 ],
-                "icons": "QQ"
+                "icons": "QQ",
+                "illustration": "./img/ahc19-309 All In - Borja Pindado.png",
+                "illustration_pan_x": 92.0,
+                "illustration_pan_y": 190.0
             },
             "amount": 2,
             "back": {
@@ -703,7 +776,11 @@
                     "guardian"
                 ],
                 "icons": "IC",
-                "flavor_text": "He was hiding something\u2026 but why?"
+                "flavor_text": "He was hiding something\u2026 but why?",
+                "illustration": ".\\img\\ahc29-020 Interrogate - John Pacer.jpg",
+                "illustration_pan_x": 0.0,
+                "illustration_scale": 1.174,
+                "illustration_pan_y": -40.0
             },
             "amount": 2,
             "back": {
@@ -754,7 +831,11 @@
                 "slots": [
                     "hand"
                 ],
-                "icons": "I"
+                "icons": "I",
+                "illustration": "./img/ahc29-116 Scroll of Secrets (Multiclass) - Matthew Cowdery.png",
+                "illustration_scale": 2.06,
+                "illustration_pan_y": 190.0,
+                "illustration_pan_x": 63.0
             },
             "amount": 2,
             "back": {
@@ -785,7 +866,11 @@
                 ],
                 "icons": "W",
                 "subtitle": "Dealer in Secrets",
-                "flavor_text": "\"Are you sure you want to know? There is no going back.\""
+                "flavor_text": "\"Are you sure you want to know? There is no going back.\"",
+                "illustration": "./img/ahc29-153 Mr. Rook - Romana Kendelic.png",
+                "illustration_pan_x": 71.0,
+                "illustration_pan_y": 267.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -808,7 +893,10 @@
                 "classes": [
                     "rogue"
                 ],
-                "icons": "AA"
+                "icons": "AA",
+                "illustration": "./img/ahc29-156 Swift Reflexes - Miguel Coimbra.jpg",
+                "illustration_pan_y": 73.0,
+                "illustration_pan_x": -97.0
             },
             "amount": 2,
             "back": {
@@ -891,7 +979,11 @@
                 "slots": [
                     "hand"
                 ],
-                "icons": "II"
+                "icons": "II",
+                "illustration": "./img/ahc29-116 Scroll of Secrets (Multiclass) - Matthew Cowdery.png",
+                "illustration_pan_y": 190.0,
+                "illustration_pan_x": 63.0,
+                "illustration_scale": 2.06
             },
             "amount": 2,
             "back": {
@@ -944,7 +1036,11 @@
                 "classes": [
                     "guardian"
                 ],
-                "icons": "ICA"
+                "icons": "ICA",
+                "illustration": "./img/ahc29-230 Telescopic Sight - export - Tiziano Baracchi.png",
+                "illustration_scale": 1.0,
+                "illustration_pan_y": 51.0,
+                "illustration_pan_x": 67.0
             },
             "amount": 2,
             "back": {
@@ -968,7 +1064,10 @@
                     "seeker"
                 ],
                 "icons": "WI",
-                "flavor_text": "... and power corrupts."
+                "flavor_text": "... and power corrupts.",
+                "illustration": "./img/ahc29-231 Knowledge is Power-wide - Michal Milkowski.png",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": -34.0
             },
             "amount": 2,
             "back": {
@@ -1053,13 +1152,22 @@
                 "intellect": "5",
                 "combat": "1",
                 "agility": "3",
-                "subtitle": "The Researcher"
+                "subtitle": "The Researcher",
+                "illustration": "./img/Mandy Thompson (ahc37-002) - Tony Foti.jpg",
+                "mask_template": true,
+                "illustration_pan_x": -131.0,
+                "illustration_pan_y": 274.0,
+                "illustration_scale": 1.361
             },
             "amount": 1,
             "back": {
                 "type": "investigator_back",
-                "text": "Mutated.\n<b>Deck Size</b>: 50.\n<b>Secondary Class Choice</b>: At deck creation, choose Mystic ([mystic]), Rogue ([rogue]), or Survivor ([survivor]).\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of Occult Evidence, Shocking Discovery, 1 random basic weakness.",
-                "flavor_text": "Ever since she was a child, Mandy would read whenever she could not sleep. Such has been the case on many nights. Her remarkable memory and ability to correlate facts have landed her a highly valued job as a researcher for Miskatonic University. She has spent hours poring over the profane pages of ancient, forbidden texts. In doing so, she has discovered a pattern indicating an impending catacylsm. Has paranoia finally caught up to her? Or is a disaster of truly epic proportions on the horizon?"
+                "text": "Mutated.\n<b>Deck Size</b>: 50.\n<b>Secondary Class Choice</b>: At deck creation, choose Mystic (<mystic>), Rogue (<rogue>), or Survivor (<survivor>).\n<b>Deckbuilding Options</b>: Seeker cards (<seeker>) level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of Occult Evidence, Shocking Discovery, 1 random basic weakness.",
+                "flavor_text": "Ever since she was a child, Mandy would read whenever she could not sleep. Such has been the case on many nights. Her remarkable memory and ability to correlate facts have landed her a highly valued job as a researcher for Miskatonic University. She has spent hours poring over the profane pages of ancient, forbidden texts. In doing so, she has discovered a pattern indicating an impending catacylsm. Has paranoia finally caught up to her? Or is a disaster of truly epic proportions on the horizon?",
+                "illustration": "./img/Mandy Thompson (ahc37-002) - Tony Foti.jpg",
+                "illustration_pan_x": -139.0,
+                "illustration_pan_y": 78.0,
+                "illustration_scale": 0.961
             }
         },
         {
@@ -1082,7 +1190,11 @@
                 "slots": [
                     "accessory"
                 ],
-                "subtitle": "Of Nothing at All"
+                "subtitle": "Of Nothing at All",
+                "illustration": "./img/ahc37-022 Pendant of the Queen - Diana Mart\u00ednez.jpg",
+                "illustration_pan_x": -39.0,
+                "illustration_pan_y": 220.0,
+                "illustration_scale": 0.84
             },
             "amount": 0,
             "back": {
@@ -1106,9 +1218,13 @@
                     "guardian"
                 ],
                 "slots": [
-                    "hand x2"
+                    "hands"
                 ],
-                "icons": "A"
+                "icons": "A",
+                "illustration": ".\\img\\ahc37-195 35 Winchester-bright - Stephen Somers.jpg",
+                "illustration_pan_x": 55.0,
+                "illustration_pan_y": 239.0,
+                "illustration_scale": 0.613
             },
             "amount": 2,
             "back": {
@@ -1130,7 +1246,10 @@
                 "classes": [
                     "rogue"
                 ],
-                "icons": "Q"
+                "icons": "Q",
+                "illustration": "./img/ahc37-199 Three Aces - Diana Mart\u00ednez.jpg",
+                "illustration_pan_x": 47.0,
+                "illustration_pan_y": 238.0
             },
             "amount": 3,
             "back": {
@@ -1185,13 +1304,22 @@
                 "intellect": "4",
                 "combat": "2",
                 "agility": "4",
-                "subtitle": "The Spy"
+                "subtitle": "The Spy",
+                "illustration": "./img/Trish Scarborough (ahc52-003) - Magali Villeneuve.webp",
+                "mask_template": true,
+                "illustration_pan_x": 103.0,
+                "illustration_pan_y": 280.0,
+                "illustration_scale": 1.0
             },
             "amount": 1,
             "back": {
                 "type": "investigator_back",
                 "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, Neutral cards level 0-5, Seeker cards ([seeker]) level 0-2.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): In the Shadows, Shadow Agents, 1 random basic weakness.",
-                "flavor_text": "Trish had always excelled in both body and mind, her unwavering focus on excellence and her fearless disposition a winning combination. Given her stellar academic and athletic records, everyone expected to see her become something great. Instead, Trish took a job at a commercial code company. The initial shock of her humble work eventually wore off, and the exceptional <name> faded into obscurity. This suited Trish just fine, as it made it harder for anyone to realize the truth: her job was a cover for her true work as a spy with the Black Chamber, the Bureau's code-breaking agency."
+                "flavor_text": "Trish had always excelled in both body and mind, her unwavering focus on excellence and her fearless disposition a winning combination. Given her stellar academic and athletic records, everyone expected to see her become something great. Instead, Trish took a job at a commercial code company. The initial shock of her humble work eventually wore off, and the exceptional <name> faded into obscurity. This suited Trish just fine, as it made it harder for anyone to realize the truth: her job was a cover for her true work as a spy with the Black Chamber, the Bureau's code-breaking agency.",
+                "illustration": "./img/Trish Scarborough (ahc52-003) - Magali Villeneuve.webp",
+                "illustration_pan_x": 93.0,
+                "illustration_pan_y": 102.0,
+                "illustration_scale": 0.625
             }
         },
         {
@@ -1320,7 +1448,11 @@
                     "guardian"
                 ],
                 "icons": "WQ",
-                "flavor_text": "Even in the deepest darkness, light can still bloom."
+                "flavor_text": "Even in the deepest darkness, light can still bloom.",
+                "illustration": ".\\img\\ahc52-301 Hallow - Romana Kendelic.jpg",
+                "illustration_pan_x": -71.0,
+                "illustration_pan_y": -18.0,
+                "illustration_scale": 1.73
             },
             "amount": 2,
             "back": {
@@ -1369,7 +1501,11 @@
                 "illustrator": "Illus. Lindsey Messecar",
                 "classes": [
                     "guardian"
-                ]
+                ],
+                "illustration": ".\\img\\ahc63-019 Geared Up - Lindsey Messecar.png",
+                "illustration_pan_x": 53.0,
+                "illustration_pan_y": 176.0,
+                "illustration_scale": 2.0
             },
             "amount": 1,
             "back": {
@@ -1431,7 +1567,11 @@
                     "hand"
                 ],
                 "icons": "QQ",
-                "subtitle": "Atlas of the Unknowable"
+                "subtitle": "Atlas of the Unknowable",
+                "illustration": "./img/ahc63-045 Prophesae Profana - Drazenka Kimpel.jpg",
+                "illustration_pan_x": 46.0,
+                "illustration_pan_y": 126.0,
+                "illustration_scale": 1.85
             },
             "amount": 2,
             "back": {
@@ -1453,7 +1593,11 @@
                 "illustrator": "Illus. Matt Stawicki",
                 "classes": [
                     "rogue"
-                ]
+                ],
+                "illustration": "./img/ahc63-055 Black Market - export - Matt Stawicki.png",
+                "illustration_scale": 1.0,
+                "illustration_pan_y": 18.0,
+                "illustration_pan_x": -27.0
             },
             "amount": 2,
             "back": {
@@ -1505,9 +1649,13 @@
                     "mystic"
                 ],
                 "slots": [
-                    "hand x2"
+                    "hands"
                 ],
-                "icons": "WWCC"
+                "icons": "WWCC",
+                "illustration": ".\\img\\ahc63-093 Cyclopean Hammer - Robert Laskey.png",
+                "illustration_pan_x": 104.0,
+                "illustration_pan_y": 208.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -1534,7 +1682,11 @@
                 "slots": [
                     "accessory"
                 ],
-                "icons": "IA"
+                "icons": "IA",
+                "illustration": ".\\img\\ahc63-098 Eon Chart-tall - Ignacio Baz\u00e1n Lazcano.png",
+                "illustration_pan_x": 98.0,
+                "illustration_pan_y": 73.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -1565,7 +1717,11 @@
                     "ally"
                 ],
                 "icons": "IA",
-                "subtitle": "Intrepid Explorer"
+                "subtitle": "Intrepid Explorer",
+                "illustration": ".\\img\\ahc63-099 Gen\u00e9 Beauregard - Vlad Ricean.png",
+                "illustration_pan_x": 90.0,
+                "illustration_pan_y": 117.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -1592,7 +1748,11 @@
                 "slots": [
                     "accessory"
                 ],
-                "icons": "IAQ"
+                "icons": "IAQ",
+                "illustration": ".\\img\\ahc63-098 Eon Chart-tall - Ignacio Baz\u00e1n Lazcano.png",
+                "illustration_pan_y": 73.0,
+                "illustration_pan_x": 98.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -1615,7 +1775,11 @@
                 "classes": [
                     "rogue",
                     "survivor"
-                ]
+                ],
+                "illustration": ".\\img\\ahc63-113 Unscrupulous Loan - Drazenka Kimpel.jpg",
+                "illustration_scale": 2.15,
+                "illustration_pan_x": 59.0,
+                "illustration_pan_y": 238.0
             },
             "amount": 2,
             "back": {
@@ -1626,7 +1790,7 @@
             "name": "Runic Axe",
             "id": "0cfdf89e-f022-5cbd-b07a-b973836ff24e",
             "front": {
-                "text": "Customizable. Uses (4 charges). Replenish 1 of these charges at the start of each round.\n<action>: <b>Fight.</b> You get +1 [combat] for this attack. Before this attack, you may spend any number of charges to imbue the axe with that many different inscriptions -\n- <i>Accuracy</i> - You get an additional +2 [combat] for this attack.\n- <i>Power</i> - This attack deals +1 damage.",
+                "text": "Customizable. Uses (4 charges). Replenish 1 of these charges at the start of each round.\n<action>: <b>Fight.</b> You get +1 [combat] for this attack. Before this attack, you may spend any number of charges to imbue the axe with that many different inscriptions --\n- <i>Accuracy</i> -- You get an additional +2 [combat] for this attack.\n- <i>Power</i> -- This attack deals +1 damage.",
                 "traits": "Item. Weapon. Melee.",
                 "name": "<unique><name>",
                 "type": "asset",
@@ -1640,9 +1804,13 @@
                     "guardian"
                 ],
                 "slots": [
-                    "hand x2"
+                    "hands"
                 ],
-                "icons": "C"
+                "icons": "C",
+                "illustration": ".\\img\\ahc69-022 Runic Axe - darkened - Pixoloid Studios.png",
+                "illustration_pan_x": 71.0,
+                "illustration_pan_y": 240.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -1653,7 +1821,7 @@
             "name": "Empirical Hypothesis",
             "id": "84a12d2d-5e93-56f6-9faf-65ef684ea25a",
             "front": {
-                "text": "Customizable. Limit 1 per investigator.\n<for> At the start of the round: Choose one of the following criteria for this round\n- You fail a test by 2 or more.\n- You succeed at a test by 3 or more.\nWhen the chosen criteria is met, you may exhaust <name> to add 1 evidence to it.\n<free> Spend 1 evidence: Draw 1 card. (Limit twice per round.)",
+                "text": "Mutated. Customizable. Limit 1 per investigator.\n<for> At the start of the round: Choose one of the following criteria for this round\n- You fail a test by 2 or more.\n- You succeed at a test by 3 or more.\nWhen the chosen criteria is met, you may exhaust <name> to add 1 evidence to it.\n<free> Spend 1 evidence: Draw 1 card. (Limit twice per round.)",
                 "traits": "Talent. Science.",
                 "type": "asset",
                 "cost": "2",
@@ -1695,7 +1863,11 @@
                 "slots": [
                     "hand"
                 ],
-                "icons": "I"
+                "icons": "I",
+                "illustration": "./img/ahc69-045 Research Notes - Pixoloid Studios.jpg",
+                "illustration_pan_x": 8.0,
+                "illustration_pan_y": 205.0,
+                "illustration_scale": 1.33
             },
             "amount": 2,
             "back": {
@@ -1725,7 +1897,11 @@
                     "ally"
                 ],
                 "icons": "CA",
-                "subtitle": "O'Bannion Driver"
+                "subtitle": "O'Bannion Driver",
+                "illustration": "./img/ahc49-032 Chuck Fergus - Derek D Edgell.jpg",
+                "illustration_pan_x": 109.0,
+                "illustration_pan_y": 191.0,
+                "illustration_scale": 1.4
             },
             "amount": 2,
             "back": {
@@ -1747,7 +1923,11 @@
                 "illustrator": "Illus. Anders Finer",
                 "classes": [
                     "rogue"
-                ]
+                ],
+                "illustration": "./img/ahc69-077 Underworld Market - Anders Fin\u00e9r.png",
+                "illustration_pan_x": 27.0,
+                "illustration_pan_y": 129.0,
+                "illustration_scale": 2.0
             },
             "amount": 1,
             "back": {
@@ -1852,7 +2032,11 @@
                     "guardian"
                 ],
                 "icons": "CA",
-                "flavor_text": "\"H-hands where I can see 'em!\""
+                "flavor_text": "\"H-hands where I can see 'em!\"",
+                "illustration": ".\\img\\ahc76-026 Hold Up - Robert Laskey.jpg",
+                "illustration_pan_x": 96.0,
+                "illustration_pan_y": 77.0,
+                "illustration_scale": 1.4
             },
             "amount": 2,
             "back": {
@@ -1863,7 +2047,7 @@
             "name": "Hand-Eye Coordination",
             "id": "13656c30-a9e9-5713-9ea0-3ff5a01b1ab1",
             "front": {
-                "text": "Mutated. Fast. Play only during your turn.\nResolve an <action> ability on a level 0-3 <t>Tool</t> or <t>Weapon</t> asset you control, ignoring all costs.",
+                "text": "Mutated. Fast. Play only during your turn.\nResolve an <action> ability on a level 0-3 <t>Tool</t> or <t>Weapon</t> asset you control, ignoring all costs.\n",
                 "traits": "Insight.",
                 "type": "event",
                 "cost": "1",
@@ -1876,7 +2060,11 @@
                     "guardian"
                 ],
                 "icons": "IC",
-                "flavor_text": "Keep your eyes on the target."
+                "flavor_text": "Keep your eyes on the target.",
+                "illustration": ".\\img\\ahc76-030 Hand-Eye Coordination - export - Romana Kendelic.png",
+                "illustration_pan_x": 60.0,
+                "illustration_pan_y": 47.0,
+                "illustration_scale": 1.0
             },
             "amount": 2,
             "back": {
@@ -1898,7 +2086,11 @@
                 "classes": [
                     "guardian"
                 ],
-                "icons": "CA"
+                "icons": "CA",
+                "illustration": ".\\img\\ahc76-031 Strong-Armed - Jon Bosco.jpg",
+                "illustration_pan_x": 91.0,
+                "illustration_pan_y": 245.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -1921,7 +2113,11 @@
                 "classes": [
                     "guardian"
                 ],
-                "icons": "CAQ"
+                "icons": "CAQ",
+                "illustration": ".\\img\\ahc76-037 Flurry of Blows - splash - Lin Hsiang.png",
+                "illustration_pan_x": -48.0,
+                "illustration_pan_y": -64.0,
+                "illustration_scale": 2.536
             },
             "amount": 2,
             "back": {
@@ -1947,7 +2143,11 @@
                 "health": "1",
                 "sanity": "1",
                 "icons": "I",
-                "subtitle": "Sentient Strain"
+                "subtitle": "Sentient Strain",
+                "illustration": "./img/ahc76-044 Ravenous Myconid - JB Casacop.webp",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 129.0,
+                "illustration_scale": 1.284
             },
             "amount": 1,
             "back": {
@@ -1973,7 +2173,11 @@
                 "health": "1",
                 "sanity": "1",
                 "icons": "C",
-                "subtitle": "Carnivorous Strain"
+                "subtitle": "Carnivorous Strain",
+                "illustration": "./img/ahc76-044 Ravenous Myconid - JB Casacop.webp",
+                "illustration_pan_y": 129.0,
+                "illustration_pan_x": 0.0,
+                "illustration_scale": 1.284
             },
             "amount": 1,
             "back": {
@@ -2061,7 +2265,11 @@
                     "guardian"
                 ],
                 "icons": "CA",
-                "flavor_text": "They called Sister Sofia the \"hand of God\" for a very good reason."
+                "flavor_text": "They called Sister Sofia the \"hand of God\" for a very good reason.",
+                "illustration": ".\\img\\ahc83-031 Quick Shot - Gabrielle Portal.jpg",
+                "illustration_pan_y": -46.0,
+                "illustration_pan_x": -7.0,
+                "illustration_scale": 0.95
             },
             "amount": 3,
             "back": {
@@ -2201,7 +2409,11 @@
                 ],
                 "icons": "IQ",
                 "subtitle": "Beleaguered Lecturer",
-                "flavor_text": "\"'Publish or Perish,' they said. Perhaps we'll do both.\""
+                "flavor_text": "\"'Publish or Perish,' they said. Perhaps we'll do both.\"",
+                "illustration": ".\\img\\ahc83-117 Archibald MacVeigh - Alexandre Dainche.jpg",
+                "illustration_pan_y": 103.0,
+                "illustration_pan_x": -161.0,
+                "illustration_scale": 1.3
             },
             "amount": 2,
             "back": {
@@ -2246,7 +2458,11 @@
                 "classes": [
                     "specialist"
                 ],
-                "icons": "ICQ"
+                "icons": "ICQ",
+                "illustration": ".\\img\\ahc83-120 On Their Heels - Aaron B Miller.jpg",
+                "illustration_pan_x": 103.0,
+                "illustration_pan_y": -226.0,
+                "illustration_scale": 2.2
             },
             "amount": 2,
             "back": {
@@ -2273,7 +2489,11 @@
                     "hand"
                 ],
                 "icons": "IIIII",
-                "subtitle": "Petrus de Dacia Translation"
+                "subtitle": "Petrus de Dacia Translation",
+                "illustration": "./img/ahc48-033 The Necronomicon Petrus de Dacis - Dimitri Bielak.png",
+                "illustration_pan_x": 64.0,
+                "illustration_pan_y": 92.0,
+                "illustration_scale": 1.98
             },
             "amount": 0,
             "back": {
@@ -2319,7 +2539,11 @@
                 "classes": [
                     "rogue"
                 ],
-                "icons": "CA"
+                "icons": "CA",
+                "illustration": "./img/ahc49-027 Sharpshooter - export - Matt Bradbury.png",
+                "illustration_pan_x": 72.0,
+                "illustration_pan_y": 166.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -2349,7 +2573,11 @@
                     "ally"
                 ],
                 "icons": "CAQ",
-                "subtitle": "O'Bannion Driver"
+                "subtitle": "O'Bannion Driver",
+                "illustration": "./img/ahc49-032 Chuck Fergus - Derek D Edgell.jpg",
+                "illustration_pan_x": 109.0,
+                "illustration_pan_y": 191.0,
+                "illustration_scale": 1.4
             },
             "amount": 2,
             "back": {
