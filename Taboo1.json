@@ -283,9 +283,13 @@
                     "guardian"
                 ],
                 "slots": [
-                    "hand x2"
+                    "hands"
                 ],
-                "icons": "CA"
+                "icons": "CA",
+                "illustration": ".\\img\\ahc02-226 Springfield M1903-photoshopped edges - Jason Caffoe.png",
+                "illustration_pan_x": 99.0,
+                "illustration_pan_y": 219.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -420,7 +424,11 @@
                 "classes": [
                     "guardian"
                 ],
-                "icons": "CQ"
+                "icons": "CQ",
+                "illustration_pan_x": 64.0,
+                "illustration_pan_y": 67.0,
+                "illustration_scale": 1.24,
+                "illustration": ".\\img\\ahc02-300 Monster Slayer - Henning Ludvigsen.jpg"
             },
             "amount": 2,
             "back": {
@@ -449,13 +457,22 @@
                 "combat": "3",
                 "agility": "3",
                 "subtitle": "The Actress",
-                "flavor_text": "Perhaps this would be her big comeback."
+                "flavor_text": "Perhaps this would be her big comeback.",
+                "mask_template": true,
+                "illustration_pan_x": 107.0,
+                "illustration_pan_y": 183.0,
+                "illustration_scale": 0.445,
+                "illustration": "./img/Lola Hayes (ahc11-006)-screenshot - Magali Villeneuve.jpg"
             },
             "amount": 1,
             "back": {
                 "type": "investigator_back",
-                "text": "Mutated.\n<b>Deck Size</b>: 35.\n<b>Deckbuilding Options</b>: Survivor, Guardian, Seeker, Rogue, and Mystic cards ([survivor], [guardian], [seeker], [rogue], and [mystic]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 2 copies of Improvisation, 2 copies of Crisis of Identity, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include at least 7 cards each from 3 different classes ([survivor], [guardian], [seeker], [rogue], or [mystic]).\n<b>Additional Setup</b>: After you draw your opening hand, choose a role ([survivor], [guardian], [seeker], [rogue], [mystic], or Neutral).",
-                "flavor_text": "Lola has performed to sold-out houses worldwide, but no play has been as haunting or as odd as The King in Yellow. Even during rehearsals, everything about it brought calamity and dread. When her co-star, Miriam, was found floating dead in the Seine, she decided she'd had enough, and penned a letter to the director explaining that her next performance would be her last. Now she heads home to Arkham for one final show, hoping she can finally be rid of this dreadful play."
+                "text": "Mutated.\n<b>Deck Size</b>: 35.\n<b>Deckbuilding Options</b>: Survivor, Guardian, Seeker, Rogue, and Mystic cards (<survivor>, <guardian>, <seeker>, <rogue>, and <mystic>) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 2 copies of Improvisation, 2 copies of Crisis of Identity, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include at least 7 cards each from 3 different classes (<survivor>, <guardian>, <seeker>, <rogue>, or <mystic>).\n<b>Additional Setup</b>: After you draw your opening hand, choose a role (<survivor>, <guardian>, <seeker>, <rogue>, <mystic>, or Neutral).",
+                "flavor_text": "Lola has performed to sold-out houses worldwide, but no play has been as haunting or as odd as The King in Yellow. Even during rehearsals, everything about it brought calamity and dread. When her co-star, Miriam, was found floating dead in the Seine, she decided she'd had enough, and penned a letter to the director explaining that her next performance would be her last. Now she heads home to Arkham for one final show, hoping she can finally be rid of this dreadful play.",
+                "illustration": "./img/Lola Hayes (ahc11-006)-screenshot - Magali Villeneuve.jpg",
+                "illustration_pan_x": 121.0,
+                "illustration_pan_y": 77.0,
+                "illustration_scale": 0.276
             }
         },
         {
@@ -563,7 +580,11 @@
                     "accessory"
                 ],
                 "icons": "WQ",
-                "subtitle": "Let the Storm Rage"
+                "subtitle": "Let the Storm Rage",
+                "illustration": ".\\img\\ahc11-315 Key of Ys - Stephen Somers.jpg",
+                "illustration_pan_x": 15.0,
+                "illustration_pan_y": 84.0,
+                "illustration_scale": 2.0
             },
             "amount": 1,
             "back": {
@@ -696,9 +717,13 @@
                     "guardian"
                 ],
                 "slots": [
-                    "body. hand x2"
+                    "hands"
                 ],
-                "icons": "CCQ"
+                "icons": "CCQ",
+                "illustration": ".\\img\\ahc19-305 Flamethrower - Jose Vega.png",
+                "illustration_pan_x": 64.0,
+                "illustration_pan_y": 131.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -747,7 +772,11 @@
                     "guardian"
                 ],
                 "icons": "IC",
-                "flavor_text": "He was hiding something\u2026 but why?"
+                "flavor_text": "He was hiding something\u2026 but why?",
+                "illustration": ".\\img\\ahc29-020 Interrogate - John Pacer.jpg",
+                "illustration_pan_x": 0.0,
+                "illustration_scale": 1.174,
+                "illustration_pan_y": -40.0
             },
             "amount": 2,
             "back": {
@@ -999,7 +1028,11 @@
                 "classes": [
                     "guardian"
                 ],
-                "icons": "ICA"
+                "icons": "ICA",
+                "illustration": "./img/ahc29-230 Telescopic Sight - export - Tiziano Baracchi.png",
+                "illustration_scale": 1.0,
+                "illustration_pan_y": 51.0,
+                "illustration_pan_x": 67.0
             },
             "amount": 2,
             "back": {
@@ -1177,9 +1210,13 @@
                     "guardian"
                 ],
                 "slots": [
-                    "hand x2"
+                    "hands"
                 ],
-                "icons": "A"
+                "icons": "A",
+                "illustration": ".\\img\\ahc37-195 35 Winchester-bright - Stephen Somers.jpg",
+                "illustration_pan_x": 55.0,
+                "illustration_pan_y": 239.0,
+                "illustration_scale": 0.613
             },
             "amount": 2,
             "back": {
@@ -1403,7 +1440,11 @@
                     "guardian"
                 ],
                 "icons": "WQ",
-                "flavor_text": "Even in the deepest darkness, light can still bloom."
+                "flavor_text": "Even in the deepest darkness, light can still bloom.",
+                "illustration": ".\\img\\ahc52-301 Hallow - Romana Kendelic.jpg",
+                "illustration_pan_x": -71.0,
+                "illustration_pan_y": -18.0,
+                "illustration_scale": 1.73
             },
             "amount": 2,
             "back": {
@@ -1452,7 +1493,11 @@
                 "illustrator": "Illus. Lindsey Messecar",
                 "classes": [
                     "guardian"
-                ]
+                ],
+                "illustration": ".\\img\\ahc63-019 Geared Up - Lindsey Messecar.png",
+                "illustration_pan_x": 53.0,
+                "illustration_pan_y": 176.0,
+                "illustration_scale": 2.0
             },
             "amount": 1,
             "back": {
@@ -1717,7 +1762,7 @@
             "name": "Runic Axe",
             "id": "0cfdf89e-f022-5cbd-b07a-b973836ff24e",
             "front": {
-                "text": "Customizable. Uses (4 charges). Replenish 1 of these charges at the start of each round.\n<action>: <b>Fight.</b> You get +1 [combat] for this attack. Before this attack, you may spend any number of charges to imbue the axe with that many different inscriptions -\n- <i>Accuracy</i> - You get an additional +2 [combat] for this attack.\n- <i>Power</i> - This attack deals +1 damage.",
+                "text": "Customizable. Uses (4 charges). Replenish 1 of these charges at the start of each round.\n<action>: <b>Fight.</b> You get +1 [combat] for this attack. Before this attack, you may spend any number of charges to imbue the axe with that many different inscriptions --\n- <i>Accuracy</i> -- You get an additional +2 [combat] for this attack.\n- <i>Power</i> -- This attack deals +1 damage.",
                 "traits": "Item. Weapon. Melee.",
                 "name": "<unique><name>",
                 "type": "asset",
@@ -1731,9 +1776,13 @@
                     "guardian"
                 ],
                 "slots": [
-                    "hand x2"
+                    "hands"
                 ],
-                "icons": "C"
+                "icons": "C",
+                "illustration": ".\\img\\ahc69-022 Runic Axe - darkened - Pixoloid Studios.png",
+                "illustration_pan_x": 71.0,
+                "illustration_pan_y": 240.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -1955,7 +2004,11 @@
                     "guardian"
                 ],
                 "icons": "CA",
-                "flavor_text": "\"H-hands where I can see 'em!\""
+                "flavor_text": "\"H-hands where I can see 'em!\"",
+                "illustration": ".\\img\\ahc76-026 Hold Up - Robert Laskey.jpg",
+                "illustration_pan_x": 96.0,
+                "illustration_pan_y": 77.0,
+                "illustration_scale": 1.4
             },
             "amount": 2,
             "back": {
@@ -1966,7 +2019,7 @@
             "name": "Hand-Eye Coordination",
             "id": "13656c30-a9e9-5713-9ea0-3ff5a01b1ab1",
             "front": {
-                "text": "Mutated. Fast. Play only during your turn.\nResolve an <action> ability on a level 0-3 <t>Tool</t> or <t>Weapon</t> asset you control, ignoring all costs.",
+                "text": "Mutated. Fast. Play only during your turn.\nResolve an <action> ability on a level 0-3 <t>Tool</t> or <t>Weapon</t> asset you control, ignoring all costs.\n",
                 "traits": "Insight.",
                 "type": "event",
                 "cost": "1",
@@ -1979,7 +2032,11 @@
                     "guardian"
                 ],
                 "icons": "IC",
-                "flavor_text": "Keep your eyes on the target."
+                "flavor_text": "Keep your eyes on the target.",
+                "illustration": ".\\img\\ahc76-030 Hand-Eye Coordination - export - Romana Kendelic.png",
+                "illustration_pan_x": 60.0,
+                "illustration_pan_y": 47.0,
+                "illustration_scale": 1.0
             },
             "amount": 2,
             "back": {
@@ -2001,7 +2058,11 @@
                 "classes": [
                     "guardian"
                 ],
-                "icons": "CA"
+                "icons": "CA",
+                "illustration": ".\\img\\ahc76-031 Strong-Armed - Jon Bosco.jpg",
+                "illustration_pan_x": 91.0,
+                "illustration_pan_y": 245.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -2024,7 +2085,11 @@
                 "classes": [
                     "guardian"
                 ],
-                "icons": "CAQ"
+                "icons": "CAQ",
+                "illustration": ".\\img\\ahc76-037 Flurry of Blows - splash - Lin Hsiang.png",
+                "illustration_pan_x": -48.0,
+                "illustration_pan_y": -64.0,
+                "illustration_scale": 2.536
             },
             "amount": 2,
             "back": {
@@ -2172,7 +2237,11 @@
                     "guardian"
                 ],
                 "icons": "CA",
-                "flavor_text": "They called Sister Sofia the \"hand of God\" for a very good reason."
+                "flavor_text": "They called Sister Sofia the \"hand of God\" for a very good reason.",
+                "illustration": ".\\img\\ahc83-031 Quick Shot - Gabrielle Portal.jpg",
+                "illustration_pan_y": -46.0,
+                "illustration_pan_x": -7.0,
+                "illustration_scale": 0.95
             },
             "amount": 3,
             "back": {

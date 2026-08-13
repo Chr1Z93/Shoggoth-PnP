@@ -133,7 +133,7 @@
         "cffb03cb-ca0f-5f75-ad5f-d47a84347b4c": {
             "name": "Pogromca potwor\u00f3w",
             "front": {
-                "text": "Rozwi\u0105zany (-2 Do\u015bwiadczenie).\n<b>Walka.</b> Je\u015bli ten atak powiedzie si\u0119 przeciw nie-<t>Elitarnemu</t> wrogowi, pokonaj tego wroga.",
+                "text": "Rozwi\u0105zana (-2 do\u015bwiadczenia).\n<b>Walka.</b> Je\u015bli ten atak powiedzie si\u0119 przeciw nie-<t>Elitarnemu</t> wrogowi, pokonaj tego<br> wroga.",
                 "traits": "Duch."
             },
             "back": {}
@@ -141,12 +141,16 @@
         "927e7168-625d-567e-9e9e-07b001433ce6": {
             "name": "Lola Hayes",
             "front": {
+                "name": "<unique><name>",
                 "text": "Zmutowana.\nMo\u017cesz zagrywa\u0107, przeznacza\u0107 do test\u00f3w lub aktywowa\u0107 zdolno\u015bci tylko kart neutralnych lub kart nale\u017c\u0105cych do klasy wybranej roli.\n<free>: Zmie\u0144 twoj\u0105 rol\u0119. (Limit raz na rund\u0119).\n<action>: Zmie\u0144 rol\u0119. Nie wywo\u0142uje atak\u00f3w towarzysz\u0105cych.\nEfekt <elder_sign>: +2. Mo\u017cesz zmieni\u0107 rol\u0119.",
-                "traits": "Artysta.",
+                "flavor_text": "By\u0107 mo\u017ce to b\u0119dzie jej wielki powr\u00f3t.",
                 "subtitle": "Aktorka",
-                "flavor_text": "By\u0107 mo\u017ce to b\u0119dzie jej wielki powr\u00f3t."
+                "traits": "Artysta."
             },
-            "back": {}
+            "back": {
+                "text": "Zmutowana.\n<b>Rozmiar talii</b>: 35.\n<b>Opcje tworzenia talii</b>: karty Ocala\u0142ego, Stra\u017cnika, Poszukiwacza, \u0141otra i Mistyka (<survivor>, <guardian>, <seeker>, <rogue> i <mystic>) o poziomie 0-3, karty neutralne o poziomie 0-5.\n<b>Wymogi tworzenia talii</b> (niewliczane do wielko\u015bci talii): 2 kopie Improwizacji, 2 kopie Kryzysu to\u017csamo\u015bci, 1 losowe podstawowe os\u0142abienie.\n<b>Dodatkowe wymogi</b>: twoja talia musi zawiera\u0107 przynajmniej po 7 kart z 3 r\u00f3\u017cnych klas (<survivor>, <guardian>, <seeker>, <rogue> lub <mystic>).\n<b>Dodatkowe zasady przygotowania</b>: Po tym, jak dobierzesz pocz\u0105tkowe karty: wybierz rol\u0119 (<survivor>, <guardian>, <seeker>, <rogue>, <mystic> lub neutraln\u0105).",
+                "flavor_text": "Lola wyst\u0119powa\u0142a na scenach ca\u0142ego \u015bwiata, zawsze graj\u0105c przy pe\u0142nej sali, ale \u017cadna sztuka, w kt\u00f3rej bra\u0142a udzia\u0142, nie by\u0142a tak niepokoj\u0105ca ani tak dziwna jak \u201eKr\u00f3l w \u017b\u00f3\u0142ci\u201d. Nawet podczas pr\u00f3b to przedstawienie sprowadza\u0142o nieszcz\u0119\u015bcie i groz\u0119. Kiedy jej kole\u017cank\u0119 ze sceny, Miriam, znaleziono martw\u0105 w rzece Seine, dosz\u0142a do wniosku, \u017ce to ju\u017c za wiele, i napisa\u0142a list do re\u017cysera, oznajmiaj\u0105c, \u017ce nast\u0119pny spektakl jest ostatnim, w jakim zamierza wyst\u0105pi\u0107. Teraz zmierza do Arkham na swoje ostatnie przedstawienie w nadziei, \u017ce nareszcie uwolni si\u0119 od tej koszmarnej sztuki."
+            }
         },
         "c79ae21b-629b-5627-8293-bec47c4f5d16": {
             "name": "Kryzys to\u017csamo\u015bci",
@@ -220,7 +224,7 @@
         "5ce16f4b-12cd-533e-a5de-b95f8448e71e": {
             "name": "Miotacz ognia",
             "front": {
-                "text": "Skr\u0119powany (+1 Do\u015bwiadczenie).\nZu\u017cywalny (4 naboje).\n<action> Wydaj 1 nab\u00f3j: <b>Walka.</b> Do tego ataku musi zosta\u0107 wybrany b\u0119d\u0105cy z toba w zwarciu wr\u00f3g o najwy\u017cszej warto\u015bci walki. Do tego ataku dostajesz +4 [combat]. Je\u015bli ten atak zako\u0144czy si\u0119 sukcesem, zamiast standardowych obra\u017ce\u0144 mo\u017cesz przypisa\u0107 \u0142\u0105cznie maksymalnie 4 obra\u017cenia wrogom b\u0119d\u0105cym z tob\u0105 w zwarciu <i>(ka\u017cde dodatkowe obra\u017cenie nale\u017cy doda\u0107 do tej liczby)</i>.",
+                "text": "Skr\u0119powana (+1 do\u015bwiadczenie).\nZu\u017cywalny (4 naboje).\n<action> Wydaj 1 nab\u00f3j: <b>Walka.</b> Do tego ataku musi zosta\u0107 wybrany b\u0119d\u0105cy z toba w zwarciu wr\u00f3g o najwy\u017cszej warto\u015bci walki. Do tego ataku dostajesz +4 [combat]. Je\u015bli ten atak zako\u0144czy si\u0119 sukcesem, zamiast standardowych obra\u017ce\u0144 mo\u017cesz przypisa\u0107 \u0142\u0105cznie maksymalnie 4 obra\u017cenia wrogom b\u0119d\u0105cym z tob\u0105 w zwarciu <i>(ka\u017cde dodatkowe obra\u017cenie nale\u017cy doda\u0107 do tej liczby)</i>.",
                 "traits": "Przedmiot. Bro\u0144. Palna."
             },
             "back": {}
@@ -459,9 +463,9 @@
         "952df8fe-e78a-5f36-9c33-30c8f4ba78d8": {
             "name": "U\u015bwi\u0119cenie",
             "front": {
-                "text": "Mutated. As an additional cost to play Hallow, return a total of 10 <blessing> tokens to the token pool from the chaos bag or sealed on cards in play.\nRemove 1 doom from any card in play. Remove Hallow from the game.",
-                "traits": "Zakl\u0119cie. B\u0142ogos\u0142awiony.",
-                "flavor_text": "A \u015bwiat\u0142o\u015b\u0107 w ciemno\u015bci \u015bwieci i ciemno\u015b\u0107 jej nie ogarn\u0119\u0142a."
+                "text": "Zmutowana. Jako dodatkowy koszt zagrania U\u015bwi\u0119cenia cofnij do puli \u017ceton\u00f3w 10 \u017ceton\u00f3w <blessing> znajduj\u0105cych si\u0119 w worku chaosu lub zapiecz\u0119towanych na kartach w grze.\nUsu\u0144 1 \u017ceton zag\u0142ady z dowolnej karty w grze. Usu\u0144 <name> z gry.",
+                "flavor_text": "A \u015bwiat\u0142o\u015b\u0107 w ciemno\u015bci \u015bwieci i ciemno\u015b\u0107 jej nie ogarn\u0119\u0142a.",
+                "traits": "Zakl\u0119cie. B\u0142ogos\u0142awiony."
             },
             "back": {}
         },
@@ -476,7 +480,7 @@
         "279c22e2-2d67-5388-b4b1-5fd23b557117": {
             "name": "Wyposa\u017cony",
             "front": {
-                "text": "Zmutowana. Trwa\u0142y. Limit 1 na tali\u0119. Kup podczas budowania talii.\n<b>Wymuszony</b> - Kiedy zaczyna si\u0119 twoja pierwsza tura podczas gry: Zagraj jedna po drugiej, do 5 atut\u00f3w z cech\u0105 <t>Item</t> z twojej r\u0119ki, obni\u017caj\u0105c o 1 koszt zagrania ka\u017cdego z nich. Podczas tej tury masz 3 akcje mniej do wykonania.",
+                "text": "Zmutowana. Trwa\u0142y. Limit 1 na tali\u0119. Kup podczas budowania talii.\n<b>Wymuszony</b> - Kiedy zaczyna si\u0119 twoja pierwsza tura podczas gry: zagraj jeden po drugim, do 5 atut\u00f3w z cech\u0105 <t>Przedmiot</t> z twojej r\u0119ki, obni\u017caj\u0105c o 1 koszt zagrania ka\u017cdego z nich. Podczas tej tury masz 3 akcje mniej do wykonania.",
                 "traits": "Talent."
             },
             "back": {}
@@ -560,7 +564,8 @@
         "0cfdf89e-f022-5cbd-b07a-b973836ff24e": {
             "name": "Runiczny top\u00f3r",
             "front": {
-                "text": "Przystosowalny. Zu\u017cywalny (4 \u0142adunki). Uzupe\u0142nij 1 z tych \u0142adunk\u00f3w na pocz\u0105tku ka\u017cdej rundy.\n<action>: <b>Walka.</b> Do tego ataku dostajesz +1 [combat]. Przed tym atakiem mo\u017cesz wyda\u0107 dowoln\u0105 liczb\u0119 \u0142adunk\u00f3w, aby wzmocni\u0107 top\u00f3r tak\u0105 sam\u0105 liczb\u0105 r\u00f3\u017cnych inskrypcji -\n- <i>Celno\u015b\u0107</i> - Do tego ataku dostajesz dodatkowe +2 [combat].\n- <i>Si\u0142a</i> - Ten atak zadaje +1 obra\u017cenie.",
+                "name": "<unique><name>",
+                "text": "Przystosowalny. Zu\u017cywalny (4 \u0142adunki). Uzupe\u0142nij 1 z tych \u0142adunk\u00f3w na pocz\u0105tku ka\u017cdej rundy.\n<action>: <b>Walka.</b> Do tego ataku dostajesz +1 [combat]. Przed tym atakiem mo\u017cesz wyda\u0107 dowoln\u0105 liczb\u0119 \u0142adunk\u00f3w, aby wzmocni\u0107 top\u00f3r tak\u0105 sam\u0105 liczb\u0105 r\u00f3\u017cnych inskrypcji --\n- <i>Celno\u015b\u0107</i> -- Do tego ataku dostajesz dodatkowe +2 [combat].\n- <i>Si\u0142a</i> -- Ten atak zadaje +1 obra\u017cenie.",
                 "traits": "Przedmiot. Bro\u0144. Bia\u0142a."
             },
             "back": {}
@@ -625,25 +630,25 @@
         "5d11468c-b304-5b1f-9fd6-c929f2aa70ae": {
             "name": "Na muszce",
             "front": {
-                "text": "Zmutowana.\n<b>Pertraktacje.</b> Wybierz wroga w twojej lokalizacji i atut z cech\u0105 <t>Przedmiot</t> w twojej r\u0119ce. Wykonaj akcj\u0119 walki przeciwko wybranemu wrogowi. Je\u015bli test zako\u0144czy si\u0119 sukcesem, zagraj wybrany atut, obni\u017caj\u0105c jego koszt o ka\u017cdy punkt, o kt\u00f3ry test zako\u0144czy\u0142 si\u0119 sukcesem.",
-                "traits": "Taktyka. Sztuczka.",
-                "flavor_text": "\"Trzymaj r\u0119ce na widoku!\""
+                "text": "Zmutowana.\n<b>Pertraktacje.</b> Wybierz wroga w twojej lokalizacji <br>i atut z cech\u0105 <t>Przedmiot</t> w twojej r\u0119ce. Wykonaj akcj\u0119 walki przeciwko wybranemu wrogowi. Je\u015bli test zako\u0144czy si\u0119 sukcesem, zagraj wybrany atut, obni\u017caj\u0105c jego koszt o ka\u017cdy punkt, o kt\u00f3ry test zako\u0144czy\u0142 si\u0119 sukcesem.",
+                "flavor_text": "\u201eTrzymaj r\u0119ce na widoku!\"",
+                "traits": "Taktyka. Sztuczka."
             },
             "back": {}
         },
         "13656c30-a9e9-5713-9ea0-3ff5a01b1ab1": {
             "name": "Koordynacja wzrokowo-ruchowa",
             "front": {
-                "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury.\nRozpatrz zdolno\u015b\u0107 <action> z atutu z cech\u0105 <t>Narz\u0119dzie</t> lub <t>Bro\u0144</t> o poziomie 0-3, kt\u00f3ry kontrolujesz ignoruj\u0105c wszystkie koszty.",
-                "traits": "Informacja.",
-                "flavor_text": "Nie spuszczaj wzroku z celu"
+                "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury.\nRozpatrz zdolno\u015b\u0107 <action> z atutu z cech\u0105 <t>Narz\u0119dzie</t> lub <t>Bro\u0144</t> o poziomie 0-3, kt\u00f3ry kontrolujesz, ignoruj\u0105c wszystkie koszty.",
+                "flavor_text": "Nie spuszczaj wzroku z celu.",
+                "traits": "Informacja."
             },
             "back": {}
         },
         "40f5a4a7-eb80-530b-b77f-6c2034a763a0": {
             "name": "Silna r\u0119ka",
             "front": {
-                "text": "Skr\u0119powany (+1 Do\u015bwiadczenie).\nKiedy <name> zostanie przeznaczona do ataku przy pomocy atutu z cech\u0105 <t>Bia\u0142a</t> lub <t>Dystansowa</t>, ten atak zadaje +1 obra\u017cenie. Po odkryciu \u017cetonu chaosu do tego testu umiej\u0119tno\u015bci mo\u017cesz otrzyma\u0107 1 obra\u017cenie aby anulowa\u0107 dany \u017ceton chaosu, cofn\u0105\u0107 go do worka chaosu, i odkry\u0107 nowy. <i>(Mo\u017cesz to zrobi\u0107 dowoln\u0105 liczb\u0119 razy)</i>",
+                "text": "Skr\u0119powana (+1 do\u015bwiadczenie).\nKiedy <name> zostanie przeznaczona do ataku przy pomocy atutu z cech\u0105 <t>Bia\u0142a</t> lub <t>Dystansowa</t>, ten atak zadaje +1 obra\u017cenie. Po odkryciu \u017cetonu chaosu do tego testu umiej\u0119tno\u015bci mo\u017cesz otrzyma\u0107 1 obra\u017cenie aby anulowa\u0107 dany \u017ceton chaosu, cofn\u0105\u0107 go do worka chaosu, i odkry\u0107 nowy. <i>(Mo\u017cesz to zrobi\u0107 dowoln\u0105 liczb\u0119 razy).</i>",
                 "traits": "Wrodzona."
             },
             "back": {}
@@ -651,7 +656,7 @@
         "2543e0e7-e7c1-5f6a-bda1-a43c50bd3bbc": {
             "name": "Lawina cios\u00f3w ",
             "front": {
-                "text": "Rozwi\u0105zany (-2 Do\u015bwiadczenie).\nZagraj tylko, je\u015bli kt\u00f3ry kontrolujesz atut z cech\u0105 <t>Bia\u0142a</t>. Jako dodatkowy koszt zagrania Lawiny cios\u00f3w wydaj akcj\u0119.\n<b>Walka.</b> Wybierz atut z cech\u0105 <t>Bia\u0142a</t> kt\u00f3ry kontrolujesz i natychmiast wykonaj akcj\u0119 walki przy pomocy danego atutu <i>(bez p\u0142acenia jej kosztu <action>)</i>. Mo\u017cesz powt\u00f3rzy\u0107 ten efekt maksymalnie trzy razy. Je\u015bli trwa twoja tura po rozpatrzeniu ostatniego ataku ko\u0144czysz swoj\u0105 tur\u0119.",
+                "text": "Rozwi\u0105zana (-2 do\u015bwiadczenia).\nZagraj tylko, je\u015bli kt\u00f3ry kontrolujesz atut z cech\u0105 <t>Bia\u0142a</t>. Jako dodatkowy koszt zagrania Lawiny cios\u00f3w wydaj akcj\u0119.\n<b>Walka.</b> Wybierz atut z cech\u0105 <t>Bia\u0142a</t> kt\u00f3ry kontrolujesz i natychmiast wykonaj akcj\u0119 walki przy pomocy danego atutu <i>(bez p\u0142acenia jej kosztu <action>)</i>. Mo\u017cesz powt\u00f3rzy\u0107 ten efekt maksymalnie trzy razy. Je\u015bli trwa twoja tura po rozpatrzeniu ostatniego ataku ko\u0144czysz swoj\u0105 tur\u0119.",
                 "traits": "Taktyka. Podw\u00f3jny. Przeznaczony."
             },
             "back": {}
@@ -697,9 +702,9 @@
         "4123c580-dfef-512b-bf9e-4486d1099a80": {
             "name": "Szybki strza\u0142",
             "front": {
-                "text": "Rozwi\u0105zany (-2 Do\u015bwiadczenie).\nNiezliczone. Szybka. Zagraj tylko podczas twojej tury.\nZadaj 1 obra\u017cenie wrogowi w twojej lokalizacji.\n<reaction> Po tym, jak dobierzesz <name> w trakcie twojej tury: zagraj go, obni\u017caj\u0105c jego koszt o 2.",
-                "traits": "Duch.",
-                "flavor_text": "Nie bez powodu m\u00f3wili, \u017ce Siostra Sofia to \u201er\u0119ka Boga\u201d."
+                "text": "Rozwi\u0105zana (-2 do\u015bwiadczenia).\nNiezliczone. Szybka. Zagraj tylko podczas twojej tury.\nZadaj 1 obra\u017cenie wrogowi w twojej lokalizacji.\n<reaction> Po tym, jak dobierzesz <name> w trakcie twojej tury: zagraj go, obni\u017caj\u0105c jego koszt o 2.",
+                "flavor_text": "Nie bez powodu m\u00f3wili, \u017ce Siostra Sofia to \u201er\u0119ka Boga\u201d.",
+                "traits": "Duch."
             },
             "back": {}
         },
