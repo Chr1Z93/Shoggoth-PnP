@@ -6,7 +6,7 @@
     "cards": [
         {
             "name": "Hunter's Instinct",
-            "id": "6f5ad300-cbd2-4b2b-905e-b356114ed0d5",
+            "id": "60574",
             "amount": 2,
             "front": {
                 "type": "asset",
@@ -34,7 +34,7 @@
         },
         {
             "name": "Machete",
-            "id": "b76dd387-4ac7-4a8f-82fb-6c31d68cf10c",
+            "id": "12020",
             "amount": 2,
             "front": {
                 "type": "asset",
@@ -64,7 +64,7 @@
         },
         {
             "name": "Scrape By",
-            "id": "bb67ab9d-6efc-42fd-940f-c3ef54dc889c",
+            "id": "12082",
             "amount": 2,
             "front": {
                 "type": "event",
@@ -89,7 +89,7 @@
         },
         {
             "name": "Endurance",
-            "id": "0cc7f1a4-1c28-4b66-82a4-70c29da09f14",
+            "id": "60178",
             "amount": 2,
             "front": {
                 "type": "asset",
