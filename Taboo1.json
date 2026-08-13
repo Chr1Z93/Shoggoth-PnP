@@ -286,7 +286,7 @@
                     "hands"
                 ],
                 "icons": "CA",
-                "illustration": ".\\img\\ahc02-226 Springfield M1903-photoshopped edges - Jason Caffoe.png",
+                "illustration": "./img/ahc02-226 Springfield M1903-photoshopped edges - Jason Caffoe.png",
                 "illustration_pan_x": 99.0,
                 "illustration_pan_y": 219.0,
                 "illustration_scale": 2.0
@@ -428,7 +428,7 @@
                 "illustration_pan_x": 64.0,
                 "illustration_pan_y": 67.0,
                 "illustration_scale": 1.24,
-                "illustration": ".\\img\\ahc02-300 Monster Slayer - Henning Ludvigsen.jpg"
+                "illustration": "./img/ahc02-300 Monster Slayer - Henning Ludvigsen.jpg"
             },
             "amount": 2,
             "back": {
@@ -490,7 +490,7 @@
                     "weakness"
                 ],
                 "flavor_text": "\"I've played so many roles. Madness is to be expected.\"<br> ",
-                "illustration": ".\\img\\ahc11-019 Crisis of Identity - Matt Bradbury.png",
+                "illustration": "./img/ahc11-019 Crisis of Identity - Matt Bradbury.png",
                 "illustration_pan_y": 71.0,
                 "illustration_pan_x": 103.0,
                 "illustration_scale": 1.73
@@ -585,7 +585,7 @@
                 ],
                 "icons": "WQ",
                 "subtitle": "Let the Storm Rage",
-                "illustration": ".\\img\\ahc11-315 Key of Ys - Stephen Somers.jpg",
+                "illustration": "./img/ahc11-315 Key of Ys - Stephen Somers.jpg",
                 "illustration_pan_x": 15.0,
                 "illustration_pan_y": 84.0,
                 "illustration_scale": 2.0
@@ -724,7 +724,7 @@
                     "hands"
                 ],
                 "icons": "CCQ",
-                "illustration": ".\\img\\ahc19-305 Flamethrower - Jose Vega.png",
+                "illustration": "./img/ahc19-305 Flamethrower - Jose Vega.png",
                 "illustration_pan_x": 64.0,
                 "illustration_pan_y": 131.0,
                 "illustration_scale": 2.0
@@ -777,7 +777,7 @@
                 ],
                 "icons": "IC",
                 "flavor_text": "He was hiding something\u2026 but why?",
-                "illustration": ".\\img\\ahc29-020 Interrogate - John Pacer.jpg",
+                "illustration": "./img/ahc29-020 Interrogate - John Pacer.jpg",
                 "illustration_pan_x": 0.0,
                 "illustration_scale": 1.174,
                 "illustration_pan_y": -40.0
@@ -1221,7 +1221,7 @@
                     "hands"
                 ],
                 "icons": "A",
-                "illustration": ".\\img\\ahc37-195 35 Winchester-bright - Stephen Somers.jpg",
+                "illustration": "./img/ahc37-195 35 Winchester-bright - Stephen Somers.jpg",
                 "illustration_pan_x": 55.0,
                 "illustration_pan_y": 239.0,
                 "illustration_scale": 0.613
@@ -1449,7 +1449,7 @@
                 ],
                 "icons": "WQ",
                 "flavor_text": "Even in the deepest darkness, light can still bloom.",
-                "illustration": ".\\img\\ahc52-301 Hallow - Romana Kendelic.jpg",
+                "illustration": "./img/ahc52-301 Hallow - Romana Kendelic.jpg",
                 "illustration_pan_x": -71.0,
                 "illustration_pan_y": -18.0,
                 "illustration_scale": 1.73
@@ -1502,7 +1502,7 @@
                 "classes": [
                     "guardian"
                 ],
-                "illustration": ".\\img\\ahc63-019 Geared Up - Lindsey Messecar.png",
+                "illustration": "./img/ahc63-019 Geared Up - Lindsey Messecar.png",
                 "illustration_pan_x": 53.0,
                 "illustration_pan_y": 176.0,
                 "illustration_scale": 2.0
@@ -1652,7 +1652,7 @@
                     "hands"
                 ],
                 "icons": "WWCC",
-                "illustration": ".\\img\\ahc63-093 Cyclopean Hammer - Robert Laskey.png",
+                "illustration": "./img/ahc63-093 Cyclopean Hammer - Robert Laskey.png",
                 "illustration_pan_x": 104.0,
                 "illustration_pan_y": 208.0,
                 "illustration_scale": 2.0
@@ -1683,7 +1683,7 @@
                     "accessory"
                 ],
                 "icons": "IA",
-                "illustration": ".\\img\\ahc63-098 Eon Chart-tall - Ignacio Baz\u00e1n Lazcano.png",
+                "illustration": "./img/ahc63-098 Eon Chart-tall - Ignacio Baz\u00e1n Lazcano.png",
                 "illustration_pan_x": 98.0,
                 "illustration_pan_y": 73.0,
                 "illustration_scale": 2.0
@@ -1718,7 +1718,7 @@
                 ],
                 "icons": "IA",
                 "subtitle": "Intrepid Explorer",
-                "illustration": ".\\img\\ahc63-099 Gen\u00e9 Beauregard - Vlad Ricean.png",
+                "illustration": "./img/ahc63-099 Gen\u00e9 Beauregard - Vlad Ricean.png",
                 "illustration_pan_x": 90.0,
                 "illustration_pan_y": 117.0,
                 "illustration_scale": 2.0
@@ -1749,7 +1749,7 @@
                     "accessory"
                 ],
                 "icons": "IAQ",
-                "illustration": ".\\img\\ahc63-098 Eon Chart-tall - Ignacio Baz\u00e1n Lazcano.png",
+                "illustration": "./img/ahc63-098 Eon Chart-tall - Ignacio Baz\u00e1n Lazcano.png",
                 "illustration_pan_y": 73.0,
                 "illustration_pan_x": 98.0,
                 "illustration_scale": 2.0
@@ -1776,7 +1776,7 @@
                     "rogue",
                     "survivor"
                 ],
-                "illustration": ".\\img\\ahc63-113 Unscrupulous Loan - Drazenka Kimpel.jpg",
+                "illustration": "./img/ahc63-113 Unscrupulous Loan - Drazenka Kimpel.jpg",
                 "illustration_scale": 2.15,
                 "illustration_pan_x": 59.0,
                 "illustration_pan_y": 238.0
@@ -1807,7 +1807,7 @@
                     "hands"
                 ],
                 "icons": "C",
-                "illustration": ".\\img\\ahc69-022 Runic Axe - darkened - Pixoloid Studios.png",
+                "illustration": "./img/ahc69-022 Runic Axe - darkened - Pixoloid Studios.png",
                 "illustration_pan_x": 71.0,
                 "illustration_pan_y": 240.0,
                 "illustration_scale": 2.0
@@ -2033,7 +2033,7 @@
                 ],
                 "icons": "CA",
                 "flavor_text": "\"H-hands where I can see 'em!\"",
-                "illustration": ".\\img\\ahc76-026 Hold Up - Robert Laskey.jpg",
+                "illustration": "./img/ahc76-026 Hold Up - Robert Laskey.jpg",
                 "illustration_pan_x": 96.0,
                 "illustration_pan_y": 77.0,
                 "illustration_scale": 1.4
@@ -2061,7 +2061,7 @@
                 ],
                 "icons": "IC",
                 "flavor_text": "Keep your eyes on the target.",
-                "illustration": ".\\img\\ahc76-030 Hand-Eye Coordination - export - Romana Kendelic.png",
+                "illustration": "./img/ahc76-030 Hand-Eye Coordination - export - Romana Kendelic.png",
                 "illustration_pan_x": 60.0,
                 "illustration_pan_y": 47.0,
                 "illustration_scale": 1.0
@@ -2087,7 +2087,7 @@
                     "guardian"
                 ],
                 "icons": "CA",
-                "illustration": ".\\img\\ahc76-031 Strong-Armed - Jon Bosco.jpg",
+                "illustration": "./img/ahc76-031 Strong-Armed - Jon Bosco.jpg",
                 "illustration_pan_x": 91.0,
                 "illustration_pan_y": 245.0,
                 "illustration_scale": 2.0
@@ -2114,7 +2114,7 @@
                     "guardian"
                 ],
                 "icons": "CAQ",
-                "illustration": ".\\img\\ahc76-037 Flurry of Blows - splash - Lin Hsiang.png",
+                "illustration": "./img/ahc76-037 Flurry of Blows - splash - Lin Hsiang.png",
                 "illustration_pan_x": -48.0,
                 "illustration_pan_y": -64.0,
                 "illustration_scale": 2.536
@@ -2266,7 +2266,7 @@
                 ],
                 "icons": "CA",
                 "flavor_text": "They called Sister Sofia the \"hand of God\" for a very good reason.",
-                "illustration": ".\\img\\ahc83-031 Quick Shot - Gabrielle Portal.jpg",
+                "illustration": "./img/ahc83-031 Quick Shot - Gabrielle Portal.jpg",
                 "illustration_pan_y": -46.0,
                 "illustration_pan_x": -7.0,
                 "illustration_scale": 0.95
@@ -2410,7 +2410,7 @@
                 "icons": "IQ",
                 "subtitle": "Beleaguered Lecturer",
                 "flavor_text": "\"'Publish or Perish,' they said. Perhaps we'll do both.\"",
-                "illustration": ".\\img\\ahc83-117 Archibald MacVeigh - Alexandre Dainche.jpg",
+                "illustration": "./img/ahc83-117 Archibald MacVeigh - Alexandre Dainche.jpg",
                 "illustration_pan_y": 103.0,
                 "illustration_pan_x": -161.0,
                 "illustration_scale": 1.3
@@ -2459,7 +2459,7 @@
                     "specialist"
                 ],
                 "icons": "ICQ",
-                "illustration": ".\\img\\ahc83-120 On Their Heels - Aaron B Miller.jpg",
+                "illustration": "./img/ahc83-120 On Their Heels - Aaron B Miller.jpg",
                 "illustration_pan_x": 103.0,
                 "illustration_pan_y": -226.0,
                 "illustration_scale": 2.2
