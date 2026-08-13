@@ -489,7 +489,11 @@
                 "classes": [
                     "weakness"
                 ],
-                "flavor_text": "\"I've played so many roles. Madness is to be expected.\""
+                "flavor_text": "\"I've played so many roles. Madness is to be expected.\"<br> ",
+                "illustration": ".\\img\\ahc11-019 Crisis of Identity - Matt Bradbury.png",
+                "illustration_pan_y": 71.0,
+                "illustration_pan_x": 103.0,
+                "illustration_scale": 1.73
             },
             "amount": 2,
             "back": {
@@ -827,7 +831,11 @@
                 "slots": [
                     "hand"
                 ],
-                "icons": "I"
+                "icons": "I",
+                "illustration": "./img/ahc29-116 Scroll of Secrets (Multiclass) - Matthew Cowdery.png",
+                "illustration_scale": 2.06,
+                "illustration_pan_y": 190.0,
+                "illustration_pan_x": 63.0
             },
             "amount": 2,
             "back": {
@@ -1641,9 +1649,13 @@
                     "mystic"
                 ],
                 "slots": [
-                    "hand x2"
+                    "hands"
                 ],
-                "icons": "WWCC"
+                "icons": "WWCC",
+                "illustration": ".\\img\\ahc63-093 Cyclopean Hammer - Robert Laskey.png",
+                "illustration_pan_x": 104.0,
+                "illustration_pan_y": 208.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -1670,7 +1682,11 @@
                 "slots": [
                     "accessory"
                 ],
-                "icons": "IA"
+                "icons": "IA",
+                "illustration": ".\\img\\ahc63-098 Eon Chart-tall - Ignacio Baz\u00e1n Lazcano.png",
+                "illustration_pan_x": 98.0,
+                "illustration_pan_y": 73.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -1701,7 +1717,11 @@
                     "ally"
                 ],
                 "icons": "IA",
-                "subtitle": "Intrepid Explorer"
+                "subtitle": "Intrepid Explorer",
+                "illustration": ".\\img\\ahc63-099 Gen\u00e9 Beauregard - Vlad Ricean.png",
+                "illustration_pan_x": 90.0,
+                "illustration_pan_y": 117.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -1728,7 +1748,11 @@
                 "slots": [
                     "accessory"
                 ],
-                "icons": "IAQ"
+                "icons": "IAQ",
+                "illustration": ".\\img\\ahc63-098 Eon Chart-tall - Ignacio Baz\u00e1n Lazcano.png",
+                "illustration_pan_y": 73.0,
+                "illustration_pan_x": 98.0,
+                "illustration_scale": 2.0
             },
             "amount": 2,
             "back": {
@@ -1751,7 +1775,11 @@
                 "classes": [
                     "rogue",
                     "survivor"
-                ]
+                ],
+                "illustration": ".\\img\\ahc63-113 Unscrupulous Loan - Drazenka Kimpel.jpg",
+                "illustration_scale": 2.15,
+                "illustration_pan_x": 59.0,
+                "illustration_pan_y": 238.0
             },
             "amount": 2,
             "back": {
@@ -2381,7 +2409,11 @@
                 ],
                 "icons": "IQ",
                 "subtitle": "Beleaguered Lecturer",
-                "flavor_text": "\"'Publish or Perish,' they said. Perhaps we'll do both.\""
+                "flavor_text": "\"'Publish or Perish,' they said. Perhaps we'll do both.\"",
+                "illustration": ".\\img\\ahc83-117 Archibald MacVeigh - Alexandre Dainche.jpg",
+                "illustration_pan_y": 103.0,
+                "illustration_pan_x": -161.0,
+                "illustration_scale": 1.3
             },
             "amount": 2,
             "back": {
@@ -2426,7 +2458,11 @@
                 "classes": [
                     "specialist"
                 ],
-                "icons": "ICQ"
+                "icons": "ICQ",
+                "illustration": ".\\img\\ahc83-120 On Their Heels - Aaron B Miller.jpg",
+                "illustration_pan_x": 103.0,
+                "illustration_pan_y": -226.0,
+                "illustration_scale": 2.2
             },
             "amount": 2,
             "back": {

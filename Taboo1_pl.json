@@ -156,8 +156,8 @@
             "name": "Kryzys to\u017csamo\u015bci",
             "front": {
                 "text": "Zmutowana.\n<b>Odkrycie</b> - Odrzu\u0107 1 kart\u0119 z twojej r\u0119ki lub obszaru gry twojej obecnej roli. Nast\u0119pnie odrzu\u0107 wierzchni\u0105 kart\u0119 z twojej talii. Zmie\u0144 twoj\u0105 rol\u0119 na rol\u0119 odpowiadaj\u0105c\u0105 klasie odrzuconej karty (je\u015bli odrzucona karta to os\u0142abienie, zmie\u0144 rol\u0119 na neutraln\u0105).",
-                "traits": "Szale\u0144stwo.",
-                "flavor_text": "\u201eWciela\u0142am si\u0119 ju\u017c w tak wiele r\u00f3l. Mo\u017cna si\u0119 by\u0142o spodziewa\u0107, \u017ce dopadnie mnie szale\u0144stwo\u201d."
+                "flavor_text": "\u201eWciela\u0142am si\u0119 ju\u017c w tak wiele r\u00f3l. Mo\u017cna si\u0119 by\u0142o spodziewa\u0107, \u017ce dopadnie mnie szale\u0144stwo\u201d.<br> ",
+                "traits": "Szale\u0144stwo."
             },
             "back": {}
         },
@@ -539,16 +539,17 @@
         "4711aaca-6ffe-5df0-996a-132e6c858861": {
             "name": "Gen\u00e9 Beauregard",
             "front": {
-                "text": "Skr\u0119powany (+2 Do\u015bwiadczenie).\nDostajesz +1 [intellect] i +1 [agility].\n<reaction> Podczas twojej tury, po tym jak poruszysz si\u0119 do dowolnej lokalizacji, wyczerp <name>: porusz 1 \u017ceton wskaz\u00f3wki albo nie-<t>Elitarnego</t> wroga z po\u0142\u0105czonej lokalizacji do twojej lokalizacji, albo na odwr\u00f3t.",
-                "traits": "Sprzymierzeniec. Podr\u00f3\u017cnik.",
-                "subtitle": "Nieustraszony odkrywca"
+                "name": "<unique><name>",
+                "text": "Skr\u0119powana (+2 do\u015bwiadczenia).\nDostajesz +1 [intellect] i +1 [agility].\n<reaction> Podczas twojej tury, po tym jak poruszysz si\u0119 do dowolnej lokalizacji, wyczerp <name>: porusz 1 \u017ceton wskaz\u00f3wki albo nie-<t>Elitarnego</t> wroga z po\u0142\u0105czonej lokalizacji do twojej lokalizacji, albo na odwr\u00f3t.",
+                "subtitle": "Nieustraszony odkrywca",
+                "traits": "Sprzymierzeniec. Podr\u00f3\u017cnik."
             },
             "back": {}
         },
         "89b6d1f4-3962-5b32-b56b-e2e383d5ce71": {
             "name": "Mapa eon\u00f3w",
             "front": {
-                "text": "Zmutowana. Zu\u017cywalny (3 sekrety).\n<free> Podczas twojej tury wyczerp Map\u0119 eon\u00f3w i wydaj 1 sekret: wybierz i wykonaj jedn\u0105 z nast\u0119puj\u0105cych akcji podstawowych, w dowolnej kolejno\u015bci (ruch, wymykanie si\u0119 lub badanie).",
+                "text": "Zmutowana. Zu\u017cywalny (3 sekrety).\n<free> Podczas twojej tury wyczerp Map\u0119 eon\u00f3w i wydaj 1 sekret: wybierz i wykonaj dwie r\u00f3\u017cne akcje podstawowe z nast\u0119puj\u0105cych, w dowolnej kolejno\u015bci (ruch, wymykanie si\u0119 lub badanie).",
                 "traits": "Przedmiot. Relikwia."
             },
             "back": {}
@@ -745,17 +746,18 @@
         "cec0e52b-b3f8-5564-bc2a-5e6977a71f11": {
             "name": "Archibald MacVeigh",
             "front": {
-                "text": "Rozwi\u0105zany (-2 Do\u015bwiadczenie).\nTylko talia <t>Asystenta</t>, <t>Reportera</t> lub <t>Uczonego</t>. Zu\u017cywalny (4 sekrety).\nDostajesz +1 [intellect].\nSekrety na atutach, kt\u00f3re kontrolujesz, mog\u0105 by\u0107 wydawane jako \u017cetony zasob\u00f3w, aby op\u0142aci\u0107 koszt wydarze\u0144 z cech\u0105 <t>Informacja</t>, kt\u00f3re zagrywasz.",
-                "traits": "Sprzymierzeniec.",
+                "name": "<unique><name>",
+                "text": "Rozwi\u0105zana (-2 do\u015bwiadczenia).\nTylko talia <t>Asystenta</t>, <t>Reportera</t> lub <t>Uczonego</t>. Zu\u017cywalny (4 sekrety).\nDostajesz +1 [intellect].\nSekrety na atutach, kt\u00f3re kontrolujesz, mog\u0105 by\u0107 wydawane jako \u017cetony zasob\u00f3w, aby op\u0142aci\u0107 koszt wydarze\u0144 z cech\u0105 <t>Informacja</t>, kt\u00f3re zagrywasz.",
+                "flavor_text": "\u201e'Publikuj albo zgi\u0144', m\u00f3wili. Mo\u017ce zdarzy si\u0119 jedno i drugie\u201d.",
                 "subtitle": "Utalentowany wyk\u0142adowca",
-                "flavor_text": "\u201e'Publikuj albo zgi\u0144', m\u00f3wili. Mo\u017ce zdarzy si\u0119 jedno i drugie\u201d."
+                "traits": "Sprzymierzeniec."
             },
             "back": {}
         },
         "2f005f55-239e-5fcd-9b71-910b3f661004": {
             "name": "Karta biblioteczna",
             "front": {
-                "text": "Mutated. <t>Miskatonic</t>, <t>Scholar</t> deck only. Permanent. Limit 1 per deck.\n<free> During your turn, if there is no asset attached to Library Pass, exhaust Library Pass: Attach a <t>Tome</t> asset from your hand to Library Pass. Attached asset takes up no slots.\n<for> When your turn ends: Place attached asset on the bottom of your deck unless you spend 1 resource.",
+                "text": "Zmutowana. Tylko talia <t>Miskatonic</t> lub <t>Uczonego</t>. Trwa\u0142y. Limit 1 na tali\u0119.\n<free> Podczas twojej tury, je\u015bli \u017caden atut nie jest do\u0142\u0105czony do Karty bibliotecznej, wyczerp Kart\u0119 biblioteczn\u0105: do\u0142\u0105cz do tej karty atut z cech\u0105 <t>Ksi\u0119ga</t> z twojej r\u0119ki. Do\u0142\u0105czony atut nie zajmuje \u017cadnej strefy.\n<b>Wymuszony</b> -- Kiedy twoja tura dobiega ko\u0144ca: umie\u015b\u0107 do\u0142\u0105czony atut na spodzie twojej talii, chyba \u017ce wydasz 1 \u017ceton zasobu.",
                 "traits": "Przedmiot. Miskatonic."
             },
             "back": {}
@@ -763,7 +765,7 @@
         "57bc4b4e-ed53-5d92-84ca-61490398c49e": {
             "name": "Depcz\u0105cy po pi\u0119tach",
             "front": {
-                "text": "Mutated. <t>Detective</t>, <t>Hunter</t>, <t>Police</t>, <t>Reporter</t> deck only.\nLimit 1 per investigator. Uses (5 leads). If On Their Heels has no leads, discard it.\n<reaction> After you enter a location with 1 or more enemies, spend 1 lead and exhaust On Their Heels: Either discover 1 clue at your location or deal 1 damage to an enemy at your location.",
+                "text": "Zmutowana. Tylko talia <t>Detektywa</t>, <t>\u0141owcy</t>, <t>Policji</t> lub <t>Reportera</t>.\nLimit 1 na badacza. Zu\u017cywalny (5 trop\u00f3w). Je\u015bli na Depcz\u0105cym po pi\u0119tach nie ma \u017cadnych trop\u00f3w, odrzu\u0107 go.\n<reaction> Po tym, jak wejdziesz do lokalizacji, w kt\u00f3rej jest 1 lub wi\u0119cej wrog\u00f3w, wydaj 1 trop i wyczerp Depcz\u0105cego po pi\u0119tach: odkryj 1 \u017ceton wskaz\u00f3wki w twojej lokalizacji lub zadaj 1 obra\u017cenie wrogowi w twojej lokalizacji.",
                 "traits": "Talent."
             },
             "back": {}
