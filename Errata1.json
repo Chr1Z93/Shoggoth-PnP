@@ -54,7 +54,7 @@
                 "illustration_scale": 2.04,
                 "illustration_pan_y": 50.0,
                 "illustration_pan_x": 60.0,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/the_circle_undone.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/tcu.svg\">",
                 "collection_number": "313"
             },
             "back": {
@@ -83,7 +83,7 @@
                 "illustration_pan_y": 249.0,
                 "illustration_scale": 1.35,
                 "illustration_pan_x": -55.0,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/the_circle_undone.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/tcu.svg\">",
                 "collection_number": "316"
             },
             "back": {
@@ -198,7 +198,7 @@
                 "illustration": "./img/ahc29-273 MK 1 Grenades - Greg Bobrowski.jpg",
                 "illustration_scale": 0.82,
                 "illustration_pan_y": 180.0,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/the_circle_undone.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/tcu.svg\">",
                 "collection_number": "273"
             },
             "back": {
