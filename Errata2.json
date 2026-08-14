@@ -25,7 +25,7 @@
                 "illustration_scale": 2.2,
                 "illustration_pan_y": 34.0,
                 "illustration_pan_x": 60.0,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/miguel.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/miguel.svg\">",
                 "collection_number": "24"
             },
             "back": {
@@ -53,7 +53,7 @@
                 "illustration": "./img/ahc01-020 Machete-Jason Caffoe.jpg",
                 "illustration_pan_y": 221.0,
                 "illustration_pan_x": 111.0,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/core_2026.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/core_2026.svg\">",
                 "collection_number": "20",
                 "flavor_text": "Cuts through vines, underbrush, and tentacles equally well.",
                 "illustration_scale": 1.96
@@ -78,7 +78,7 @@
                 "text": "Fast. Play when you would fail a skill test during which a non-<auto_fail> token was revealed.\nYou succeed at that skill test by 0 instead. If a token with a symbol was revealed during that skill test, take 1 horror.",
                 "illustration_pan_y": 72.0,
                 "illustration_scale": 2.23,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/core_2026.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/core_2026.svg\">",
                 "collection_number": "82",
                 "icons": "Q",
                 "cost": "1"
@@ -104,7 +104,7 @@
                 "illustrator": "Illus. Lin Hsiang",
                 "illustration_pan_y": 221.0,
                 "illustration_pan_x": 111.0,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/core_2026.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/core_2026.svg\">",
                 "collection_number": "28",
                 "illustration_scale": 1.96,
                 "level": "3"
@@ -117,5 +117,8 @@
     "id": "1dd2d9c8-40be-4db6-94f2-abef12436c60",
     "meta": {
         "dirty": []
+    },
+    "translations": {
+        "pl": "Errata2_pl.json"
     }
 }
