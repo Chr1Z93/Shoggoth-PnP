@@ -112,6 +112,74 @@
             "back": {
                 "type": "player"
             }
+        },
+        {
+            "id": "befdfbec-335a-4904-bdb7-1750978d22f2",
+            "name": "Glassing",
+            "front": {
+                "type": "event",
+                "classes": [
+                    "survivor"
+                ],
+                "name": "Glassing",
+                "copyright": "\u00a9 2026 FFG",
+                "illustrator": "Illus. Rob Laskey",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/miguel.svg\">",
+                "collection_number": "13",
+                "icons": "IAQ",
+                "cost": "2",
+                "traits": "Insight. Trap.",
+                "text": "Fast. Attach to your location. Limit 1 <t>Trap</t> per<br>location.\n<reaction> After an enemy enters attached location, exhaust Glassing: <b>Investigate</b> (<intellect> or <agility>). Investigate attached location. You get +1 skill value for this investigation. If you succeed, you may discard Glassing to discover 1 additional clue at this location. (<i>You may trigger this ability from any location.</i>)"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "id": "c88308ad-4c62-4b44-861f-2838d82d6476",
+            "name": "Lie in Wait",
+            "front": {
+                "type": "event",
+                "classes": [
+                    "survivor"
+                ],
+                "name": "Lie in Wait",
+                "traits": "Tactic. Trap.",
+                "icons": "WCQ",
+                "illustrator": "Illus. Rob Laskey",
+                "copyright": "\u00a9 2026 FFG",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/miguel.svg\">",
+                "collection_number": "16",
+                "cost": "2",
+                "illustration": ".\\img\\ahc105-016 Lie in Wait - Rob Laskey.jpg",
+                "illustration_pan_x": -0.0,
+                "illustration_pan_y": 20.0,
+                "text": "Fast. Attach to your location. Limit 1 <t>Trap</t> per location. \n<reaction> After an enemy enters this location, exhaust Lie in Wait: <b>Fight</b> (<combat> or <agility>). Fight that enemy. You get +1 skill value for this attack. If you succeed, you may discard Lie in Wait for this attack to deal +1 damage. (<i>You may trigger this ability from any location.</i>)"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "id": "6b1811aa-2f5b-420f-ab66-990faa5a7c68",
+            "name": "Decoy Trap",
+            "front": {
+                "type": "event",
+                "classes": [
+                    "survivor"
+                ],
+                "name": "Decoy Trap",
+                "traits": "Trap. Trick.",
+                "icons": "CAQ",
+                "copyright": "\u00a9 2026 FFG",
+                "illustrator": "Stanislav Dikolenko",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/miguel.svg\">",
+                "collection_number": "12",
+                "text": "Fast. Attach to your location. Limit 1 <t>Trap</t> per location.\n<reaction> After an enemy enters attached location, exhaust Decoy Trap: <b>Evade</b> (<intellect> or <agility>). Evade that enemy. You get +1 skill value for this evasion. If this test succeeds, you may discard Decoy Trap to move to this location. (<i>You may trigger this ability from any location.</i>)"
+            },
+            "back": {
+                "type": "player"
+            }
         }
     ],
     "id": "1dd2d9c8-40be-4db6-94f2-abef12436c60",
