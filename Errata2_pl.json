@@ -24,7 +24,7 @@
         "12082": {
             "name": "O ma\u0142y w\u0142os",
             "front": {
-                "text": "Szybka. Zagraj, kiedy tw\u00f3j test umiej\u0119tno\u015bci, podczas kt\u00f3rego odkryty zosta\u0142 \u017ceton chaosu inny ni\u017c <auto_fail>, mia\u0142by zako\u0144czy\u0107 si\u0119 pora\u017ck\u0105.\nZamiast tego ten test ko\u0144czy si\u0119 sukcesem<br>o 0. Je\u015bli podczas tego testu odkryty zosta\u0142 \u017ceton z symbolem, otrzymujesz 1 punkt<br> przera\u017cenia.",
+                "text": "Szybka. Zagraj, kiedy tw\u00f3j test umiej\u0119tno\u015bci, podczas kt\u00f3rego odkryty zosta\u0142 \u017ceton chaosu inny ni\u017c <auto_fail>, mia\u0142by zako\u0144czy\u0107 si\u0119 pora\u017ck\u0105.\nTen test zamiast tego ko\u0144czy si\u0119 sukcesem<br>o 0. Je\u015bli podczas tego testu odkryty zosta\u0142 \u017ceton z symbolem, otrzymujesz 1 punkt<br> przera\u017cenia.",
                 "traits": "Los."
             },
             "back": {}
