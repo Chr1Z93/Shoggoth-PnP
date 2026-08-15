@@ -3,6 +3,77 @@
     "project": "Errata2.json",
     "project_name": "Errata2",
     "encounter_sets": {},
-    "cards": {},
+    "cards": {
+        "12020": {
+            "name": "Maczeta",
+            "front": {
+                "text": "<action>: <b>Walka</b> (<combat>). Do tego ataku dostajesz +1<combat>. Je\u015bli test zako\u0144czy si\u0119 sukcesem i zaatakowany wr\u00f3g jest jedynym wrogiem znajduj\u0105cym si\u0119<br>z tob\u0105 w zwarciu, mo\u017cesz wyczerpa\u0107 Maczet\u0119,<br>aby ten atak zada\u0142 +1 obra\u017cenie.",
+                "flavor_text": "Doskonale \u015bcina winoro\u015ble, krzaki i macki.",
+                "traits": "Przedmiot. Bro\u0144. Bia\u0142a."
+            },
+            "back": {}
+        },
+        "60178": {
+            "name": "Wytrzyma\u0142o\u015b\u0107",
+            "front": {
+                "text": "Startowa. <i>(Mo\u017cesz rozpocz\u0105\u0107 gr\u0119 z 1 kopi\u0105 startowej karty<br>na twojej pocz\u0105tkowej r\u0119ce.)</i>\n<free>Wydaj 1 zas\u00f3b: do tego testu umiej\u0119tno\u015bci dostajesz +1 <combat> (zamiast tego +2 <combat>, je\u015bli to atak lub wymykanie si\u0119).\n<free> Wydaj 1 zas\u00f3b: do tego testu umiej\u0119tno\u015bci dostajesz  +1 <agility> (zamiast tego +2 <agility>, je\u015bli to atak lub wymykanie si\u0119).",
+                "traits": "Talent."
+            },
+            "back": {}
+        },
+        "12082": {
+            "name": "O ma\u0142y w\u0142os",
+            "front": {
+                "text": "Szybka. Zagraj, kiedy tw\u00f3j test umiej\u0119tno\u015bci, podczas kt\u00f3rego odkryty zosta\u0142 \u017ceton chaosu inny ni\u017c <auto_fail>, mia\u0142by zako\u0144czy\u0107 si\u0119 pora\u017ck\u0105.\nZamiast tego ten test ko\u0144czy si\u0119 sukcesem<br>o 0. Je\u015bli podczas tego testu odkryty zosta\u0142 \u017ceton z symbolem, otrzymujesz 1 punkt<br> przera\u017cenia.",
+                "traits": "Los."
+            },
+            "back": {}
+        },
+        "60574": {
+            "name": "Instynkt \u0142owcy",
+            "front": {
+                "name": "Instynkt \u0142owcy",
+                "text": "Limit 1 na badacza. Zu\u017cywalny (3 zapasy).<br>Je\u015bli na Instynkcie \u0142owcy nie ma \u017cadnych zapas\u00f3w, odrzu\u0107 go.\n<reaction> Po tym, jak wejdziesz w zwarcie z wrogiem, wydaj 1 zapasy i wyczerp <name>: dodaj na swoj\u0105 r\u0119k\u0119<br>kart\u0119 wydarzenia poziomu 0-2 z twojego stosu kart<br>odrzuconych.",
+                "traits": "Talent."
+            },
+            "back": {}
+        },
+        "60563": {
+            "name": "Na czatach",
+            "front": {
+                "name": "Na czatach",
+                "text": "Szybka. Do\u0142\u0105cz do twojej lokalizacji. Limit 1 <t>Pu\u0142apka</t> na lokalizacj\u0119.\n<reaction> Po tym, jak wr\u00f3g wejdzie do lokalizacji, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119, wyczerp Na czatach: <b>Badanie</b> (<intellect><br>lub <agility>). Zbadaj lokalizacj\u0119, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119. Dostajesz +1 do warto\u015bci umiej\u0119tno\u015bci do tego badania. Je\u015bli test zako\u0144czy si\u0119 sukcesem, mo\u017cesz odrzuci\u0107 Na czatach, aby odkry\u0107 1 dodatkow\u0105 wskaz\u00f3wk\u0119 w tej lokalizacji. (<i>Mo\u017cesz aktywowa\u0107 t\u0119 zdolno\u015b\u0107 z dowolnej lokalizacji</i>).",
+                "traits": "Informacja. Pu\u0142apka."
+            },
+            "back": {}
+        },
+        "befdfbec-335a-4904-bdb7-1750978d22f2": {
+            "name": "Na czatach",
+            "front": {
+                "name": "Na czatach",
+                "text": "Szybka. Do\u0142\u0105cz do twojej lokalizacji. Limit 1 <t>Pu\u0142apka</t> na lokalizacj\u0119.\n<reaction> Po tym, jak wr\u00f3g wejdzie do lokalizacji, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119, wyczerp Na czatach: <b>Badanie</b> (<intellect><br>lub <agility>). Zbadaj lokalizacj\u0119, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119. Dostajesz +1 do warto\u015bci umiej\u0119tno\u015bci do tego badania. Je\u015bli test zako\u0144czy si\u0119 sukcesem, mo\u017cesz odrzuci\u0107 Na czatach, aby odkry\u0107 1 dodatkow\u0105 wskaz\u00f3wk\u0119 w tej lokalizacji. (<i>Mo\u017cesz aktywowa\u0107 t\u0119 zdolno\u015b\u0107 z dowolnej lokalizacji</i>).",
+                "traits": "Informacja. Pu\u0142apka."
+            },
+            "back": {}
+        },
+        "c88308ad-4c62-4b44-861f-2838d82d6476": {
+            "name": "W ukryciu",
+            "front": {
+                "name": "W ukryciu",
+                "text": "Szybka. Do\u0142\u0105cz do twojej lokalizacji. Limit 1 <t>Pu\u0142apka</t> na lokalizacj\u0119.\n<reaction> Po tym, jak wr\u00f3g wejdzie do tej lokalizacji, wyczerp W ukryciu: <b>Walka</b> (<combat> lub <agility>). Walcz z tym wrogiem. Dostajesz +1 do warto\u015bci umiej\u0119tno\u015bci do tego ataku. Je\u015bli test zako\u0144czy si\u0119 sukcesem, mo\u017cesz odrzuci\u0107 <name>, aby ten atak zada\u0142 +1 obra\u017cenie. (<i>Mo\u017cesz aktywowa\u0107 t\u0119 zdolno\u015b\u0107 z dowolnej lokalizacji</i>).",
+                "traits": "Taktyka. Pu\u0142apka."
+            },
+            "back": {}
+        },
+        "6b1811aa-2f5b-420f-ab66-990faa5a7c68": {
+            "name": "Pu\u0142apka-wabik",
+            "front": {
+                "name": "Pu\u0142apka-wabik",
+                "text": "This card has correct text in Polish.\nText tej karty nie zawiera b\u0142\u0119d\u00f3w w j\u0119zyku polskim.",
+                "traits": "Pu\u0142apka. Sztuczka."
+            },
+            "back": {}
+        }
+    },
     "guides": []
 }
