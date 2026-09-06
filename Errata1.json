@@ -54,7 +54,7 @@
                 "illustration_scale": 2.04,
                 "illustration_pan_y": 50.0,
                 "illustration_pan_x": 60.0,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/tcu.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "collection_number": "313"
             },
             "back": {
@@ -83,7 +83,7 @@
                 "illustration_pan_y": 249.0,
                 "illustration_scale": 1.35,
                 "illustration_pan_x": -55.0,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/tcu.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "collection_number": "316"
             },
             "back": {
@@ -117,7 +117,7 @@
                 "illustration_scale": 2.0,
                 "illustration_pan_y": 60.0,
                 "illustration_pan_x": 77.0,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/dream.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/dream.svg\">",
                 "collection_number": "30"
             },
             "back": {
@@ -146,7 +146,7 @@
                 "illustration": "./img/ahc60-014 Wendy's Amulet - revcore - Alexander Karcz.jpg",
                 "illustration_scale": 0.8,
                 "illustration_pan_x": 100.0,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/core.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/core.svg\">",
                 "collection_number": "14",
                 "name": "<unique><name>"
             },
@@ -172,7 +172,7 @@
                 "illustration_scale": 2.0,
                 "illustration_pan_y": 100.0,
                 "illustration_pan_x": 70.0,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/carcosa.svg\">",
                 "collection_number": "264"
             },
             "back": {
@@ -198,7 +198,7 @@
                 "illustration": "./img/ahc29-273 MK 1 Grenades - Greg Bobrowski.jpg",
                 "illustration_scale": 0.82,
                 "illustration_pan_y": 180.0,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/tcu.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "collection_number": "273"
             },
             "back": {
@@ -225,7 +225,7 @@
                 "illustration_pan_y": 52.0,
                 "illustration_pan_x": 70.0,
                 "illustration_scale": 2.04,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/carcosa.svg\">",
                 "collection_number": "153"
             },
             "back": {
@@ -247,7 +247,7 @@
                 "illustrator": "Illus. Adam S. Doyle",
                 "copyright": "\u00a9 2020 FFG",
                 "illustration": "./img/nah15-018 Yaztaroth-Adam S Doyle.jpg",
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/novella.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/novella.svg\">",
                 "collection_number": "18"
             },
             "back": {
@@ -271,7 +271,7 @@
                 "illustration": "./img/ahc69-020 Burden of Leadership - Borja Pindado.jpg",
                 "illustration_pan_y": -65.0,
                 "illustration_pan_x": -5.0,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/tsk.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
                 "collection_number": "20"
             },
             "back": {
@@ -295,7 +295,7 @@
                 "illustration": "./img/09107.jpg",
                 "illustration_pan_y": 72.0,
                 "illustration_scale": 2.23,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/tsk.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
                 "collection_number": "107"
             },
             "back": {
@@ -328,7 +328,7 @@
                 "illustration_pan_x": 70.0,
                 "health": "1",
                 "sanity": "2",
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/tdcp.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
                 "collection_number": "69"
             },
             "back": {
@@ -358,7 +358,7 @@
                 "illustration_scale": 1.76,
                 "illustration_pan_y": 150.0,
                 "illustration_pan_x": 20.0,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/tdcp.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
                 "collection_number": "103"
             },
             "back": {
@@ -391,7 +391,7 @@
                 "illustration_scale": 2.0,
                 "illustration_pan_y": 150.0,
                 "illustration_pan_x": 10.0,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/enthralling_encore.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
                 "collection_number": "93"
             },
             "back": {
@@ -418,7 +418,7 @@
                 "illustration_scale": 2.04,
                 "illustration_pan_y": 52.0,
                 "illustration_pan_x": 70.0,
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/return_to_the_path_to_carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/return_to_the_path_to_carcosa.svg\">",
                 "collection_number": "8"
             },
             "back": {
@@ -440,7 +440,7 @@
                 "illustrator": "Illus. Matthew Cowdery",
                 "copyright": "\u00a9 2020 FFG",
                 "collection_total": "26/42",
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/tic.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
                 "collection_number": "331a"
             },
             "back": {
@@ -464,7 +464,7 @@
                 "copyright": "\u00a9 2020 FFG",
                 "illustration_scale": 2.2,
                 "collection_total": "25/42",
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/tic.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
                 "collection_number": "330a"
             },
             "back": {
@@ -491,7 +491,7 @@
                 "classes": [
                     "weakness"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/tdcc.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcc.svg\">",
                 "collection_number": "253a"
             },
             "back": {
@@ -509,7 +509,7 @@
                 "copyright": "\u00a9 2025 FFG",
                 "illustrator": "Illus. JB Casacop",
                 "collection_total": "2/9",
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/tdcc.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcc.svg\">",
                 "collection_number": "174a"
             },
             "back": {
@@ -540,7 +540,7 @@
                 "illustration_pan_x": 68.0,
                 "illustration_pan_y": 50.0,
                 "name": "Rausschmiss",
-                "collection_icon": "<image color=\"inverted\" src=\".\/icons\/tdcp.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
                 "collection_number": "55"
             },
             "back": {
@@ -550,6 +550,7 @@
     ],
     "id": "1dd2d9c8-40be-4db6-94f2-abef12436c60",
     "meta": {
-        "dirty": []
+        "dirty": [],
+        "language": "en"
     }
 }

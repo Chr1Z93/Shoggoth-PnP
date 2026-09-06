@@ -2640,7 +2640,8 @@
         }
     ],
     "meta": {
-        "dirty": []
+        "dirty": [],
+        "language": "en"
     },
     "encounter_sets": [],
     "translations": {
