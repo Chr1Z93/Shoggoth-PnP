@@ -117,7 +117,7 @@
                 "illustration_pan_x": -270.0,
                 "illustration_pan_y": 103.0,
                 "illustration_scale": 0.919,
-                "illustration_shape": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/Rex Murphy - Mask.jpg"
+                "illustration_shape": "./img/Rex Murphy - Mask.jpg"
             },
             "amount": 1,
             "back": {
@@ -462,7 +462,7 @@
                 "illustration_pan_y": 183.0,
                 "illustration_scale": 0.445,
                 "illustration": "./img/Lola Hayes (ahc11-006)-screenshot - Magali Villeneuve.jpg",
-                "illustration_shape": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/Lola Hayes - Mask.jpg"
+                "illustration_shape": "./img/Lola Hayes - Mask.jpg"
             },
             "amount": 1,
             "back": {
@@ -1157,7 +1157,7 @@
                 "illustration_pan_x": -131.0,
                 "illustration_pan_y": 274.0,
                 "illustration_scale": 1.361,
-                "illustration_shape": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/Mandy Thompson - Mask.jpg"
+                "illustration_shape": "./img/Mandy Thompson - Mask.jpg"
             },
             "amount": 1,
             "back": {
@@ -1309,7 +1309,7 @@
                 "illustration_pan_x": 103.0,
                 "illustration_pan_y": 280.0,
                 "illustration_scale": 1.0,
-                "illustration_shape": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/Trish Scarborough - Mask.jpg"
+                "illustration_shape": "./img/Trish Scarborough - Mask.jpg"
             },
             "amount": 1,
             "back": {
