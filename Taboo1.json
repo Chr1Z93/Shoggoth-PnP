@@ -114,10 +114,10 @@
                 "subtitle": "The Reporter",
                 "flavor_text": "\"This time, nothing will stop me from getting at the truth!\"",
                 "illustration": "./img/Rex Murphy (ahc02-002) - Cristi Balanescu.jpg",
-                "mask_template": true,
                 "illustration_pan_x": -270.0,
                 "illustration_pan_y": 103.0,
-                "illustration_scale": 0.919
+                "illustration_scale": 0.919,
+                "illustration_shape": "./img/Rex Murphy - Mask.jpg"
             },
             "amount": 1,
             "back": {
@@ -458,11 +458,11 @@
                 "agility": "3",
                 "subtitle": "The Actress",
                 "flavor_text": "Perhaps this would be her big comeback.",
-                "mask_template": true,
                 "illustration_pan_x": 107.0,
                 "illustration_pan_y": 183.0,
                 "illustration_scale": 0.445,
-                "illustration": "./img/Lola Hayes (ahc11-006)-screenshot - Magali Villeneuve.jpg"
+                "illustration": "./img/Lola Hayes (ahc11-006)-screenshot - Magali Villeneuve.jpg",
+                "illustration_shape": "./img/Lola Hayes - Mask.jpg"
             },
             "amount": 1,
             "back": {
@@ -1154,10 +1154,10 @@
                 "agility": "3",
                 "subtitle": "The Researcher",
                 "illustration": "./img/Mandy Thompson (ahc37-002) - Tony Foti.jpg",
-                "mask_template": true,
                 "illustration_pan_x": -131.0,
                 "illustration_pan_y": 274.0,
-                "illustration_scale": 1.361
+                "illustration_scale": 1.361,
+                "illustration_shape": "./img/Mandy Thompson - Mask.jpg"
             },
             "amount": 1,
             "back": {
@@ -1306,10 +1306,10 @@
                 "agility": "4",
                 "subtitle": "The Spy",
                 "illustration": "./img/Trish Scarborough (ahc52-003) - Magali Villeneuve.webp",
-                "mask_template": true,
                 "illustration_pan_x": 103.0,
                 "illustration_pan_y": 280.0,
-                "illustration_scale": 1.0
+                "illustration_scale": 1.0,
+                "illustration_shape": "./img/Trish Scarborough - Mask.jpg"
             },
             "amount": 1,
             "back": {
