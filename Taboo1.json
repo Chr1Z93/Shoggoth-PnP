@@ -2473,7 +2473,7 @@
             "name": "The Necronomicon",
             "id": "60233-t",
             "front": {
-                "text": "Forbidden. Uses (6 secrets). Limit 1 per deck.\n<free> Spend 1 secret: You get +2 skill value for this test.\n<free> Spend 2 secrets: Draw 2 cards.\n<free> Spend 3 secrets: Discover 1 clue at any location.\n]<free> Spend 4 secrets: Deal 3 damage to an enemy engaged with you.",
+                "text": "Forbidden. Uses (6 secrets). Limit 1 per deck.\n<free> Spend 1 secret: You get +2 skill value for this test.\n<free> Spend 2 secrets: Draw 2 cards.\n<free> Spend 3 secrets: Discover 1 clue at any location.\n<free> Spend 4 secrets: Deal 3 damage to an enemy engaged with you.",
                 "traits": "Item. Tome.",
                 "type": "asset",
                 "cost": "3",
