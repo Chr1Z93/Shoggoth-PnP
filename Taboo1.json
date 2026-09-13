@@ -2006,9 +2006,9 @@
                 ],
                 "icons": "II",
                 "illustration": "./img/ahc51-007 Old Key Ring - Robert Laskey.jpg",
-                "illustration_pan_x": 79.0,
-                "illustration_pan_y": -34.0,
-                "illustration_scale": 2.519
+                "illustration_pan_x": 116.0,
+                "illustration_pan_y": 200.0,
+                "illustration_scale": 2.465
             },
             "amount": 2,
             "back": {
@@ -2324,7 +2324,11 @@
                     "accessory"
                 ],
                 "icons": "W",
-                "subtitle": "Law Incarnate"
+                "subtitle": "Law Incarnate",
+                "illustration": "./img/11065-t.png",
+                "illustration_scale": 2.05,
+                "illustration_pan_x": 38.0,
+                "illustration_pan_y": 70.0
             },
             "amount": 2,
             "back": {
@@ -2435,7 +2439,11 @@
                 "illustrator": "Illus. Pixoloid Studios",
                 "classes": [
                     "specialist"
-                ]
+                ],
+                "illustration": "./img/11118-t.webp",
+                "illustration_scale": 2.05,
+                "illustration_pan_y": 70.0,
+                "illustration_pan_x": 38.0
             },
             "amount": 1,
             "back": {
@@ -2516,7 +2524,11 @@
                     "rogue"
                 ],
                 "icons": "Q",
-                "flavor_text": "\"You're a maniac, Wini!\"\n\"I know! Isn't it wonderful?\""
+                "flavor_text": "\"You're a maniac, Wini!\"\n\"I know! Isn't it wonderful?\"",
+                "illustration": "./img/60318-t.png",
+                "illustration_scale": 2.05,
+                "illustration_pan_y": 70.0,
+                "illustration_pan_x": 38.0
             },
             "amount": 2,
             "back": {
