@@ -1135,7 +1135,7 @@
             "name": "Mandy Thompson",
             "id": "06002-t",
             "front": {
-                "text": "<reaction> When an investigator at your location would search their deck or the encounter deck: They may either search 3 additional cards or resolve 1 additional target of the search. (Limit once per round.)\n<elder_sign> effect: +0. Search the top 3 cards of your deck for a card and either draw it or commit it to this test, if able. Shuffle your deck.",
+                "text": "Mutated.\n<reaction> When an investigator at your location would search their deck or the encounter deck: They may either search 3 additional cards or resolve 1 additional target of the search. (Limit once per round.)\n<elder_sign> effect: +0. Search the top 3 cards of your deck for a card and either draw it or commit it to this test, if able. Shuffle your deck.",
                 "traits": "Assistant. Scholar.",
                 "name": "<unique><name>",
                 "type": "investigator",
