@@ -113,7 +113,7 @@
                 "agility": "3",
                 "subtitle": "The Reporter",
                 "flavor_text": "\"This time, nothing will stop me from getting at the truth!\"",
-                "illustration": "./img/Rex Murphy (ahc02-002) - Cristi Balanescu.jpg",
+                "illustration": "./img/Rex Murphy (ahc02-002) - Cristi Balanescu - brighter.jpg",
                 "illustration_pan_x": -370.0,
                 "illustration_pan_y": 80.0,
                 "illustration_shape": "./img/Rex Murphy - Mask.jpg",
@@ -124,7 +124,7 @@
                 "type": "investigator_back",
                 "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to five other level 0 cards from any other class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Search for the Truth, Rex's Curse, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No [[Fortune]] cards.",
                 "flavor_text": "When disaster strikes, <name> is usually on hand, suffering the consequences. After spending a day with Rex, even the most hardened skeptic will concede that the man is cursed. Anytime he had a lead on a good story, something would go wrong. That business in Innsmouth with the photographs that had blown out to sea. The tracks in Dunwich that had washed away in the rain just before he'd brought the sheriff. His terrible fortune has more than once exposed him to gruesome beasts and occult conspiracies. To survive, Rex has developed an inquisitive mind, keeping one step ahead of the next disaster.",
-                "illustration": "./img/Rex Murphy (ahc02-002) - Cristi Balanescu.jpg",
+                "illustration": "./img/Rex Murphy (ahc02-002) - Cristi Balanescu - brighter.jpg",
                 "illustration_pan_x": -237.0,
                 "illustration_pan_y": -33.0,
                 "illustration_scale": 0.649
@@ -460,9 +460,10 @@
                 "flavor_text": "Perhaps this would be her big comeback.",
                 "illustration_pan_x": 80.0,
                 "illustration_pan_y": 200.0,
-                "illustration_scale": 0.44,
+                "illustration_scale": 0.45,
                 "illustration": "./img/Lola Hayes (ahc11-006)-screenshot - Magali Villeneuve.jpg",
-                "illustration_shape": "./img/Lola Hayes - Mask.jpg"
+                "illustration_shape": "./img/Lola Hayes - Mask.jpg",
+                "illustration_fade_mode": "distance"
             },
             "amount": 1,
             "back": {
@@ -1157,7 +1158,8 @@
                 "illustration_pan_x": -25.0,
                 "illustration_pan_y": 310.0,
                 "illustration_scale": 1.24,
-                "illustration_shape": "./img/Mandy Thompson - Mask.jpg"
+                "illustration_shape": "./img/Mandy Thompson - Mask.jpg",
+                "illustration_fade_mode": "distance"
             },
             "amount": 1,
             "back": {
@@ -1307,9 +1309,10 @@
                 "subtitle": "The Spy",
                 "illustration": "./img/Trish Scarborough (ahc52-003) - Magali Villeneuve.webp",
                 "illustration_pan_x": 79.0,
-                "illustration_pan_y": 270.0,
-                "illustration_scale": 0.9,
-                "illustration_shape": "./img/Trish Scarborough - Mask.jpg"
+                "illustration_pan_y": 260.0,
+                "illustration_shape": "./img/Trish Scarborough - Mask.jpg",
+                "illustration_scale": 0.97,
+                "illustration_fade_mode": "distance"
             },
             "amount": 1,
             "back": {
