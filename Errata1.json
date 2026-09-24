@@ -117,7 +117,7 @@
                 "illustration_scale": 2.0,
                 "illustration_pan_y": 60.0,
                 "illustration_pan_x": 77.0,
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/dream.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tde.svg\">",
                 "collection_number": "30"
             },
             "back": {
@@ -172,7 +172,7 @@
                 "illustration_scale": 2.0,
                 "illustration_pan_y": 100.0,
                 "illustration_pan_x": 70.0,
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/ptc.svg\">",
                 "collection_number": "264"
             },
             "back": {
@@ -225,7 +225,7 @@
                 "illustration_pan_y": 52.0,
                 "illustration_pan_x": 70.0,
                 "illustration_scale": 2.04,
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/carcosa.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/ptc.svg\">",
                 "collection_number": "153"
             },
             "back": {
