@@ -1,40 +1,44 @@
 {
     "name": "Taboo1",
+    "id": "c0f976dd-f5a9-45be-abbf-2326e0ef1a7e",
     "code": "TAB1",
     "icon": "",
-    "id": "c0f976dd-f5a9-45be-abbf-2326e0ef1a7e",
+    "meta": {
+        "dirty": [],
+        "language": "en"
+    },
     "cards": [
         {
             "name": "Dr. Milan Christopher",
             "id": "01033-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\nYou get +1 [intellect].\n<reaction> After you successfully investigate, exhaust <name>: Gain 1 resource.",
-                "traits": "Ally. Miskatonic.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "cost": "4",
-                "level": "0",
-                "collection_number": "33",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/core.svg\">",
                 "copyright": "\u00a9 2016 FFG",
-                "illustrator": "Illus. Anthony Devine",
                 "classes": [
                     "seeker"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/core.svg\">",
+                "collection_number": "33",
+                "cost": "4",
+                "flavor_text": "\"While I truly believe that this nightmare is just a singular abomination, I must admit that I am exhilarated by the possibility that this is but one specimen of a new genus!\"",
                 "health": "1",
+                "icons": "I",
+                "illustration": "./img/ahc01-033 Dr. Milan Christopher-Anthony Devine.jpg",
+                "illustration_pan_x": 117.0,
+                "illustration_pan_y": 48.0,
+                "illustration_scale": 1.38,
+                "illustrator": "Illus. Anthony Devine",
+                "level": "0",
                 "sanity": "2",
                 "slots": [
                     "ally"
                 ],
-                "icons": "I",
                 "subtitle": "Professor of Entomology",
-                "flavor_text": "\"While I truly believe that this nightmare is just a singular abomination, I must admit that I am exhilarated by the possibility that this is but one specimen of a new genus!\"",
-                "illustration": "./img/ahc01-033 Dr. Milan Christopher-Anthony Devine.jpg",
-                "illustration_pan_x": 117.0,
-                "illustration_scale": 1.38,
-                "illustration_pan_y": 48.0
+                "text": "Mutated.\nYou get +1 [intellect].\n<reaction> After you successfully investigate, exhaust <name>: Gain 1 resource.",
+                "traits": "Ally. Miskatonic.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -42,23 +46,23 @@
         {
             "name": "Elusive",
             "id": "01050-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Fast. Play only during your turn.\nDisengage from each enemy engaged with you and move to a connecting location with no enemies.",
-                "traits": "Tactic.",
-                "type": "event",
-                "cost": "2",
-                "level": "0",
-                "collection_number": "50",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/core.svg\">",
                 "copyright": "\u00a9 2016 FFG",
-                "illustrator": "Illus. Adam Schumpert",
                 "classes": [
                     "rogue"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/core.svg\">",
+                "collection_number": "50",
+                "cost": "2",
                 "icons": "IA",
-                "illustration": "./img/ahc01-050 Elusive-Adam Schumpert.jpg"
+                "illustration": "./img/ahc01-050 Elusive-Adam Schumpert.jpg",
+                "illustrator": "Illus. Adam Schumpert",
+                "level": "0",
+                "text": "Mutated. Fast. Play only during your turn.\nDisengage from each enemy engaged with you and move to a connecting location with no enemies.",
+                "traits": "Tactic.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -66,26 +70,26 @@
         {
             "name": "Scavenging",
             "id": "01073-t",
+            "amount": 2,
             "front": {
-                "text": "Chained (+2 experience).\n<reaction> After you successfully investigate by 2 or more, exhaust <name>: Choose an <t>Item</t> card in your discard pile and add it to your hand.",
-                "traits": "Talent.",
-                "type": "asset",
-                "cost": "1",
-                "level": "0",
-                "collection_number": "73",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/core.svg\">",
                 "copyright": "\u00a9 2016 FFG",
-                "illustrator": "Illus. Derk Venneman",
                 "classes": [
                     "survivor"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/core.svg\">",
+                "collection_number": "73",
+                "cost": "1",
                 "icons": "I",
                 "illustration": "./img/ahc60-073 Scavenging - revcore - Aleksander Karcz.jpg",
                 "illustration_pan_x": 9.0,
                 "illustration_pan_y": 251.0,
-                "illustration_scale": 0.895
+                "illustration_scale": 0.895,
+                "illustrator": "Illus. Derk Venneman",
+                "level": "0",
+                "text": "Chained (+2 experience).\n<reaction> After you successfully investigate by 2 or more, exhaust <name>: Choose an <t>Item</t> card in your discard pile and add it to your hand.",
+                "traits": "Talent.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -93,64 +97,64 @@
         {
             "name": "Rex Murphy",
             "id": "02002-t",
+            "amount": 1,
             "front": {
-                "text": "Mutated.\n<reaction> After you succeed at a skill test by 2 or more while investigating: Discover 1 clue at your location. (Limit once per round.)\n<elder_sign> effect: +2. You may instead choose to automatically fail this skill test to draw 3 cards.",
-                "traits": "Reporter.",
                 "name": "<unique><name>",
-                "type": "investigator",
-                "collection_number": "2",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
                 "copyright": "\u00a9 2016 FFG",
-                "illustrator": "Illus. Cristi Balanescu",
+                "agility": "3",
                 "classes": [
                     "seeker"
                 ],
-                "health": "6",
-                "sanity": "9",
-                "willpower": "3",
-                "intellect": "4",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
+                "collection_number": "2",
                 "combat": "2",
-                "agility": "3",
-                "subtitle": "The Reporter",
                 "flavor_text": "\"This time, nothing will stop me from getting at the truth!\"",
+                "health": "6",
                 "illustration": "./img/Rex Murphy (ahc02-002) - Cristi Balanescu - brighter.jpg",
                 "illustration_pan_x": -370.0,
                 "illustration_pan_y": 80.0,
+                "illustration_scale": 1.0,
                 "illustration_shape": "./img/Rex Murphy - Mask.jpg",
-                "illustration_scale": 1.0
+                "illustrator": "Illus. Cristi Balanescu",
+                "intellect": "4",
+                "sanity": "9",
+                "subtitle": "The Reporter",
+                "text": "Mutated.\n<reaction> After you succeed at a skill test by 2 or more while investigating: Discover 1 clue at your location. (Limit once per round.)\n<elder_sign> effect: +2. You may instead choose to automatically fail this skill test to draw 3 cards.",
+                "traits": "Reporter.",
+                "type": "investigator",
+                "willpower": "3"
             },
-            "amount": 1,
             "back": {
-                "type": "investigator_back",
-                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to five other level 0 cards from any other class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Search for the Truth, Rex's Curse, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No [[Fortune]] cards.",
                 "flavor_text": "When disaster strikes, <name> is usually on hand, suffering the consequences. After spending a day with Rex, even the most hardened skeptic will concede that the man is cursed. Anytime he had a lead on a good story, something would go wrong. That business in Innsmouth with the photographs that had blown out to sea. The tracks in Dunwich that had washed away in the rain just before he'd brought the sheriff. His terrible fortune has more than once exposed him to gruesome beasts and occult conspiracies. To survive, Rex has developed an inquisitive mind, keeping one step ahead of the next disaster.",
                 "illustration": "./img/Rex Murphy (ahc02-002) - Cristi Balanescu - brighter.jpg",
                 "illustration_pan_x": -237.0,
                 "illustration_pan_y": -33.0,
-                "illustration_scale": 0.649
+                "illustration_scale": 0.649,
+                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to five other level 0 cards from any other class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Search for the Truth, Rex's Curse, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No [[Fortune]] cards.",
+                "type": "investigator_back"
             }
         },
         {
             "name": "Double or Nothing",
             "id": "02026-t",
+            "amount": 0,
             "front": {
-                "text": "Forbidden. Max 1 committed per skill test.\nDouble the difficulty of this skill test. If this skill test is successful, resolve the effects of the successful test twice.",
-                "traits": "Fortune.",
-                "type": "skill",
-                "level": "0",
-                "collection_number": "26",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
                 "copyright": "\u00a9 2016 FFG",
-                "illustrator": "Illus. Mark Molnar",
                 "classes": [
                     "rogue"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
+                "collection_number": "26",
                 "icons": "Q",
                 "illustration": "./img/ahc02-026 Double or Nothing - Mark Molnar.jpg",
                 "illustration_pan_x": 41.0,
-                "illustration_pan_y": 232.0
+                "illustration_pan_y": 232.0,
+                "illustrator": "Illus. Mark Molnar",
+                "level": "0",
+                "text": "Forbidden. Max 1 committed per skill test.\nDouble the difficulty of this skill test. If this skill test is successful, resolve the effects of the successful test twice.",
+                "traits": "Fortune.",
+                "type": "skill"
             },
-            "amount": 0,
             "back": {
                 "type": "player"
             }
@@ -158,30 +162,30 @@
         {
             "name": "Ritual Candles",
             "id": "02029-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\n<reaction> After a symbol is revealed during a test you are performing: You get +1 skill value for this test.",
-                "traits": "Item.",
-                "type": "asset",
-                "cost": "1",
-                "level": "0",
-                "collection_number": "29",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
                 "copyright": "\u00a9 2016 FFG",
-                "illustrator": "Illus. Kristina Gehrmann",
                 "classes": [
                     "mystic"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
+                "collection_number": "29",
+                "cost": "1",
+                "flavor_text": "The wax tapers give off an eerie glow, and the flames move as if they are alive.",
+                "icons": "W",
+                "illustration": "./img/ahc02-029 Ritual Candles - Kristina Gehrmann.png",
+                "illustration_pan_x": 48.0,
+                "illustration_pan_y": 45.0,
+                "illustration_scale": 2.06,
+                "illustrator": "Illus. Kristina Gehrmann",
+                "level": "0",
                 "slots": [
                     "hand"
                 ],
-                "icons": "W",
-                "flavor_text": "The wax tapers give off an eerie glow, and the flames move as if they are alive.",
-                "illustration": "./img/ahc02-029 Ritual Candles - Kristina Gehrmann.png",
-                "illustration_pan_x": 48.0,
-                "illustration_scale": 2.06,
-                "illustration_pan_y": 45.0
+                "text": "Mutated.\n<reaction> After a symbol is revealed during a test you are performing: You get +1 skill value for this test.",
+                "traits": "Item.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -189,27 +193,27 @@
         {
             "name": "Pathfinder",
             "id": "02108-t",
+            "amount": 2,
             "front": {
-                "text": "Chained (+1 experience).\n<free> During your turn, if you are not engaged with any enemies, exhaust <name>: Move to a connecting location.",
-                "traits": "Talent.",
-                "type": "asset",
-                "cost": "3",
-                "level": "1",
-                "collection_number": "108",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
                 "copyright": "\u00a9 2016 FFG",
-                "illustrator": "Illus. Adam Lane",
                 "classes": [
                     "seeker"
                 ],
-                "icons": "A",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
+                "collection_number": "108",
+                "cost": "3",
                 "flavor_text": "<center>Searchers after horror haunt strange, far places. \n<right>-- <i>H. P. Lovecraft</i>, \"The Picture in the House\"",
+                "icons": "A",
                 "illustration": "./img/ahc02-108 Pathfinder - Adam Lane.png",
                 "illustration_pan_x": 68.0,
                 "illustration_pan_y": 73.0,
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Adam Lane",
+                "level": "1",
+                "text": "Chained (+1 experience).\n<free> During your turn, if you are not engaged with any enemies, exhaust <name>: Move to a connecting location.",
+                "traits": "Talent.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -217,24 +221,24 @@
         {
             "name": "Delve Too Deep",
             "id": "02111-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\nIn player order, each investigator draws 1 card from the top of the encounter deck. Then, add <name> to the victory display.\nGroup limit 2 copies of <name> in the victory display.<br> ",
-                "traits": "Insight.",
-                "type": "event",
-                "cost": "1",
-                "level": "0",
-                "collection_number": "111",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
                 "copyright": "\u00a9 2016 FFG",
-                "illustrator": "Illus. Anders Fin\u00e9r",
                 "classes": [
                     "mystic"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
+                "collection_number": "111",
+                "cost": "1",
+                "flavor_text": "Some things, once seen, can't be unseen.<br> <br> <br> ",
                 "illustration": "./img/ahc02-111 Delve Too Deep - Anders Fin\u00e9r (not Jessie Calderon_).jpg",
-                "victory": "Victory 1.",
-                "flavor_text": "Some things, once seen, can't be unseen.<br> <br> <br> "
+                "illustrator": "Illus. Anders Fin\u00e9r",
+                "level": "0",
+                "text": "Mutated.\nIn player order, each investigator draws 1 card from the top of the encounter deck. Then, add <name> to the victory display.\nGroup limit 2 copies of <name> in the victory display.<br> ",
+                "traits": "Insight.",
+                "type": "event",
+                "victory": "Victory 1."
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -242,26 +246,26 @@
         {
             "name": "Hypnotic Gaze",
             "id": "02153-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Fast. Play when an enemy attacks an investigator at your location.\nCancel that attack. Then, reveal a random token from the chaos bag. If it has a symbol, deal the attacking enemy's damage to itself.",
-                "traits": "Spell.",
-                "type": "event",
-                "cost": "3",
-                "level": "0",
-                "collection_number": "153",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
                 "copyright": "\u00a9 2016 FFG",
-                "illustrator": "Illus. Falk",
                 "classes": [
                     "mystic"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
+                "collection_number": "153",
+                "cost": "3",
                 "icons": "CA",
                 "illustration": "./img/ahc02-153 Hypnotic Gaze - export - Falk Haensel.png",
                 "illustration_pan_x": 72.0,
                 "illustration_pan_y": 54.0,
-                "illustration_scale": 2.038
+                "illustration_scale": 2.038,
+                "illustrator": "Illus. Falk",
+                "level": "0",
+                "text": "Mutated. Fast. Play when an enemy attacks an investigator at your location.\nCancel that attack. Then, reveal a random token from the chaos bag. If it has a symbol, deal the attacking enemy's damage to itself.",
+                "traits": "Spell.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -269,29 +273,29 @@
         {
             "name": "Springfield M1903",
             "id": "02226-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Uses (3 ammo).\n<action> Spend 1 ammo: <b>Fight.</b> You get +3 [combat] and deal +2 damage for this attack. This attack may target a non-<t>Elite</t> enemy up to one location away from its standard range, ignoring the aloof and retaliate keywords. Cannot be used to attack enemies engaged with you.",
-                "traits": "Item. Weapon. Firearm.",
-                "type": "asset",
-                "cost": "4",
-                "level": "4",
-                "collection_number": "226",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
                 "copyright": "\u00a9 2016 FFG",
-                "illustrator": "Illus. Jason Caffoe",
                 "classes": [
                     "guardian"
                 ],
-                "slots": [
-                    "hands"
-                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
+                "collection_number": "226",
+                "cost": "4",
                 "icons": "CA",
                 "illustration": "./img/ahc02-226 Springfield M1903-photoshopped edges - Jason Caffoe.png",
                 "illustration_pan_x": 99.0,
                 "illustration_pan_y": 219.0,
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Jason Caffoe",
+                "level": "4",
+                "slots": [
+                    "hands"
+                ],
+                "text": "Mutated. Uses (3 ammo).\n<action> Spend 1 ammo: <b>Fight.</b> You get +3 [combat] and deal +2 damage for this attack. This attack may target a non-<t>Elite</t> enemy up to one location away from its standard range, ignoring the aloof and retaliate keywords. Cannot be used to attack enemies engaged with you.",
+                "traits": "Item. Weapon. Firearm.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -299,25 +303,25 @@
         {
             "name": "Quick Thinking",
             "id": "02229-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\nIf this skill test is successful by 2 or more, after it resolves, you may immediately take an action as if it were your turn (this action does not count toward the number of actions you can take each turn). (Max once per round.)",
-                "traits": "Innate.",
-                "type": "skill",
-                "level": "0",
-                "collection_number": "229",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
                 "copyright": "\u00a9 2016 FFG",
-                "illustrator": "Illus. David Auden Nash",
                 "classes": [
                     "rogue"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
+                "collection_number": "229",
                 "icons": "Q",
                 "illustration": "./img/ahc02-229 Quick Thinking - David Auden Nash.jpg",
                 "illustration_pan_x": 27.0,
                 "illustration_pan_y": 237.0,
-                "illustration_scale": 0.555
+                "illustration_scale": 0.555,
+                "illustrator": "Illus. David Auden Nash",
+                "level": "0",
+                "text": "Mutated.\nIf this skill test is successful by 2 or more, after it resolves, you may immediately take an action as if it were your turn (this action does not count toward the number of actions you can take each turn). (Max once per round.)",
+                "traits": "Innate.",
+                "type": "skill"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -325,27 +329,27 @@
         {
             "name": "Strange Solution",
             "id": "02263-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Researched. Uses (3 supplies).\n<action> Spend 1 supply: <b>Fight.</b> Attack with a base [combat] skill of 6. This attack deals +1 damage.",
-                "traits": "Item. Science.",
-                "type": "asset",
-                "cost": "1",
-                "level": "4",
-                "collection_number": "263",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
                 "copyright": "\u00a9 2016 FFG",
-                "illustrator": "Illus. Tiziano Baracchi",
                 "classes": [
                     "seeker"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
+                "collection_number": "263",
+                "cost": "1",
                 "icons": "CC",
-                "subtitle": "Acidic Ichor",
                 "illustration": "./img/ahc02-021 Strange Solution - Tiziano Baracchi.jpg",
+                "illustration_pan_x": 64.0,
                 "illustration_pan_y": 120.0,
                 "illustration_scale": 0.52,
-                "illustration_pan_x": 64.0
+                "illustrator": "Illus. Tiziano Baracchi",
+                "level": "4",
+                "subtitle": "Acidic Ichor",
+                "text": "Mutated. Researched. Uses (3 supplies).\n<action> Spend 1 supply: <b>Fight.</b> Attack with a base [combat] skill of 6. This attack deals +1 damage.",
+                "traits": "Item. Science.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -353,25 +357,25 @@
         {
             "name": "Ace in the Hole",
             "id": "02266-t",
+            "amount": 1,
             "front": {
-                "text": "Mutated. Exceptional. Fast. Play only during your turn.\nYou may take an additional 3 actions this turn. (Max once per round.)",
-                "traits": "Trick.",
-                "type": "event",
-                "cost": "0",
-                "level": "3",
-                "collection_number": "266",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
                 "copyright": "\u00a9 2016 FFG",
-                "illustrator": "Illus. John Pacer",
                 "classes": [
                     "rogue"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
+                "collection_number": "266",
+                "cost": "0",
                 "illustration": "./img/ahc02-266 Ace in the Hole - narrow - bright - export - John Pacer.png",
                 "illustration_pan_x": 88.0,
                 "illustration_pan_y": 63.0,
-                "illustration_scale": 1.0
+                "illustration_scale": 1.0,
+                "illustrator": "Illus. John Pacer",
+                "level": "3",
+                "text": "Mutated. Exceptional. Fast. Play only during your turn.\nYou may take an additional 3 actions this turn. (Max once per round.)",
+                "traits": "Trick.",
+                "type": "event"
             },
-            "amount": 1,
             "back": {
                 "type": "player"
             }
@@ -379,31 +383,31 @@
         {
             "name": "Jewel of Aureolus",
             "id": "02269-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\nAfter a symbol is revealed during a skill test at your location, exhaust <name>: Draw 1 card or gain 2 resources.",
-                "traits": "Item. Relic.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "cost": "3",
-                "level": "3",
-                "collection_number": "269",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
                 "copyright": "\u00a9 2016 FFG",
-                "illustrator": "Illus. Dani Hartel",
                 "classes": [
                     "mystic"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
+                "collection_number": "269",
+                "cost": "3",
+                "icons": "Q",
+                "illustration": "./img/ahc02-269 Jewel of Aureolus - Dani Hartel.png",
+                "illustration_pan_x": 80.0,
+                "illustration_pan_y": 173.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Dani Hartel",
+                "level": "3",
                 "slots": [
                     "accessory"
                 ],
-                "icons": "Q",
                 "subtitle": "Gift of the Homunculi",
-                "illustration": "./img/ahc02-269 Jewel of Aureolus - Dani Hartel.png",
-                "illustration_pan_y": 173.0,
-                "illustration_scale": 2.0,
-                "illustration_pan_x": 80.0
+                "text": "Mutated.\nAfter a symbol is revealed during a skill test at your location, exhaust <name>: Draw 1 card or gain 2 resources.",
+                "traits": "Item. Relic.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -411,26 +415,26 @@
         {
             "name": "Monster Slayer",
             "id": "02300-t",
+            "amount": 2,
             "front": {
-                "text": "Unchained (-2 experience).\n<b>Fight.</b> If this attack succeeds against a non-<t>Elite</t> enemy, defeat that enemy.",
-                "traits": "Spirit.",
-                "type": "event",
-                "cost": "1",
-                "level": "5",
-                "collection_number": "300",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
                 "copyright": "\u00a9 2016 FFG",
-                "illustrator": "Illus. Henning Ludvigsen",
                 "classes": [
                     "guardian"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
+                "collection_number": "300",
+                "cost": "1",
                 "icons": "CQ",
+                "illustration": "./img/ahc02-300 Monster Slayer - Henning Ludvigsen.jpg",
                 "illustration_pan_x": 64.0,
                 "illustration_pan_y": 67.0,
                 "illustration_scale": 1.24,
-                "illustration": "./img/ahc02-300 Monster Slayer - Henning Ludvigsen.jpg"
+                "illustrator": "Illus. Henning Ludvigsen",
+                "level": "5",
+                "text": "Unchained (-2 experience).\n<b>Fight.</b> If this attack succeeds against a non-<t>Elite</t> enemy, defeat that enemy.",
+                "traits": "Spirit.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -438,65 +442,65 @@
         {
             "name": "Lola Hayes",
             "id": "03006-t",
+            "amount": 1,
             "front": {
-                "text": "Mutated.\nYou can only play, commit, or trigger abilities on Neutral cards or cards of your role.\n<free>: Switch your role. (Limit once per round.)\n<action>: Switch roles. Does not provoke attacks of opportunity.\n<elder_sign> effect: +2. You may switch roles.",
-                "traits": "Performer.",
                 "name": "<unique><name>",
-                "type": "investigator",
-                "collection_number": "6",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/ptc.svg\">",
                 "copyright": "\u00a9 2017 FFG",
-                "illustrator": "Illus. Magali Villeneuve",
+                "agility": "3",
                 "classes": [
                     "neutral"
                 ],
-                "health": "6",
-                "sanity": "6",
-                "willpower": "3",
-                "intellect": "3",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/ptc.svg\">",
+                "collection_number": "6",
                 "combat": "3",
-                "agility": "3",
-                "subtitle": "The Actress",
                 "flavor_text": "Perhaps this would be her big comeback.",
+                "health": "6",
+                "illustration": "./img/Lola Hayes (ahc11-006)-screenshot - Magali Villeneuve.jpg",
+                "illustration_fade_mode": "distance",
                 "illustration_pan_x": 80.0,
                 "illustration_pan_y": 200.0,
                 "illustration_scale": 0.45,
-                "illustration": "./img/Lola Hayes (ahc11-006)-screenshot - Magali Villeneuve.jpg",
                 "illustration_shape": "./img/Lola Hayes - Mask.jpg",
-                "illustration_fade_mode": "distance"
+                "illustrator": "Illus. Magali Villeneuve",
+                "intellect": "3",
+                "sanity": "6",
+                "subtitle": "The Actress",
+                "text": "Mutated.\nYou can only play, commit, or trigger abilities on Neutral cards or cards of your role.\n<free>: Switch your role. (Limit once per round.)\n<action>: Switch roles. Does not provoke attacks of opportunity.\n<elder_sign> effect: +2. You may switch roles.",
+                "traits": "Performer.",
+                "type": "investigator",
+                "willpower": "3"
             },
-            "amount": 1,
             "back": {
-                "type": "investigator_back",
-                "text": "Mutated.\n<b>Deck Size</b>: 35.\n<b>Deckbuilding Options</b>: Survivor, Guardian, Seeker, Rogue, and Mystic cards (<survivor>, <guardian>, <seeker>, <rogue>, and <mystic>) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 2 copies of Improvisation, 2 copies of Crisis of Identity, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include at least 7 cards each from 3 different classes (<survivor>, <guardian>, <seeker>, <rogue>, or <mystic>).\n<b>Additional Setup</b>: After you draw your opening hand, choose a role (<survivor>, <guardian>, <seeker>, <rogue>, <mystic>, or Neutral).",
                 "flavor_text": "Lola has performed to sold-out houses worldwide, but no play has been as haunting or as odd as The King in Yellow. Even during rehearsals, everything about it brought calamity and dread. When her co-star, Miriam, was found floating dead in the Seine, she decided she'd had enough, and penned a letter to the director explaining that her next performance would be her last. Now she heads home to Arkham for one final show, hoping she can finally be rid of this dreadful play.",
                 "illustration": "./img/Lola Hayes (ahc11-006)-screenshot - Magali Villeneuve.jpg",
                 "illustration_pan_x": 121.0,
                 "illustration_pan_y": 77.0,
-                "illustration_scale": 0.276
+                "illustration_scale": 0.276,
+                "text": "Mutated.\n<b>Deck Size</b>: 35.\n<b>Deckbuilding Options</b>: Survivor, Guardian, Seeker, Rogue, and Mystic cards (<survivor>, <guardian>, <seeker>, <rogue>, and <mystic>) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 2 copies of Improvisation, 2 copies of Crisis of Identity, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include at least 7 cards each from 3 different classes (<survivor>, <guardian>, <seeker>, <rogue>, or <mystic>).\n<b>Additional Setup</b>: After you draw your opening hand, choose a role (<survivor>, <guardian>, <seeker>, <rogue>, <mystic>, or Neutral).",
+                "type": "investigator_back"
             }
         },
         {
             "name": "Crisis of Identity",
             "id": "03019-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\n<rev> Discard 1 card in your hand or play area of your current role. Then, discard the top card of your deck. Switch your role to the class of the discarded card (if the discarded card is a weakness, switch your role to neutral).",
-                "traits": "Madness.",
-                "type": "treachery",
-                "collection_number": "19",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/ptc.svg\">",
                 "copyright": "\u00a9 2017 FFG",
-                "illustrator": "Illus. Matt Bradbury",
                 "classes": [
                     "weakness"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/ptc.svg\">",
+                "collection_number": "19",
                 "flavor_text": "\"I've played so many roles. Madness is to be expected.\"<br> ",
                 "illustration": "./img/ahc11-019 Crisis of Identity - Matt Bradbury.png",
-                "illustration_pan_y": 71.0,
                 "illustration_pan_x": 103.0,
-                "illustration_scale": 1.73
+                "illustration_pan_y": 71.0,
+                "illustration_scale": 1.73,
+                "illustrator": "Illus. Matt Bradbury",
+                "text": "Mutated.\n<rev> Discard 1 card in your hand or play area of your current role. Then, discard the top card of your deck. Switch your role to the class of the discarded card (if the discarded card is a weakness, switch your role to neutral).",
+                "traits": "Madness.",
+                "type": "treachery"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -504,26 +508,26 @@
         {
             "name": "Sleight of Hand",
             "id": "03029-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Fast. Play only during your turn.\nPut a level 0-3 <t>Item</t> asset into play from your hand. At the end of your turn, if that asset is still in play, return it to your hand.",
-                "traits": "Trick.",
-                "type": "event",
-                "cost": "1",
-                "level": "0",
-                "collection_number": "29",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/ptc.svg\">",
                 "copyright": "\u00a9 2017 FFG",
-                "illustrator": "Illus. Ilich Henriquez",
                 "classes": [
                     "rogue"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/ptc.svg\">",
+                "collection_number": "29",
+                "cost": "1",
                 "icons": "IA",
                 "illustration": "./img/ahc11-029 Sleight of Hand - export - tall - Ilich Henriquez.png",
-                "illustration_scale": 1.0,
                 "illustration_pan_x": 60.0,
-                "illustration_pan_y": 46.0
+                "illustration_pan_y": 46.0,
+                "illustration_scale": 1.0,
+                "illustrator": "Illus. Ilich Henriquez",
+                "level": "0",
+                "text": "Mutated. Fast. Play only during your turn.\nPut a level 0-3 <t>Item</t> asset into play from your hand. At the end of your turn, if that asset is still in play, return it to your hand.",
+                "traits": "Trick.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -531,33 +535,33 @@
         {
             "name": "David Renfield",
             "id": "03112-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. While <name> has at least 1 doom on him, you get +1 [willpower].\n<free> Exhaust <name>: You may place 1 doom on <name>. Gain 1 resource for each doom on <name> (to a maximum of 3 resources).",
-                "traits": "Ally. Patron.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "cost": "2",
-                "level": "0",
-                "collection_number": "112",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/ptc.svg\">",
                 "copyright": "\u00a9 2017 FFG",
-                "illustrator": "Illus. Alexandre Dainche",
                 "classes": [
                     "mystic"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/ptc.svg\">",
+                "collection_number": "112",
+                "cost": "2",
                 "health": "2",
+                "icons": "I",
+                "illustration": "./img/ahc11-112 David Renfield - Alexandre Dainche.png",
+                "illustration_pan_x": 111.0,
+                "illustration_pan_y": 210.0,
+                "illustration_scale": 1.974,
+                "illustrator": "Illus. Alexandre Dainche",
+                "level": "0",
                 "sanity": "1",
                 "slots": [
                     "ally"
                 ],
-                "icons": "I",
                 "subtitle": "Esteemed Eschatologist",
-                "illustration": "./img/ahc11-112 David Renfield - Alexandre Dainche.png",
-                "illustration_pan_x": 111.0,
-                "illustration_pan_y": 210.0,
-                "illustration_scale": 1.974
+                "text": "Mutated. While <name> has at least 1 doom on him, you get +1 [willpower].\n<free> Exhaust <name>: You may place 1 doom on <name>. Gain 1 resource for each doom on <name> (to a maximum of 3 resources).",
+                "traits": "Ally. Patron.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -565,33 +569,33 @@
         {
             "name": "Key of Ys",
             "id": "03315-t",
+            "amount": 1,
             "front": {
-                "text": "Mutated. Exceptional. You get +1 to each of your skills for each horror on <name>.\n<for> When any amount of horror would be placed on you: Place 1 of that horror on <name>.\n<for> When <name> leaves play: Discard the top 10 cards of your deck.",
-                "traits": "Item. Relic.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "cost": "3",
-                "level": "5",
-                "collection_number": "315",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/ptc.svg\">",
                 "copyright": "\u00a9 2017 FFG",
-                "illustrator": "Illus. Stephen Somers",
                 "classes": [
                     "neutral"
                 ],
-                "sanity": "4",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/ptc.svg\">",
+                "collection_number": "315",
+                "cost": "3",
                 "health": "<dash>",
-                "slots": [
-                    "accessory"
-                ],
                 "icons": "WQ",
-                "subtitle": "Let the Storm Rage",
                 "illustration": "./img/ahc11-315 Key of Ys - Stephen Somers.jpg",
                 "illustration_pan_x": 15.0,
                 "illustration_pan_y": 84.0,
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Stephen Somers",
+                "level": "5",
+                "sanity": "4",
+                "slots": [
+                    "accessory"
+                ],
+                "subtitle": "Let the Storm Rage",
+                "text": "Mutated. Exceptional. You get +1 to each of your skills for each horror on <name>.\n<for> When any amount of horror would be placed on you: Place 1 of that horror on <name>.\n<for> When <name> leaves play: Discard the top 10 cards of your deck.",
+                "traits": "Item. Relic.",
+                "type": "asset"
             },
-            "amount": 1,
             "back": {
                 "type": "player"
             }
@@ -599,27 +603,27 @@
         {
             "name": "Dark Prophecy",
             "id": "04032-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Fast. Play when you would reveal a chaos token.\nReveal 5 chaos tokens instead of 1. Choose one of those tokens with a non-<elder_sign> symbol to resolve, and ignore the rest. (If no such token is revealed, choose any one of those tokens to resolve, and ignore the rest.)",
-                "traits": "Augury.",
-                "type": "event",
-                "cost": "1",
-                "level": "0",
-                "collection_number": "32",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
                 "copyright": "\u00a9 2017 FFG",
-                "illustrator": "Illus. Alice Duke",
                 "classes": [
                     "mystic"
                 ],
-                "icons": "WA",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
+                "collection_number": "32",
+                "cost": "1",
                 "flavor_text": "The secrets were written in the stars.",
+                "icons": "WA",
                 "illustration": "./img/ahc19-032 Dark Prophecy - Alice Duke.png",
+                "illustration_pan_x": 70.0,
                 "illustration_pan_y": 28.0,
                 "illustration_scale": 2.0,
-                "illustration_pan_x": 70.0
+                "illustrator": "Illus. Alice Duke",
+                "level": "0",
+                "text": "Mutated. Fast. Play when you would reveal a chaos token.\nReveal 5 chaos tokens instead of 1. Choose one of those tokens with a non-<elder_sign> symbol to resolve, and ignore the rest. (If no such token is revealed, choose any one of those tokens to resolve, and ignore the rest.)",
+                "traits": "Augury.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -627,26 +631,26 @@
         {
             "name": "Persuasion",
             "id": "04105-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\n<b>Parley.</b> Choose a non-weakness enemy at your location and test [intellect] (3). This test gets +X difficulty, where X is that enemy's horror value. If you succeed, shuffle the chosen enemy into the encounter deck. If the chosen enemy is <t>Elite</t>, automatically evade it instead.",
-                "traits": "Insight. Trick.",
-                "type": "event",
-                "cost": "2",
-                "level": "0",
-                "collection_number": "105",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
                 "copyright": "\u00a9 2017 FFG",
-                "illustrator": "Illus. Rafa\u0142 Hrynkiewicz",
                 "classes": [
                     "seeker"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
+                "collection_number": "105",
+                "cost": "2",
                 "icons": "WI",
                 "illustration": "./img/ahc19-105 Persuasion - export - Rafal Hrynkiewicz.png",
                 "illustration_pan_x": 59.0,
                 "illustration_pan_y": 55.0,
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Rafa\u0142 Hrynkiewicz",
+                "level": "0",
+                "text": "Mutated.\n<b>Parley.</b> Choose a non-weakness enemy at your location and test [intellect] (3). This test gets +X difficulty, where X is that enemy's horror value. If you succeed, shuffle the chosen enemy into the encounter deck. If the chosen enemy is <t>Elite</t>, automatically evade it instead.",
+                "traits": "Insight. Trick.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -654,27 +658,27 @@
         {
             "name": "Counterspell",
             "id": "04110-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Fast. Play when a non-<auto_fail> symbol is revealed during a skill test at your location.\nCancel that chaos token. <i>(Do not reveal a new chaos token to replace it.)</i>",
-                "traits": "Spell. Blessed.",
-                "type": "event",
-                "cost": "2",
-                "level": "2",
-                "collection_number": "110",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
                 "copyright": "\u00a9 2017 FFG",
-                "illustrator": "Illus. Matthew Cowdery",
                 "classes": [
                     "mystic"
                 ],
-                "icons": "WI",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
+                "collection_number": "110",
+                "cost": "2",
                 "flavor_text": "\"Not on my watch.\"",
+                "icons": "WI",
                 "illustration": "./img/ahc19-110 Counterspell - export - Matthew Cowdery.png",
                 "illustration_pan_x": 34.0,
                 "illustration_pan_y": 59.0,
-                "illustration_scale": 1.019
+                "illustration_scale": 1.019,
+                "illustrator": "Illus. Matthew Cowdery",
+                "level": "2",
+                "text": "Mutated. Fast. Play when a non-<auto_fail> symbol is revealed during a skill test at your location.\nCancel that chaos token. <i>(Do not reveal a new chaos token to replace it.)</i>",
+                "traits": "Spell. Blessed.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -682,25 +686,25 @@
         {
             "name": "Pay Day",
             "id": "04233-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Gain 1 resource for each action you spent this turn <i>(including this one)</i>. If it is your turn, end your turn.",
-                "traits": "Illicit. Fated.",
-                "type": "event",
-                "cost": "0",
-                "level": "1",
-                "collection_number": "233",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
                 "copyright": "\u00a9 2017 FFG",
-                "illustrator": "Illus. Dual Brush Studios",
                 "classes": [
                     "rogue"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
+                "collection_number": "233",
+                "cost": "0",
                 "illustration": "./img/ahc19-233 Pay Day - Dual Brush Studios (Richard Jossy).png",
                 "illustration_pan_x": 79.0,
                 "illustration_pan_y": 57.0,
-                "illustration_scale": 2.038
+                "illustration_scale": 2.038,
+                "illustrator": "Illus. Dual Brush Studios",
+                "level": "1",
+                "text": "Mutated. Gain 1 resource for each action you spent this turn <i>(including this one)</i>. If it is your turn, end your turn.",
+                "traits": "Illicit. Fated.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -708,29 +712,29 @@
         {
             "name": "Flamethrower",
             "id": "04305-t",
+            "amount": 2,
             "front": {
-                "text": "Chained (+1 experience).\nUses (4 ammo).\n<action> Spend 1 ammo: <b>Fight.</b> The enemy chosen for this attack must be the enemy engaged with you with the highest fight. You get +4 [combat] for this attack. If this attack is successful, instead of its standard damage, you may assign up to 4 damage among enemies engaged with you <i>(any additional damage adds to this total)</i>.",
-                "traits": "Item. Weapon. Firearm.",
-                "type": "asset",
-                "cost": "4",
-                "level": "5",
-                "collection_number": "305",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
                 "copyright": "\u00a9 2017 FFG",
-                "illustrator": "Illus. Jose Vega",
                 "classes": [
                     "guardian"
                 ],
-                "slots": [
-                    "hands"
-                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
+                "collection_number": "305",
+                "cost": "4",
                 "icons": "CCQ",
                 "illustration": "./img/ahc19-305 Flamethrower - Jose Vega.png",
                 "illustration_pan_x": 64.0,
                 "illustration_pan_y": 131.0,
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Jose Vega",
+                "level": "5",
+                "slots": [
+                    "hands"
+                ],
+                "text": "Chained (+1 experience).\nUses (4 ammo).\n<action> Spend 1 ammo: <b>Fight.</b> The enemy chosen for this attack must be the enemy engaged with you with the highest fight. You get +4 [combat] for this attack. If this attack is successful, instead of its standard damage, you may assign up to 4 damage among enemies engaged with you <i>(any additional damage adds to this total)</i>.",
+                "traits": "Item. Weapon. Firearm.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -738,24 +742,24 @@
         {
             "name": "All In",
             "id": "04309-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\nMax 1 committed per skill test.\nIf this test is successful, draw 1 card for each point you succeeded by, to a maximum of 5. Shuffle each weakness drawn by this effect back into your deck without resolving it. Remove <name> from the game.",
-                "traits": "Fortune.",
-                "type": "skill",
-                "level": "5",
-                "collection_number": "309",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
                 "copyright": "\u00a9 2017 FFG",
-                "illustrator": "Illus. Borja Pindado",
                 "classes": [
                     "rogue"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
+                "collection_number": "309",
                 "icons": "QQ",
                 "illustration": "./img/ahc19-309 All In - Borja Pindado.png",
                 "illustration_pan_x": 92.0,
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "illustrator": "Illus. Borja Pindado",
+                "level": "5",
+                "text": "Mutated.\nMax 1 committed per skill test.\nIf this test is successful, draw 1 card for each point you succeeded by, to a maximum of 5. Shuffle each weakness drawn by this effect back into your deck without resolving it. Remove <name> from the game.",
+                "traits": "Fortune.",
+                "type": "skill"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -763,27 +767,27 @@
         {
             "name": "Interrogate",
             "id": "05020-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\n<b>Parley.</b> Choose a non-<t>Elite</t> enemy at your location and test [combat] (3). This test gets +X difficulty, where X is the chosen enemy's damage value. If you succeed, discover 1 clue at your location and 1 clue at any other location.",
-                "traits": "Tactic. Insight.",
-                "type": "event",
-                "cost": "2",
-                "level": "0",
-                "collection_number": "20",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "copyright": "\u00a9 2018 FFG",
-                "illustrator": "Illus. John Pacer",
                 "classes": [
                     "guardian"
                 ],
-                "icons": "IC",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
+                "collection_number": "20",
+                "cost": "2",
                 "flavor_text": "He was hiding something\u2026 but why?",
+                "icons": "IC",
                 "illustration": "./img/ahc29-020 Interrogate - John Pacer.jpg",
                 "illustration_pan_x": 0.0,
+                "illustration_pan_y": -40.0,
                 "illustration_scale": 1.174,
-                "illustration_pan_y": -40.0
+                "illustrator": "Illus. John Pacer",
+                "level": "0",
+                "text": "Mutated.\n<b>Parley.</b> Choose a non-<t>Elite</t> enemy at your location and test [combat] (3). This test gets +X difficulty, where X is the chosen enemy's damage value. If you succeed, discover 1 clue at your location and 1 clue at any other location.",
+                "traits": "Tactic. Insight.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -791,23 +795,23 @@
         {
             "name": "Banish",
             "id": "05113-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\n<b>Evade.</b> Use only on a non-<t>Elite</t> enemy. This evasion attempt uses [willpower] instead of [agility]. If you succeed, move the enemy just evaded to any location in play. If you succeed and a symbol was revealed during this evasion attempt, that enemy does not ready during the next upkeep phase.",
-                "traits": "Spell.",
-                "type": "event",
-                "cost": "2",
-                "level": "1",
-                "collection_number": "113",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "copyright": "\u00a9 2018 FFG",
-                "illustrator": "Illus. Stephen Somers",
                 "classes": [
                     "mystic"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
+                "collection_number": "113",
+                "cost": "2",
                 "icons": "WA",
-                "illustration": "./img/ahc29-113 Banish - Stephen Somers.jpg"
+                "illustration": "./img/ahc29-113 Banish - Stephen Somers.jpg",
+                "illustrator": "Illus. Stephen Somers",
+                "level": "1",
+                "text": "Mutated.\n<b>Evade.</b> Use only on a non-<t>Elite</t> enemy. This evasion attempt uses [willpower] instead of [agility]. If you succeed, move the enemy just evaded to any location in play. If you succeed and a symbol was revealed during this evasion attempt, that enemy does not ready during the next upkeep phase.",
+                "traits": "Spell.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -815,30 +819,30 @@
         {
             "name": "Scroll of Secrets",
             "id": "05116-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Uses (3 secrets).\n<free> Exhaust <name> and spend 1 secret: Look at the bottom card of any investigator's deck or the encounter deck. Then, either discard that card, add it to its owner's hand, place it on the bottom of its deck, or place it on the top of its deck.",
-                "traits": "Item. Tome.",
-                "type": "asset",
-                "cost": "1",
-                "level": "0",
-                "collection_number": "116",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "copyright": "\u00a9 2018 FFG",
-                "illustrator": "Illus. Matthew Cowdery",
                 "classes": [
                     "seeker",
                     "mystic"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
+                "collection_number": "116",
+                "cost": "1",
+                "icons": "I",
+                "illustration": "./img/ahc29-116 Scroll of Secrets (Multiclass) - Matthew Cowdery.png",
+                "illustration_pan_x": 63.0,
+                "illustration_pan_y": 190.0,
+                "illustration_scale": 2.06,
+                "illustrator": "Illus. Matthew Cowdery",
+                "level": "0",
                 "slots": [
                     "hand"
                 ],
-                "icons": "I",
-                "illustration": "./img/ahc29-116 Scroll of Secrets (Multiclass) - Matthew Cowdery.png",
-                "illustration_scale": 2.06,
-                "illustration_pan_y": 190.0,
-                "illustration_pan_x": 63.0
+                "text": "Mutated. Uses (3 secrets).\n<free> Exhaust <name> and spend 1 secret: Look at the bottom card of any investigator's deck or the encounter deck. Then, either discard that card, add it to its owner's hand, place it on the bottom of its deck, or place it on the top of its deck.",
+                "traits": "Item. Tome.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -846,34 +850,34 @@
         {
             "name": "Mr. \"Rook\"",
             "id": "05153-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Uses (3 secrets).\n<action> Exhaust <name> and spend 1 secret: Search the top 3, 6, or 9 cards of your deck for any card and draw it. If at least 1 weakness is among the searched cards, draw 1 of them, as well. Shuffle your deck.",
-                "traits": "Ally.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "cost": "3",
-                "level": "0",
-                "collection_number": "153",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "copyright": "\u00a9 2018 FFG",
-                "illustrator": "Illus. Romana Kendelic",
                 "classes": [
                     "seeker"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
+                "collection_number": "153",
+                "cost": "3",
+                "flavor_text": "\"Are you sure you want to know? There is no going back.\"",
                 "health": "2",
+                "icons": "W",
+                "illustration": "./img/ahc29-153 Mr. Rook - Romana Kendelic.png",
+                "illustration_pan_x": 71.0,
+                "illustration_pan_y": 267.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Romana Kendelic",
+                "level": "0",
                 "sanity": "2",
                 "slots": [
                     "ally"
                 ],
-                "icons": "W",
                 "subtitle": "Dealer in Secrets",
-                "flavor_text": "\"Are you sure you want to know? There is no going back.\"",
-                "illustration": "./img/ahc29-153 Mr. Rook - Romana Kendelic.png",
-                "illustration_pan_x": 71.0,
-                "illustration_pan_y": 267.0,
-                "illustration_scale": 2.0
+                "text": "Mutated. Uses (3 secrets).\n<action> Exhaust <name> and spend 1 secret: Search the top 3, 6, or 9 cards of your deck for any card and draw it. If at least 1 weakness is among the searched cards, draw 1 of them, as well. Shuffle your deck.",
+                "traits": "Ally.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -881,25 +885,25 @@
         {
             "name": "Swift Reflexes",
             "id": "05156-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Fast. Play during any investigator's turn, except during an action.\nImmediately take an action as if it were your turn. This action does not count toward the number of actions you can take each turn. (Limit twice per round.)",
-                "traits": "Gambit.",
-                "type": "event",
-                "cost": "2",
-                "level": "0",
-                "collection_number": "156",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "copyright": "\u00a9 2018 FFG",
-                "illustrator": "Illus. Miguel Coimbra",
                 "classes": [
                     "rogue"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
+                "collection_number": "156",
+                "cost": "2",
                 "icons": "AA",
                 "illustration": "./img/ahc29-156 Swift Reflexes - Miguel Coimbra.jpg",
+                "illustration_pan_x": -97.0,
                 "illustration_pan_y": 73.0,
-                "illustration_pan_x": -97.0
+                "illustrator": "Illus. Miguel Coimbra",
+                "level": "0",
+                "text": "Mutated. Fast. Play during any investigator's turn, except during an action.\nImmediately take an action as if it were your turn. This action does not count toward the number of actions you can take each turn. (Limit twice per round.)",
+                "traits": "Gambit.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -907,29 +911,29 @@
         {
             "name": "Wither",
             "id": "05157-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\n<action>: <b>Fight.</b> This attack uses [willpower] instead of [combat]. If a symbol token is revealed during this attack, the attacked enemy gets -1 fight and -1 evade for the remainder of the turn (to a minimum of 1).",
-                "traits": "Spell.",
-                "type": "asset",
-                "cost": "2",
-                "level": "0",
-                "collection_number": "157",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "copyright": "\u00a9 2018 FFG",
-                "illustrator": "Illus. Damien Worm",
                 "classes": [
                     "mystic"
                 ],
-                "slots": [
-                    "arcane"
-                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
+                "collection_number": "157",
+                "cost": "2",
                 "icons": "C",
                 "illustration": "./img/ahc29-157 Wither-blurry - Damien Worm.jpg",
                 "illustration_pan_x": 123.0,
                 "illustration_pan_y": 241.0,
-                "illustration_scale": 1.468
+                "illustration_scale": 1.468,
+                "illustrator": "Illus. Damien Worm",
+                "level": "0",
+                "slots": [
+                    "arcane"
+                ],
+                "text": "Mutated.\n<action>: <b>Fight.</b> This attack uses [willpower] instead of [combat]. If a symbol token is revealed during this attack, the attacked enemy gets -1 fight and -1 evade for the remainder of the turn (to a minimum of 1).",
+                "traits": "Spell.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -937,26 +941,26 @@
         {
             "name": "Drawing Thin",
             "id": "05159-t",
+            "amount": 2,
             "front": {
-                "text": "Chained (+3 experience).\n<reaction> When you initiate a skill test, exhaust <name>: Increase the difficulty of this skill test by 2. Gain 2 resources or draw 1 card.",
-                "traits": "Talent.",
-                "type": "asset",
-                "cost": "0",
-                "level": "0",
-                "collection_number": "159",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "copyright": "\u00a9 2018 FFG",
-                "illustrator": "Illus. Borja Pindado",
                 "classes": [
                     "survivor"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
+                "collection_number": "159",
+                "cost": "0",
                 "icons": "W",
                 "illustration": "./img/ahc29-159 Drawing Thin - Borja Pindado.jpg",
                 "illustration_pan_x": 69.0,
                 "illustration_pan_y": 224.0,
-                "illustration_scale": 2.008
+                "illustration_scale": 2.008,
+                "illustrator": "Illus. Borja Pindado",
+                "level": "0",
+                "text": "Chained (+3 experience).\n<reaction> When you initiate a skill test, exhaust <name>: Increase the difficulty of this skill test by 2. Gain 2 resources or draw 1 card.",
+                "traits": "Talent.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -964,29 +968,29 @@
         {
             "name": "Scroll of Secrets",
             "id": "05188-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Uses (3 secrets).\n<free> Exhaust <name> and spend 1 secret: Look at the bottom 3 cards of any investigator's deck or the encounter deck. You may discard 1 of those cards. You may add 1 of those cards to its owner's hand. Place the rest of those cards on either the top or bottom of their deck, in any order.",
-                "traits": "Item. Tome.",
-                "type": "asset",
-                "cost": "1",
-                "level": "3",
-                "collection_number": "188",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "copyright": "\u00a9 2018 FFG",
-                "illustrator": "Illus. Matthew Cowdery",
                 "classes": [
                     "seeker"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
+                "collection_number": "188",
+                "cost": "1",
+                "icons": "II",
+                "illustration": "./img/ahc29-116 Scroll of Secrets (Multiclass) - Matthew Cowdery.png",
+                "illustration_pan_x": 63.0,
+                "illustration_pan_y": 190.0,
+                "illustration_scale": 2.06,
+                "illustrator": "Illus. Matthew Cowdery",
+                "level": "3",
                 "slots": [
                     "hand"
                 ],
-                "icons": "II",
-                "illustration": "./img/ahc29-116 Scroll of Secrets (Multiclass) - Matthew Cowdery.png",
-                "illustration_pan_y": 190.0,
-                "illustration_pan_x": 63.0,
-                "illustration_scale": 2.06
+                "text": "Mutated. Uses (3 secrets).\n<free> Exhaust <name> and spend 1 secret: Look at the bottom 3 cards of any investigator's deck or the encounter deck. You may discard 1 of those cards. You may add 1 of those cards to its owner's hand. Place the rest of those cards on either the top or bottom of their deck, in any order.",
+                "traits": "Item. Tome.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -994,29 +998,29 @@
         {
             "name": "Scroll of Secrets",
             "id": "05189-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Uses (4 secrets).\n<free> Exhaust <name> and spend 1 secret: Look at the top or bottom card of any investigator's deck or the encounter deck. Then, either discard that card, add it to its owner's hand, place it on the bottom of its deck, or place it on top of its deck.",
-                "traits": "Item. Tome.",
-                "type": "asset",
-                "cost": "1",
-                "level": "3",
-                "collection_number": "189",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "copyright": "\u00a9 2018 FFG",
-                "illustrator": "Illus. Matthew Cowdery",
                 "classes": [
                     "mystic"
                 ],
-                "slots": [
-                    "hand"
-                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
+                "collection_number": "189",
+                "cost": "1",
                 "icons": "WI",
                 "illustration": "./img/ahc29-116 Scroll of Secrets (Multiclass) - Matthew Cowdery.png",
                 "illustration_pan_x": 63.0,
                 "illustration_pan_y": 190.0,
-                "illustration_scale": 2.06
+                "illustration_scale": 2.06,
+                "illustrator": "Illus. Matthew Cowdery",
+                "level": "3",
+                "slots": [
+                    "hand"
+                ],
+                "text": "Mutated. Uses (4 secrets).\n<free> Exhaust <name> and spend 1 secret: Look at the top or bottom card of any investigator's deck or the encounter deck. Then, either discard that card, add it to its owner's hand, place it on the bottom of its deck, or place it on top of its deck.",
+                "traits": "Item. Tome.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1024,26 +1028,26 @@
         {
             "name": "Telescopic Sight",
             "id": "05230-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Fast. Attach to a <t>Firearm</t> asset you control that takes up two hand slots.\nWhen you perform a <b>Fight</b> action using attached asset, if you are engaged with no enemies, exhaust Telecopic Sight: This attack can target a non-<t>Elite</t> enemy at a connecting location. Ignore the aloof and retaliate keywords for this attack.",
-                "traits": "Item. Upgrade.",
-                "type": "event",
-                "cost": "3",
-                "level": "3",
-                "collection_number": "230",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "copyright": "\u00a9 2018 FFG",
-                "illustrator": "Illus. Tiziano Baracchi",
                 "classes": [
                     "guardian"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
+                "collection_number": "230",
+                "cost": "3",
                 "icons": "ICA",
                 "illustration": "./img/ahc29-230 Telescopic Sight - export - Tiziano Baracchi.png",
-                "illustration_scale": 1.0,
+                "illustration_pan_x": 67.0,
                 "illustration_pan_y": 51.0,
-                "illustration_pan_x": 67.0
+                "illustration_scale": 1.0,
+                "illustrator": "Illus. Tiziano Baracchi",
+                "level": "3",
+                "text": "Mutated. Fast. Attach to a <t>Firearm</t> asset you control that takes up two hand slots.\nWhen you perform a <b>Fight</b> action using attached asset, if you are engaged with no enemies, exhaust Telecopic Sight: This attack can target a non-<t>Elite</t> enemy at a connecting location. Ignore the aloof and retaliate keywords for this attack.",
+                "traits": "Item. Upgrade.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1051,26 +1055,26 @@
         {
             "name": "Knowledge is Power",
             "id": "05231-t",
+            "amount": 2,
             "front": {
-                "text": "Chained (+2 experience).\nFast. Play only during your turn.\nChoose a <t>Tome</t> or <t>Spell</t> asset you control, or reveal a <t>Tome</t> or <t>Spell</t> asset from your hand. Resolve an <action> or <free> ability on that asset, ignoring all costs <i>(including its <action> cost, if any)</i>. Then, if that asset was in your hand, you may discard it to draw 1 card.",
-                "traits": "Insight.",
-                "type": "event",
-                "cost": "0",
-                "level": "0",
-                "collection_number": "231",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "copyright": "\u00a9 2018 FFG",
-                "illustrator": "Illus. Michal Milkowski",
                 "classes": [
                     "seeker"
                 ],
-                "icons": "WI",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
+                "collection_number": "231",
+                "cost": "0",
                 "flavor_text": "... and power corrupts.",
+                "icons": "WI",
                 "illustration": "./img/ahc29-231 Knowledge is Power-wide - Michal Milkowski.png",
                 "illustration_pan_x": 0.0,
-                "illustration_pan_y": -34.0
+                "illustration_pan_y": -34.0,
+                "illustrator": "Illus. Michal Milkowski",
+                "level": "0",
+                "text": "Chained (+2 experience).\nFast. Play only during your turn.\nChoose a <t>Tome</t> or <t>Spell</t> asset you control, or reveal a <t>Tome</t> or <t>Spell</t> asset from your hand. Resolve an <action> or <free> ability on that asset, ignoring all costs <i>(including its <action> cost, if any)</i>. Then, if that asset was in your hand, you may discard it to draw 1 card.",
+                "traits": "Insight.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1078,29 +1082,29 @@
         {
             "name": "Wither",
             "id": "05321-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\n<action>: <b>Fight.</b> This attack uses [willpower] instead of [combat]. You get +2 [willpower] for this attack. If a symbol token is revealed during this attack, the attacked enemy gets -1 fight, -1 health, and -1 evade until the end of the phase (to a minimum of 1).",
-                "traits": "Spell.",
-                "type": "asset",
-                "cost": "2",
-                "level": "4",
-                "collection_number": "321",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "copyright": "\u00a9 2018 FFG",
-                "illustrator": "Illus. Damien Worm",
                 "classes": [
                     "mystic"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
+                "collection_number": "321",
+                "cost": "2",
+                "icons": "CC",
+                "illustration": "./img/ahc29-157 Wither-blurry - Damien Worm.jpg",
+                "illustration_pan_x": 123.0,
+                "illustration_pan_y": 241.0,
+                "illustration_scale": 1.468,
+                "illustrator": "Illus. Damien Worm",
+                "level": "4",
                 "slots": [
                     "arcane"
                 ],
-                "icons": "CC",
-                "illustration": "./img/ahc29-157 Wither-blurry - Damien Worm.jpg",
-                "illustration_pan_y": 241.0,
-                "illustration_pan_x": 123.0,
-                "illustration_scale": 1.468
+                "text": "Mutated.\n<action>: <b>Fight.</b> This attack uses [willpower] instead of [combat]. You get +2 [willpower] for this attack. If a symbol token is revealed during this attack, the attacked enemy gets -1 fight, -1 health, and -1 evade until the end of the phase (to a minimum of 1).",
+                "traits": "Spell.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1108,26 +1112,26 @@
         {
             "name": "Eucatastrophe",
             "id": "05324-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Fast. Play when you reveal a chaos token that would reduce your skill value to 0 during a skill test (including the <auto_fail> token).\nCancel that token and treat it as an <elder_sign> token, instead. Remove <name> from the game.",
-                "traits": "Fortune. Blessed.",
-                "type": "event",
-                "cost": "2",
-                "level": "3",
-                "collection_number": "324",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "copyright": "\u00a9 2018 FFG",
-                "illustrator": "Illus. Julian Kok",
                 "classes": [
                     "survivor"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
+                "collection_number": "324",
+                "cost": "2",
                 "icons": "QQ",
                 "illustration": "./img/ahc29-324 Eucatastrophe - Julian Kok.png",
                 "illustration_pan_x": 39.0,
                 "illustration_pan_y": 20.0,
-                "illustration_scale": 2.06
+                "illustration_scale": 2.06,
+                "illustrator": "Illus. Julian Kok",
+                "level": "3",
+                "text": "Mutated. Fast. Play when you reveal a chaos token that would reduce your skill value to 0 during a skill test (including the <auto_fail> token).\nCancel that token and treat it as an <elder_sign> token, instead. Remove <name> from the game.",
+                "traits": "Fortune. Blessed.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1135,70 +1139,70 @@
         {
             "name": "Mandy Thompson",
             "id": "06002-t",
+            "amount": 1,
             "front": {
-                "text": "Mutated.\n<reaction> When an investigator at your location would search their deck or the encounter deck: They may either search 3 additional cards or resolve 1 additional target of the search. (Limit once per round.)\n<elder_sign> effect: +0. Search the top 3 cards of your deck for a card and either draw it or commit it to this test, if able. Shuffle your deck.",
-                "traits": "Assistant. Scholar.",
                 "name": "<unique><name>",
-                "type": "investigator",
-                "collection_number": "2",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tde.svg\">",
                 "copyright": "\u00a9 2019 FFG",
-                "illustrator": "Illus. Tony Foti",
+                "agility": "3",
                 "classes": [
                     "seeker"
                 ],
-                "health": "6",
-                "sanity": "8",
-                "willpower": "3",
-                "intellect": "5",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tde.svg\">",
+                "collection_number": "2",
                 "combat": "1",
-                "agility": "3",
-                "subtitle": "The Researcher",
+                "health": "6",
                 "illustration": "./img/Mandy Thompson (ahc37-002) - Tony Foti.jpg",
+                "illustration_fade_mode": "distance",
                 "illustration_pan_x": -25.0,
                 "illustration_pan_y": 310.0,
                 "illustration_scale": 1.24,
                 "illustration_shape": "./img/Mandy Thompson - Mask.jpg",
-                "illustration_fade_mode": "distance"
+                "illustrator": "Illus. Tony Foti",
+                "intellect": "5",
+                "sanity": "8",
+                "subtitle": "The Researcher",
+                "text": "Mutated.\n<reaction> When an investigator at your location would search their deck or the encounter deck: They may either search 3 additional cards or resolve 1 additional target of the search. (Limit once per round.)\n<elder_sign> effect: +0. Search the top 3 cards of your deck for a card and either draw it or commit it to this test, if able. Shuffle your deck.",
+                "traits": "Assistant. Scholar.",
+                "type": "investigator",
+                "willpower": "3"
             },
-            "amount": 1,
             "back": {
-                "type": "investigator_back",
-                "text": "Mutated.\n<b>Deck Size</b>: 50.\n<b>Secondary Class Choice</b>: At deck creation, choose Mystic (<mystic>), Rogue (<rogue>), or Survivor (<survivor>).\n<b>Deckbuilding Options</b>: Seeker cards (<seeker>) level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of Occult Evidence, Shocking Discovery, 1 random basic weakness.",
                 "flavor_text": "Ever since she was a child, Mandy would read whenever she could not sleep. Such has been the case on many nights. Her remarkable memory and ability to correlate facts have landed her a highly valued job as a researcher for Miskatonic University. She has spent hours poring over the profane pages of ancient, forbidden texts. In doing so, she has discovered a pattern indicating an impending catacylsm. Has paranoia finally caught up to her? Or is a disaster of truly epic proportions on the horizon?",
                 "illustration": "./img/Mandy Thompson (ahc37-002) - Tony Foti.jpg",
                 "illustration_pan_x": -139.0,
                 "illustration_pan_y": 78.0,
-                "illustration_scale": 0.961
+                "illustration_scale": 0.961,
+                "text": "Mutated.\n<b>Deck Size</b>: 50.\n<b>Secondary Class Choice</b>: At deck creation, choose Mystic (<mystic>), Rogue (<rogue>), or Survivor (<survivor>).\n<b>Deckbuilding Options</b>: Seeker cards (<seeker>) level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of Occult Evidence, Shocking Discovery, 1 random basic weakness.",
+                "type": "investigator_back"
             }
         },
         {
             "name": "Pendant of the Queen",
             "id": "06022-t",
+            "amount": 0,
             "front": {
-                "text": "Mutated. Bonded (Segment of Onyx). Uses (3 charges). If this card has no charges, remove it from the game.\n<free> Exhaust <name> and spend 1 charge: Choose a revealed location and select one - move to that location, discover 1 clue at that location, or automatically evade an enemy at that location.",
-                "traits": "Item. Relic.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "cost": "<dash>",
-                "level": "None",
-                "collection_number": "22",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tde.svg\">",
                 "copyright": "\u00a9 2019 FFG",
-                "illustrator": "Illus. Diana Mart\u00ednez",
                 "classes": [
                     "seeker"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tde.svg\">",
+                "collection_number": "22",
+                "cost": "<dash>",
+                "illustration": "./img/ahc37-022 Pendant of the Queen - Diana Mart\u00ednez.jpg",
+                "illustration_pan_x": -39.0,
+                "illustration_pan_y": 220.0,
+                "illustration_scale": 0.84,
+                "illustrator": "Illus. Diana Mart\u00ednez",
+                "level": "None",
                 "slots": [
                     "accessory"
                 ],
                 "subtitle": "Of Nothing at All",
-                "illustration": "./img/ahc37-022 Pendant of the Queen - Diana Mart\u00ednez.jpg",
-                "illustration_pan_x": -39.0,
-                "illustration_pan_y": 220.0,
-                "illustration_scale": 0.84
+                "text": "Mutated. Bonded (Segment of Onyx). Uses (3 charges). If this card has no charges, remove it from the game.\n<free> Exhaust <name> and spend 1 charge: Choose a revealed location and select one - move to that location, discover 1 clue at that location, or automatically evade an enemy at that location.",
+                "traits": "Item. Relic.",
+                "type": "asset"
             },
-            "amount": 0,
             "back": {
                 "type": "player"
             }
@@ -1206,29 +1210,29 @@
         {
             "name": ".35 Winchester",
             "id": "06195-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Uses (5 ammo).\n<action> Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack.  If a chaos token with a non-negative modifier is revealed during this attack, this attack deals +2 damage.",
-                "traits": "Item. Weapon. Firearm.",
-                "type": "asset",
-                "cost": "4",
-                "level": "0",
-                "collection_number": "195",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tde.svg\">",
                 "copyright": "\u00a9 2019 FFG",
-                "illustrator": "Illus. Stephen Somers",
                 "classes": [
                     "guardian"
                 ],
-                "slots": [
-                    "hands"
-                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tde.svg\">",
+                "collection_number": "195",
+                "cost": "4",
                 "icons": "A",
                 "illustration": "./img/ahc37-195 35 Winchester-bright - Stephen Somers.jpg",
                 "illustration_pan_x": 55.0,
                 "illustration_pan_y": 239.0,
-                "illustration_scale": 0.613
+                "illustration_scale": 0.613,
+                "illustrator": "Illus. Stephen Somers",
+                "level": "0",
+                "slots": [
+                    "hands"
+                ],
+                "text": "Mutated. Uses (5 ammo).\n<action> Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack.  If a chaos token with a non-negative modifier is revealed during this attack, this attack deals +2 damage.",
+                "traits": "Item. Weapon. Firearm.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1236,24 +1240,24 @@
         {
             "name": "Three Aces",
             "id": "06199-t",
+            "amount": 3,
             "front": {
-                "text": "Mutated. Myriad.\nIf you commit 3 copies of <name> to a skill test, that test automatically succeeds <i>(do not reveal chaos tokens from the chaos bag)</i>. Then draw 3 cards and gain 3 resources (max once per test). Remove each committed copy of <name> from the game.",
-                "traits": "Fortune. Practiced.",
-                "type": "skill",
-                "level": "1",
-                "collection_number": "199",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tde.svg\">",
                 "copyright": "\u00a9 2019 FFG",
-                "illustrator": "Illus. Diana Mart\u00ednez",
                 "classes": [
                     "rogue"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tde.svg\">",
+                "collection_number": "199",
                 "icons": "Q",
                 "illustration": "./img/ahc37-199 Three Aces - Diana Mart\u00ednez.jpg",
                 "illustration_pan_x": 47.0,
-                "illustration_pan_y": 238.0
+                "illustration_pan_y": 238.0,
+                "illustrator": "Illus. Diana Mart\u00ednez",
+                "level": "1",
+                "text": "Mutated. Myriad.\nIf you commit 3 copies of <name> to a skill test, that test automatically succeeds <i>(do not reveal chaos tokens from the chaos bag)</i>. Then draw 3 cards and gain 3 resources (max once per test). Remove each committed copy of <name> from the game.",
+                "traits": "Fortune. Practiced.",
+                "type": "skill"
             },
-            "amount": 3,
             "back": {
                 "type": "player"
             }
@@ -1261,26 +1265,26 @@
         {
             "name": "Scavenging",
             "id": "06332-t",
+            "amount": 2,
             "front": {
-                "text": "Chained (+2 experience).\n<reaction> After you successfully investigate by 2 or more, exhaust <name>: Choose an <t>Item</t> card in your discard pile and either add it to your hand or play it <i>(paying its cost)</i>.",
-                "traits": "Talent.",
-                "type": "asset",
-                "cost": "1",
-                "level": "2",
-                "collection_number": "332",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tde.svg\">",
                 "copyright": "\u00a9 2019 FFG",
-                "illustrator": "Illus. Derk Venneman",
                 "classes": [
                     "survivor"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tde.svg\">",
+                "collection_number": "332",
+                "cost": "1",
                 "icons": "II",
                 "illustration": "./img/ahc60-073 Scavenging - revcore - Aleksander Karcz.jpg",
                 "illustration_pan_x": 9.0,
                 "illustration_pan_y": 251.0,
-                "illustration_scale": 0.895
+                "illustration_scale": 0.895,
+                "illustrator": "Illus. Derk Venneman",
+                "level": "2",
+                "text": "Chained (+2 experience).\n<reaction> After you successfully investigate by 2 or more, exhaust <name>: Choose an <t>Item</t> card in your discard pile and either add it to your hand or play it <i>(paying its cost)</i>.",
+                "traits": "Talent.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1288,65 +1292,65 @@
         {
             "name": "Trish Scarborough",
             "id": "07003-t",
+            "amount": 1,
             "front": {
-                "text": "Mutated.\n<reaction> After you discover 1 or more clues at a location with an enemy: Either discover 1 additional clue at that location, or automatically evade that enemy if it is non-<t>Elite</t>. (Limit once per round.)\n<elder_sign> effect: +2. If this is an investigation, you may choose any revealed location; you are now investigating as if you were at that location instead.",
-                "traits": "Agency. Detective.",
                 "name": "<unique><name>",
-                "type": "investigator",
-                "collection_number": "3",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
                 "copyright": "\u00a9 2020 FFG",
-                "illustrator": "Illus. Magali Villeneuve",
+                "agility": "4",
                 "classes": [
                     "rogue"
                 ],
-                "health": "8",
-                "sanity": "6",
-                "willpower": "2",
-                "intellect": "4",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
+                "collection_number": "3",
                 "combat": "2",
-                "agility": "4",
-                "subtitle": "The Spy",
+                "health": "8",
                 "illustration": "./img/Trish Scarborough (ahc52-003) - Magali Villeneuve.webp",
+                "illustration_fade_mode": "distance",
                 "illustration_pan_x": 79.0,
                 "illustration_pan_y": 260.0,
-                "illustration_shape": "./img/Trish Scarborough - Mask.jpg",
                 "illustration_scale": 0.97,
-                "illustration_fade_mode": "distance"
+                "illustration_shape": "./img/Trish Scarborough - Mask.jpg",
+                "illustrator": "Illus. Magali Villeneuve",
+                "intellect": "4",
+                "sanity": "6",
+                "subtitle": "The Spy",
+                "text": "Mutated.\n<reaction> After you discover 1 or more clues at a location with an enemy: Either discover 1 additional clue at that location, or automatically evade that enemy if it is non-<t>Elite</t>. (Limit once per round.)\n<elder_sign> effect: +2. If this is an investigation, you may choose any revealed location; you are now investigating as if you were at that location instead.",
+                "traits": "Agency. Detective.",
+                "type": "investigator",
+                "willpower": "2"
             },
-            "amount": 1,
             "back": {
-                "type": "investigator_back",
-                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, Neutral cards level 0-5, Seeker cards ([seeker]) level 0-2.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): In the Shadows, Shadow Agents, 1 random basic weakness.",
                 "flavor_text": "Trish had always excelled in both body and mind, her unwavering focus on excellence and her fearless disposition a winning combination. Given her stellar academic and athletic records, everyone expected to see her become something great. Instead, Trish took a job at a commercial code company. The initial shock of her humble work eventually wore off, and the exceptional <name> faded into obscurity. This suited Trish just fine, as it made it harder for anyone to realize the truth: her job was a cover for her true work as a spy with the Black Chamber, the Bureau's code-breaking agency.",
                 "illustration": "./img/Trish Scarborough (ahc52-003) - Magali Villeneuve.webp",
                 "illustration_pan_x": 93.0,
                 "illustration_pan_y": 102.0,
-                "illustration_scale": 0.625
+                "illustration_scale": 0.625,
+                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, Neutral cards level 0-5, Seeker cards ([seeker]) level 0-2.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): In the Shadows, Shadow Agents, 1 random basic weakness.",
+                "type": "investigator_back"
             }
         },
         {
             "name": "Ancient Covenant",
             "id": "07122-t",
+            "amount": 1,
             "front": {
-                "text": "Mutated. Permanent. Limit 1 <t>Covenant</t> per deck.\n<reaction> When you resolve a <blessing> token during a skill test, exhaust <name>: Do not reveal another token as part of this <blessing> token's effect.",
-                "traits": "Covenant. Blessed.",
-                "type": "asset",
-                "cost": "<dash>",
-                "level": "2",
-                "collection_number": "122",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
                 "copyright": "\u00a9 2020 FFG",
-                "illustrator": "Illus. Tiziano Baracchi",
                 "classes": [
                     "survivor"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
+                "collection_number": "122",
+                "cost": "<dash>",
                 "illustration": "./img/ahc52-122 Ancient Covenant - exported - Tiziano Baracchi.png",
                 "illustration_pan_x": 110.0,
                 "illustration_pan_y": 176.0,
-                "illustration_scale": 1.95
+                "illustration_scale": 1.95,
+                "illustrator": "Illus. Tiziano Baracchi",
+                "level": "2",
+                "text": "Mutated. Permanent. Limit 1 <t>Covenant</t> per deck.\n<reaction> When you resolve a <blessing> token during a skill test, exhaust <name>: Do not reveal another token as part of this <blessing> token's effect.",
+                "traits": "Covenant. Blessed.",
+                "type": "asset"
             },
-            "amount": 1,
             "back": {
                 "type": "player"
             }
@@ -1354,24 +1358,24 @@
         {
             "name": "Signum Crucis",
             "id": "07197-t",
+            "amount": 2,
             "front": {
-                "text": "Unchained (-2 experience).\nCommit only to a skill test you are performing, and only if the difficulty of that test is higher than your base skill value.\nAfter you commit <name> to a skill test, add X <blessing> tokens to the chaos bag. X is the difference between the test's difficulty and your base skill value.",
-                "traits": "Practiced. Blessed.",
-                "type": "skill",
-                "level": "2",
-                "collection_number": "197",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
                 "copyright": "\u00a9 2020 FFG",
-                "illustrator": "Illus. David Hovey",
                 "classes": [
                     "survivor"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
+                "collection_number": "197",
                 "icons": "Q",
                 "illustration": "./img/ahc52-197 Signum Crucis - David Hovey.png",
                 "illustration_pan_x": 60.0,
-                "illustration_pan_y": 232.0
+                "illustration_pan_y": 232.0,
+                "illustrator": "Illus. David Hovey",
+                "level": "2",
+                "text": "Unchained (-2 experience).\nCommit only to a skill test you are performing, and only if the difficulty of that test is higher than your base skill value.\nAfter you commit <name> to a skill test, add X <blessing> tokens to the chaos bag. X is the difference between the test's difficulty and your base skill value.",
+                "traits": "Practiced. Blessed.",
+                "type": "skill"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1379,30 +1383,30 @@
         {
             "name": "Flute of the Outer Gods",
             "id": "07268-t",
+            "amount": 1,
             "front": {
-                "text": "Mutated. Seal (up to X <curse>). Limit 1 per deck.\n<action> Exhaust <name> and release 1 <curse> token sealed on it: Choose a non-<t>Elite</t> enemy at your location. Either move the chosen enemy to a connecting location, or deal its damage to any enemy at its location. This action does not provoke attacks of opportunity.",
-                "traits": "Item. Instrument. Relic. Cursed.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "level": "4",
-                "collection_number": "268",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
                 "copyright": "\u00a9 2020 FFG",
-                "illustrator": "Illus. Carlos Palma Cruchaga",
                 "classes": [
                     "mystic"
                 ],
-                "slots": [
-                    "hand"
-                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
+                "collection_number": "268",
+                "cost": "X",
                 "icons": "WCA",
                 "illustration": "./img/ahc52-268 Flute of the Outer Gods - Carlos Palma Cruchaga.png",
                 "illustration_pan_x": 33.0,
                 "illustration_pan_y": 158.0,
                 "illustration_scale": 2.06,
-                "cost": "X"
+                "illustrator": "Illus. Carlos Palma Cruchaga",
+                "level": "4",
+                "slots": [
+                    "hand"
+                ],
+                "text": "Mutated. Seal (up to X <curse>). Limit 1 per deck.\n<action> Exhaust <name> and release 1 <curse> token sealed on it: Choose a non-<t>Elite</t> enemy at your location. Either move the chosen enemy to a connecting location, or deal its damage to any enemy at its location. This action does not provoke attacks of opportunity.",
+                "traits": "Item. Instrument. Relic. Cursed.",
+                "type": "asset"
             },
-            "amount": 1,
             "back": {
                 "type": "player"
             }
@@ -1410,26 +1414,26 @@
         {
             "name": "A Watchful Peace",
             "id": "07269-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. As an additional cost to play <name>, search the chaos bag and/or cards in play for a total of 5 <blessing> tokens and return them to the token pool.\nFast. Play when the \"draw encounter cards\" step of the mythos phase would begin.\nSkip this step of the mythos phase. Remove <name> from the game.",
-                "traits": "Spirit. Blessed.",
-                "type": "event",
-                "cost": "1",
-                "level": "3",
-                "collection_number": "269",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
                 "copyright": "\u00a9 2020 FFG",
-                "illustrator": "Illus. Romana Kendelic",
                 "classes": [
                     "survivor"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
+                "collection_number": "269",
+                "cost": "1",
                 "icons": "WW",
                 "illustration": "./img/ahc52-269 A Watchful Peace - export - Romana Kendelic.png",
                 "illustration_pan_x": 68.0,
                 "illustration_pan_y": 69.0,
-                "illustration_scale": 1.019
+                "illustration_scale": 1.019,
+                "illustrator": "Illus. Romana Kendelic",
+                "level": "3",
+                "text": "Mutated. As an additional cost to play <name>, search the chaos bag and/or cards in play for a total of 5 <blessing> tokens and return them to the token pool.\nFast. Play when the \"draw encounter cards\" step of the mythos phase would begin.\nSkip this step of the mythos phase. Remove <name> from the game.",
+                "traits": "Spirit. Blessed.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1437,27 +1441,27 @@
         {
             "name": "Hallow",
             "id": "07301-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. As an additional cost to play <name>, return a total of 10 <blessing> tokens to the token pool from the chaos bag or sealed on cards in play.\nRemove 1 doom from any card in play. Remove <name> from the game.",
-                "traits": "Spell. Blessed.",
-                "type": "event",
-                "cost": "3",
-                "level": "3",
-                "collection_number": "301",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
                 "copyright": "\u00a9 2020 FFG",
-                "illustrator": "Illus. Romana Kendelic",
                 "classes": [
                     "guardian"
                 ],
-                "icons": "WQ",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
+                "collection_number": "301",
+                "cost": "3",
                 "flavor_text": "Even in the deepest darkness, light can still bloom.",
+                "icons": "WQ",
                 "illustration": "./img/ahc52-301 Hallow - Romana Kendelic.jpg",
                 "illustration_pan_x": -71.0,
                 "illustration_pan_y": -18.0,
-                "illustration_scale": 1.73
+                "illustration_scale": 1.73,
+                "illustrator": "Illus. Romana Kendelic",
+                "level": "3",
+                "text": "Mutated. As an additional cost to play <name>, return a total of 10 <blessing> tokens to the token pool from the chaos bag or sealed on cards in play.\nRemove 1 doom from any card in play. Remove <name> from the game.",
+                "traits": "Spell. Blessed.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1465,26 +1469,26 @@
         {
             "name": "Rite of Equilibrium",
             "id": "07308-t",
+            "amount": 2,
             "front": {
-                "text": "Unchained (-2 experience).\nEither (choose one):\n- Add X <curse> tokens to the chaos bag to add X <blessing> tokens to the chaos bag.\n- Remove X <curse> and X <blessing> tokens from the chaos bag to heal X total horror from among cards at your location.",
-                "traits": "Spell. Blessed. Cursed.",
-                "type": "event",
-                "cost": "0",
-                "level": "5",
-                "collection_number": "308",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
                 "copyright": "\u00a9 2020 FFG",
-                "illustrator": "Illus. Adam S. Doyle",
                 "classes": [
                     "mystic"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
+                "collection_number": "308",
+                "cost": "0",
                 "icons": "Q",
                 "illustration": "./img/ahc52-308 Rite of Equilibrium - export - maybe extended - Adam S Doyle.png",
-                "illustration_scale": 1.0,
+                "illustration_pan_x": 77.0,
                 "illustration_pan_y": 60.0,
-                "illustration_pan_x": 77.0
+                "illustration_scale": 1.0,
+                "illustrator": "Illus. Adam S. Doyle",
+                "level": "5",
+                "text": "Unchained (-2 experience).\nEither (choose one):\n- Add X <curse> tokens to the chaos bag to add X <blessing> tokens to the chaos bag.\n- Remove X <curse> and X <blessing> tokens from the chaos bag to heal X total horror from among cards at your location.",
+                "traits": "Spell. Blessed. Cursed.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1492,25 +1496,25 @@
         {
             "name": "Geared Up",
             "id": "08019-t",
+            "amount": 1,
             "front": {
-                "text": "Mutated. Permanent. Limit 1 per deck. Purchase at deck creation.\n<for> When your first turn of the game begins: One at a time, play up to 5 <t>Item</t> assets from your hand, reducing the cost of each by 1. During this turn, you have 3 fewer actions to take.",
-                "traits": "Talent.",
-                "type": "asset",
-                "cost": "<dash>",
-                "level": "0",
-                "collection_number": "19",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
                 "copyright": "\u00a9 2021 FFG",
-                "illustrator": "Illus. Lindsey Messecar",
                 "classes": [
                     "guardian"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
+                "collection_number": "19",
+                "cost": "<dash>",
                 "illustration": "./img/ahc63-019 Geared Up - Lindsey Messecar.png",
                 "illustration_pan_x": 53.0,
                 "illustration_pan_y": 176.0,
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Lindsey Messecar",
+                "level": "0",
+                "text": "Mutated. Permanent. Limit 1 per deck. Purchase at deck creation.\n<for> When your first turn of the game begins: One at a time, play up to 5 <t>Item</t> assets from your hand, reducing the cost of each by 1. During this turn, you have 3 fewer actions to take.",
+                "traits": "Talent.",
+                "type": "asset"
             },
-            "amount": 1,
             "back": {
                 "type": "player"
             }
@@ -1518,33 +1522,33 @@
         {
             "name": "Jeremiah Kirby",
             "id": "08032-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\nYou get +1 [intellect].\n<reaction> After <name> enters play, choose \"even\" or \"odd:\" Reveal the top 5 cards of your deck. Draw each card with a cost that matches the chosen option. Shuffle the remaining cards into your deck. (Max twice per game.)",
-                "traits": "Ally. Miskatonic. Wayfarer.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "cost": "4",
-                "level": "0",
-                "collection_number": "32",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
                 "copyright": "\u00a9 2021 FFG",
-                "illustrator": "Illus. Romana Kendelic",
                 "classes": [
                     "seeker"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
+                "collection_number": "32",
+                "cost": "4",
                 "health": "2",
+                "icons": "I",
+                "illustration": "./img/ahc63-032 Jeremiah Kirby - Romana Kendelic.png",
+                "illustration_pan_x": 115.0,
+                "illustration_pan_y": 130.0,
+                "illustration_scale": 1.95,
+                "illustrator": "Illus. Romana Kendelic",
+                "level": "0",
                 "sanity": "1",
                 "slots": [
                     "ally"
                 ],
-                "icons": "I",
                 "subtitle": "Arctic Archaeologist",
-                "illustration": "./img/ahc63-032 Jeremiah Kirby - Romana Kendelic.png",
-                "illustration_pan_x": 115.0,
-                "illustration_pan_y": 130.0,
-                "illustration_scale": 1.95
+                "text": "Mutated.\nYou get +1 [intellect].\n<reaction> After <name> enters play, choose \"even\" or \"odd:\" Reveal the top 5 cards of your deck. Draw each card with a cost that matches the chosen option. Shuffle the remaining cards into your deck. (Max twice per game.)",
+                "traits": "Ally. Miskatonic. Wayfarer.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1552,31 +1556,31 @@
         {
             "name": "Prophesiae Profana",
             "id": "08045-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\nWhile you are not at the locus, you get +1 [intellect], +1 [agility], and ignore the first attack of opportunity you take each turn.\n<reaction>After <name> enters play: Choose a revealed location. That location is \"the locus\" until <name> leaves play.\n<action>: Move any investigator to the locus.",
-                "traits": "Item. Relic. Tome.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "cost": "4",
-                "level": "5",
-                "collection_number": "45",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
                 "copyright": "\u00a9 2021 FFG",
-                "illustrator": "Illus. Drazenka Kimpel",
                 "classes": [
                     "seeker"
                 ],
-                "slots": [
-                    "hand"
-                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
+                "collection_number": "45",
+                "cost": "4",
                 "icons": "QQ",
-                "subtitle": "Atlas of the Unknowable",
                 "illustration": "./img/ahc63-045 Prophesae Profana - Drazenka Kimpel.jpg",
                 "illustration_pan_x": 46.0,
                 "illustration_pan_y": 126.0,
-                "illustration_scale": 1.85
+                "illustration_scale": 1.85,
+                "illustrator": "Illus. Drazenka Kimpel",
+                "level": "5",
+                "slots": [
+                    "hand"
+                ],
+                "subtitle": "Atlas of the Unknowable",
+                "text": "Mutated.\nWhile you are not at the locus, you get +1 [intellect], +1 [agility], and ignore the first attack of opportunity you take each turn.\n<reaction>After <name> enters play: Choose a revealed location. That location is \"the locus\" until <name> leaves play.\n<action>: Move any investigator to the locus.",
+                "traits": "Item. Relic. Tome.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1584,25 +1588,25 @@
         {
             "name": "Black Market",
             "id": "08055-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Fast. Play at the start of the investigation phase. Max once per round.\nOne at a time, reveal cards from the top of any investigator deck(s) until exactly 5 cards have been revealed. Set those cards aside, out of play. While set aside, any investigator may play any of those cards as if they were in their hand. At the start of the next investigation phase, shuffle each of those cards still set aside into its owner's deck.",
-                "traits": "Favor.",
-                "type": "event",
-                "cost": "1",
-                "level": "2",
-                "collection_number": "55",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
                 "copyright": "\u00a9 2021 FFG",
-                "illustrator": "Illus. Matt Stawicki",
                 "classes": [
                     "rogue"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
+                "collection_number": "55",
+                "cost": "1",
                 "illustration": "./img/ahc63-055 Black Market - export - Matt Stawicki.png",
-                "illustration_scale": 1.0,
+                "illustration_pan_x": -27.0,
                 "illustration_pan_y": 18.0,
-                "illustration_pan_x": -27.0
+                "illustration_scale": 1.0,
+                "illustrator": "Illus. Matt Stawicki",
+                "level": "2",
+                "text": "Mutated. Fast. Play at the start of the investigation phase. Max once per round.\nOne at a time, reveal cards from the top of any investigator deck(s) until exactly 5 cards have been revealed. Set those cards aside, out of play. While set aside, any investigator may play any of those cards as if they were in their hand. At the start of the next investigation phase, shuffle each of those cards still set aside into its owner's deck.",
+                "traits": "Favor.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1610,26 +1614,26 @@
         {
             "name": "Burn After Reading",
             "id": "08076-t",
+            "amount": 0,
             "front": {
-                "text": "Forbidden.\nExile a level 0-5 card in your hand. Discover 2 clues at your location. If the exiled card was level 2 or higher, remove 1 doom from the current agenda. Exile <name>.\n<b>Card designed by the Council-in-Exile at Gen Con 2020</b>",
-                "traits": "Insight.",
-                "type": "event",
-                "cost": "1",
-                "level": "1",
-                "collection_number": "76",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
                 "copyright": "\u00a9 2021 FFG",
-                "illustrator": "Illus. Romana Kendelic",
                 "classes": [
                     "survivor"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
+                "collection_number": "76",
+                "cost": "1",
                 "icons": "Q",
                 "illustration": "./img/ahc63-076 Burn After Reading (Ian Hardaway) - Romana Kendelic.jpg",
                 "illustration_pan_x": 84.0,
                 "illustration_pan_y": 77.0,
-                "illustration_scale": 2.504
+                "illustration_scale": 2.504,
+                "illustrator": "Illus. Romana Kendelic",
+                "level": "1",
+                "text": "Forbidden.\nExile a level 0-5 card in your hand. Discover 2 clues at your location. If the exiled card was level 2 or higher, remove 1 doom from the current agenda. Exile <name>.\n<b>Card designed by the Council-in-Exile at Gen Con 2020</b>",
+                "traits": "Insight.",
+                "type": "event"
             },
-            "amount": 0,
             "back": {
                 "type": "player"
             }
@@ -1637,30 +1641,30 @@
         {
             "name": "Cyclopean Hammer",
             "id": "08093-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\n<action>: <b>Fight.</b> Add your [willpower] to your skill value for this attack. You deal +1 damage for this attack. If you succeed and the enemy is non-<t>Elite</t>, you may move it one location away from you. (If you succeed by 3 or more, you may exhaust <name> to instead deal +2 damage and may move the enemy up to two locations away from you.)",
-                "traits": "Item. Relic. Weapon. Melee.",
-                "type": "asset",
-                "cost": "5",
-                "level": "5",
-                "collection_number": "93",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
                 "copyright": "\u00a9 2021 FFG",
-                "illustrator": "Illus. Robert Laskey",
                 "classes": [
                     "guardian",
                     "mystic"
                 ],
-                "slots": [
-                    "hands"
-                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
+                "collection_number": "93",
+                "cost": "5",
                 "icons": "WWCC",
                 "illustration": "./img/ahc63-093 Cyclopean Hammer - Robert Laskey.png",
                 "illustration_pan_x": 104.0,
                 "illustration_pan_y": 208.0,
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Robert Laskey",
+                "level": "5",
+                "slots": [
+                    "hands"
+                ],
+                "text": "Mutated.\n<action>: <b>Fight.</b> Add your [willpower] to your skill value for this attack. You deal +1 damage for this attack. If you succeed and the enemy is non-<t>Elite</t>, you may move it one location away from you. (If you succeed by 3 or more, you may exhaust <name> to instead deal +2 damage and may move the enemy up to two locations away from you.)",
+                "traits": "Item. Relic. Weapon. Melee.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1668,30 +1672,30 @@
         {
             "name": "Eon Chart",
             "id": "08098-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Uses (3 secrets).\n<free> During your turn, exhaust <name> and spend 1 secret: Choose and take one of the following basic actions (move, evade, or investigate).",
-                "traits": "Item. Relic.",
-                "type": "asset",
-                "cost": "2",
-                "level": "1",
-                "collection_number": "98",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
                 "copyright": "\u00a9 2021 FFG",
-                "illustrator": "Illus. Ignacio Baz\u00e1n Lazcano",
                 "classes": [
                     "seeker",
                     "rogue"
                 ],
-                "slots": [
-                    "accessory"
-                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
+                "collection_number": "98",
+                "cost": "2",
                 "icons": "IA",
                 "illustration": "./img/ahc63-098 Eon Chart-tall - Ignacio Baz\u00e1n Lazcano.png",
                 "illustration_pan_x": 98.0,
                 "illustration_pan_y": 73.0,
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Ignacio Baz\u00e1n Lazcano",
+                "level": "1",
+                "slots": [
+                    "accessory"
+                ],
+                "text": "Mutated. Uses (3 secrets).\n<free> During your turn, exhaust <name> and spend 1 secret: Choose and take one of the following basic actions (move, evade, or investigate).",
+                "traits": "Item. Relic.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1699,34 +1703,34 @@
         {
             "name": "Gen\u00e9 Beauregard",
             "id": "08099-t",
+            "amount": 2,
             "front": {
-                "text": "Chained (+2 experience).\nYou get +1 [intellect] and +1 [agility].\n<reaction> During your turn, after you move to a location, exhaust <name>: Move a clue or a non-<t>Elite</t> enemy from a connecting location to your location, or vice versa.",
-                "traits": "Ally. Wayfarer.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "cost": "5",
-                "level": "3",
-                "collection_number": "99",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
                 "copyright": "\u00a9 2021 FFG",
-                "illustrator": "Illus. Vlad Ricean",
                 "classes": [
                     "seeker",
                     "rogue"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
+                "collection_number": "99",
+                "cost": "5",
                 "health": "2",
+                "icons": "IA",
+                "illustration": "./img/ahc63-099 Gen\u00e9 Beauregard - Vlad Ricean.png",
+                "illustration_pan_x": 90.0,
+                "illustration_pan_y": 117.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Vlad Ricean",
+                "level": "3",
                 "sanity": "2",
                 "slots": [
                     "ally"
                 ],
-                "icons": "IA",
                 "subtitle": "Intrepid Explorer",
-                "illustration": "./img/ahc63-099 Gen\u00e9 Beauregard - Vlad Ricean.png",
-                "illustration_pan_x": 90.0,
-                "illustration_pan_y": 117.0,
-                "illustration_scale": 2.0
+                "text": "Chained (+2 experience).\nYou get +1 [intellect] and +1 [agility].\n<reaction> During your turn, after you move to a location, exhaust <name>: Move a clue or a non-<t>Elite</t> enemy from a connecting location to your location, or vice versa.",
+                "traits": "Ally. Wayfarer.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1734,30 +1738,30 @@
         {
             "name": "Eon Chart",
             "id": "08100-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Uses (3 secrets).\n<free> During your turn, exhaust <name> and spend 1 secret: Choose and take two different basic actions of the following, in any order (move, evade, or investigate).",
-                "traits": "Item. Relic.",
-                "type": "asset",
-                "cost": "2",
-                "level": "4",
-                "collection_number": "100",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
                 "copyright": "\u00a9 2021 FFG",
-                "illustrator": "Illus. Ignacio Baz\u00e1n Lazcano",
                 "classes": [
                     "seeker",
                     "rogue"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
+                "collection_number": "100",
+                "cost": "2",
+                "icons": "IAQ",
+                "illustration": "./img/ahc63-098 Eon Chart-tall - Ignacio Baz\u00e1n Lazcano.png",
+                "illustration_pan_x": 98.0,
+                "illustration_pan_y": 73.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Ignacio Baz\u00e1n Lazcano",
+                "level": "4",
                 "slots": [
                     "accessory"
                 ],
-                "icons": "IAQ",
-                "illustration": "./img/ahc63-098 Eon Chart-tall - Ignacio Baz\u00e1n Lazcano.png",
-                "illustration_pan_y": 73.0,
-                "illustration_pan_x": 98.0,
-                "illustration_scale": 2.0
+                "text": "Mutated. Uses (3 secrets).\n<free> During your turn, exhaust <name> and spend 1 secret: Choose and take two different basic actions of the following, in any order (move, evade, or investigate).",
+                "traits": "Item. Relic.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1765,26 +1769,26 @@
         {
             "name": "Unscrupulous Loan",
             "id": "08113-t",
+            "amount": 2,
             "front": {
-                "text": "Campaign Mode only. Limit 1 per investigator. Cannot leave play.\n<reaction> After you play <name>: Gain 10 resources.\n<for> When the game ends or you are eliminated, if you have fewer than 10 resources in your resource pool: Exile <name>.",
-                "traits": "Pact.",
-                "type": "asset",
-                "cost": "0",
-                "level": "3",
-                "collection_number": "113",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
                 "copyright": "\u00a9 2021 FFG",
-                "illustrator": "Illus. Drazenka Kimpel",
                 "classes": [
                     "rogue",
                     "survivor"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
+                "collection_number": "113",
+                "cost": "0",
                 "illustration": "./img/ahc63-113 Unscrupulous Loan - Drazenka Kimpel.jpg",
-                "illustration_scale": 2.15,
                 "illustration_pan_x": 59.0,
-                "illustration_pan_y": 238.0
+                "illustration_pan_y": 238.0,
+                "illustration_scale": 2.15,
+                "illustrator": "Illus. Drazenka Kimpel",
+                "level": "3",
+                "text": "Campaign Mode only. Limit 1 per investigator. Cannot leave play.\n<reaction> After you play <name>: Gain 10 resources.\n<for> When the game ends or you are eliminated, if you have fewer than 10 resources in your resource pool: Exile <name>.",
+                "traits": "Pact.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1792,30 +1796,30 @@
         {
             "name": "Runic Axe",
             "id": "09022-t",
+            "amount": 2,
             "front": {
-                "text": "Customizable. Uses (4 charges). Replenish 1 of these charges at the start of each round.\n<action>: <b>Fight.</b> You get +1 [combat] for this attack. Before this attack, you may spend any number of charges to imbue the axe with that many different inscriptions --\n- <i>Accuracy</i> -- You get an additional +2 [combat] for this attack.\n- <i>Power</i> -- This attack deals +1 damage.",
-                "traits": "Item. Weapon. Melee.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "cost": "4",
-                "level": "0",
-                "collection_number": "22",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
                 "copyright": "\u00a9 2022 FFG",
-                "illustrator": "Illus. Pixoloid Studios",
                 "classes": [
                     "guardian"
                 ],
-                "slots": [
-                    "hands"
-                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
+                "collection_number": "22",
+                "cost": "4",
                 "icons": "C",
                 "illustration": "./img/ahc69-022 Runic Axe - darkened - Pixoloid Studios.png",
                 "illustration_pan_x": 71.0,
                 "illustration_pan_y": 240.0,
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Pixoloid Studios",
+                "level": "0",
+                "slots": [
+                    "hands"
+                ],
+                "text": "Customizable. Uses (4 charges). Replenish 1 of these charges at the start of each round.\n<action>: <b>Fight.</b> You get +1 [combat] for this attack. Before this attack, you may spend any number of charges to imbue the axe with that many different inscriptions --\n- <i>Accuracy</i> -- You get an additional +2 [combat] for this attack.\n- <i>Power</i> -- This attack deals +1 damage.",
+                "traits": "Item. Weapon. Melee.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1823,26 +1827,26 @@
         {
             "name": "Empirical Hypothesis",
             "id": "09041-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Customizable. Limit 1 per investigator.\n<for> At the start of the round: Choose one of the following criteria for this round\n- You fail a test by 2 or more.\n- You succeed at a test by 3 or more.\nWhen the chosen criteria is met, you may exhaust <name> to add 1 evidence to it.\n<free> Spend 1 evidence: Draw 1 card. (Limit twice per round.)",
-                "traits": "Talent. Science.",
-                "type": "asset",
-                "cost": "2",
-                "level": "0",
-                "collection_number": "41",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
                 "copyright": "\u00a9 2022 FFG",
-                "illustrator": "Illus. Isuardi Therianto",
                 "classes": [
                     "seeker"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
+                "collection_number": "41",
+                "cost": "2",
                 "icons": "I",
                 "illustration": "./img/ahc69-041 Empirical Hypothesis - Isuardi Therianto.png",
                 "illustration_pan_x": 90.0,
                 "illustration_pan_y": 248.0,
-                "illustration_scale": 1.96
+                "illustration_scale": 1.96,
+                "illustrator": "Illus. Isuardi Therianto",
+                "level": "0",
+                "text": "Mutated. Customizable. Limit 1 per investigator.\n<for> At the start of the round: Choose one of the following criteria for this round\n- You fail a test by 2 or more.\n- You succeed at a test by 3 or more.\nWhen the chosen criteria is met, you may exhaust <name> to add 1 evidence to it.\n<free> Spend 1 evidence: Draw 1 card. (Limit twice per round.)",
+                "traits": "Talent. Science.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1850,29 +1854,29 @@
         {
             "name": "Research Notes",
             "id": "09045-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\n<reaction> After a player card ability places 1 or more of your clues on your location: Place that many resources on <name>, as evidence.\n<action>: Test [intellect] (0). For each point you succeed by, you may spend 1 evidence to discover 1 clue at your location (max 3 evidence spent per round).",
-                "traits": "Item. Tome. Science.",
-                "type": "asset",
-                "cost": "1",
-                "level": "0",
-                "collection_number": "45",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
                 "copyright": "\u00a9 2022 FFG",
-                "illustrator": "Illus. Pixoloid Studios",
                 "classes": [
                     "seeker"
                 ],
-                "slots": [
-                    "hand"
-                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
+                "collection_number": "45",
+                "cost": "1",
                 "icons": "I",
                 "illustration": "./img/ahc69-045 Research Notes - Pixoloid Studios.jpg",
                 "illustration_pan_x": 8.0,
                 "illustration_pan_y": 205.0,
-                "illustration_scale": 1.33
+                "illustration_scale": 1.33,
+                "illustrator": "Illus. Pixoloid Studios",
+                "level": "0",
+                "slots": [
+                    "hand"
+                ],
+                "text": "Mutated.\n<reaction> After a player card ability places 1 or more of your clues on your location: Place that many resources on <name>, as evidence.\n<action>: Test [intellect] (0). For each point you succeed by, you may spend 1 evidence to discover 1 clue at your location (max 3 evidence spent per round).",
+                "traits": "Item. Tome. Science.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1880,33 +1884,33 @@
         {
             "name": "Chuck Fergus",
             "id": "09072-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. <reaction> When you play a <t>Tactic</t> or <t>Trick</t> event, exhaust <name>: Choose one -\n- That event gains: \"Fast. Play only during your turn.\"\n- That event costs 2 fewer resources to play.\n- You get +2 skill value while performing a skill test during the resolution of that event.",
-                "traits": "Ally. Criminal.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "cost": "4",
-                "level": "2",
-                "collection_number": "72",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
                 "copyright": "\u00a9 2022 FFG",
-                "illustrator": "Illus. Derek D. Edgell",
                 "classes": [
                     "rogue"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
+                "collection_number": "72",
+                "cost": "4",
                 "health": "2",
+                "icons": "CA",
+                "illustration": "./img/ahc49-032 Chuck Fergus - Derek D Edgell.jpg",
+                "illustration_pan_x": 109.0,
+                "illustration_pan_y": 191.0,
+                "illustration_scale": 1.4,
+                "illustrator": "Illus. Derek D. Edgell",
+                "level": "2",
                 "sanity": "2",
                 "slots": [
                     "ally"
                 ],
-                "icons": "CA",
                 "subtitle": "O'Bannion Driver",
-                "illustration": "./img/ahc49-032 Chuck Fergus - Derek D Edgell.jpg",
-                "illustration_pan_x": 109.0,
-                "illustration_pan_y": 191.0,
-                "illustration_scale": 1.4
+                "text": "Mutated. <reaction> When you play a <t>Tactic</t> or <t>Trick</t> event, exhaust <name>: Choose one -\n- That event gains: \"Fast. Play only during your turn.\"\n- That event costs 2 fewer resources to play.\n- You get +2 skill value while performing a skill test during the resolution of that event.",
+                "traits": "Ally. Criminal.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1914,25 +1918,25 @@
         {
             "name": "Underworld Market",
             "id": "09077-t",
+            "amount": 1,
             "front": {
-                "text": "Chained (+2 experience).\nPermanent. Exceptional. You get +10 deck size.\n<reaction> Before drawing your opening hand, choose 10 <t>Illicit</t> cards from your deck: Shuffle them together and place them next to <name>, as your market deck.\n<reaction> At the start of your turn: Reveal the top 2 cards of your market deck. You may spend 1 resource to draw 1 of them. Place the rest on the bottom, in any order.",
-                "traits": "Connection. Illicit.",
-                "type": "asset",
-                "cost": "<dash>",
-                "level": "2",
-                "collection_number": "77",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
                 "copyright": "\u00a9 2022 FFG",
-                "illustrator": "Illus. Anders Finer",
                 "classes": [
                     "rogue"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
+                "collection_number": "77",
+                "cost": "<dash>",
                 "illustration": "./img/ahc69-077 Underworld Market - Anders Fin\u00e9r.png",
                 "illustration_pan_x": 27.0,
                 "illustration_pan_y": 129.0,
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Anders Finer",
+                "level": "2",
+                "text": "Chained (+2 experience).\nPermanent. Exceptional. You get +10 deck size.\n<reaction> Before drawing your opening hand, choose 10 <t>Illicit</t> cards from your deck: Shuffle them together and place them next to <name>, as your market deck.\n<reaction> At the start of your turn: Reveal the top 2 cards of your market deck. You may spend 1 resource to draw 1 of them. Place the rest on the bottom, in any order.",
+                "traits": "Connection. Illicit.",
+                "type": "asset"
             },
-            "amount": 1,
             "back": {
                 "type": "player"
             }
@@ -1940,26 +1944,26 @@
         {
             "name": "Power Word",
             "id": "09081-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Customizable. Fast. Play only during your turn.\nAttach to a non-<t>Elite</t> enemy at your location.\n<action> If attached enemy is at your location: <b>Parley.</b> Test [willpower] (2). If you succeed, give it a command (limit once per round per command) --\n <bullet> \"Go.\" This enemy moves once in a direction of your choice.",
-                "traits": "Spell.",
-                "type": "event",
-                "cost": "3",
-                "level": "0",
-                "collection_number": "81",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
                 "copyright": "\u00a9 2022 FFG",
-                "illustrator": "Illus. Anders Finer",
                 "classes": [
                     "mystic"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
+                "collection_number": "81",
+                "cost": "3",
                 "icons": "I",
                 "illustration": "./img/ahc69-081 Power Word - export - darkened - Anders Finer..png",
                 "illustration_pan_x": 64.0,
                 "illustration_pan_y": 49.0,
-                "illustration_scale": 2.038
+                "illustration_scale": 2.038,
+                "illustrator": "Illus. Anders Finer",
+                "level": "0",
+                "text": "Mutated. Customizable. Fast. Play only during your turn.\nAttach to a non-<t>Elite</t> enemy at your location.\n<action> If attached enemy is at your location: <b>Parley.</b> Test [willpower] (2). If you succeed, give it a command (limit once per round per command) --\n <bullet> \"Go.\" This enemy moves once in a direction of your choice.",
+                "traits": "Spell.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1967,23 +1971,23 @@
         {
             "name": "Shed a Light",
             "id": "09108-t",
+            "amount": 2,
             "front": {
-                "text": "Chained (+2 experience).\nFast. Play before revealing a chaos token during an investigation you are performing, and only if the difficulty of this test is currently 0.\nThis test automatically succeeds. You discover 1 additional clue at this location and 1 additional clue at any location.",
-                "traits": "Insight. Trick.",
-                "type": "event",
-                "cost": "2",
-                "level": "0",
-                "collection_number": "108",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
                 "copyright": "\u00a9 2022 FFG",
-                "illustrator": "Illus. Anders Finer",
                 "classes": [
                     "survivor"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
+                "collection_number": "108",
+                "cost": "2",
                 "icons": "IA",
-                "illustration": "./img/ahc69-108 Shed a Light - exported - Anders Finer.png"
+                "illustration": "./img/ahc69-108 Shed a Light - exported - Anders Finer.png",
+                "illustrator": "Illus. Anders Finer",
+                "level": "0",
+                "text": "Chained (+2 experience).\nFast. Play before revealing a chaos token during an investigation you are performing, and only if the difficulty of this test is currently 0.\nThis test automatically succeeds. You discover 1 additional clue at this location and 1 additional clue at any location.",
+                "traits": "Insight. Trick.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -1991,29 +1995,29 @@
         {
             "name": "Old Keyring",
             "id": "09117-t",
+            "amount": 2,
             "front": {
-                "text": "Chained (+1 experience).\nUses (3 keys). If there are no keys on <name>, discard it.\n<action>: <b>Investigate.</b> Your location gets -2 shroud for this investigation. If you succeed, remove 1 key from <name>, and if this test's difficulty is 0, you discover 1 additional clue.",
-                "traits": "Item. Tool.",
-                "type": "asset",
-                "cost": "1",
-                "level": "3",
-                "collection_number": "117",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
                 "copyright": "\u00a9 2022 FFG",
-                "illustrator": "Illus. Robert Laskey",
                 "classes": [
                     "survivor"
                 ],
-                "slots": [
-                    "hand"
-                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tsk.svg\">",
+                "collection_number": "117",
+                "cost": "1",
                 "icons": "II",
                 "illustration": "./img/ahc51-007 Old Key Ring - Robert Laskey.jpg",
                 "illustration_pan_x": 116.0,
                 "illustration_pan_y": 200.0,
-                "illustration_scale": 2.465
+                "illustration_scale": 2.465,
+                "illustrator": "Illus. Robert Laskey",
+                "level": "3",
+                "slots": [
+                    "hand"
+                ],
+                "text": "Chained (+1 experience).\nUses (3 keys). If there are no keys on <name>, discard it.\n<action>: <b>Investigate.</b> Your location gets -2 shroud for this investigation. If you succeed, remove 1 key from <name>, and if this test's difficulty is 0, you discover 1 additional clue.",
+                "traits": "Item. Tool.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -2021,27 +2025,27 @@
         {
             "name": "Hold Up",
             "id": "10026-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\n<b>Parley.</b> Choose an enemy at your location and an <t>Item</t> asset in your hand. Perform a fight action against the chosen enemy. If you succeed, play the chosen asset, reducing its cost by the amount you succeeded by.",
-                "traits": "Tactic. Trick.",
-                "type": "event",
-                "cost": "1",
-                "level": "0",
-                "collection_number": "26",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
                 "copyright": "\u00a9 2024 FFG",
-                "illustrator": "Illus. Rob Laskey",
                 "classes": [
                     "guardian"
                 ],
-                "icons": "CA",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
+                "collection_number": "26",
+                "cost": "1",
                 "flavor_text": "\"H-hands where I can see 'em!\"",
+                "icons": "CA",
                 "illustration": "./img/ahc76-026 Hold Up - Robert Laskey.jpg",
                 "illustration_pan_x": 96.0,
                 "illustration_pan_y": 77.0,
-                "illustration_scale": 1.4
+                "illustration_scale": 1.4,
+                "illustrator": "Illus. Rob Laskey",
+                "level": "0",
+                "text": "Mutated.\n<b>Parley.</b> Choose an enemy at your location and an <t>Item</t> asset in your hand. Perform a fight action against the chosen enemy. If you succeed, play the chosen asset, reducing its cost by the amount you succeeded by.",
+                "traits": "Tactic. Trick.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -2049,27 +2053,27 @@
         {
             "name": "Hand-Eye Coordination",
             "id": "10030-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Fast. Play only during your turn.\nResolve an <action> ability on a level 0-3 <t>Tool</t> or <t>Weapon</t> asset you control, ignoring all costs.\n",
-                "traits": "Insight.",
-                "type": "event",
-                "cost": "1",
-                "level": "1",
-                "collection_number": "30",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
                 "copyright": "\u00a9 2024 FFG",
-                "illustrator": "Illus. Romana Kendelic",
                 "classes": [
                     "guardian"
                 ],
-                "icons": "IC",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
+                "collection_number": "30",
+                "cost": "1",
                 "flavor_text": "Keep your eyes on the target.",
+                "icons": "IC",
                 "illustration": "./img/ahc76-030 Hand-Eye Coordination - export - Romana Kendelic.png",
                 "illustration_pan_x": 60.0,
                 "illustration_pan_y": 47.0,
-                "illustration_scale": 1.0
+                "illustration_scale": 1.0,
+                "illustrator": "Illus. Romana Kendelic",
+                "level": "1",
+                "text": "Mutated. Fast. Play only during your turn.\nResolve an <action> ability on a level 0-3 <t>Tool</t> or <t>Weapon</t> asset you control, ignoring all costs.\n",
+                "traits": "Insight.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -2077,25 +2081,25 @@
         {
             "name": "Strong-Armed",
             "id": "10031-t",
+            "amount": 2,
             "front": {
-                "text": "Chained (+1 experience).\nWhile <name> is committed to an attack using a <t>Melee</t> or <t>Ranged</t> asset, this attack deals +1 damage. After revealing chaos token(s) for this skill test, you may take 1 damage to cancel that chaos token, return it to the chaos bag, and reveal a new one. <i>(You may do this any number of times.)</i>",
-                "traits": "Innate.",
-                "type": "skill",
-                "level": "1",
-                "collection_number": "31",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
                 "copyright": "\u00a9 2024 FFG",
-                "illustrator": "Illus. Jo\u00e3o Bosco",
                 "classes": [
                     "guardian"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
+                "collection_number": "31",
                 "icons": "CA",
                 "illustration": "./img/ahc76-031 Strong-Armed - Jon Bosco.jpg",
                 "illustration_pan_x": 91.0,
                 "illustration_pan_y": 245.0,
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Jo\u00e3o Bosco",
+                "level": "1",
+                "text": "Chained (+1 experience).\nWhile <name> is committed to an attack using a <t>Melee</t> or <t>Ranged</t> asset, this attack deals +1 damage. After revealing chaos token(s) for this skill test, you may take 1 damage to cancel that chaos token, return it to the chaos bag, and reveal a new one. <i>(You may do this any number of times.)</i>",
+                "traits": "Innate.",
+                "type": "skill"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -2103,26 +2107,26 @@
         {
             "name": "Flurry of Blows",
             "id": "10037-t",
+            "amount": 2,
             "front": {
-                "text": "Unchained (-2 experience).\nPlay only if you control a <t>Melee</t> asset. As an additional cost to play <name>, spend an action.\n<b>Fight.</b> Choose a <t>Melee</t> asset you control and take an immediate fight action with that asset <i>(without paying its <action> cost)</i>. You may repeat this effect up to three times. After the final attack resolves, if it is your turn, end your turn.",
-                "traits": "Tactic. Double. Fated.",
-                "type": "event",
-                "cost": "2",
-                "level": "5",
-                "collection_number": "37",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
                 "copyright": "\u00a9 2024 FFG",
-                "illustrator": "Illus. Lin Hsiang",
                 "classes": [
                     "guardian"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
+                "collection_number": "37",
+                "cost": "2",
                 "icons": "CAQ",
                 "illustration": "./img/ahc76-037 Flurry of Blows - splash - Lin Hsiang.png",
                 "illustration_pan_x": -48.0,
                 "illustration_pan_y": -64.0,
-                "illustration_scale": 2.536
+                "illustration_scale": 2.536,
+                "illustrator": "Illus. Lin Hsiang",
+                "level": "5",
+                "text": "Unchained (-2 experience).\nPlay only if you control a <t>Melee</t> asset. As an additional cost to play <name>, spend an action.\n<b>Fight.</b> Choose a <t>Melee</t> asset you control and take an immediate fight action with that asset <i>(without paying its <action> cost)</i>. You may repeat this effect up to three times. After the final attack resolves, if it is your turn, end your turn.",
+                "traits": "Tactic. Double. Fated.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -2130,29 +2134,29 @@
         {
             "name": "Ravenous Myconid",
             "id": "10059-t",
+            "amount": 1,
             "front": {
-                "text": "Mutated. Researched. Limit 1 per deck.\n<free>: Search your bonded cards for Uncanny Growth and add it to your hand. (Limit once per round.)\n<reaction> When an investigator draws a non-weakness treachery card, if their location's shroud is less than <name>'s growth: Cancel that treachery's effects and discard it. Remove all growth from <name>.",
-                "traits": "Creature. Science.",
-                "type": "asset",
-                "cost": "2",
-                "level": "4",
-                "collection_number": "59",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
                 "copyright": "\u00a9 2024 FFG",
-                "illustrator": "Illus. JB Casacop",
                 "classes": [
                     "seeker"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
+                "collection_number": "59",
+                "cost": "2",
                 "health": "1",
-                "sanity": "1",
                 "icons": "I",
-                "subtitle": "Sentient Strain",
                 "illustration": "./img/ahc76-044 Ravenous Myconid - JB Casacop.webp",
                 "illustration_pan_x": 0.0,
                 "illustration_pan_y": 129.0,
-                "illustration_scale": 1.284
+                "illustration_scale": 1.284,
+                "illustrator": "Illus. JB Casacop",
+                "level": "4",
+                "sanity": "1",
+                "subtitle": "Sentient Strain",
+                "text": "Mutated. Researched. Limit 1 per deck.\n<free>: Search your bonded cards for Uncanny Growth and add it to your hand. (Limit once per round.)\n<reaction> When an investigator draws a non-weakness treachery card, if their location's shroud is less than <name>'s growth: Cancel that treachery's effects and discard it. Remove all growth from <name>.",
+                "traits": "Creature. Science.",
+                "type": "asset"
             },
-            "amount": 1,
             "back": {
                 "type": "player"
             }
@@ -2160,29 +2164,29 @@
         {
             "name": "Ravenous Myconid",
             "id": "10060-t",
+            "amount": 1,
             "front": {
-                "text": "Chained (+1 experience).\nResearched. Limit 1 per deck.\n<free>: Search your bonded cards for Uncanny Growth and add it to your hand. (Limit once per round.)\n<free> Choose a non-<t>Elite</t> enemy at your location with equal or fewer remaining health than the amount of growth on <name>: Defeat that enemy. Remove all growth from <name>.",
-                "traits": "Monster. Science.",
-                "type": "asset",
-                "cost": "2",
-                "level": "4",
-                "collection_number": "60",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
                 "copyright": "\u00a9 2024 FFG",
-                "illustrator": "Illus. JB Casacop",
                 "classes": [
                     "seeker"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
+                "collection_number": "60",
+                "cost": "2",
                 "health": "1",
-                "sanity": "1",
                 "icons": "C",
-                "subtitle": "Carnivorous Strain",
                 "illustration": "./img/ahc76-044 Ravenous Myconid - JB Casacop.webp",
-                "illustration_pan_y": 129.0,
                 "illustration_pan_x": 0.0,
-                "illustration_scale": 1.284
+                "illustration_pan_y": 129.0,
+                "illustration_scale": 1.284,
+                "illustrator": "Illus. JB Casacop",
+                "level": "4",
+                "sanity": "1",
+                "subtitle": "Carnivorous Strain",
+                "text": "Chained (+1 experience).\nResearched. Limit 1 per deck.\n<free>: Search your bonded cards for Uncanny Growth and add it to your hand. (Limit once per round.)\n<free> Choose a non-<t>Elite</t> enemy at your location with equal or fewer remaining health than the amount of growth on <name>: Defeat that enemy. Remove all growth from <name>.",
+                "traits": "Monster. Science.",
+                "type": "asset"
             },
-            "amount": 1,
             "back": {
                 "type": "player"
             }
@@ -2190,31 +2194,31 @@
         {
             "name": "Rod of Carnamagos",
             "id": "10085-t",
+            "amount": 1,
             "front": {
-                "text": "Chained (+2 experience).\nLimit 1 per deck.\n<free> Choose a non-<t>Elite</t> enemy at any location and exhaust <name>: Reveal 5 random chaos tokens from the chaos bag. If a <curse> token is revealed, search your bonded cards for a random <t>Rot</t> event and attach it to that enemy.",
-                "traits": "Item. Relic. Occult. Cursed.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "cost": "2",
-                "level": "0",
-                "collection_number": "85",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
                 "copyright": "\u00a9 2024 FFG",
-                "illustrator": "Illus. Borja Pindado",
                 "classes": [
                     "mystic"
                 ],
-                "slots": [
-                    "hand"
-                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
+                "collection_number": "85",
+                "cost": "2",
                 "icons": "W",
-                "subtitle": "Scepter of the Mad Seer",
                 "illustration": "./img/ahc76-085 Rod of Carnamagos - Borja Pindado.jpg",
                 "illustration_pan_x": 95.0,
                 "illustration_pan_y": -70.0,
-                "illustration_scale": 1.35
+                "illustration_scale": 1.35,
+                "illustrator": "Illus. Borja Pindado",
+                "level": "0",
+                "slots": [
+                    "hand"
+                ],
+                "subtitle": "Scepter of the Mad Seer",
+                "text": "Chained (+2 experience).\nLimit 1 per deck.\n<free> Choose a non-<t>Elite</t> enemy at any location and exhaust <name>: Reveal 5 random chaos tokens from the chaos bag. If a <curse> token is revealed, search your bonded cards for a random <t>Rot</t> event and attach it to that enemy.",
+                "traits": "Item. Relic. Occult. Cursed.",
+                "type": "asset"
             },
-            "amount": 1,
             "back": {
                 "type": "player"
             }
@@ -2222,31 +2226,31 @@
         {
             "name": "Rod of Carnamagos",
             "id": "10098-t",
+            "amount": 2,
             "front": {
-                "text": "Chained (+2 experience).\n<free> Choose a non-<t>Elite</t> enemy at any location and exhaust <name>: Reveal 5 random chaos tokens from the chaos bag. For each <curse> token revealed, you may search your bonded cards for a <t>Rot</t> event and attach it to that enemy.",
-                "traits": "Item. Relic. Occult. Cursed.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "cost": "2",
-                "level": "2",
-                "collection_number": "98",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
                 "copyright": "\u00a9 2024 FFG",
-                "illustrator": "Illus. Borja Pindado",
                 "classes": [
                     "mystic"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
+                "collection_number": "98",
+                "cost": "2",
+                "icons": "W",
+                "illustration": "./img/ahc76-085 Rod of Carnamagos - Borja Pindado.jpg",
+                "illustration_pan_x": 95.0,
+                "illustration_pan_y": -70.0,
+                "illustration_scale": 1.35,
+                "illustrator": "Illus. Borja Pindado",
+                "level": "2",
                 "slots": [
                     "hand"
                 ],
-                "icons": "W",
                 "subtitle": "Scepter of the Mad Seer",
-                "illustration": "./img/ahc76-085 Rod of Carnamagos - Borja Pindado.jpg",
-                "illustration_scale": 1.35,
-                "illustration_pan_y": -70.0,
-                "illustration_pan_x": 95.0
+                "text": "Chained (+2 experience).\n<free> Choose a non-<t>Elite</t> enemy at any location and exhaust <name>: Reveal 5 random chaos tokens from the chaos bag. For each <curse> token revealed, you may search your bonded cards for a <t>Rot</t> event and attach it to that enemy.",
+                "traits": "Item. Relic. Occult. Cursed.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -2254,27 +2258,27 @@
         {
             "name": "Quick Shot",
             "id": "11031-t",
+            "amount": 3,
             "front": {
-                "text": "Unchained (-2 experience).\nMyriad. Fast. Play only during your turn.\nDeal 1 damage to an enemy at your location.\n<reaction> After you draw <name> during your turn: Play it, reducing its resource cost by 2.",
-                "traits": "Spirit.",
-                "type": "event",
-                "cost": "2",
-                "level": "3",
-                "collection_number": "31",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
                 "copyright": "\u00a9 2025 FFG",
-                "illustrator": "Illus. Gabby Portal",
                 "classes": [
                     "guardian"
                 ],
-                "icons": "CA",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
+                "collection_number": "31",
+                "cost": "2",
                 "flavor_text": "They called Sister Sofia the \"hand of God\" for a very good reason.",
+                "icons": "CA",
                 "illustration": "./img/ahc83-031 Quick Shot - Gabrielle Portal.jpg",
-                "illustration_pan_y": -46.0,
                 "illustration_pan_x": -7.0,
-                "illustration_scale": 0.95
+                "illustration_pan_y": -46.0,
+                "illustration_scale": 0.95,
+                "illustrator": "Illus. Gabby Portal",
+                "level": "3",
+                "text": "Unchained (-2 experience).\nMyriad. Fast. Play only during your turn.\nDeal 1 damage to an enemy at your location.\n<reaction> After you draw <name> during your turn: Play it, reducing its resource cost by 2.",
+                "traits": "Spirit.",
+                "type": "event"
             },
-            "amount": 3,
             "back": {
                 "type": "player"
             }
@@ -2282,26 +2286,26 @@
         {
             "name": "Bum's Rush",
             "id": "11055-t",
+            "amount": 2,
             "front": {
-                "text": "Chained (+1 experience).\n<b>Evade.</b> Add your [combat] value to your skill value for this evasion attempt. If you succeed by 2 or more, deal that enemy 1 damage. If that enemy is non-<t>Elite</t>, you may move it to a connecting location.",
-                "traits": "Tactic. Trick.",
-                "type": "event",
-                "cost": "2",
-                "level": "0",
-                "illustration": "./img/11055.png",
-                "illustration_scale": 2.15,
-                "illustration_pan_x": 68.0,
-                "illustration_pan_y": 50.0,
-                "collection_number": "55",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
                 "copyright": "\u00a9 2025 FFG",
-                "illustrator": "Illus. Diego Gisbert",
                 "classes": [
                     "rogue"
                 ],
-                "icons": "IC"
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
+                "collection_number": "55",
+                "cost": "2",
+                "icons": "IC",
+                "illustration": "./img/11055.png",
+                "illustration_pan_x": 68.0,
+                "illustration_pan_y": 50.0,
+                "illustration_scale": 2.15,
+                "illustrator": "Illus. Diego Gisbert",
+                "level": "0",
+                "text": "Chained (+1 experience).\n<b>Evade.</b> Add your [combat] value to your skill value for this evasion attempt. If you succeed by 2 or more, deal that enemy 1 damage. If that enemy is non-<t>Elite</t>, you may move it to a connecting location.",
+                "traits": "Tactic. Trick.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -2309,31 +2313,31 @@
         {
             "name": "Blood of Thoth",
             "id": "11065-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\n<reaction> When doom is placed on a card you control: Place 1 resource <i>(from the token pool)</i>, on this card, as an offering.\n<free> During the investigation phase, except during an action, spend 2 offerings and exhaust <name>: Choose an investigator at your location to immediately take an action as if it were their turn.",
-                "traits": "Item. Relic.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "cost": "2",
-                "level": "0",
-                "collection_number": "65",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
                 "copyright": "\u00a9 2025 FFG",
-                "illustrator": "Illus. Pixoloid Studios",
                 "classes": [
                     "mystic"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
+                "collection_number": "65",
+                "cost": "2",
+                "icons": "W",
+                "illustration": "./img/11065-t.png",
+                "illustration_pan_x": 38.0,
+                "illustration_pan_y": 70.0,
+                "illustration_scale": 2.05,
+                "illustrator": "Illus. Pixoloid Studios",
+                "level": "0",
                 "slots": [
                     "accessory"
                 ],
-                "icons": "W",
                 "subtitle": "Law Incarnate",
-                "illustration": "./img/11065-t.png",
-                "illustration_scale": 2.05,
-                "illustration_pan_x": 38.0,
-                "illustration_pan_y": 70.0
+                "text": "Mutated.\n<reaction> When doom is placed on a card you control: Place 1 resource <i>(from the token pool)</i>, on this card, as an offering.\n<free> During the investigation phase, except during an action, spend 2 offerings and exhaust <name>: Choose an investigator at your location to immediately take an action as if it were their turn.",
+                "traits": "Item. Relic.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -2341,26 +2345,26 @@
         {
             "name": "Spectral Shield",
             "id": "11071-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Fast. Play only during your turn. Attach to a player card with health and/or sanity at your location.\n<for> The first time attached card takes 1 or more damage/horror each round: Cancel 1 of that damage/horror. The owner of <name> must remove 1 charge from an asset they control. If they cannot, discard <name>.",
-                "traits": "Spell. Spirit.",
-                "type": "event",
-                "cost": "1",
-                "level": "0",
-                "collection_number": "71",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
                 "copyright": "\u00a9 2025 FFG",
-                "illustrator": "Illus. David Hovey",
                 "classes": [
                     "mystic"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
+                "collection_number": "71",
+                "cost": "1",
                 "icons": "Q",
                 "illustration": "./img/ahc83-071 Spectral Shield - export - David Hovey.png",
                 "illustration_pan_x": 78.0,
                 "illustration_pan_y": 63.0,
-                "illustration_scale": 1.0
+                "illustration_scale": 1.0,
+                "illustrator": "Illus. David Hovey",
+                "level": "0",
+                "text": "Mutated. Fast. Play only during your turn. Attach to a player card with health and/or sanity at your location.\n<for> The first time attached card takes 1 or more damage/horror each round: Cancel 1 of that damage/horror. The owner of <name> must remove 1 charge from an asset they control. If they cannot, discard <name>.",
+                "traits": "Spell. Spirit.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -2368,26 +2372,26 @@
         {
             "name": "Spiritual Echo",
             "id": "11075-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Fast. Play only during your turn.\nAttach to your location. Limit 1 per location.\n<reaction> After you activate an <action> or <free> ability on a <t>Spell</t> or <t>Ritual</t> asset: Perform that ability again at attached location as if you were there, ignoring that asset's <action> cost, if any. <i>(You may trigger this ability from any location.)</i> Return <name> to your hand at the end of your turn. (Limit once per round.)",
-                "traits": "Ritual.",
-                "type": "event",
-                "cost": "1",
-                "level": "2",
-                "collection_number": "75",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
                 "copyright": "\u00a9 2025 FFG",
-                "illustrator": "Illus. Andreas Zafiratos",
                 "classes": [
                     "mystic"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
+                "collection_number": "75",
+                "cost": "1",
                 "icons": "WC",
                 "illustration": "./img/ahc83-075 Spiritual Echo - export - Andreas Zafiratos.png",
+                "illustration_pan_x": 53.0,
                 "illustration_pan_y": 48.0,
                 "illustration_scale": 1.0,
-                "illustration_pan_x": 53.0
+                "illustrator": "Illus. Andreas Zafiratos",
+                "level": "2",
+                "text": "Mutated. Fast. Play only during your turn.\nAttach to your location. Limit 1 per location.\n<reaction> After you activate an <action> or <free> ability on a <t>Spell</t> or <t>Ritual</t> asset: Perform that ability again at attached location as if you were there, ignoring that asset's <action> cost, if any. <i>(You may trigger this ability from any location.)</i> Return <name> to your hand at the end of your turn. (Limit once per round.)",
+                "traits": "Ritual.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -2395,34 +2399,34 @@
         {
             "name": "Archibald MacVeigh",
             "id": "11117-t",
+            "amount": 2,
             "front": {
-                "text": "Unchained (-2 experience).\n<t>Assistant</t>, <t>Reporter</t>, <t>Scholar</t> deck only. Uses (4 secrets).\nYou get +1 [intellect].\nSecrets on assets you control may be spent as resources to pay for <t>Insight</t> events you play.",
-                "traits": "Ally.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "cost": "4",
-                "level": "5",
-                "collection_number": "117",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
                 "copyright": "\u00a9 2025 FFG",
-                "illustrator": "Illus. Alexandre Dainche",
                 "classes": [
                     "specialist"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
+                "collection_number": "117",
+                "cost": "4",
+                "flavor_text": "\"'Publish or Perish,' they said. Perhaps we'll do both.\"",
                 "health": "2",
+                "icons": "IQ",
+                "illustration": "./img/ahc83-117 Archibald MacVeigh - Alexandre Dainche.jpg",
+                "illustration_pan_x": -161.0,
+                "illustration_pan_y": 103.0,
+                "illustration_scale": 1.3,
+                "illustrator": "Illus. Alexandre Dainche",
+                "level": "5",
                 "sanity": "3",
                 "slots": [
                     "ally"
                 ],
-                "icons": "IQ",
                 "subtitle": "Beleaguered Lecturer",
-                "flavor_text": "\"'Publish or Perish,' they said. Perhaps we'll do both.\"",
-                "illustration": "./img/ahc83-117 Archibald MacVeigh - Alexandre Dainche.jpg",
-                "illustration_pan_y": 103.0,
-                "illustration_pan_x": -161.0,
-                "illustration_scale": 1.3
+                "text": "Unchained (-2 experience).\n<t>Assistant</t>, <t>Reporter</t>, <t>Scholar</t> deck only. Uses (4 secrets).\nYou get +1 [intellect].\nSecrets on assets you control may be spent as resources to pay for <t>Insight</t> events you play.",
+                "traits": "Ally.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -2430,25 +2434,25 @@
         {
             "name": "Library Pass",
             "id": "11118-t",
+            "amount": 1,
             "front": {
-                "text": "Mutated. <t>Miskatonic</t>, <t>Scholar</t> deck only. Permanent. Limit 1 per deck.\n<free> During your turn, if there is no asset attached to <name>, exhaust <name>: Attach a <t>Tome</t> asset from your hand to <name>. Attached asset takes up no slots.\n<for> When your turn ends: Place attached asset on the bottom of your deck unless you spend 1 resource.",
-                "traits": "Item. Miskatonic.",
-                "type": "asset",
-                "cost": "<dash>",
-                "level": "5",
-                "collection_number": "118",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
                 "copyright": "\u00a9 2025 FFG",
-                "illustrator": "Illus. Pixoloid Studios",
                 "classes": [
                     "specialist"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
+                "collection_number": "118",
+                "cost": "<dash>",
                 "illustration": "./img/11118-t.webp",
-                "illustration_scale": 2.05,
+                "illustration_pan_x": 38.0,
                 "illustration_pan_y": 70.0,
-                "illustration_pan_x": 38.0
+                "illustration_scale": 2.05,
+                "illustrator": "Illus. Pixoloid Studios",
+                "level": "5",
+                "text": "Mutated. <t>Miskatonic</t>, <t>Scholar</t> deck only. Permanent. Limit 1 per deck.\n<free> During your turn, if there is no asset attached to <name>, exhaust <name>: Attach a <t>Tome</t> asset from your hand to <name>. Attached asset takes up no slots.\n<for> When your turn ends: Place attached asset on the bottom of your deck unless you spend 1 resource.",
+                "traits": "Item. Miskatonic.",
+                "type": "asset"
             },
-            "amount": 1,
             "back": {
                 "type": "player"
             }
@@ -2456,26 +2460,26 @@
         {
             "name": "On Their Heels",
             "id": "11120-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. <t>Detective</t>, <t>Hunter</t>, <t>Police</t>, <t>Reporter</t> deck only.\nLimit 1 per investigator. Uses (5 leads). If <name> has no leads, discard it.\n<reaction> After you enter a location with 1 or more enemies, spend 1 lead and exhaust <name>: Either discover 1 clue at your location or deal 1 damage to an enemy at your location.",
-                "traits": "Talent.",
-                "type": "asset",
-                "cost": "2",
-                "level": "5",
-                "collection_number": "120",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
                 "copyright": "\u00a9 2025 FFG",
-                "illustrator": "Illus. Aaron Miller",
                 "classes": [
                     "specialist"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
+                "collection_number": "120",
+                "cost": "2",
                 "icons": "ICQ",
                 "illustration": "./img/ahc83-120 On Their Heels - Aaron B Miller.jpg",
                 "illustration_pan_x": 103.0,
                 "illustration_pan_y": -226.0,
-                "illustration_scale": 2.2
+                "illustration_scale": 2.2,
+                "illustrator": "Illus. Aaron Miller",
+                "level": "5",
+                "text": "Mutated. <t>Detective</t>, <t>Hunter</t>, <t>Police</t>, <t>Reporter</t> deck only.\nLimit 1 per investigator. Uses (5 leads). If <name> has no leads, discard it.\n<reaction> After you enter a location with 1 or more enemies, spend 1 lead and exhaust <name>: Either discover 1 clue at your location or deal 1 damage to an enemy at your location.",
+                "traits": "Talent.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -2483,30 +2487,30 @@
         {
             "name": "The Necronomicon",
             "id": "60233-t",
+            "amount": 0,
             "front": {
-                "text": "Forbidden. Uses (6 secrets). Limit 1 per deck.\n<free> Spend 1 secret: You get +2 skill value for this test.\n<free> Spend 2 secrets: Draw 2 cards.\n<free> Spend 3 secrets: Discover 1 clue at any location.\n<free> Spend 4 secrets: Deal 3 damage to an enemy engaged with you.",
-                "traits": "Item. Tome.",
-                "type": "asset",
-                "cost": "3",
-                "level": "5",
-                "collection_number": "33",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/harvey.svg\">",
                 "copyright": "\u00a9 2019 FFG",
-                "illustrator": "Illus. Dimitri Bielak",
                 "classes": [
                     "seeker"
                 ],
-                "slots": [
-                    "hand"
-                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/harvey.svg\">",
+                "collection_number": "33",
+                "cost": "3",
                 "icons": "IIIII",
-                "subtitle": "Petrus de Dacia Translation",
                 "illustration": "./img/ahc48-033 The Necronomicon Petrus de Dacis - Dimitri Bielak.png",
                 "illustration_pan_x": 64.0,
                 "illustration_pan_y": 92.0,
-                "illustration_scale": 1.98
+                "illustration_scale": 1.98,
+                "illustrator": "Illus. Dimitri Bielak",
+                "level": "5",
+                "slots": [
+                    "hand"
+                ],
+                "subtitle": "Petrus de Dacia Translation",
+                "text": "Forbidden. Uses (6 secrets). Limit 1 per deck.\n<free> Spend 1 secret: You get +2 skill value for this test.\n<free> Spend 2 secrets: Draw 2 cards.\n<free> Spend 3 secrets: Discover 1 clue at any location.\n<free> Spend 4 secrets: Deal 3 damage to an enemy engaged with you.",
+                "traits": "Item. Tome.",
+                "type": "asset"
             },
-            "amount": 0,
             "back": {
                 "type": "player"
             }
@@ -2514,26 +2518,26 @@
         {
             "name": "Daredevil",
             "id": "60318-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. After you commit <name> to a skill test, discard cards from the top of your deck until you discard a <rogue> skill you can commit to this test. Commit it. After this skill test resolves, draw each weakness discarded by this effect.",
-                "traits": "Fortune. Practiced.",
-                "type": "skill",
-                "level": "0",
-                "collection_number": "18",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/winifred.svg\">",
                 "copyright": "\u00a9 2019 FFG",
-                "illustrator": "Illus. Borja Pindado",
                 "classes": [
                     "rogue"
                 ],
-                "icons": "Q",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/winifred.svg\">",
+                "collection_number": "18",
                 "flavor_text": "\"You're a maniac, Wini!\"\n\"I know! Isn't it wonderful?\"",
+                "icons": "Q",
                 "illustration": "./img/60318-t.png",
-                "illustration_scale": 2.05,
+                "illustration_pan_x": 38.0,
                 "illustration_pan_y": 70.0,
-                "illustration_pan_x": 38.0
+                "illustration_scale": 2.05,
+                "illustrator": "Illus. Borja Pindado",
+                "level": "0",
+                "text": "Mutated. After you commit <name> to a skill test, discard cards from the top of your deck until you discard a <rogue> skill you can commit to this test. Commit it. After this skill test resolves, draw each weakness discarded by this effect.",
+                "traits": "Fortune. Practiced.",
+                "type": "skill"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -2541,26 +2545,26 @@
         {
             "name": "Sharpshooter",
             "id": "60327-t",
+            "amount": 2,
             "front": {
-                "text": "Unchained (-1 experience).\n<reaction> When you use a fight ability on a <t>Firearm</t> asset, exhaust <name>: Choose one, or both - \n- This attack uses [agility] instead of [combat]. All modifiers to your [combat] for this attack modify your [agility] instead.\n- Use the attacked enemy's evade value for this attack, instead of their fight value.",
-                "traits": "Talent.",
-                "type": "asset",
-                "cost": "2",
-                "level": "3",
-                "collection_number": "27",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/winifred.svg\">",
                 "copyright": "\u00a9 2019 FFG",
-                "illustrator": "Illus. Matt Bradbury",
                 "classes": [
                     "rogue"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/winifred.svg\">",
+                "collection_number": "27",
+                "cost": "2",
                 "icons": "CA",
                 "illustration": "./img/ahc49-027 Sharpshooter - export - Matt Bradbury.png",
                 "illustration_pan_x": 72.0,
                 "illustration_pan_y": 166.0,
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Matt Bradbury",
+                "level": "3",
+                "text": "Unchained (-1 experience).\n<reaction> When you use a fight ability on a <t>Firearm</t> asset, exhaust <name>: Choose one, or both - \n- This attack uses [agility] instead of [combat]. All modifiers to your [combat] for this attack modify your [agility] instead.\n- Use the attacked enemy's evade value for this attack, instead of their fight value.",
+                "traits": "Talent.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -2568,33 +2572,33 @@
         {
             "name": "Chuck Fergus",
             "id": "60332-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. <reaction> When you play a <t>Tactic</t> or <t>Trick</t> event, exhaust <name>: Choose two -\n- That event gains: \"Fast. Play only during your turn.\"\n- That event costs 2 fewer resources to play.\n- You get +2 skill value while performing a skill test during the resolution of that event.",
-                "traits": "Ally. Criminal.",
                 "name": "<unique><name>",
-                "type": "asset",
-                "cost": "3",
-                "level": "5",
-                "collection_number": "32",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/winifred.svg\">",
                 "copyright": "\u00a9 2019 FFG",
-                "illustrator": "Illus. Derek D. Edgell",
                 "classes": [
                     "rogue"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/winifred.svg\">",
+                "collection_number": "32",
+                "cost": "3",
                 "health": "2",
+                "icons": "CAQ",
+                "illustration": "./img/ahc49-032 Chuck Fergus - Derek D Edgell.jpg",
+                "illustration_pan_x": 109.0,
+                "illustration_pan_y": 191.0,
+                "illustration_scale": 1.4,
+                "illustrator": "Illus. Derek D. Edgell",
+                "level": "5",
                 "sanity": "2",
                 "slots": [
                     "ally"
                 ],
-                "icons": "CAQ",
                 "subtitle": "O'Bannion Driver",
-                "illustration": "./img/ahc49-032 Chuck Fergus - Derek D Edgell.jpg",
-                "illustration_pan_x": 109.0,
-                "illustration_pan_y": 191.0,
-                "illustration_scale": 1.4
+                "text": "Mutated. <reaction> When you play a <t>Tactic</t> or <t>Trick</t> event, exhaust <name>: Choose two -\n- That event gains: \"Fast. Play only during your turn.\"\n- That event costs 2 fewer resources to play.\n- You get +2 skill value while performing a skill test during the resolution of that event.",
+                "traits": "Ally. Criminal.",
+                "type": "asset"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -2602,26 +2606,26 @@
         {
             "name": "Voice of Ra",
             "id": "60416-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated.\nGain 1 resource. Reveal 3 random tokens from the chaos bag. For each symbol revealed, gain an additional 2 resources.",
-                "traits": "Spell.",
-                "type": "event",
-                "cost": "0",
-                "level": "0",
-                "collection_number": "16",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/jacqueline.svg\">",
                 "copyright": "\u00a9 2019 FFG",
-                "illustrator": "Illus. Matt Bradbury",
                 "classes": [
                     "mystic"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/jacqueline.svg\">",
+                "collection_number": "16",
+                "cost": "0",
                 "icons": "W",
                 "illustration": "./img/ahc50-016 Voice of Ra - Matt Bradbury.png",
                 "illustration_pan_x": 93.0,
                 "illustration_pan_y": 70.0,
-                "illustration_scale": 2.0
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Matt Bradbury",
+                "level": "0",
+                "text": "Mutated.\nGain 1 resource. Reveal 3 random tokens from the chaos bag. For each symbol revealed, gain an additional 2 resources.",
+                "traits": "Spell.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
@@ -2629,36 +2633,55 @@
         {
             "name": "Hypnotic Gaze",
             "id": "60423-t",
+            "amount": 2,
             "front": {
-                "text": "Mutated. Fast. Play when an enemy attacks an investigator at your location.\nCancel that attack. Then, reveal a random token from the chaos bag. If it has a symbol, deal damage to the attacking enemy equal to its damage or horror.",
-                "traits": "Spell.",
-                "type": "event",
-                "cost": "2",
-                "level": "2",
-                "collection_number": "23",
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/jacqueline.svg\">",
                 "copyright": "\u00a9 2019 FFG",
-                "illustrator": "Illus. Falk",
                 "classes": [
                     "mystic"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/jacqueline.svg\">",
+                "collection_number": "23",
+                "cost": "2",
                 "icons": "CAA",
                 "illustration": "./img/ahc02-153 Hypnotic Gaze - export - Falk Haensel.png",
                 "illustration_pan_x": 72.0,
                 "illustration_pan_y": 54.0,
-                "illustration_scale": 2.038
+                "illustration_scale": 2.038,
+                "illustrator": "Illus. Falk",
+                "level": "2",
+                "text": "Mutated. Fast. Play when an enemy attacks an investigator at your location.\nCancel that attack. Then, reveal a random token from the chaos bag. If it has a symbol, deal damage to the attacking enemy equal to its damage or horror.",
+                "traits": "Spell.",
+                "type": "event"
             },
-            "amount": 2,
             "back": {
                 "type": "player"
             }
         }
     ],
-    "meta": {
-        "dirty": [],
-        "language": "en"
-    },
     "encounter_sets": [],
+    "export_profiles": [
+        {
+            "name": "Default",
+            "id": "590ea5f7-4cfb-4538-81e7-59d94228f317",
+            "entries": [
+                {
+                    "id": "6c6b4fff-e16a-4a02-93de-a3be8dda16c8",
+                    "scope": {
+                        "card_ids": [],
+                        "encounter_set_ids": [],
+                        "type": "all"
+                    },
+                    "settings": {
+                        "export_images": true,
+                        "folder": null,
+                        "sync": false,
+                        "update_file": null
+                    },
+                    "type": "tts"
+                }
+            ]
+        }
+    ],
     "translations": {
         "de": "Taboo1_de.json",
         "pl": "Taboo1_pl.json"

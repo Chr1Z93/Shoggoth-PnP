@@ -581,5 +581,28 @@
             },
             "cards": []
         }
+    ],
+    "export_profiles": [
+        {
+            "name": "Default",
+            "id": "590ea5f7-4cfb-4538-81e7-59d94228f317",
+            "entries": [
+                {
+                    "id": "6c6b4fff-e16a-4a02-93de-a3be8dda16c8",
+                    "scope": {
+                        "card_ids": [],
+                        "encounter_set_ids": [],
+                        "type": "all"
+                    },
+                    "settings": {
+                        "export_images": true,
+                        "folder": null,
+                        "sync": false,
+                        "update_file": null
+                    },
+                    "type": "tts"
+                }
+            ]
+        }
     ]
 }

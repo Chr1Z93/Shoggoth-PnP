@@ -1,32 +1,36 @@
 {
     "name": "Errata2",
+    "id": "1dd2d9c8-40be-4db6-94f2-abef12436c60",
     "code": "ERR2",
     "icon": "",
-    "encounter_sets": [],
+    "meta": {
+        "dirty": [],
+        "language": "en"
+    },
     "cards": [
         {
             "name": "Hunter's Instinct",
             "id": "60574",
             "amount": 2,
             "front": {
-                "type": "asset",
+                "name": "Hunter's Instinct",
+                "copyright": "\u00a9 2026 FFG",
                 "classes": [
                     "survivor"
                 ],
-                "level": "2",
-                "cost": "2",
-                "name": "Hunter's Instinct",
-                "text": "Limit 1 per investigator. Uses (3 supplies). If there are no supplies on <name>, discard it.\n<reaction> After you engage an enemy, spend 1 supply and exhaust <name>: Add a level 0-2 event in your discard pile to your hand.",
-                "icons": "CAQ",
-                "traits": "Talent.",
-                "illustrator": "Illus. Carlos Palma Cruchaga",
-                "copyright": "\u00a9 2026 FFG",
-                "illustration": "./img/60574.png",
-                "illustration_scale": 2.2,
-                "illustration_pan_y": 34.0,
-                "illustration_pan_x": 60.0,
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/miguel.svg\">",
-                "collection_number": "24"
+                "collection_number": "24",
+                "cost": "2",
+                "icons": "CAQ",
+                "illustration": "./img/60574.png",
+                "illustration_pan_x": 60.0,
+                "illustration_pan_y": 34.0,
+                "illustration_scale": 2.2,
+                "illustrator": "Illus. Carlos Palma Cruchaga",
+                "level": "2",
+                "text": "Limit 1 per investigator. Uses (3 supplies). If there are no supplies on <name>, discard it.\n<reaction> After you engage an enemy, spend 1 supply and exhaust <name>: Add a level 0-2 event in your discard pile to your hand.",
+                "traits": "Talent.",
+                "type": "asset"
             },
             "back": {
                 "type": "player"
@@ -37,26 +41,26 @@
             "id": "12020",
             "amount": 2,
             "front": {
-                "type": "asset",
+                "copyright": "\u00a9 2026 FFG",
                 "classes": [
                     "guardian"
                 ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/core_2026.svg\">",
+                "collection_number": "20",
                 "cost": "3",
+                "flavor_text": "Cuts through vines, underbrush, and tentacles equally well.",
                 "icons": "C",
-                "traits": "Item. Weapon. Melee.",
-                "text": "<action>: <b>Fight</b> (<combat>). You get +1<combat> for this attack. If you succeed and the attacked enemy is the only enemy engaged with you, you may exhaust Machete to deal +1 damage for this attack.",
-                "copyright": "\u00a9 2026 FFG",
+                "illustration": "./img/ahc01-020 Machete-Jason Caffoe.jpg",
+                "illustration_pan_x": 111.0,
+                "illustration_pan_y": 221.0,
+                "illustration_scale": 1.96,
+                "illustrator": "Illus. Jason Caffoe",
                 "slots": [
                     "hand"
                 ],
-                "illustrator": "Illus. Jason Caffoe",
-                "illustration": "./img/ahc01-020 Machete-Jason Caffoe.jpg",
-                "illustration_pan_y": 221.0,
-                "illustration_pan_x": 111.0,
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/core_2026.svg\">",
-                "collection_number": "20",
-                "flavor_text": "Cuts through vines, underbrush, and tentacles equally well.",
-                "illustration_scale": 1.96
+                "text": "<action>: <b>Fight</b> (<combat>). You get +1<combat> for this attack. If you succeed and the attacked enemy is the only enemy engaged with you, you may exhaust Machete to deal +1 damage for this attack.",
+                "traits": "Item. Weapon. Melee.",
+                "type": "asset"
             },
             "back": {
                 "type": "player"
@@ -67,21 +71,21 @@
             "id": "12082",
             "amount": 2,
             "front": {
-                "type": "event",
+                "copyright": "\u00a9 2026 FFG",
                 "classes": [
                     "survivor"
                 ],
-                "level": "1",
-                "traits": "Fortune.",
-                "copyright": "\u00a9 2026 FFG",
-                "illustrator": "Illus. Stanislav Dikolenko",
-                "text": "Fast. Play when you would fail a skill test during which a non-<auto_fail> token was revealed.\nYou succeed at that skill test by 0 instead. If a token with a symbol was revealed during that skill test, take 1 horror.",
-                "illustration_pan_y": 72.0,
-                "illustration_scale": 2.23,
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/core_2026.svg\">",
                 "collection_number": "82",
+                "cost": "1",
                 "icons": "Q",
-                "cost": "1"
+                "illustration_pan_y": 72.0,
+                "illustration_scale": 2.23,
+                "illustrator": "Illus. Stanislav Dikolenko",
+                "level": "1",
+                "text": "Fast. Play when you would fail a skill test during which a non-<auto_fail> token was revealed.\nYou succeed at that skill test by 0 instead. If a token with a symbol was revealed during that skill test, take 1 horror.",
+                "traits": "Fortune.",
+                "type": "event"
             },
             "back": {
                 "type": "player"
@@ -92,101 +96,120 @@
             "id": "60178",
             "amount": 2,
             "front": {
-                "type": "asset",
+                "copyright": "\u00a9 2026 FFG",
                 "classes": [
                     "guardian"
                 ],
-                "cost": "2",
-                "icons": "CAQ",
-                "traits": "Talent.",
-                "text": "Starting. <i>(You may begin the game with 1 copy of a starting card in your opening hand.)</i>\n<free>Spend 1 resource: You get +1 <combat> for this skill test (+2 <combat> instead if this is an attack or evasion).\n<free> Spend 1 resource: You get +1 <agility> for this skill test (+2 <agility> instead if this is an attack or evasion).",
-                "copyright": "\u00a9 2026 FFG",
-                "illustrator": "Illus. Lin Hsiang",
-                "illustration_pan_y": 221.0,
-                "illustration_pan_x": 111.0,
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/core_2026.svg\">",
                 "collection_number": "28",
+                "cost": "2",
+                "icons": "CAQ",
+                "illustration_pan_x": 111.0,
+                "illustration_pan_y": 221.0,
                 "illustration_scale": 1.96,
-                "level": "3"
+                "illustrator": "Illus. Lin Hsiang",
+                "level": "3",
+                "text": "Starting. <i>(You may begin the game with 1 copy of a starting card in your opening hand.)</i>\n<free>Spend 1 resource: You get +1 <combat> for this skill test (+2 <combat> instead if this is an attack or evasion).\n<free> Spend 1 resource: You get +1 <agility> for this skill test (+2 <agility> instead if this is an attack or evasion).",
+                "traits": "Talent.",
+                "type": "asset"
             },
             "back": {
                 "type": "player"
             }
         },
         {
-            "id": "befdfbec-335a-4904-bdb7-1750978d22f2",
             "name": "Glassing",
+            "id": "befdfbec-335a-4904-bdb7-1750978d22f2",
             "front": {
-                "type": "event",
-                "classes": [
-                    "survivor"
-                ],
                 "name": "Glassing",
                 "copyright": "\u00a9 2026 FFG",
-                "illustrator": "Illus. Rob Laskey",
+                "classes": [
+                    "survivor"
+                ],
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/miguel.svg\">",
                 "collection_number": "13",
-                "icons": "IAQ",
                 "cost": "2",
+                "icons": "IAQ",
+                "illustrator": "Illus. Rob Laskey",
+                "text": "Fast. Attach to your location. Limit 1 <t>Trap</t> per<br>location.\n<reaction> After an enemy enters attached location, exhaust Glassing: <b>Investigate</b> (<intellect> or <agility>). Investigate attached location. You get +1 skill value for this investigation. If you succeed, you may discard Glassing to discover 1 additional clue at this location. (<i>You may trigger this ability from any location.</i>)",
                 "traits": "Insight. Trap.",
-                "text": "Fast. Attach to your location. Limit 1 <t>Trap</t> per<br>location.\n<reaction> After an enemy enters attached location, exhaust Glassing: <b>Investigate</b> (<intellect> or <agility>). Investigate attached location. You get +1 skill value for this investigation. If you succeed, you may discard Glassing to discover 1 additional clue at this location. (<i>You may trigger this ability from any location.</i>)"
+                "type": "event"
             },
             "back": {
                 "type": "player"
             }
         },
         {
-            "id": "c88308ad-4c62-4b44-861f-2838d82d6476",
             "name": "Lie in Wait",
+            "id": "c88308ad-4c62-4b44-861f-2838d82d6476",
             "front": {
-                "type": "event",
+                "name": "Lie in Wait",
+                "copyright": "\u00a9 2026 FFG",
                 "classes": [
                     "survivor"
                 ],
-                "name": "Lie in Wait",
-                "traits": "Tactic. Trap.",
-                "icons": "WCQ",
-                "illustrator": "Illus. Rob Laskey",
-                "copyright": "\u00a9 2026 FFG",
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/miguel.svg\">",
                 "collection_number": "16",
                 "cost": "2",
+                "icons": "WCQ",
                 "illustration": ".\\img\\ahc105-016 Lie in Wait - Rob Laskey.jpg",
                 "illustration_pan_x": -0.0,
                 "illustration_pan_y": 20.0,
-                "text": "Fast. Attach to your location. Limit 1 <t>Trap</t> per location. \n<reaction> After an enemy enters this location, exhaust Lie in Wait: <b>Fight</b> (<combat> or <agility>). Fight that enemy. You get +1 skill value for this attack. If you succeed, you may discard Lie in Wait for this attack to deal +1 damage. (<i>You may trigger this ability from any location.</i>)"
+                "illustrator": "Illus. Rob Laskey",
+                "text": "Fast. Attach to your location. Limit 1 <t>Trap</t> per location. \n<reaction> After an enemy enters this location, exhaust Lie in Wait: <b>Fight</b> (<combat> or <agility>). Fight that enemy. You get +1 skill value for this attack. If you succeed, you may discard Lie in Wait for this attack to deal +1 damage. (<i>You may trigger this ability from any location.</i>)",
+                "traits": "Tactic. Trap.",
+                "type": "event"
             },
             "back": {
                 "type": "player"
             }
         },
         {
-            "id": "6b1811aa-2f5b-420f-ab66-990faa5a7c68",
             "name": "Decoy Trap",
+            "id": "6b1811aa-2f5b-420f-ab66-990faa5a7c68",
             "front": {
-                "type": "event",
+                "name": "Decoy Trap",
+                "copyright": "\u00a9 2026 FFG",
                 "classes": [
                     "survivor"
                 ],
-                "name": "Decoy Trap",
-                "traits": "Trap. Trick.",
-                "icons": "CAQ",
-                "copyright": "\u00a9 2026 FFG",
-                "illustrator": "Stanislav Dikolenko",
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/miguel.svg\">",
                 "collection_number": "12",
-                "text": "Fast. Attach to your location. Limit 1 <t>Trap</t> per location.\n<reaction> After an enemy enters attached location, exhaust Decoy Trap: <b>Evade</b> (<intellect> or <agility>). Evade that enemy. You get +1 skill value for this evasion. If this test succeeds, you may discard Decoy Trap to move to this location. (<i>You may trigger this ability from any location.</i>)"
+                "icons": "CAQ",
+                "illustrator": "Stanislav Dikolenko",
+                "text": "Fast. Attach to your location. Limit 1 <t>Trap</t> per location.\n<reaction> After an enemy enters attached location, exhaust Decoy Trap: <b>Evade</b> (<intellect> or <agility>). Evade that enemy. You get +1 skill value for this evasion. If this test succeeds, you may discard Decoy Trap to move to this location. (<i>You may trigger this ability from any location.</i>)",
+                "traits": "Trap. Trick.",
+                "type": "event"
             },
             "back": {
                 "type": "player"
             }
         }
     ],
-    "id": "1dd2d9c8-40be-4db6-94f2-abef12436c60",
-    "meta": {
-        "dirty": [],
-        "language": "en"
-    },
+    "encounter_sets": [],
+    "export_profiles": [
+        {
+            "name": "Default",
+            "id": "590ea5f7-4cfb-4538-81e7-59d94228f317",
+            "entries": [
+                {
+                    "id": "6c6b4fff-e16a-4a02-93de-a3be8dda16c8",
+                    "scope": {
+                        "card_ids": [],
+                        "encounter_set_ids": [],
+                        "type": "all"
+                    },
+                    "settings": {
+                        "export_images": true,
+                        "folder": null,
+                        "sync": false,
+                        "update_file": null
+                    },
+                    "type": "tts"
+                }
+            ]
+        }
+    ],
     "translations": {
         "pl": "Errata2_pl.json"
     }
