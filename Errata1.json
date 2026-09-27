@@ -11,7 +11,7 @@
         {
             "name": "Hallowed Mirror",
             "id": "05313",
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "copyright": "\u00a9 2018 FFG",
                 "classes": [
@@ -40,7 +40,7 @@
         {
             "name": "Occult Lexicon",
             "id": "05316",
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "copyright": "\u00a9 2018 FFG",
                 "classes": [
@@ -69,7 +69,7 @@
         {
             "name": "Miss Doyle",
             "id": "06030",
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "name": "<unique><name>",
                 "copyright": "\u00a9 2019 FFG",
@@ -103,7 +103,7 @@
         {
             "name": "Wendy's Amulet",
             "id": "01514",
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "name": "<unique><name>",
                 "copyright": "\u00a9 2016 FFG",
@@ -133,7 +133,7 @@
         {
             "name": "Stick to the Plan",
             "id": "03264",
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "copyright": "\u00a9 2017 FFG",
                 "classes": [
@@ -211,7 +211,7 @@
         {
             "name": "Yaztaroth",
             "id": "98018",
-            "amount": 3,
+            "amount": 1,
             "front": {
                 "name": "<unique>Yaztaroth",
                 "copyright": "\u00a9 2020 FFG",
@@ -233,7 +233,7 @@
         {
             "name": "Burden of Leadership",
             "id": "09020",
-            "amount": 3,
+            "amount": 1,
             "front": {
                 "copyright": "\u00a9 2022 FFG",
                 "classes": [
@@ -344,7 +344,7 @@
         {
             "name": "Samuel Blake",
             "id": "90093",
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "name": "<unique><name>",
                 "copyright": "\u00a9 2024 FFG",
@@ -404,7 +404,7 @@
         {
             "name": "Hydra",
             "id": "07331a",
-            "amount": 3,
+            "amount": 1,
             "front": {
                 "name": "<unique>Hydra",
                 "copyright": "\u00a9 2020 FFG",
@@ -427,7 +427,7 @@
         {
             "name": "Dagon",
             "id": "07330a",
-            "amount": 3,
+            "amount": 1,
             "front": {
                 "name": "<unique>Dagon",
                 "copyright": "\u00a9 2020 FFG",
@@ -451,7 +451,7 @@
         {
             "name": "No Place Like Home",
             "id": "11753a",
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "name": "No Place Like Home",
                 "copyright": "\u00a9 2025 FFG",
