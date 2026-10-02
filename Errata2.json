@@ -120,6 +120,7 @@
         {
             "name": "Glassing",
             "id": "befdfbec-335a-4904-bdb7-1750978d22f2",
+            "amount": 2,
             "front": {
                 "name": "Glassing",
                 "copyright": "\u00a9 2026 FFG",
@@ -142,6 +143,7 @@
         {
             "name": "Lie in Wait",
             "id": "c88308ad-4c62-4b44-861f-2838d82d6476",
+            "amount": 2,
             "front": {
                 "name": "Lie in Wait",
                 "copyright": "\u00a9 2026 FFG",
@@ -167,6 +169,7 @@
         {
             "name": "Decoy Trap",
             "id": "6b1811aa-2f5b-420f-ab66-990faa5a7c68",
+            "amount": 2,
             "front": {
                 "name": "Decoy Trap",
                 "copyright": "\u00a9 2026 FFG",
