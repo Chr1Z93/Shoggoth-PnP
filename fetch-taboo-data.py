@@ -6,7 +6,7 @@ import uuid
 
 # Config
 TABOO_ID = 10  # FAQ 2.5 is 10
-LOCALE = "en"
+LOCALE = "es"
 OUTPUT_FILE = "FetchResult.json"
 
 # Constants
