@@ -13,7 +13,6 @@
             "id": "60574",
             "amount": 2,
             "front": {
-                "name": "Hunter's Instinct",
                 "copyright": "\u00a9 2026 FFG",
                 "classes": [
                     "survivor"
@@ -122,7 +121,6 @@
             "id": "befdfbec-335a-4904-bdb7-1750978d22f2",
             "amount": 2,
             "front": {
-                "name": "Glassing",
                 "copyright": "\u00a9 2026 FFG",
                 "classes": [
                     "survivor"
@@ -132,6 +130,7 @@
                 "cost": "2",
                 "icons": "IAQ",
                 "illustrator": "Illus. Rob Laskey",
+                "level": "0",
                 "text": "Fast. Attach to your location. Limit 1 <t>Trap</t> per<br>location.\n<reaction> After an enemy enters attached location, exhaust Glassing: <b>Investigate</b> (<intellect> or <agility>). Investigate attached location. You get +1 skill value for this investigation. If you succeed, you may discard Glassing to discover 1 additional clue at this location. (<i>You may trigger this ability from any location.</i>)",
                 "traits": "Insight. Trap.",
                 "type": "event"
@@ -145,7 +144,6 @@
             "id": "c88308ad-4c62-4b44-861f-2838d82d6476",
             "amount": 2,
             "front": {
-                "name": "Lie in Wait",
                 "copyright": "\u00a9 2026 FFG",
                 "classes": [
                     "survivor"
@@ -158,6 +156,7 @@
                 "illustration_pan_x": -0.0,
                 "illustration_pan_y": 20.0,
                 "illustrator": "Illus. Rob Laskey",
+                "level": "0",
                 "text": "Fast. Attach to your location. Limit 1 <t>Trap</t> per location. \n<reaction> After an enemy enters this location, exhaust Lie in Wait: <b>Fight</b> (<combat> or <agility>). Fight that enemy. You get +1 skill value for this attack. If you succeed, you may discard Lie in Wait for this attack to deal +1 damage. (<i>You may trigger this ability from any location.</i>)",
                 "traits": "Tactic. Trap.",
                 "type": "event"
@@ -171,15 +170,16 @@
             "id": "6b1811aa-2f5b-420f-ab66-990faa5a7c68",
             "amount": 2,
             "front": {
-                "name": "Decoy Trap",
                 "copyright": "\u00a9 2026 FFG",
                 "classes": [
                     "survivor"
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/miguel.svg\">",
                 "collection_number": "12",
+                "cost": "2",
                 "icons": "CAQ",
                 "illustrator": "Stanislav Dikolenko",
+                "level": "0",
                 "text": "Fast. Attach to your location. Limit 1 <t>Trap</t> per location.\n<reaction> After an enemy enters attached location, exhaust Decoy Trap: <b>Evade</b> (<intellect> or <agility>). Evade that enemy. You get +1 skill value for this evasion. If this test succeeds, you may discard Decoy Trap to move to this location. (<i>You may trigger this ability from any location.</i>)",
                 "traits": "Trap. Trick.",
                 "type": "event"
