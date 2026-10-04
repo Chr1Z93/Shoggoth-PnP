@@ -212,7 +212,7 @@
         "05113-t": {
             "name": "Wyp\u0119dzenie",
             "front": {
-                "text": "Zmutowana.\n<b>Wymykanie.</b> U\u017cyj tylko na nie-<t>Elitarnym</t> wrogu. Ta pr\u00f3ba wymkni\u0119cia si\u0119 u\u017cywa [willpower] zamiast [agility]. Je\u015bli test zako\u0144czy\u0142 si\u0119 sukcesem, porusz wroga, kt\u00f3remu si\u0119 w\u0142a\u015bnie wymkn\u0105\u0142e\u015b, do dowolnej lokalizacji w grze. Je\u015bli test zako\u0144czy\u0142 si\u0119 sukcesem i podczas pr\u00f3by wymkni\u0119cia si\u0119 zosta\u0142 odkryty dowolny symbol, dany wr\u00f3g nie zostaje przygotowany podczas nast\u0119pnej fazy utrzymania.",
+                "text": "Zmutowana.\n<b>Wymykanie</b> (<willpower>). U\u017cyj tylko na nie-<t>Elitarnym</t> wrogu. Je\u015bli test zako\u0144czy\u0142 si\u0119 sukcesem, porusz wroga, kt\u00f3remu si\u0119 w\u0142a\u015bnie wymkn\u0105\u0142e\u015b, do dowolnej lokalizacji w grze. Je\u015bli test zako\u0144czy\u0142 si\u0119 sukcesem i podczas pr\u00f3by wymkni\u0119cia si\u0119 zosta\u0142 odkryty dowolny symbol, dany wr\u00f3g nie zostaje przygotowany podczas nast\u0119pnej fazy<br>utrzymania.",
                 "traits": "Zakl\u0119cie."
             }
         },
@@ -241,7 +241,7 @@
         "05157-t": {
             "name": "Uwi\u0105d",
             "front": {
-                "text": "Zmutowana.\n<action>: <b>Walka.</b> Ten atak u\u017cywa [willpower] zamiast [combat]. <br>Je\u015bli podczas tego ataku zostanie odkryty dowlony symbol, do ko\u0144ca tury zaatakowany wr\u00f3g dostaje -1 do walki i -1 do wymykania si\u0119 (do minimum 1).",
+                "text": "Zmutowana.\n<action>: <b>Walka</b> ([willpower]). Je\u015bli podczas tego ataku zostanie odkryty dowlony symbol, do ko\u0144ca tury zaatakowany wr\u00f3g dostaje -1 do walki i -1 do wymykania si\u0119 (do minimum 1).",
                 "traits": "Zakl\u0119cie."
             }
         },
@@ -283,7 +283,7 @@
         "05321-t": {
             "name": "Uwi\u0105d",
             "front": {
-                "text": "Zmutowana.\n<action>: <b>Walka.</b> Ten atak u\u017cywa [willpower] zamiast [combat]. <br>Do tego ataku dostajesz +2 [willpower]. Je\u015bli podczas tego ataku zostanie odkryty dowlony symbol, do ko\u0144ca tury zaatakowany wr\u00f3g dostaje -1 walki, -1 do wytrzyma\u0142o\u015bci i -1 do warto\u015bci wymykania si\u0119 (do minimum 1).",
+                "text": "Zmutowana.\n<action>: <b>Walka</b> ([willpower]). Do tego ataku dostajesz +2 [willpower]. Je\u015bli podczas tego ataku zostanie odkryty dowlony symbol, do ko\u0144ca tury zaatakowany wr\u00f3g dostaje -1 walki, -1 do wytrzyma\u0142o\u015bci i -1 do warto\u015bci wymykania si\u0119 (do minimum 1).",
                 "traits": "Zakl\u0119cie."
             }
         },
