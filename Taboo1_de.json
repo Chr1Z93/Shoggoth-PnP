@@ -1,778 +1,624 @@
 {
-    "language": "de",
-    "project": "Taboo1.json",
-    "project_name": "Taboo1",
+    "id": "0ee69136-aa8d-453c-99ef-11c19cd5a01b",
     "cards": {
         "01033-t": {
-            "name": "Dr. Milan Christopher",
             "front": {
-                "text": "Mutated.\nYou get +1 [intellect].\n<reaction> After you successfully investigate, exhaust <name>: Gain 1 resource.",
-                "traits": "Verb\u00fcndeter. Miskatonic.",
+                "flavor_text": "\u201eAuch wenn ich aus tiefstem Herzen darum bete, dass dieser Albtraum nur eine einzelne Abscheulichkeit ist, muss ich doch zugeben, dass ich hocherfreut \u00fcber die M\u00f6glichkeit bin, das Exemplar einer v\u00f6llig neuen Gattung zu untersuchen!\u201c",
                 "subtitle": "Professor f\u00fcr Entomologie",
-                "flavor_text": "\u201eAuch wenn ich aus tiefstem Herzen darum bete, dass dieser Albtraum nur eine einzelne Abscheulichkeit ist, muss ich doch zugeben, dass ich hocherfreut \u00fcber die M\u00f6glichkeit bin, das Exemplar einer v\u00f6llig neuen Gattung zu untersuchen!\u201c"
-            },
-            "back": {}
+                "traits": "Verb\u00fcndeter. Miskatonic."
+            }
         },
         "01050-t": {
             "name": "Schwer zu fassen",
             "front": {
-                "text": "Mutated. Fast. Play only during your turn.\nDisengage from each enemy engaged with you and move to a connecting location with no enemies.",
                 "traits": "Taktik."
-            },
-            "back": {}
+            }
         },
         "01073-t": {
             "name": "Pl\u00fcndern",
             "front": {
-                "text": "Verkettet (+2 Erfahrung).\n<reaction> Nachdem du erfolgreich um 2 oder mehr ermittelt hast, ersch\u00f6pfe <name>: W\u00e4hle eine <t>Gegenstand</t>-Karte in deinem Ablagestapel und f\u00fcge sie deiner Hand hinzu.",
-                "traits": "Talent."
-            },
-            "back": {}
+                "text": "Verkettet (+2 Erfahrung).\n<reaction> Nachdem du erfolgreich um 2 oder mehr ermittelt hast, ersch\u00f6pfe <name>: W\u00e4hle eine <t>Gegenstand</t>-Karte in deinem Ablagestapel und f\u00fcge sie deiner Hand hinzu."
+            }
         },
         "02002-t": {
-            "name": "Rex Murphy",
             "front": {
-                "text": "Mutated.\n<reaction> After you succeed at a skill test by 2 or more while investigating: Discover 1 clue at your location. (Limit once per round.)\n<elder_sign> effect: +2. You may instead choose to automatically fail this skill test to draw 3 cards.",
-                "traits": "Reporter.",
-                "subtitle": "Der Reporter",
-                "flavor_text": "\u201eDieses Mal wird mich nichts davon abhalten, die Wahrheit aufzudecken.\u201c"
-            },
-            "back": {}
+                "flavor_text": "\u201eDieses Mal wird mich nichts davon abhalten, die Wahrheit aufzudecken.\u201c",
+                "subtitle": "Der Reporter"
+            }
         },
         "02026-t": {
             "name": "Doppelt oder Nichts",
             "front": {
-                "text": "Forbidden. Max 1 committed per skill test.\nDouble the difficulty of this skill test. If this skill test is successful, resolve the effects of the successful test twice.",
                 "traits": "Gl\u00fccksfall."
-            },
-            "back": {}
+            }
         },
         "02029-t": {
             "name": "Ritualkerzen",
             "front": {
-                "text": "Mutated.\n<reaction> After a symbol is revealed during a test you are performing: You get +1 skill value for this test.",
-                "traits": "Gegenstand.",
-                "flavor_text": "Die Wachskerzen gl\u00fchen unheimlich und die Flammen zucken, als ob sie lebendig w\u00e4ren."
-            },
-            "back": {}
+                "flavor_text": "Die Wachskerzen gl\u00fchen unheimlich und die Flammen zucken, als ob sie lebendig w\u00e4ren.",
+                "traits": "Gegenstand."
+            }
         },
         "02108-t": {
             "name": "Spurensucher",
             "front": {
-                "text": "Verkettet (+1 Erfahrung).\n<free> Falls du in deinem Zug nicht mit einem Gegner in einen Kampf verwickelt bist, ersch\u00f6pfe <name>: Bewege dich auf einen verbundenen Ort.",
-                "traits": "Talent.",
-                "flavor_text": "Forscher, die hinter dem Grauen her sind, halten sich gerne in ungew\u00f6hnlichen fernen Gegenden auf.\nH.P. Lovecraft, \u201eDas Bild im Haus\u201c"
-            },
-            "back": {}
+                "flavor_text": "Forscher, die hinter dem Grauen her sind, halten sich gerne in ungew\u00f6hnlichen fernen Gegenden auf.\nH.P. Lovecraft, \u201eDas Bild im Haus\u201c",
+                "text": "Verkettet (+1 Erfahrung).\n<free> Falls du in deinem Zug nicht mit einem Gegner in einen Kampf verwickelt bist, ersch\u00f6pfe <name>: Bewege dich auf einen verbundenen Ort."
+            }
         },
         "02111-t": {
             "name": "Zu tief graben",
             "front": {
+                "flavor_text": "Einige Dinge kann man, wenn man sie erst gesehen hat, nicht mehr ungesehen machen.",
                 "text": "Mutated.\nIn player order, each investigator draws 1 card from the top of the encounter deck. Then, add Delve Too Deep to the victory display.\nGroup limit 2 copies of Delve Too Deep in the victory display.",
-                "traits": "Erkenntnis.",
-                "flavor_text": "Einige Dinge kann man, wenn man sie erst gesehen hat, nicht mehr ungesehen machen."
-            },
-            "back": {}
+                "traits": "Erkenntnis."
+            }
         },
         "02153-t": {
             "name": "Hypnotisierender Blick",
             "front": {
-                "text": "Mutated. Fast. Play when an enemy attacks an investigator at your location.\nCancel that attack. Then, reveal a random token from the chaos bag. If it has a symbol, deal the attacking enemy's damage to itself.",
                 "traits": "Zauber."
-            },
-            "back": {}
+            }
         },
         "02226-t": {
-            "name": "Springfield M1903",
             "front": {
-                "text": "Mutated. Uses (3 ammo).\n<action> Spend 1 ammo: <b>Fight.</b> You get +3 [combat] and deal +2 damage for this attack. This attack may target a non-<t>Elite</t> enemy up to one location away from its standard range, ignoring the aloof and retaliate keywords. Cannot be used to attack enemies engaged with you.",
                 "traits": "Gegenstand. Waffe. Feuerwaffe."
-            },
-            "back": {}
+            }
         },
         "02229-t": {
             "name": "Geistesgegenw\u00e4rtig",
             "front": {
-                "text": "Mutated.\nIf this skill test is successful by 2 or more, after it resolves, you may immediately take an action as if it were your turn (this action does not count toward the number of actions you can take each turn). (Max once per round.)",
                 "traits": "Angeboren."
-            },
-            "back": {}
+            }
         },
         "02263-t": {
             "name": "Seltsame L\u00f6sung",
             "front": {
-                "text": "Mutated. Researched. Uses (3 supplies).\n<action> Spend 1 supply: <b>Fight.</b> Attack with a base [combat] skill of 6. This attack deals +1 damage.",
-                "traits": "Gegenstand. Wissenschaft.",
-                "subtitle": "\u00c4tzendes Sekret"
-            },
-            "back": {}
+                "subtitle": "\u00c4tzendes Sekret",
+                "traits": "Gegenstand. Wissenschaft."
+            }
         },
         "02266-t": {
-            "name": "Ass im \u00c4rmel",
-            "front": {
-                "text": "Mutated. Exceptional. Fast. Play only during your turn.\nYou may take an additional 3 actions this turn. (Max once per round.)",
-                "traits": "Trick."
-            },
-            "back": {}
+            "name": "Ass im \u00c4rmel"
         },
         "02269-t": {
             "name": "Juwel von Aureolus",
             "front": {
+                "subtitle": "Geschenk des Homunkuli",
                 "text": "Mutated.\nAfter a symbol is revealed during a skill test at your location, exhaust Jewel of Aureolus: Draw 1 card or gain 2 resources.",
-                "traits": "Gegenstand. Relikt.",
-                "subtitle": "Geschenk des Homunkuli"
-            },
-            "back": {}
+                "traits": "Gegenstand. Relikt."
+            }
         },
         "02300-t": {
             "name": "Monsterschl\u00e4chter",
             "front": {
                 "text": "Unverkettet (-2 Erfahrung).\n<b>Kampf.</b> Falls dieser Angriff gegen einen Nicht-<t>Elite</t>-Gegner erfolgreich ist, besiege diesen Gegner.",
                 "traits": "Geist."
-            },
-            "back": {}
+            }
         },
         "03006-t": {
-            "name": "Lola Hayes",
             "front": {
-                "text": "Mutated.\nYou can only play, commit, or trigger abilities on Neutral cards or cards of your role.\n<free>: Switch your role. (Limit once per round.)\n<action>: Switch roles. Does not provoke attacks of opportunity.\n<elder_sign> effect: +2. You may switch roles.",
-                "traits": "Performer.",
-                "subtitle": "Die Schauspielerin",
-                "flavor_text": "Vielleicht wird dies ihr gro\u00dfes Comeback."
-            },
-            "back": {}
+                "flavor_text": "Vielleicht wird dies ihr gro\u00dfes Comeback.",
+                "subtitle": "Die Schauspielerin"
+            }
         },
         "03019-t": {
             "name": "Identit\u00e4tskrise",
             "front": {
-                "text": "Mutated.\n<rev> Discard 1 card in your hand or play area of your current role. Then, discard the top card of your deck. Switch your role to the class of the discarded card (if the discarded card is a weakness, switch your role to neutral).",
-                "traits": "Wahnsinn.",
-                "flavor_text": "\u201eIch habe so viele Rollen gespielt. Da muss man mit dem Wahnsinn rechnen.\u201c"
-            },
-            "back": {}
+                "flavor_text": "\u201eIch habe so viele Rollen gespielt. Da muss man mit dem Wahnsinn rechnen.\u201c",
+                "traits": "Wahnsinn."
+            }
         },
         "03029-t": {
-            "name": "Taschenspielertrick",
-            "front": {
-                "text": "Mutated. Fast. Play only during your turn.\nPut a level 0-3 <t>Item</t> asset into play from your hand. At the end of your turn, if that asset is still in play, return it to your hand.",
-                "traits": "Trick."
-            },
-            "back": {}
+            "name": "Taschenspielertrick"
         },
         "03112-t": {
-            "name": "David Renfield",
             "front": {
-                "text": "Mutated. While <name> has at least 1 doom on him, you get +1 [willpower].\n<free> Exhaust <name>: You may place 1 doom on <name>. Gain 1 resource for each doom on <name> (to a maximum of 3 resources).",
-                "traits": "Verb\u00fcndeter. M\u00e4zen.",
-                "subtitle": "Angesehender Eschatologe"
-            },
-            "back": {}
+                "subtitle": "Angesehender Eschatologe",
+                "traits": "Verb\u00fcndeter. M\u00e4zen."
+            }
         },
         "03315-t": {
             "name": "Schl\u00fcssel von Ys",
             "front": {
+                "subtitle": "Lass den Sturm toben",
                 "text": "Mutated. Exceptional. You get +1 to each of your skills for each horror on Key of Ys.\n<for> When any amount of horror would be placed on you: Place 1 of that horror on Key of Ys.\n<for> When Key of Ys leaves play: Discard the top 10 cards of your deck.",
-                "traits": "Gegenstand. Relikt.",
-                "subtitle": "Lass den Sturm toben"
-            },
-            "back": {}
+                "traits": "Gegenstand. Relikt."
+            }
         },
         "04032-t": {
             "name": "Dunkle Prophezeihung",
             "front": {
-                "text": "Mutated. Fast. Play when you would reveal a chaos token.\nReveal 5 chaos tokens instead of 1. Choose one of those tokens with a non-<elder_sign> symbol to resolve, and ignore the rest. (If no such token is revealed, choose any one of those tokens to resolve, and ignore the rest.)",
-                "traits": "Weissagung.",
-                "flavor_text": "Die Geheimnisse waren in den Sternen geschrieben."
-            },
-            "back": {}
+                "flavor_text": "Die Geheimnisse waren in den Sternen geschrieben.",
+                "traits": "Weissagung."
+            }
         },
         "04105-t": {
             "name": "\u00dcberredung",
             "front": {
-                "text": "Mutated.\n<b>Parley.</b> Choose a non-weakness enemy at your location and test [intellect] (3). This test gets +X difficulty, where X is that enemy's horror value. If you succeed, shuffle the chosen enemy into the encounter deck. If the chosen enemy is <t>Elite</t>, automatically evade it instead.",
                 "traits": "Erkenntnis. Trick."
-            },
-            "back": {}
+            }
         },
         "04110-t": {
             "name": "Gegenzauber",
             "front": {
-                "text": "Mutated. Fast. Play when a non-<auto_fail> symbol is revealed during a skill test at your location.\nCancel that chaos token. <i>(Do not reveal a new chaos token to replace it.)</i>",
-                "traits": "Zauber. Gesegnet.",
-                "flavor_text": "\u201eNicht mit mir!\u201c"
-            },
-            "back": {}
+                "flavor_text": "\u201eNicht mit mir!\u201c",
+                "traits": "Zauber. Gesegnet."
+            }
         },
         "04233-t": {
             "name": "Zahltag",
             "front": {
-                "text": "Mutated. Gain 1 resource for each action you spent this turn <i>(including this one)</i>. If it is your turn, end your turn.",
                 "traits": "Illegal. Schicksalhaft."
-            },
-            "back": {}
+            }
         },
         "04305-t": {
             "name": "Flammenwerfer",
             "front": {
                 "text": "Verkettet (+1 Erfahrung).\nAnwendungen (4 Munition).\n<action> Gib 1 Munition aus: <b>Kampf.</b> Der f\u00fcr diesen Angriff gew\u00e4hlte Gegner muss der mit dir in einen Kampf verwickelte Gegner mit dem h\u00f6chsten Kampfwert sein. Du bekommst f\u00fcr diesen Angriff +4 [combat]. Falls dieser Angriff gelingt, darfst du statt seines normalen Schadens bis zu 4 Schaden unter Gegnern zuweisen, die mit dir in einem Kampf verwickelt sind <i>(m\u00f6glicher zus\u00e4tzlicher Schaden wird dieser Summe hinzugef\u00fcgt)</i>.",
                 "traits": "Gegenstand. Waffe. Feuerwaffe."
-            },
-            "back": {}
+            }
         },
         "04309-t": {
             "name": "Alles oder Nichts",
             "front": {
                 "text": "Mutated.\nMax 1 committed per skill test.\nIf this test is successful, draw 1 card for each point you succeeded by, to a maximum of 5. Shuffle each weakness drawn by this effect back into your deck without resolving it. Remove All In from the game.",
                 "traits": "Gl\u00fccksfall."
-            },
-            "back": {}
+            }
         },
         "05020-t": {
             "name": "Befragung",
             "front": {
-                "text": "Mutated.\n<b>Parley.</b> Choose a non-<t>Elite</t> enemy at your location and test [combat] (3). This test gets +X difficulty, where X is the chosen enemy's damage value. If you succeed, discover 1 clue at your location and 1 clue at any other location.",
-                "traits": "Taktik. Erkenntnis.",
-                "flavor_text": "Er verschwieg etwas\u2026 aber warum?"
-            },
-            "back": {}
+                "flavor_text": "Er verschwieg etwas\u2026 aber warum?",
+                "traits": "Taktik. Erkenntnis."
+            }
         },
         "05113-t": {
             "name": "Verbannen",
             "front": {
-                "text": "Mutated.\n<b>Evade.</b> Use only on a non-<t>Elite</t> enemy. This evasion attempt uses [willpower] instead of [agility]. If you succeed, move the enemy just evaded to any location in play. If you succeed and a symbol was revealed during this evasion attempt, that enemy does not ready during the next upkeep phase.",
                 "traits": "Zauber."
-            },
-            "back": {}
+            }
         },
         "05116-t": {
             "name": "Schriftrolle der Geheimnisse",
             "front": {
                 "text": "Mutated. Uses (3 secrets).\n<free> Exhaust Scroll of Secrets and spend 1 secret: Look at the bottom card of any investigator's deck or the encounter deck. Then, either discard that card, add it to its owner's hand, place it on the bottom of its deck, or place it on the top of its deck.",
                 "traits": "Gegenstand. Buch."
-            },
-            "back": {}
+            }
         },
         "05153-t": {
             "name": "Mr. \u201eRook\u201d",
             "front": {
-                "text": "Mutated. Uses (3 secrets).\n<action> Exhaust Mr. \"Rook\" and spend 1 secret: Search the top 3, 6, or 9 cards of your deck for any card and draw it. If at least 1 weakness is among the searched cards, draw 1 of them, as well. Shuffle your deck.",
-                "traits": "Verb\u00fcndeter.",
+                "flavor_text": "\u201eM\u00f6chten Sie das wirklich wissen? Dann gibt es kein Zur\u00fcck mehr.\u201d",
                 "subtitle": "Geheimnish\u00e4ndler",
-                "flavor_text": "\u201eM\u00f6chten Sie das wirklich wissen? Dann gibt es kein Zur\u00fcck mehr.\u201d"
-            },
-            "back": {}
+                "text": "Mutated. Uses (3 secrets).\n<action> Exhaust Mr. \"Rook\" and spend 1 secret: Search the top 3, 6, or 9 cards of your deck for any card and draw it. If at least 1 weakness is among the searched cards, draw 1 of them, as well. Shuffle your deck.",
+                "traits": "Verb\u00fcndeter."
+            }
         },
         "05156-t": {
             "name": "Schnelle Reflexe",
             "front": {
-                "text": "Mutated. Fast. Play during any investigator's turn, except during an action.\nImmediately take an action as if it were your turn. This action does not count toward the number of actions you can take each turn. (Limit twice per round.)",
                 "traits": "Schachzug."
-            },
-            "back": {}
+            }
         },
         "05157-t": {
             "name": "Welken",
             "front": {
-                "text": "Mutated.\n<action>: <b>Fight.</b> This attack uses [willpower] instead of [combat]. If a symbol token is revealed during this attack, the attacked enemy gets -1 fight and -1 evade for the remainder of the turn (to a minimum of 1).",
                 "traits": "Zauber."
-            },
-            "back": {}
+            }
         },
         "05159-t": {
             "name": "Hoch pokern",
             "front": {
-                "text": "Verkettet (+3 Erfahrung).\n<reaction> Sobald du eine Fertigkeitsprobe initiierst, ersch\u00f6pfe <name>: Erh\u00f6he die Schwierigkeit dieser Probe um 2. Du erh\u00e4ltst 2 Ressourcen oder ziehst 1 Karte.",
-                "traits": "Talent."
-            },
-            "back": {}
+                "text": "Verkettet (+3 Erfahrung).\n<reaction> Sobald du eine Fertigkeitsprobe initiierst, ersch\u00f6pfe <name>: Erh\u00f6he die Schwierigkeit dieser Probe um 2. Du erh\u00e4ltst 2 Ressourcen oder ziehst 1 Karte."
+            }
         },
         "05188-t": {
             "name": "Schriftrolle der Geheimnisse",
             "front": {
                 "text": "Mutated. Uses (3 secrets).\n<free> Exhaust Scroll of Secrets and spend 1 secret: Look at the bottom 3 cards of any investigator's deck or the encounter deck. You may discard 1 of those cards. You may add 1 of those cards to its owner's hand. Place the rest of those cards on either the top or bottom of their deck, in any order.",
                 "traits": "Gegenstand. Buch."
-            },
-            "back": {}
+            }
         },
         "05189-t": {
             "name": "Schriftrolle der Geheimnisse",
             "front": {
                 "text": "Mutated. Uses (4 secrets).\n<free> Exhaust Scroll of Secrets and spend 1 secret: Look at the top or bottom card of any investigator's deck or the encounter deck. Then, either discard that card, add it to its owner's hand, place it on the bottom of its deck, or place it on top of its deck.",
                 "traits": "Gegenstand. Buch."
-            },
-            "back": {}
+            }
         },
         "05230-t": {
             "name": "Zielfernrohr",
             "front": {
-                "text": "Mutated. Fast. Attach to a <t>Firearm</t> asset you control that takes up two hand slots.\nWhen you perform a <b>Fight</b> action using attached asset, if you are engaged with no enemies, exhaust Telecopic Sight: This attack can target a non-<t>Elite</t> enemy at a connecting location. Ignore the aloof and retaliate keywords for this attack.",
                 "traits": "Gegenstand. Verbesserung."
-            },
-            "back": {}
+            }
         },
         "05231-t": {
             "name": "Wissen ist Macht",
             "front": {
+                "flavor_text": "\u2026 und Macht verdirbt.",
                 "text": "Verkettet (+2 Erfahrung).\nSchnell. Spiele diese Karte nur in deinem Zug.\nW\u00e4hle eine <t>Buch</t>- oder <t>Zauber</t>-Vorteilskarte, die du kontrollierst, oder enth\u00fclle eine <t>Buch</t>- oder <t>Zauber</t>-Vorteilskarte von deiner Hand. Handle eine <action>- oder <free>-F\u00e4higkeit jener Vorteilskarte ab und ignoriere daf\u00fcr alle Kosten <i>(einschlie\u00dflich ihrer <action>-Kosten, sofern vorhanden)</i>. Falls jene Vorteilskarte auf deiner Hand war, darfst du sie dann ablegen, um 1 Karte zu ziehen.",
-                "traits": "Erkenntnis.",
-                "flavor_text": "\u2026 und Macht verdirbt."
-            },
-            "back": {}
+                "traits": "Erkenntnis."
+            }
         },
         "05321-t": {
             "name": "Welken",
             "front": {
-                "text": "Mutated.\n<action>: <b>Fight.</b> This attack uses [willpower] instead of [combat]. You get +2 [willpower] for this attack. If a symbol token is revealed during this attack, the attacked enemy gets -1 fight, -1 health, and -1 evade until the end of the phase (to a minimum of 1).",
                 "traits": "Zauber."
-            },
-            "back": {}
+            }
         },
         "05324-t": {
             "name": "Wendung zum Guten",
             "front": {
                 "text": "Mutated. Fast. Play when you reveal a chaos token that would reduce your skill value to 0 during a skill test (including the <auto_fail> token).\nCancel that token and treat it as an <elder_sign> token, instead. Remove Eucatastrophe from the game.",
                 "traits": "Gl\u00fccksfall. Gesegnet."
-            },
-            "back": {}
+            }
         },
         "06002-t": {
-            "name": "Mandy Thompson",
             "front": {
+                "subtitle": "Die Forscherin",
                 "text": "<reaction> Sobald ein Ermittler an deinem Ort sein Deck oder das Begegnungsdeck durchsuchen w\u00fcrde: Er darf entweder 3 zus\u00e4tzliche Karten durchsuchen oder 1 zus\u00e4tzliches Ziel der Suche abhandeln. (Nur ein Mal pro Runde.)\n<elder_sign> Effekt: +0. Durchsuche die obersten 3 Karten deines Decks nach einer Karte und ziehe sie entweder oder trage sie falls m\u00f6glich zu dieser Fertigkeitsprobe bei. Mische dein Deck.",
-                "traits": "Assistent. Gelehrter.",
-                "subtitle": "Die Forscherin"
-            },
-            "back": {}
+                "traits": "Assistent. Gelehrter."
+            }
         },
         "06022-t": {
             "name": "Anh\u00e4nger der K\u00f6nigin",
             "front": {
+                "subtitle": "Von nichts und wieder nichts",
                 "text": "Mutated. Bonded (Segment of Onyx). Uses (3 charges). If this card has no charges, remove it from the game.\n<free> Exhaust Pendant of the Queen and spend 1 charge: Choose a revealed location and select one - move to that location, discover 1 clue at that location, or automatically evade an enemy at that location.",
-                "traits": "Gegenstand. Relikt. Okkult.",
-                "subtitle": "Von nichts und wieder nichts"
-            },
-            "back": {}
+                "traits": "Gegenstand. Relikt. Okkult."
+            }
         },
         "06195-t": {
             "name": "35er Winchester",
             "front": {
-                "text": "Mutated. Uses (5 ammo).\n<action> Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack.  If a chaos token with a non-negative modifier is revealed during this attack, this attack deals +2 damage.",
                 "traits": "Gegenstand. Waffe. Feuerwaffe."
-            },
-            "back": {}
+            }
         },
         "06199-t": {
             "name": "Drei Asse",
             "front": {
                 "text": "Mutated. Myriad.\nIf you commit 3 copies of Three Aces to a skill test, that test automatically succeeds <i>(do not reveal chaos tokens from the chaos bag)</i>. Then draw 3 cards and gain 3 resources (max once per test). Remove each committed copy of Three Aces from the game.",
                 "traits": "Gl\u00fccksfall. Trainiert."
-            },
-            "back": {}
+            }
         },
         "06332-t": {
             "name": "Pl\u00fcndern",
             "front": {
-                "text": "Verkettet (+2 Erfahrung).\n<reaction> Nachdem du erfolgreich um 2 oder mehr ermittelt hast, ersch\u00f6pfe <name>: W\u00e4hle eine <t>Gegenstand</t>-Karte in deinem Ablagestapel und f\u00fcge sie entweder deine Hand hinzu oder spiele sie <i>(und zahle die Kosten daf\u00fcr)</i>.",
-                "traits": "Talent."
-            },
-            "back": {}
+                "text": "Verkettet (+2 Erfahrung).\n<reaction> Nachdem du erfolgreich um 2 oder mehr ermittelt hast, ersch\u00f6pfe <name>: W\u00e4hle eine <t>Gegenstand</t>-Karte in deinem Ablagestapel und f\u00fcge sie entweder deine Hand hinzu oder spiele sie <i>(und zahle die Kosten daf\u00fcr)</i>."
+            }
         },
         "07003-t": {
-            "name": "Trish Scarborough",
             "front": {
-                "text": "Mutated.\n<reaction> After you discover 1 or more clues at a location with an enemy: Either discover 1 additional clue at that location, or automatically evade that enemy if it is non-<t>Elite</t>. (Limit once per round.)\n<elder_sign> effect: +2. If this is an investigation, you may choose any revealed location; you are now investigating as if you were at that location instead.",
-                "traits": "Beh\u00f6rde. Detective.",
-                "subtitle": "Die Spionin"
-            },
-            "back": {}
+                "subtitle": "Die Spionin",
+                "traits": "Beh\u00f6rde. Detective."
+            }
         },
         "07122-t": {
             "name": "Uralter Bund",
             "front": {
                 "text": "Mutated. Permanent. Limit 1 <t>Covenant</t> per deck.\n<reaction> When you resolve a <blessing> token during a skill test, exhaust Ancient Covenant: Do not reveal another token as part of this <blessing> token's effect.",
                 "traits": "Bund. Gesegnet."
-            },
-            "back": {}
+            }
         },
         "07197-t": {
-            "name": "Signum Crucis",
             "front": {
                 "text": "Unverkettet (-2 Erfahrung).\nTrage diese Karte nur zu einer Fertigkeitsprobe bei, die du ablegst, und nur, falls die Schwierigkeit jener Probe h\u00f6her als dein Grundfertigkeitswert ist.\nNachdem du <name> zu einer Fertigkeitsprobe beigetragen hast, f\u00fcge dem Chaosbeutel X <blessing>-Marker hinzu. X ist die Differenz zwischen der Schwierigkeit dieser Probe und deinem Grundfertigkeitswert.",
                 "traits": "Trainiert. Gesegnet."
-            },
-            "back": {}
+            }
         },
         "07268-t": {
             "name": "Fl\u00f6te der \u00c4u\u00dferen G\u00f6tter",
             "front": {
                 "text": "Mutated. Seal (up to X <curse>). Limit 1 per deck.\n<action> Exhaust Flute of the Outer Gods and release 1 <curse> token sealed on it: Choose a non-<t>Elite</t> enemy at your location. Either move the chosen enemy to a connecting location, or deal its damage to any enemy at its location. This action does not provoke attacks of opportunity.",
                 "traits": "Gegenstand. Instrument. Relikt. Verflucht."
-            },
-            "back": {}
+            }
         },
         "07269-t": {
             "name": "Ein vorsichtiger Frieden",
             "front": {
                 "text": "Mutated. As an additional cost to play A Watchful Peace, search the chaos bag and/or cards in play for a total of 5 <blessing> tokens and return them to the token pool.\nFast. Play when the \"draw encounter cards\" step of the mythos phase would begin.\nSkip this step of the mythos phase. Remove A Watchful Peace from the game.",
                 "traits": "Geist. Gesegnet."
-            },
-            "back": {}
+            }
         },
         "07301-t": {
             "name": "Weihen",
             "front": {
+                "flavor_text": "Selbst in der tiefsten Dunkelheit kann ein Licht erwachsen.",
                 "text": "Mutated. As an additional cost to play Hallow, return a total of 10 <blessing> tokens to the token pool from the chaos bag or sealed on cards in play.\nRemove 1 doom from any card in play. Remove Hallow from the game.",
-                "traits": "Zauber. Gesegnet.",
-                "flavor_text": "Selbst in der tiefsten Dunkelheit kann ein Licht erwachsen."
-            },
-            "back": {}
+                "traits": "Zauber. Gesegnet."
+            }
         },
         "07308-t": {
             "name": "Ritual des Gleichgewichts",
             "front": {
                 "text": "Unverkettet (-2 Erfahrung).\nEntweder (w\u00e4hle eins):\n- F\u00fcge dem Chaosbeutel X <curse>-Marker hinzu, um dem Chaosbeutel X <blessing>-Marker hinzuzuf\u00fcgen.\n- Entferne X <curse>- und X <blessing>-Marker aus dem Chaosbeutel, um insgesamt X Horror von Karten an deinem Ort zu heilen.",
                 "traits": "Zauber. Gesegnet. Verflucht."
-            },
-            "back": {}
+            }
         },
         "08019-t": {
-            "name": "Voll ausger\u00fcstet",
-            "front": {
-                "text": "Mutated. Permanent. Limit 1 per deck. Purchase at deck creation.\n<for> When your first turn of the game begins: One at a time, play up to 5 <t>Item</t> assets from your hand, reducing the cost of each by 1. During this turn, you have 3 fewer actions to take.",
-                "traits": "Talent."
-            },
-            "back": {}
+            "name": "Voll ausger\u00fcstet"
         },
         "08032-t": {
-            "name": "Jeremiah Kirby",
             "front": {
-                "text": "Mutated.\nYou get +1 [intellect].\n<reaction> After <name> enters play, choose \"even\" or \"odd:\" Reveal the top 5 cards of your deck. Draw each card with a cost that matches the chosen option. Shuffle the remaining cards into your deck. (Max twice per game.)",
-                "traits": "Verb\u00fcndeter. Miskatonic. Wanderer.",
-                "subtitle": "Arktis-Arch\u00e4ologe"
-            },
-            "back": {}
+                "subtitle": "Arktis-Arch\u00e4ologe",
+                "traits": "Verb\u00fcndeter. Miskatonic. Wanderer."
+            }
         },
         "08045-t": {
-            "name": "Prophesiae Profana",
             "front": {
-                "text": "Mutated.\nWhile you are not at the locus, you get +1 [intellect], +1 [agility], and ignore the first attack of opportunity you take each turn.\n<reaction>After <name> enters play: Choose a revealed location. That location is \"the locus\" until <name> leaves play.\n<action>: Move any investigator to the locus.",
-                "traits": "Gegenstand. Relikt. Buch.",
-                "subtitle": "Atlas des Unwissbaren"
-            },
-            "back": {}
+                "subtitle": "Atlas des Unwissbaren",
+                "traits": "Gegenstand. Relikt. Buch."
+            }
         },
         "08055-t": {
             "name": "Schwarzmarkt",
             "front": {
-                "text": "Mutated. Fast. Play at the start of the investigation phase. Max once per round.\nOne at a time, reveal cards from the top of any investigator deck(s) until exactly 5 cards have been revealed. Set those cards aside, out of play. While set aside, any investigator may play any of those cards as if they were in their hand. At the start of the next investigation phase, shuffle each of those cards still set aside into its owner's deck.",
                 "traits": "Gefallen."
-            },
-            "back": {}
+            }
         },
         "08076-t": {
             "name": "Nach dem Lesen verbrennen",
             "front": {
                 "text": "Forbidden.\nExile a level 0-5 card in your hand. Discover 2 clues at your location. If the exiled card was level 2 or higher, remove 1 doom from the current agenda. Exile Burn After Reading.\n<b>Card designed by the Council-in-Exile at Gen Con 2020</b>",
                 "traits": "Erkenntnis."
-            },
-            "back": {}
+            }
         },
         "08093-t": {
             "name": "Zyklopischer Hammer",
             "front": {
                 "text": "Mutated.\n<action>: <b>Fight.</b> Add your [willpower] to your skill value for this attack. You deal +1 damage for this attack. If you succeed and the enemy is non-<t>Elite</t>, you may move it one location away from you. (If you succeed by 3 or more, you may exhaust Cyclopean Hammer to instead deal +2 damage and may move the enemy up to two locations away from you.)",
                 "traits": "Gegenstand. Relikt. Waffe. Nahkampf."
-            },
-            "back": {}
+            }
         },
         "08098-t": {
             "name": "Karte der Zeitalter",
             "front": {
                 "text": "Mutated. Uses (3 secrets).\n<free> During your turn, exhaust Eon Chart and spend 1 secret: Choose and take one of the following basic actions (move, evade, or investigate).",
                 "traits": "Gegenstand. Relikt."
-            },
-            "back": {}
+            }
         },
         "08099-t": {
-            "name": "Gen\u00e9 Beauregard",
             "front": {
+                "subtitle": "Unerschrockene Entdeckerin",
                 "text": "Verkettet (+2 Erfahrung).\nDu bekommst +1 [intellect] und +1 [agility].\n<reaction> Nachdem du dich w\u00e4hrend deines Zuges an einen Ort bewegt hast, ersch\u00f6pfe <name>: Bewege einen Hinweis oder einen Nicht-<t>Elite</t>-Gegner von einem verbundenen Ort an deinen Ort oder umgekehrt.",
-                "traits": "Verb\u00fcndeter. Wanderer.",
-                "subtitle": "Unerschrockene Entdeckerin"
-            },
-            "back": {}
+                "traits": "Verb\u00fcndeter. Wanderer."
+            }
         },
         "08100-t": {
             "name": "Karte der Zeitalter",
             "front": {
                 "text": "Mutated. Uses (3 secrets).\n<free> During your turn, exhaust Eon Chart and spend 1 secret: Choose and take two different basic actions of the following, in any order (move, evade, or investigate).",
                 "traits": "Gegenstand. Relikt."
-            },
-            "back": {}
+            }
         },
         "08113-t": {
             "name": "Unvern\u00fcnftiger Kredit",
             "front": {
                 "text": "Campaign Mode only. Limit 1 per investigator. Cannot leave play.\n<reaction> After you play Unscrupulous Loan: Gain 10 resources.\n<for> When the game ends or you are eliminated, if you have fewer than 10 resources in your resource pool: Exile Unscrupulous Loan.",
                 "traits": "Pakt."
-            },
-            "back": {}
+            }
         },
         "09022-t": {
             "name": "Runenaxt",
             "front": {
                 "text": "Individualisierbar. Anwendungen (4 Ladungen). F\u00fclle 1 dieser Ladungen zu Beginn jeder Runde auf.\n<action>: <b>Kampf.</b> Du bekommst f\u00fcr diesen Angriff +1 [combat]. Vor diesem Angriff darfst du beliebig viele Ladungen ausgeben, um die Axt mit so vielen verschiedenen Inschriften aufzuladen \u2026\n- <i>Genauigkeit</i> - Du bekommst f\u00fcr diesen Angriff zus\u00e4tzlich +2 [combat].\n- <i>Macht</i> - Dieser Angriff f\u00fcgt +1 Schaden zu.",
                 "traits": "Gegenstand. Waffe. Nahkampf."
-            },
-            "back": {}
+            }
         },
         "09041-t": {
             "name": "Empirische Hypothese",
             "front": {
                 "text": "Customizable. Limit 1 per investigator.\n<for> At the start of the round: Choose one of the following criteria for this round\n- You fail a test by 2 or more.\n- You succeed at a test by 3 or more.\nWhen the chosen criteria is met, you may exhaust Empirical Hypothesis to add 1 evidence to it.\n<free> Spend 1 evidence: Draw 1 card. (Limit twice per round.)",
                 "traits": "Talent. Wissenschaft."
-            },
-            "back": {}
+            }
         },
         "09045-t": {
             "name": "Forschungsnotizen",
             "front": {
                 "text": "Mutated.\n<reaction> After a player card ability places 1 or more of your clues on your location: Place that many resources on Research Notes, as evidence.\n<action>: Test [intellect] (0). For each point you succeed by, you may spend 1 evidence to discover 1 clue at your location (max 3 evidence spent per round).",
                 "traits": "Gegenstand. Buch. Wissenschaft."
-            },
-            "back": {}
+            }
         },
         "09072-t": {
-            "name": "Chuck Fergus",
             "front": {
-                "text": "Mutated. <reaction> When you play a <t>Tactic</t> or <t>Trick</t> event, exhaust <name>: Choose one -\n- That event gains: \"Fast. Play only during your turn.\"\n- That event costs 2 fewer resources to play.\n- You get +2 skill value while performing a skill test during the resolution of that event.",
-                "traits": "Verb\u00fcndeter. Krimineller.",
-                "subtitle": "O'Bannions Fahrer"
-            },
-            "back": {}
+                "subtitle": "O'Bannions Fahrer",
+                "traits": "Verb\u00fcndeter. Krimineller."
+            }
         },
         "09077-t": {
             "name": "Markt der Mafia",
             "front": {
                 "text": "Verkettet (+2 Erfahrung).\nDauerhaft. Au\u00dfergew\u00f6hnlich. Du bekommst +10 Deckgr\u00f6\u00dfe.\n<reaction> Bevor du deine Starthand ziehst, w\u00e4hle 10 <t>Illegal</t>-Karten in deinem Deck: Mische sie zusammen und platziere sie als dein Marktdeck neben <name>.\n<reaction> Zu Beginn deines Zuges: Enth\u00fclle die obersten 2 Karten deines Marktdecks. Du darfst 1 Ressource ausgeben, um 1 davon zu ziehen. Platziere den Rest in beliebiger Reihenfolge unter deinem Marktdeck.",
                 "traits": "Verbindung. Illegal."
-            },
-            "back": {}
+            }
         },
         "09081-t": {
             "name": "Machtwort",
             "front": {
                 "text": "Mutated. Customizable. Fast. Play only during your turn.\nAttach to a non-<t>Elite</t> enemy at your location.\n<action> If attached enemy is at your location: <b>Parley.</b> Test [willpower](2). If you succeed, give it a command (limit once per round per command)\n \u2013 \"Go.\" This enemy moves once in a direction of your choice.",
                 "traits": "Zauber."
-            },
-            "back": {}
+            }
         },
         "09108-t": {
             "name": "Licht spenden",
             "front": {
                 "text": "Verkettet (+2 Erfahrung).\nSchnell. Spiele diese Karte, bevor ein Chaosmarker w\u00e4hrend einer Ermittlung, die du durchf\u00fchrst, enth\u00fcllt wird, und nur, falls die aktuelle Schwierigkeit dieser Probe 0 ist.\nDiese Probe gelingt automatisch. Entdecke 1 zus\u00e4tzlichen Hinweis an diesem Ort und 1 zus\u00e4tzlichen Hinweis an einem beliebigen Ort.",
                 "traits": "Erkenntnis. Trick."
-            },
-            "back": {}
+            }
         },
         "09117-t": {
             "name": "Alter Schl\u00fcsselbund",
             "front": {
                 "text": "Verkettet (+1 Erfahrung).\nAnwendungen (3 Schl\u00fcssel). Falls sich keine Schl\u00fcssel auf <name> befinden, lege diese Karte ab.\n<action>: <b>Ermitteln.</b> Dein Ort bekommt f\u00fcr diese Ermittlung -2 Schleier. Falls die Probe gelingt, entferne 1 Schl\u00fcssel von <name>, und falls sie eine Schwierigkeit von 0 hat, entdeckst du 1 zus\u00e4tzlichen Hinweis.",
                 "traits": "Gegenstand. Werkzeug."
-            },
-            "back": {}
+            }
         },
         "10026-t": {
             "name": "In den Weg stellen",
             "front": {
-                "text": "Mutated.\n<b>Parley.</b> Choose an enemy at your location and an <t>Item</t> asset in your hand. Perform a fight action against the chosen enemy. If you succeed, play the chosen asset, reducing its cost by the amount you succeeded by.",
-                "traits": "Taktik. Trick.",
-                "flavor_text": "\"H-h\u00e4nde dahin, wo ich sie sehen kann!\""
-            },
-            "back": {}
+                "flavor_text": "\"H-h\u00e4nde dahin, wo ich sie sehen kann!\"",
+                "traits": "Taktik. Trick."
+            }
         },
         "10030-t": {
             "name": "Hand-Auge-Koordination",
             "front": {
+                "flavor_text": "Verlier das Ziel nicht aus den Augen.",
                 "text": "Mutated. Fast. Play only during your turn.\nResolve an <action> ability on a level 0-3 <t>Tool</t> or <t>Weapon</t> asset you control, ignoring all costs.",
-                "traits": "Erkenntnis.",
-                "flavor_text": "Verlier das Ziel nicht aus den Augen."
-            },
-            "back": {}
+                "traits": "Erkenntnis."
+            }
         },
         "10031-t": {
             "name": "Unter Druck setzen",
             "front": {
                 "text": "Verkettet (+1 Erfahrung).\nSolange <name> zu einem Angriff beigetragen wird, in dem eine <t>Nahkampf</t>- oder <t>Fernkampf</t>-Vorteilskarte verwendet wird, f\u00fcgt dieser Angriff +1 Schaden zu. Nachdem f\u00fcr diese Fertigkeitsprobe Chaosmarker enth\u00fcllt worden sind, darfst du 1 Schaden nehmen, um 1 jener Chaosmarker aufzuheben, ihn in den Chaosbeutel zur\u00fcckzuschicken und einen neuen zu enth\u00fcllen. <i>(Du darfst dies beliebig oft tun.)</i>",
                 "traits": "Angeboren."
-            },
-            "back": {}
+            }
         },
         "10037-t": {
             "name": "Schlaghagel",
             "front": {
                 "text": "Unverkettet (-2 Erfahrung).\nSpiele diese Kare nur, falls du eine <t>Nahkampf</t>-Vorteilskarte kontrollierst. Als zus\u00e4tzliche Kosten, um <name> zu spielen, gib 1 Aktion aus.\n<b>Kampf.</b> W\u00e4hle eine <t>Nahkampf</t>-Vorteilskarte, die du kontrollierst, und nimm sofort eine Kampfaktion mit ihr <i>(ohne ihre <action>-Kosten zu zahlen)</i>. Du darfst diesen Effekt bis zu drei Mal wiederholen. Nachdem der letzte Angriff abgehandelt worden ist und falls es dein Zug ist, beende deinen Zug.",
                 "traits": "Taktik. Doppelt. Schicksalhaft."
-            },
-            "back": {}
+            }
         },
         "10059-t": {
             "name": "Gefr\u00e4\u00dfiger Mykonid",
             "front": {
+                "subtitle": "Bewusstseinsf\u00e4hige Art",
                 "text": "Mutated. Researched. Limit 1 per deck.\n<free>: Search your bonded cards for Uncanny Growth and add it to your hand. (Limit once per round.)\n<reaction> When an investigator draws a non-weakness treachery card, if their location's shroud is less than Ravenous Myconid's growth: Cancel that treachery's effects and discard it. Remove all growth from Ravenous Myconid.",
-                "traits": "Kreatur. Wissenschaft.",
-                "subtitle": "Bewusstseinsf\u00e4hige Art"
-            },
-            "back": {}
+                "traits": "Kreatur. Wissenschaft."
+            }
         },
         "10060-t": {
             "name": "Gefr\u00e4\u00dfiger Mykonid",
             "front": {
+                "subtitle": "Fleischfressende Art",
                 "text": "Verkettet (+1 Erfahrung).\nErforscht. Nur 1 pro Deck.\n<free>: Durchsuche deine gebundenen Karten nach Unheimliches Wachstum und f\u00fcge es deiner Hand hinzu. (Nur ein Mal pro Runde.)\n<free> W\u00e4hle einen Nicht-<t>Elite</t>-Gegner an deinem Ort, dessen verbleibende Ausdauer gleich oder niedriger der Anzahl an Wachstum auf <name> ist: Besiege jenen Gegner. Entferne s\u00e4mtliches Wachstum von <name>.",
-                "traits": "Monster. Wissenschaft.",
-                "subtitle": "Fleischfressende Art"
-            },
-            "back": {}
+                "traits": "Monster. Wissenschaft."
+            }
         },
         "10085-t": {
             "name": "Stab von Carnamagos",
             "front": {
+                "subtitle": "Zepter des Wahnsinnigen Sehers",
                 "text": "Verkettet (+2 Erfahrung).\nNur 1 pro Deck.\n<free> W\u00e4hle einen Nicht-<t>Elite</t>-Gegner an einem beliebigen Ort und ersch\u00f6pfe <name>: Enth\u00fclle 5 zuf\u00e4llige Chaosmarker aus dem Chaosbeutel. Falls ein <curse>-Marker enth\u00fcllt wird, durchsuche deine gebundenen Karten nach einer zuf\u00e4lligen <t>F\u00e4ulnis</t>-Ereigniskarte und h\u00e4nge sie an jenen Gegner an.",
-                "traits": "Gegenstand. Relikt. Okkult. Verflucht.",
-                "subtitle": "Zepter des Wahnsinnigen Sehers"
-            },
-            "back": {}
+                "traits": "Gegenstand. Relikt. Okkult. Verflucht."
+            }
         },
         "10098-t": {
             "name": "Stab von Carnamagos",
             "front": {
+                "subtitle": "Zepter des Wahnsinnigen Sehers",
                 "text": "Verkettet (+2 Erfahrung).\n<free> W\u00e4hle einen Nicht-<t>Elite</t>-Gegner an einem beliebigen Ort und ersch\u00f6pfe <name>: Enth\u00fclle 5 zuf\u00e4llige Chaosmarker aus dem Chaosbeutel. F\u00fcr jeden enth\u00fcllten <curse>-Marker darfst du deine gebundenen Karten nach einer zuf\u00e4lligen <t>F\u00e4ulnis</t>-Ereigniskarte durchsuchen und sie an jenen Gegner anh\u00e4ngen.",
-                "traits": "Gegenstand. Relikt. Okkult. Verflucht.",
-                "subtitle": "Zepter des Wahnsinnigen Sehers"
-            },
-            "back": {}
+                "traits": "Gegenstand. Relikt. Okkult. Verflucht."
+            }
         },
         "11031-t": {
             "name": "Schnellschuss",
             "front": {
+                "flavor_text": "Sie nannten Schwester Sofia \"die Hand Gottes\", und das aus gutem Grund",
                 "text": "Unverkettet (-2 Erfahrung).\nUnz\u00e4hlig. Schnell. Spiele diese Karte nur in deinem Zug.\nF\u00fcge einem Gegner an deinem Ort 1 Schaden zu.\n<reaction> Nachdem du <name> in deinem Zug gezogen hast: Spiele diese Karte und senke dabei ihre Ressourcenkosten um 2.",
-                "traits": "Geist.",
-                "flavor_text": "Sie nannten Schwester Sofia \"die Hand Gottes\", und das aus gutem Grund"
-            },
-            "back": {}
+                "traits": "Geist."
+            }
         },
         "11055-t": {
             "name": "Rausschmiss",
             "front": {
                 "text": "Verkettet (+1 Erfahrung).\n<b>Entkommen.</b> F\u00fcge f\u00fcr diesen Entkommen-Versuch deinen [combat]-Wert deinem Fertigkeitswert hinzu. Falls die Probe um 2 oder mehr gelingt, f\u00fcge jenem Gegner 1 Schaden zu. Falls jener Gegner Nicht-<t>Elite</t> ist, darfst du dich an einen verbundenen Ort bewegen.",
                 "traits": "Taktik. Trick."
-            },
-            "back": {}
+            }
         },
         "11065-t": {
             "name": "Blut von Thoth",
             "front": {
+                "subtitle": "Fleischgewordenes Gesetz",
                 "text": "Mutated.\n<reaction> When doom is placed on a card you control: Place 1 resource <i>(from the token pool)</i>, on this card, as an offering.\n<free> During the investigation phase, except during an action, spend 2 offerings and exhaust Blood of Thoth: Choose an investigator at your location to immediately take an action as if it were their turn.",
-                "traits": "Gegenstand. Relikt.",
-                "subtitle": "Fleischgewordenes Gesetz"
-            },
-            "back": {}
+                "traits": "Gegenstand. Relikt."
+            }
         },
         "11071-t": {
             "name": "Geisterhafter Schild",
             "front": {
                 "text": "Mutated. Fast. Play only during your turn. Attach to a player card with health and/or sanity at your location.\n<for> The first time attached card takes 1 or more damage/horror each round: Cancel 1 of that damage/horror. The owner of Spectral Shield must remove 1 charge from an asset they control. If they cannot, discard Spectral Shield.",
                 "traits": "Zauber. Geist."
-            },
-            "back": {}
+            }
         },
         "11075-t": {
             "name": "Spirituelles Echo",
             "front": {
-                "text": "Mutated. Fast. Play only during your turn.\nAttach to your location. Limit 1 per location.\n<reaction> After you activate an <action> or <free> ability on a <t>Spell</t> or <t>Ritual</t> asset: Perform that ability again at attached location as if you were there, ignoring that asset's <action> cost, if any. <i>(You may trigger this ability from any location.)</i> Return Spiritual Echo to your hand at the end of your turn. (Limit once per round.)",
-                "traits": "Ritual."
-            },
-            "back": {}
+                "text": "Mutated. Fast. Play only during your turn.\nAttach to your location. Limit 1 per location.\n<reaction> After you activate an <action> or <free> ability on a <t>Spell</t> or <t>Ritual</t> asset: Perform that ability again at attached location as if you were there, ignoring that asset's <action> cost, if any. <i>(You may trigger this ability from any location.)</i> Return Spiritual Echo to your hand at the end of your turn. (Limit once per round.)"
+            }
         },
         "11117-t": {
-            "name": "Archibald MacVeigh",
             "front": {
-                "text": "Unverkettet (-2 Erfahrung).\nNur f\u00fcr ein <t>Assistent</t>-, <t>Reporter</t>- oder <t>Gelehrter</t>-Deck. Anwendungen (4 Geheimnisse).\nDu bekommst +1 [intellect].\nGeheimnisse auf Vorteilskarten, die du kontrollierst, d\u00fcrfen als Ressourcen ausgegeben werden, um f\u00fcr <t>Erkenntnis</t>-Ereignisse zu bezahlen.",
-                "traits": "Verb\u00fcndeter.",
                 "subtitle": "\u00dcberlasteter Dozent",
-                "flavor_text": "\"'Publish or Perish,' they said. Perhaps we'll do both.\""
-            },
-            "back": {}
+                "text": "Unverkettet (-2 Erfahrung).\nNur f\u00fcr ein <t>Assistent</t>-, <t>Reporter</t>- oder <t>Gelehrter</t>-Deck. Anwendungen (4 Geheimnisse).\nDu bekommst +1 [intellect].\nGeheimnisse auf Vorteilskarten, die du kontrollierst, d\u00fcrfen als Ressourcen ausgegeben werden, um f\u00fcr <t>Erkenntnis</t>-Ereignisse zu bezahlen.",
+                "traits": "Verb\u00fcndeter."
+            }
         },
         "11118-t": {
             "name": "B\u00fcchereiausweis",
             "front": {
                 "text": "Mutated. <t>Miskatonic</t>, <t>Scholar</t> deck only. Permanent. Limit 1 per deck.\n<free> During your turn, if there is no asset attached to Library Pass, exhaust Library Pass: Attach a <t>Tome</t> asset from your hand to Library Pass. Attached asset takes up no slots.\n<for> When your turn ends: Place attached asset on the bottom of your deck unless you spend 1 resource.",
                 "traits": "Gegenstand. Miskatonic."
-            },
-            "back": {}
+            }
         },
         "11120-t": {
             "name": "Auf den Fersen",
             "front": {
-                "text": "Mutated. <t>Detective</t>, <t>Hunter</t>, <t>Police</t>, <t>Reporter</t> deck only.\nLimit 1 per investigator. Uses (5 leads). If On Their Heels has no leads, discard it.\n<reaction> After you enter a location with 1 or more enemies, spend 1 lead and exhaust On Their Heels: Either discover 1 clue at your location or deal 1 damage to an enemy at your location.",
-                "traits": "Talent."
-            },
-            "back": {}
+                "text": "Mutated. <t>Detective</t>, <t>Hunter</t>, <t>Police</t>, <t>Reporter</t> deck only.\nLimit 1 per investigator. Uses (5 leads). If On Their Heels has no leads, discard it.\n<reaction> After you enter a location with 1 or more enemies, spend 1 lead and exhaust On Their Heels: Either discover 1 clue at your location or deal 1 damage to an enemy at your location."
+            }
         },
         "60233-t": {
             "name": "Das Necronomicon",
             "front": {
+                "subtitle": "\u00dcbersetzung von Petrus de Dacia",
                 "text": "Forbidden. Uses (6 secrets). Limit 1 per deck.\n<free> Spend 1 secret: You get +2 skill value for this test.\n<free> Spend 2 secrets: Draw 2 cards.\n<free> Spend 3 secrets: Discover 1 clue at any location.\n]<free> Spend 4 secrets: Deal 3 damage to an enemy engaged with you.",
-                "traits": "Gegenstand. Buch.",
-                "subtitle": "\u00dcbersetzung von Petrus de Dacia"
-            },
-            "back": {}
+                "traits": "Gegenstand. Buch."
+            }
         },
         "60318-t": {
             "name": "Tollk\u00fchn",
             "front": {
+                "flavor_text": "\u201eDu bist ja verr\u00fcckt, Wini!\u201d\n\u201eIch wei\u00df! Ist das nicht gro\u00dfartig?\u201d",
                 "text": "Mutated. After you commit Daredevil to a skill test, discard cards from the top of your deck until you discard a <rogue> skill you can commit to this test. Commit it. After this skill test resolves, draw each weakness discarded by this effect.",
-                "traits": "Gl\u00fccksfall. Trainiert.",
-                "flavor_text": "\u201eDu bist ja verr\u00fcckt, Wini!\u201d\n\u201eIch wei\u00df! Ist das nicht gro\u00dfartig?\u201d"
-            },
-            "back": {}
+                "traits": "Gl\u00fccksfall. Trainiert."
+            }
         },
         "60327-t": {
             "name": "Scharfsch\u00fctze",
             "front": {
-                "text": "Unverkettet (-1 Erfahrung).\n<reaction> Sobald du eine <b>Kampf</b>-F\u00e4higkeit auf einer <t>Feuerwaffe</t>-Vorteilskarte verwendest, ersch\u00f6pfe <name>: W\u00e4hle eins oder beides\u2026 - \n- Dieser Angriff verwendet [agility] statt [combat]. Alle [combat]-Modifikatoren modifizieren f\u00fcr diesen Angriff stattdessen deine [agility].\n- Verwende f\u00fcr diesen Angriff den Entkommen-Wert des angegriffenen Gegners statt seines Kampfwertes.",
-                "traits": "Talent."
-            },
-            "back": {}
+                "text": "Unverkettet (-1 Erfahrung).\n<reaction> Sobald du eine <b>Kampf</b>-F\u00e4higkeit auf einer <t>Feuerwaffe</t>-Vorteilskarte verwendest, ersch\u00f6pfe <name>: W\u00e4hle eins oder beides\u2026 - \n- Dieser Angriff verwendet [agility] statt [combat]. Alle [combat]-Modifikatoren modifizieren f\u00fcr diesen Angriff stattdessen deine [agility].\n- Verwende f\u00fcr diesen Angriff den Entkommen-Wert des angegriffenen Gegners statt seines Kampfwertes."
+            }
         },
         "60332-t": {
-            "name": "Chuck Fergus",
             "front": {
-                "text": "Mutated. <reaction> When you play a <t>Tactic</t> or <t>Trick</t> event, exhaust <name>: Choose two -\n- That event gains: \"Fast. Play only during your turn.\"\n- That event costs 2 fewer resources to play.\n- You get +2 skill value while performing a skill test during the resolution of that event.",
-                "traits": "Verb\u00fcndeter. Krimineller.",
-                "subtitle": "O'Bannions Fahrer"
-            },
-            "back": {}
+                "subtitle": "O'Bannions Fahrer",
+                "traits": "Verb\u00fcndeter. Krimineller."
+            }
         },
         "60416-t": {
             "name": "Stimme des Re",
             "front": {
-                "text": "Mutated.\nGain 1 resource. Reveal 3 random tokens from the chaos bag. For each symbol revealed, gain an additional 2 resources.",
                 "traits": "Zauber."
-            },
-            "back": {}
+            }
         },
         "60423-t": {
             "name": "Hypnotisierender Blick",
             "front": {
-                "text": "Mutated. Fast. Play when an enemy attacks an investigator at your location.\nCancel that attack. Then, reveal a random token from the chaos bag. If it has a symbol, deal damage to the attacking enemy equal to its damage or horror.",
                 "traits": "Zauber."
-            },
-            "back": {}
+            }
         }
     },
-    "guides": [],
-    "encounter_sets": []
+    "encounter_sets": {},
+    "guides": {},
+    "parent": "Taboo1.json",
+    "project": {
+        "meta": {
+            "language": "de"
+        }
+    },
+    "type": "modification"
 }
