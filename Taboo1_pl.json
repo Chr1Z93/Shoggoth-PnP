@@ -1,47 +1,37 @@
 {
-    "language": "pl",
-    "project": "Taboo1.json",
-    "project_name": "Taboo1",
+    "id": "7eb02111-cd1e-4b3d-8d32-413265ae17b0",
     "cards": {
         "01033-t": {
             "name": "Dr Milan Christopher",
             "front": {
-                "name": "<unique><name>",
-                "text": "Zmutowana.\nDostajesz +1 [intellect].\n<reaction> Po tym, jak uda ci si\u0119 z sukcesem zako\u0144czy\u0107 badanie, wyczerp Dra Milana Christophera: zyskujesz 1 \u017ceton zasobu.",
                 "flavor_text": "\"Mam nadziej\u0119, \u017ce ta koszmarna istota to jaki\u015b pojedynczy wybryk natury, cho\u0107 z drugiej strony, to ekscytuj\u0105ce, gdyby okaza\u0142 si\u0119 przedstawicielem nowego gatunku!\"",
                 "subtitle": "Profesor entomologii",
+                "text": "Zmutowana.\nDostajesz +1 [intellect].\n<reaction> Po tym, jak uda ci si\u0119 z sukcesem zako\u0144czy\u0107 badanie, wyczerp Dra Milana Christophera: zyskujesz 1 \u017ceton zasobu.",
                 "traits": "Sprzymierzeniec. Miskatonic."
-            },
-            "back": {}
+            }
         },
         "01050-t": {
             "name": "Nieuchwytno\u015b\u0107",
             "front": {
                 "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury.\nUwolnij si\u0119 ze zwarcia z ka\u017cdym wrogiem, kt\u00f3ry jest z tob\u0105 w zwarciu i porusz si\u0119 do po\u0142\u0105czonej lokalizacji, w kt\u00f3rej nie ma \u017cadnych wrog\u00f3w.",
                 "traits": "Taktyka."
-            },
-            "back": {}
+            }
         },
         "01073-t": {
             "name": "Zbieractwo",
             "front": {
-                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\n<reaction> Wyczerp <name> po tym, jak badanie zako\u0144czy si\u0119 sukcesem o 2 lub wi\u0119cej: wybierz znajduj\u0105c\u0105 si\u0119 na twoim stosie kart odrzuconych kart\u0119 z cech\u0105 <t>Przedmiot</t> i dodaj j\u0105 na twoj\u0105 r\u0119k\u0119.",
-                "traits": "Talent."
-            },
-            "back": {}
+                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\n<reaction> Wyczerp <name> po tym, jak badanie zako\u0144czy si\u0119 sukcesem o 2 lub wi\u0119cej: wybierz znajduj\u0105c\u0105 si\u0119 na twoim stosie kart odrzuconych kart\u0119 z cech\u0105 <t>Przedmiot</t> i dodaj j\u0105 na twoj\u0105 r\u0119k\u0119."
+            }
         },
         "02002-t": {
-            "name": "Rex Murphy",
             "front": {
-                "name": "<unique><name>",
-                "text": "Zmutowana.\n<reaction> Po tym, jak podczas badania zako\u0144czysz test umiej\u0119tno\u015bci z sukcesem o 2 lub wi\u0119cej: odkryj 1 \u017ceton wskaz\u00f3wki w twojej lokalizacji. (Limit raz na rund\u0119).\nEfekt <elder_sign>: +2. Zamiast tego mo\u017cesz zdecydowa\u0107, \u017ce ten test automatycznie ko\u0144czy si\u0119 pora\u017ck\u0105, aby dobra\u0107 3 karty.",
                 "flavor_text": "\"Tym razem nic mnie nie powstrzyma przed odkryciem prawdy.\"",
                 "subtitle": "Reporter",
-                "traits": "Reporter."
+                "text": "Zmutowana.\n<reaction> Po tym, jak podczas badania zako\u0144czysz test umiej\u0119tno\u015bci z sukcesem o 2 lub wi\u0119cej: odkryj 1 \u017ceton wskaz\u00f3wki w twojej lokalizacji. (Limit raz na rund\u0119).\nEfekt <elder_sign>: +2. Zamiast tego mo\u017cesz zdecydowa\u0107, \u017ce ten test automatycznie ko\u0144czy si\u0119 pora\u017ck\u0105, aby dobra\u0107 3 karty."
             },
             "back": {
-                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: Karty Poszukiwacza (<seeker>) o poziomie 0-5, karty neutralne o poziomie 0-5, do pi\u0119ciu kart o poziomie 0 z dowolnej innej klasy.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielko\u015bci talii): Poszukiwanie prawdy, Kl\u0105twa Rexa, 1 losowe podstawowe os\u0142abienie.\n<b>Ograniczenia w tworzeniu talii</b>: Bez kart z cech\u0105 Los.",
-                "flavor_text": "Kiedy przydarza si\u0119 jakie\u015b nieszcz\u0119\u015bcie, Rex Murphy jest zwykle w pobli\u017cu i odczuwa jego skutki. Nawet najbardziej zatwardzia\u0142y sceptyk po sp\u0119dzeniu jednego dnia z Rexem jest got\u00f3w przysi\u0105c, \u017ce nad facetem wisi jakie\u015b fatum. Za ka\u017cdym razem, kiedy trafia na \u015blad ciekawej historii, zawsze co\u015b p\u00f3jdzie nie tak. Na przyk\u0142ad ta sprawa w Innsmouth, kiedy wiatr porwa\u0142 mu fotografie do morza albo dziwne \u015blady w Dunwich zmyte przez deszcz, zanim zd\u0105\u017cy\u0142 je pokaza\u0107 szeryfowi. Parszywy los niejednokrotnie sprawia\u0142, \u017ce stawa\u0142 si\u0119 celem jakich\u015b potwornych bestii albo okultystycznych spisk\u00f3w. \u017beby jako\u015b prze\u017cy\u0107, Rex rozwin\u0105\u0142 w sobie przenikliwy umys\u0142 i zawsze pr\u00f3buje wyprzedza\u0107 o krok ka\u017cd\u0105 katastrof\u0119."
+                "flavor_text": "Kiedy przydarza si\u0119 jakie\u015b nieszcz\u0119\u015bcie, Rex Murphy jest zwykle w pobli\u017cu i odczuwa jego skutki. Nawet najbardziej zatwardzia\u0142y sceptyk po sp\u0119dzeniu jednego dnia z Rexem jest got\u00f3w przysi\u0105c, \u017ce nad facetem wisi jakie\u015b fatum. Za ka\u017cdym razem, kiedy trafia na \u015blad ciekawej historii, zawsze co\u015b p\u00f3jdzie nie tak. Na przyk\u0142ad ta sprawa w Innsmouth, kiedy wiatr porwa\u0142 mu fotografie do morza albo dziwne \u015blady w Dunwich zmyte przez deszcz, zanim zd\u0105\u017cy\u0142 je pokaza\u0107 szeryfowi. Parszywy los niejednokrotnie sprawia\u0142, \u017ce stawa\u0142 si\u0119 celem jakich\u015b potwornych bestii albo okultystycznych spisk\u00f3w. \u017beby jako\u015b prze\u017cy\u0107, Rex rozwin\u0105\u0142 w sobie przenikliwy umys\u0142 i zawsze pr\u00f3buje wyprzedza\u0107 o krok ka\u017cd\u0105 katastrof\u0119.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: Karty Poszukiwacza (<seeker>) o poziomie 0-5, karty neutralne o poziomie 0-5, do pi\u0119ciu kart o poziomie 0 z dowolnej innej klasy.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielko\u015bci talii): Poszukiwanie prawdy, Kl\u0105twa Rexa, 1 losowe podstawowe os\u0142abienie.\n<b>Ograniczenia w tworzeniu talii</b>: Bez kart z cech\u0105 Los."
             }
         },
         "02026-t": {
@@ -49,360 +39,307 @@
             "front": {
                 "text": "Zakazana. Na ka\u017cdy test umiej\u0119tno\u015bci mo\u017cna przeznaczy\u0107 maksymalnie 1 tak\u0105 kart\u0119.\nPodw\u00f3j poziom trudno\u015bci danego testu umiej\u0119tno\u015bci. Je\u015bli test zako\u0144czy si\u0119 sukcesem, dwukrotnie rozpatrz efekty testu zako\u0144czonego sukcesem.",
                 "traits": "Los."
-            },
-            "back": {}
+            }
         },
         "02029-t": {
             "name": "\u015awiece rytualne",
             "front": {
-                "text": "Zmutowana.\n<reaction> Po tym, jak podczas wykonywanego przez ciebie testu zostanie odkryty dowolny symbol: do tego testu dostajesz +1 do warto\u015bci umiej\u0119tno\u015bci.",
                 "flavor_text": "Knoty jarzy\u0142y si\u0119 upiornym blaskiem, a p\u0142omienie porusza\u0142y si\u0119, jakby by\u0142y \u017cywe.",
+                "text": "Zmutowana.\n<reaction> Po tym, jak podczas wykonywanego przez ciebie testu zostanie odkryty dowolny symbol: do tego testu dostajesz +1 do warto\u015bci umiej\u0119tno\u015bci.",
                 "traits": "Przedmiot."
-            },
-            "back": {}
+            }
         },
         "02108-t": {
             "name": "Pionier",
             "front": {
-                "text": "Sp\u0119tana (+1 do\u015bwiadczenie).\n<free> Podczas twojej tury, je\u015bli nie znajdujesz si\u0119 w zwarciu z \u017cadnymi wrogami, wyczerp <name>a: porusz si\u0119 do po\u0142\u0105czonej lokalizacji.",
                 "flavor_text": "<center>Poszukiwacze grozy nawiedzaj\u0105 dziwne, odleg\u0142e miejsca. \n<right>-- <i>H. P. Lovecraft</i>, \"Rycina w starym domu\"",
-                "traits": "Talent."
-            },
-            "back": {}
+                "text": "Sp\u0119tana (+1 do\u015bwiadczenie).\n<free> Podczas twojej tury, je\u015bli nie znajdujesz si\u0119 w zwarciu z \u017cadnymi wrogami, wyczerp <name>a: porusz si\u0119 do po\u0142\u0105czonej lokalizacji."
+            }
         },
         "02111-t": {
             "name": "Nadmierna ciekawo\u015b\u0107",
             "front": {
-                "text": "Zmutowana.\nW kolejno\u015bci graczy ka\u017cdy badacz dobiera 1 kart\u0119 z wierzchu talii spotka\u0144. Nast\u0119pnie dodaj Nadmiern\u0105 ciekawo\u015b\u0107 do puli zwyci\u0119stwa.\nLimit grupowy 2 kopie Nadmiernej ciekawo\u015bci w puli zwyci\u0119stwa.",
                 "flavor_text": "\nGdy ju\u017c co\u015b ujrzysz, nie da si\u0119 tego cofn\u0105\u0107.<br> <br> <br> ",
-                "victory": "Zwyci\u0119stwo 1.",
-                "traits": "Informacja."
-            },
-            "back": {}
+                "text": "Zmutowana.\nW kolejno\u015bci graczy ka\u017cdy badacz dobiera 1 kart\u0119 z wierzchu talii spotka\u0144. Nast\u0119pnie dodaj Nadmiern\u0105 ciekawo\u015b\u0107 do puli zwyci\u0119stwa.\nLimit grupowy 2 kopie Nadmiernej ciekawo\u015bci w puli zwyci\u0119stwa.",
+                "traits": "Informacja.",
+                "victory": "Zwyci\u0119stwo 1."
+            }
         },
         "02153-t": {
             "name": "Hipnotyzuj\u0105ce spojrzenie",
             "front": {
                 "text": "Zmutowana. Szybka. Zagraj, kiedy wr\u00f3g zaatakuje badacza w twojej lokalizacji.\nAnuluj ten atak. Nast\u0119pnie odkryj losowy \u017ceton z worka chaosu. Je\u015bli ma dowolny symbol, atakuj\u0105cy wr\u00f3g zadaje obra\u017cenia samemu sobie.",
                 "traits": "Zakl\u0119cie."
-            },
-            "back": {}
+            }
         },
         "02226-t": {
-            "name": "Springfield M1903",
             "front": {
                 "text": "Zmutowana. Zu\u017cywalny (3 naboje).\n<action> Wydaj 1 nab\u00f3j: <b>Walka.</b> Dostajesz +3 [combat] i zadajesz +2 obra\u017cenia do tego ataku. Celem tego ataku mo\u017ce by\u0107 nie-<t>Elitarny</t> wr\u00f3g oddalony o 1 lokalizacj\u0119 dalej od jego normalnego zasi\u0119gu, ignoruj\u0105c s\u0142owa kluczowe Pow\u015bci\u0105gliwy i M\u015bciwy. Nie mo\u017cesz w ten spos\u00f3b zaatakowa\u0107 wrog\u00f3w b\u0119d\u0105cych z tob\u0105 w zwarciu.",
                 "traits": "Przedmiot. Bro\u0144. Palna."
-            },
-            "back": {}
+            }
         },
         "02229-t": {
             "name": "Lotny umys\u0142",
             "front": {
                 "text": "Zmutowana.\nJe\u015bli ten test zako\u0144czy si\u0119 sukcesem o 2 lub wi\u0119cej, po tym jak zostanie rozpatrzony, mo\u017cesz natychmiast wykona\u0107 akcj\u0119 tak, jakby by\u0142a twoja tura (ta akcja nie wlicza si\u0119 do liczby akcji, kt\u00f3re mo\u017cesz wykona\u0107 w ka\u017cdej turze). (Maksymalnie raz na rund\u0119).",
                 "traits": "Wrodzona."
-            },
-            "back": {}
+            }
         },
         "02263-t": {
             "name": "Dziwny roztw\u00f3r",
             "front": {
-                "text": "Zmutowana. Zbadany. Zu\u017cywalny (3 zapasy).\n<action> Wydaj 1 zapasy: <b>Walka.</b> Zaatakuj z podstawow\u0105 umiej\u0119tno\u015bci\u0105 [combat] o warto\u015bci 6. Ten atak zadaje +1 obra\u017cenie.",
                 "subtitle": "\u017br\u0105ca posoka",
+                "text": "Zmutowana. Zbadany. Zu\u017cywalny (3 zapasy).\n<action> Wydaj 1 zapasy: <b>Walka.</b> Zaatakuj z podstawow\u0105 umiej\u0119tno\u015bci\u0105 [combat] o warto\u015bci 6. Ten atak zadaje +1 obra\u017cenie.",
                 "traits": "Przedmiot. Nauka."
-            },
-            "back": {}
+            }
         },
         "02266-t": {
             "name": "As w r\u0119kawie",
             "front": {
                 "text": "Zmutowana. Wyj\u0105tkowa. Szybka. Zagraj tylko podczas twojej tury.\nW tej turze mo\u017cesz wykona\u0107 3 dodatkowe akcje. (Maksymalnie raz na rund\u0119).",
                 "traits": "Sztuczka."
-            },
-            "back": {}
+            }
         },
         "02269-t": {
             "name": "Klejnot Aureolusa",
             "front": {
+                "subtitle": "Dar od homunkulus\u00f3w",
                 "text": "Zmutowana.\nWyczerp <name> po tym, jak podczas testu umiej\u0119tno\u015bci w twojej lokalizacji zostanie odkryty dowolny symbol: dobierasz 1 kart\u0119 lub zyskujesz 2 \u017cetony zasob\u00f3w.",
-                "traits": "Przedmiot. Relikwia.",
-                "subtitle": "Dar od homunkulus\u00f3w"
-            },
-            "back": {}
+                "traits": "Przedmiot. Relikwia."
+            }
         },
         "02300-t": {
             "name": "Pogromca potwor\u00f3w",
             "front": {
                 "text": "Uwolniona (-2 do\u015bwiadczenia).\n<b>Walka.</b> Je\u015bli ten atak powiedzie si\u0119 przeciw nie-<t>Elitarnemu</t> wrogowi, pokonaj tego<br> wroga.",
                 "traits": "Duch."
-            },
-            "back": {}
+            }
         },
         "03006-t": {
-            "name": "Lola Hayes",
             "front": {
-                "name": "<unique><name>",
-                "text": "Zmutowana.\nMo\u017cesz zagrywa\u0107, przeznacza\u0107 do test\u00f3w lub aktywowa\u0107 zdolno\u015bci tylko kart neutralnych lub kart nale\u017c\u0105cych do klasy wybranej roli.\n<free>: Zmie\u0144 twoj\u0105 rol\u0119. (Limit raz na rund\u0119).\n<action>: Zmie\u0144 rol\u0119. Nie wywo\u0142uje atak\u00f3w towarzysz\u0105cych.\nEfekt <elder_sign>: +2. Mo\u017cesz zmieni\u0107 rol\u0119.",
                 "flavor_text": "By\u0107 mo\u017ce to b\u0119dzie jej wielki powr\u00f3t.",
                 "subtitle": "Aktorka",
+                "text": "Zmutowana.\nMo\u017cesz zagrywa\u0107, przeznacza\u0107 do test\u00f3w lub aktywowa\u0107 zdolno\u015bci tylko kart neutralnych lub kart nale\u017c\u0105cych do klasy wybranej roli.\n<free>: Zmie\u0144 twoj\u0105 rol\u0119. (Limit raz na rund\u0119).\n<action>: Zmie\u0144 rol\u0119. Nie wywo\u0142uje atak\u00f3w towarzysz\u0105cych.\nEfekt <elder_sign>: +2. Mo\u017cesz zmieni\u0107 rol\u0119.",
                 "traits": "Artysta."
             },
             "back": {
-                "text": "Zmutowana.\n<b>Rozmiar talii</b>: 35.\n<b>Opcje tworzenia talii</b>: karty Ocala\u0142ego, Stra\u017cnika, Poszukiwacza, \u0141otra i Mistyka (<survivor>, <guardian>, <seeker>, <rogue> i <mystic>) o poziomie 0-3, karty neutralne o poziomie 0-5.\n<b>Wymogi tworzenia talii</b> (niewliczane do wielko\u015bci talii): 2 kopie Improwizacji, 2 kopie Kryzysu to\u017csamo\u015bci, 1 losowe podstawowe os\u0142abienie.\n<b>Dodatkowe wymogi</b>: twoja talia musi zawiera\u0107 przynajmniej po 7 kart z 3 r\u00f3\u017cnych klas (<survivor>, <guardian>, <seeker>, <rogue> lub <mystic>).\n<b>Dodatkowe zasady przygotowania</b>: Po tym, jak dobierzesz pocz\u0105tkowe karty: wybierz rol\u0119 (<survivor>, <guardian>, <seeker>, <rogue>, <mystic> lub neutraln\u0105).",
-                "flavor_text": "Lola wyst\u0119powa\u0142a na scenach ca\u0142ego \u015bwiata, zawsze graj\u0105c przy pe\u0142nej sali, ale \u017cadna sztuka, w kt\u00f3rej bra\u0142a udzia\u0142, nie by\u0142a tak niepokoj\u0105ca ani tak dziwna jak \u201eKr\u00f3l w \u017b\u00f3\u0142ci\u201d. Nawet podczas pr\u00f3b to przedstawienie sprowadza\u0142o nieszcz\u0119\u015bcie i groz\u0119. Kiedy jej kole\u017cank\u0119 ze sceny, Miriam, znaleziono martw\u0105 w rzece Seine, dosz\u0142a do wniosku, \u017ce to ju\u017c za wiele, i napisa\u0142a list do re\u017cysera, oznajmiaj\u0105c, \u017ce nast\u0119pny spektakl jest ostatnim, w jakim zamierza wyst\u0105pi\u0107. Teraz zmierza do Arkham na swoje ostatnie przedstawienie w nadziei, \u017ce nareszcie uwolni si\u0119 od tej koszmarnej sztuki."
+                "flavor_text": "Lola wyst\u0119powa\u0142a na scenach ca\u0142ego \u015bwiata, zawsze graj\u0105c przy pe\u0142nej sali, ale \u017cadna sztuka, w kt\u00f3rej bra\u0142a udzia\u0142, nie by\u0142a tak niepokoj\u0105ca ani tak dziwna jak \u201eKr\u00f3l w \u017b\u00f3\u0142ci\u201d. Nawet podczas pr\u00f3b to przedstawienie sprowadza\u0142o nieszcz\u0119\u015bcie i groz\u0119. Kiedy jej kole\u017cank\u0119 ze sceny, Miriam, znaleziono martw\u0105 w rzece Seine, dosz\u0142a do wniosku, \u017ce to ju\u017c za wiele, i napisa\u0142a list do re\u017cysera, oznajmiaj\u0105c, \u017ce nast\u0119pny spektakl jest ostatnim, w jakim zamierza wyst\u0105pi\u0107. Teraz zmierza do Arkham na swoje ostatnie przedstawienie w nadziei, \u017ce nareszcie uwolni si\u0119 od tej koszmarnej sztuki.",
+                "text": "Zmutowana.\n<b>Rozmiar talii</b>: 35.\n<b>Opcje tworzenia talii</b>: karty Ocala\u0142ego, Stra\u017cnika, Poszukiwacza, \u0141otra i Mistyka (<survivor>, <guardian>, <seeker>, <rogue> i <mystic>) o poziomie 0-3, karty neutralne o poziomie 0-5.\n<b>Wymogi tworzenia talii</b> (niewliczane do wielko\u015bci talii): 2 kopie Improwizacji, 2 kopie Kryzysu to\u017csamo\u015bci, 1 losowe podstawowe os\u0142abienie.\n<b>Dodatkowe wymogi</b>: twoja talia musi zawiera\u0107 przynajmniej po 7 kart z 3 r\u00f3\u017cnych klas (<survivor>, <guardian>, <seeker>, <rogue> lub <mystic>).\n<b>Dodatkowe zasady przygotowania</b>: Po tym, jak dobierzesz pocz\u0105tkowe karty: wybierz rol\u0119 (<survivor>, <guardian>, <seeker>, <rogue>, <mystic> lub neutraln\u0105)."
             }
         },
         "03019-t": {
             "name": "Kryzys to\u017csamo\u015bci",
             "front": {
-                "text": "Zmutowana.\n<b>Odkrycie</b> - Odrzu\u0107 1 kart\u0119 z twojej r\u0119ki lub obszaru gry twojej obecnej roli. Nast\u0119pnie odrzu\u0107 wierzchni\u0105 kart\u0119 z twojej talii. Zmie\u0144 twoj\u0105 rol\u0119 na rol\u0119 odpowiadaj\u0105c\u0105 klasie odrzuconej karty (je\u015bli odrzucona karta to os\u0142abienie, zmie\u0144 rol\u0119 na neutraln\u0105).",
                 "flavor_text": "\u201eWciela\u0142am si\u0119 ju\u017c w tak wiele r\u00f3l. Mo\u017cna si\u0119 by\u0142o spodziewa\u0107, \u017ce dopadnie mnie szale\u0144stwo\u201d.<br> ",
+                "text": "Zmutowana.\n<b>Odkrycie</b> - Odrzu\u0107 1 kart\u0119 z twojej r\u0119ki lub obszaru gry twojej obecnej roli. Nast\u0119pnie odrzu\u0107 wierzchni\u0105 kart\u0119 z twojej talii. Zmie\u0144 twoj\u0105 rol\u0119 na rol\u0119 odpowiadaj\u0105c\u0105 klasie odrzuconej karty (je\u015bli odrzucona karta to os\u0142abienie, zmie\u0144 rol\u0119 na neutraln\u0105).",
                 "traits": "Szale\u0144stwo."
-            },
-            "back": {}
+            }
         },
         "03029-t": {
             "name": "Zr\u0119czna sztuczka",
             "front": {
                 "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury.\nUmie\u015b\u0107 w grze atut z cech\u0105 <t>Przedmiot</t> o poziomie 0-3 z twojej r\u0119ki. Na ko\u0144cu twojej tury, je\u015bli dany atut nadal znajduje si\u0119 w grze, cofnij go na twoj\u0105 r\u0119k\u0119.",
                 "traits": "Sztuczka."
-            },
-            "back": {}
+            }
         },
         "03112-t": {
-            "name": "David Renfield",
             "front": {
+                "subtitle": "Znany eschatolog",
                 "text": "Zmutowana. Dop\u00f3ki na Davidzie Renfieldzie znajduje si\u0119 przynajmniej 1 \u017ceton zag\u0142ady, dostajesz+1 [willpower].\n<free> Wyczerp Davida Renfielda: mo\u017cesz umie\u015bci\u0107 1 \u017ceton zag\u0142ady na Davidzie Renfieldzie. Zyskaj 1 \u017ceton zasobu za ka\u017cdy \u017ceton zag\u0142ady na Davidzie Renfieldzie (do maksymalnie 3 \u017ceton\u00f3w zasob\u00f3w).",
-                "traits": "Sprzymierzeniec. Opiekun.",
-                "subtitle": "Znany eschatolog"
-            },
-            "back": {}
+                "traits": "Sprzymierzeniec. Opiekun."
+            }
         },
         "03315-t": {
             "name": "Klucz Ys",
             "front": {
+                "subtitle": "Niech rozp\u0119ta si\u0119 burza",
                 "text": "Zmutowana. Wyj\u0105tkowa. Dostajesz +1 do ka\u017cdej twojej umiej\u0119tno\u015bci za ka\u017cdy punkt przera\u017cenia na Kluczu Ys.\n<b>Wymuszony </b> - Kiedy dowolna liczba punkt\u00f3w przera\u017cenia mia\u0142aby zosta\u0107 umieszczona na tobie: umie\u015b\u0107 1 z tych punkt\u00f3w przera\u017cenia na Kluczu Ys.\n<b>Wymuszony </b> - Kiedy <name> opuszcza gr\u0119: odrzu\u0107 10 wierzchnich kart z twojej talii.",
-                "traits": "Przedmiot. Relikwia.",
-                "subtitle": "Niech rozp\u0119ta si\u0119 burza"
-            },
-            "back": {}
+                "traits": "Przedmiot. Relikwia."
+            }
         },
         "04032-t": {
             "name": "Mroczne proroctwo",
             "front": {
+                "flavor_text": "Tajemnice zapisane w gwiazdach.",
                 "text": "Zmutowana. Szybka. Zagraj, kiedy mia\u0142by\u015b ujawni\u0107 \u017ceton chaosu.\nOdkryj 5 \u017ceton\u00f3w chaosu zamiast jednego. Wybierz i rozpatrz jeden z tych \u017ceton\u00f3w z symbolem innym ni\u017c <elder_sign>, a pozosta\u0142e zignoruj. (Je\u015bli nie zostanie odkryty \u017caden taki \u017ceton, wybierz i rozpatrz dowolny z tych \u017ceton\u00f3w, a reszt\u0119 zignoruj).",
-                "traits": "Zapowied\u017a.",
-                "flavor_text": "Tajemnice zapisane w gwiazdach."
-            },
-            "back": {}
+                "traits": "Zapowied\u017a."
+            }
         },
         "04105-t": {
             "name": "Perswazja",
             "front": {
                 "text": "Zmutowana.\n<b>Pertraktacje.</b> Wybierz wroga nie-os\u0142abienie znajduj\u0105cego si\u0119 w twojej lokalizacji i wykonaj test [intellect] (3). Ten test dostaje +X do trudno\u015bci, gdzie X to warto\u015b\u0107 przera\u017cenia danego wroga. Je\u015bli test zako\u0144czy si\u0119 sukcesem, wtasuj wybranego wroga do talii spotka\u0144. Je\u015bli wybrany wr\u00f3g posiada cech\u0119 <t>Elitarny</t>, zamiast tego natychmiast si\u0119 mu wymykasz.",
                 "traits": "Informacja. Sztuczka."
-            },
-            "back": {}
+            }
         },
         "04110-t": {
             "name": "Przeciwzakl\u0119cie",
             "front": {
+                "flavor_text": "\u201eNie ze mn\u0105 te numery\u201d.",
                 "text": "Zmutowana. Szybka. Zagraj, kiedy podczas testu umiej\u0119tno\u015bci w twojej lokalizacji zostanie odkryty \u017ceton chaosu z symbolem innym ni\u017c <auto_fail>. Anuluj dany \u017ceton chaosu. <i>(Nie odkrywaj nowego \u017cetonu chaosu, aby zast\u0105pi\u0107 anulowany \u017ceton.)</i>",
-                "traits": "Zakl\u0119cie. B\u0142ogos\u0142awiony.",
-                "flavor_text": "\u201eNie ze mn\u0105 te numery\u201d."
-            },
-            "back": {}
+                "traits": "Zakl\u0119cie. B\u0142ogos\u0142awiony."
+            }
         },
         "04233-t": {
             "name": "Dzie\u0144 wyp\u0142aty",
             "front": {
                 "text": "Zmutowana. Zyskaj 1 \u017ceton zasobu za ka\u017cd\u0105 wykorzystan\u0105 akcj\u0119 tej tury <i>(w\u0142\u0105cznie z t\u0105)</i>. Je\u015bli trwa twoja tura, ko\u0144czysz swoj\u0105 tur\u0119.",
                 "traits": "Nielegalny. Przeznaczony."
-            },
-            "back": {}
+            }
         },
         "04305-t": {
             "name": "Miotacz ognia",
             "front": {
                 "text": "Sp\u0119tana (+1 do\u015bwiadczenie).\nZu\u017cywalny (4 naboje).\n<action> Wydaj 1 nab\u00f3j: <b>Walka.</b> Do tego ataku musi zosta\u0107 wybrany b\u0119d\u0105cy z toba w zwarciu wr\u00f3g o najwy\u017cszej warto\u015bci walki. Do tego ataku dostajesz +4 [combat]. Je\u015bli ten atak zako\u0144czy si\u0119 sukcesem, zamiast standardowych obra\u017ce\u0144 mo\u017cesz przypisa\u0107 \u0142\u0105cznie maksymalnie 4 obra\u017cenia wrogom b\u0119d\u0105cym z tob\u0105 w zwarciu <i>(ka\u017cde dodatkowe obra\u017cenie nale\u017cy doda\u0107 do tej liczby)</i>.",
                 "traits": "Przedmiot. Bro\u0144. Palna."
-            },
-            "back": {}
+            }
         },
         "04309-t": {
             "name": "Wszystko na jedn\u0105 kart\u0119",
             "front": {
                 "text": "Zmutowana.\nNa ka\u017cdy test umiej\u0119tno\u015bci mo\u017cna przeznaczy\u0107 maksymalnie 1 tak\u0105 kart\u0119.\nJe\u015bli ten test zako\u0144czy si\u0119 sukcesem, dobierz 1 kart\u0119 za ka\u017cdy punkt, o kt\u00f3ry test si\u0119 powi\u00f3d\u0142 (do maksimum 5). Wtasuj ka\u017cde os\u0142abienie dobrane w wyniku tego efektu z powrotem do twojej talii, bez rozpatrywania go. Usu\u0144 <name> z gry.",
                 "traits": "Los."
-            },
-            "back": {}
+            }
         },
         "05020-t": {
             "name": "Przes\u0142uchanie",
             "front": {
+                "flavor_text": "Co\u015b ukrywa\u0142\u2026 ale co?",
                 "text": "Zmutowana.\n<b>Pertraktacje.</b> Wybierz nie-<t>Elitarnego</t> wroga znajduj\u0105cego si\u0119 w twojej lokalizacji i wykonaj test [combat] (3). Ten test dostaje +X do poziomu trudno\u015bci, gdzie X to ilo\u015b\u0107 zadawanych obra\u017ce\u0144 wybranego wroga. Je\u015bli atak zako\u0144czy si\u0119 sukcesem, odkryj 1 wskaz\u00f3wk\u0119 w twojej lokalizacji i 1 wskaz\u00f3wk\u0119 w s\u0105siaduj\u0105cej lokalizacji.",
-                "traits": "Taktyka. Informacja.",
-                "flavor_text": "Co\u015b ukrywa\u0142\u2026 ale co?"
-            },
-            "back": {}
+                "traits": "Taktyka. Informacja."
+            }
         },
         "05113-t": {
             "name": "Wyp\u0119dzenie",
             "front": {
-                "text": "Zmutowana.\n<b>Wymykanie.</b> U\u017cyj tylko na nie-<t>Elitarnym</t> wrogu. Ta pr\u00f3ba wymkni\u0119cia si\u0119 u\u017cywa [willpower] zamiast [agility]. Je\u015bli test zako\u0144czy\u0142 si\u0119 sukcesem, porusz wroga, kt\u00f3remu si\u0119 w\u0142a\u015bnie wymkn\u0105\u0142e\u015b, do dowolnej lokalizacji w grze. Je\u015bli test zako\u0144czy\u0142 si\u0119 sukcesem i podczas pr\u00f3by wymkni\u0119cia si\u0119 zosta\u0142 odkryty dowolny symbol, dany wr\u00f3g nie zostaje przygotowany podczas nast\u0119pnej fazy utrzymania.",
+                "text": "Zmutowana.\n<b>Wymykanie</b> (<willpower>). U\u017cyj tylko na nie-<t>Elitarnym</t> wrogu. Je\u015bli test zako\u0144czy\u0142 si\u0119 sukcesem, porusz wroga, kt\u00f3remu si\u0119 w\u0142a\u015bnie wymkn\u0105\u0142e\u015b, do dowolnej lokalizacji w grze. Je\u015bli test zako\u0144czy\u0142 si\u0119 sukcesem i podczas pr\u00f3by wymkni\u0119cia si\u0119 zosta\u0142 odkryty dowolny symbol, dany wr\u00f3g nie zostaje przygotowany podczas nast\u0119pnej fazy<br>utrzymania.",
                 "traits": "Zakl\u0119cie."
-            },
-            "back": {}
+            }
         },
         "05116-t": {
             "name": "Zw\u00f3j sekret\u00f3w",
             "front": {
                 "text": "Zmutowana. Zu\u017cywalny (3 sekrety).\n<free> Wyczerp <name> i wydaj 1 sekret: podejrzyj kart\u0119 ze spodu talii dowolnego badacza lub talii spotka\u0144. Nast\u0119pnie odrzu\u0107 dan\u0105 kart\u0119, dodaj j\u0105 na r\u0119k\u0119 w\u0142a\u015bciciela, umie\u015b\u0107 na spodzie danej talii albo umie\u015b\u0107 na wierzchu danej talii.",
                 "traits": "Przedmiot. Ksi\u0119ga."
-            },
-            "back": {}
+            }
         },
         "05153-t": {
             "name": "Pan \"Szuler\"",
             "front": {
-                "name": "<unique><name>",
-                "text": "Zmutowana. Zu\u017cywalny (3 sekrety).\n<action> Wyczerp Pana \"Szulera\" i wydaj 1 sekret: przeszukaj 3, 6 albo 9 wierzchnich kart z twojej talii w poszukiwaniu dowolnej karty i dobierz j\u0105. Je\u015bli po\u015br\u00f3d przeszukiwanych kart znajduje si\u0119 przynajmniej 1 os\u0142abienie, dobierz r\u00f3wnie\u017c 1 z nich. Potasuj twoj\u0105 tali\u0119.",
                 "flavor_text": "\"Jeste\u015b pewien, \u017ce chcesz to wiedzie\u0107? Nie b\u0119dzie odwrotu.\"",
                 "subtitle": "Handlarz sekret\u00f3w",
+                "text": "Zmutowana. Zu\u017cywalny (3 sekrety).\n<action> Wyczerp Pana \"Szulera\" i wydaj 1 sekret: przeszukaj 3, 6 albo 9 wierzchnich kart z twojej talii w poszukiwaniu dowolnej karty i dobierz j\u0105. Je\u015bli po\u015br\u00f3d przeszukiwanych kart znajduje si\u0119 przynajmniej 1 os\u0142abienie, dobierz r\u00f3wnie\u017c 1 z nich. Potasuj twoj\u0105 tali\u0119.",
                 "traits": "Sprzymierzeniec."
-            },
-            "back": {}
+            }
         },
         "05156-t": {
             "name": "B\u0142yskawiczna reakcja",
             "front": {
-                "text": "Zmutowana. Szybka. Zagraj podczas tury dowolnego badacza, ale nie podczas akcji.\nNatychmiast wykonaj akcj\u0119 tak, jakby trwa\u0142a twoja tura. Ta akcja nie wlicza si\u0119 w liczb\u0119 akcji, kt\u00f3re mo\u017cesz wykona\u0107 w ka\u017cdej turze. (Limit dwa razy na rund\u0119).",
-                "traits": "Gambit."
-            },
-            "back": {}
+                "text": "Zmutowana. Szybka. Zagraj podczas tury dowolnego badacza, ale nie podczas akcji.\nNatychmiast wykonaj akcj\u0119 tak, jakby trwa\u0142a twoja tura. Ta akcja nie wlicza si\u0119 w liczb\u0119 akcji, kt\u00f3re mo\u017cesz wykona\u0107 w ka\u017cdej turze. (Limit dwa razy na rund\u0119)."
+            }
         },
         "05157-t": {
             "name": "Uwi\u0105d",
             "front": {
-                "text": "Zmutowana.\n<action>: <b>Walka.</b> Ten atak u\u017cywa [willpower] zamiast [combat]. <br>Je\u015bli podczas tego ataku zostanie odkryty dowlony symbol, do ko\u0144ca tury zaatakowany wr\u00f3g dostaje -1 do walki i -1 do wymykania si\u0119 (do minimum 1).",
+                "text": "Zmutowana.\n<action>: <b>Walka</b> ([willpower]). Je\u015bli podczas tego ataku zostanie odkryty dowlony symbol, do ko\u0144ca tury zaatakowany wr\u00f3g dostaje -1 do walki i -1 do wymykania si\u0119 (do minimum 1).",
                 "traits": "Zakl\u0119cie."
-            },
-            "back": {}
+            }
         },
         "05159-t": {
             "name": "Ryzykowne zagranie",
             "front": {
-                "text": "Sp\u0119tana (+3 do\u015bwiadczenia).\n<reaction> Kiedy inicjujesz test umiej\u0119tno\u015bci, wyczerp <name>: zwi\u0119ksz o 2 trudno\u015b\u0107 tego testu. Zyskaj 2 \u017cetony zasob\u00f3w lub dobierz 1 kart\u0119.",
-                "traits": "Talent."
-            },
-            "back": {}
+                "text": "Sp\u0119tana (+3 do\u015bwiadczenia).\n<reaction> Kiedy inicjujesz test umiej\u0119tno\u015bci, wyczerp <name>: zwi\u0119ksz o 2 trudno\u015b\u0107 tego testu. Zyskaj 2 \u017cetony zasob\u00f3w lub dobierz 1 kart\u0119."
+            }
         },
         "05188-t": {
             "name": "Zw\u00f3j sekret\u00f3w",
             "front": {
                 "text": "Zmutowana. Zu\u017cywalny (3 sekrety).\n<free> Wyczerp <name> i wydaj 1 sekret: podejrzyj 3 karty ze spodu talii dowolnego badacza lub talii spotka\u0144. Mo\u017cesz odrzuci\u0107 1 z tych kart. Mo\u017cesz doda\u0107 1 z tych kart na r\u0119k\u0119 jej w\u0142a\u015bciciela. Umie\u015b\u0107 reszt\u0119 danych kart albo na wierzchu, albo na spodzie danej talii w dowolnej kolejno\u015bci.",
                 "traits": "Przedmiot. Ksi\u0119ga."
-            },
-            "back": {}
+            }
         },
         "05189-t": {
             "name": "Zw\u00f3j sekret\u00f3w",
             "front": {
                 "text": "Zmutowana. Zu\u017cywalny (4 sekrety).\n<free> Wyczerp <name> i wydaj 1 sekret: podejrzyj 1 kart\u0119 z wierzchu lub spodu talii dowolnego badacza lub talii spotka\u0144. Nast\u0119pnie odrzu\u0107 dan\u0105 kart\u0119, dodaj j\u0105 na r\u0119k\u0119 w\u0142a\u015bciciela, umie\u015b\u0107 na spodzie danej talii albo umie\u015b\u0107 na wierzchu danej talii.",
                 "traits": "Przedmiot. Ksi\u0119ga"
-            },
-            "back": {}
+            }
         },
         "05230-t": {
             "name": "Celownik optyczny",
             "front": {
                 "text": "Zmutowana. Szybka. Do\u0142\u0105cz do atutu z cech\u0105 <t>Palna</t> pozostaj\u0105cego pod twoj\u0105 kontrol\u0105 i zajmuj\u0105cego dwie r\u0119ce.\nKiedy korzystasz z akcji Walki na atucie, do kt\u00f3rego Celownik jest do\u0142\u0105czony, je\u015bli nie jeste\u015b w zwarciu z \u017cadnym wrogiem, wyczerp <name>: celem tego ataku mo\u017ce by\u0107 nie-<t>Elitarny</t> wr\u00f3g w s\u0105siedniej lokalizacji. Podczas tego ataku zignoruj s\u0142owa kluczowe Pow\u015bci\u0105gliwy i M\u015bciwy.",
                 "traits": "Przedmiot. Ulepszenie."
-            },
-            "back": {}
+            }
         },
         "05231-t": {
             "name": "Wiedza to pot\u0119ga",
             "front": {
-                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\nSzybka. Zagraj tylko podczas twojej tury.\nWybierz kontrolowany przez siebie atut z cech\u0105 <t>Ksi\u0119ga</t> lub <t>Zakl\u0119cie</t> albo odkryj atut z cech\u0105 <t>Ksi\u0119ga</t> lub <t>Zakl\u0119cie</t> z twojej r\u0119ki. Rozpatrz zdolno\u015b\u0107 <action> lub <free> z danego atutu ignoruj\u0105c wszystkie koszty <i>(wliczaj\u0105c w to koszt <action>, je\u015bli jest jaki\u015b)</i>. Nast\u0119pnie, je\u015bli dany atut znajdowa\u0142 si\u0119 na twojej r\u0119ce, mo\u017cesz go odrzuci\u0107, aby dobra\u0107 1 kart\u0119.",
                 "flavor_text": "... a pot\u0119ga bywa przekle\u0144stwem.",
+                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\nSzybka. Zagraj tylko podczas twojej tury.\nWybierz kontrolowany przez siebie atut z cech\u0105 <t>Ksi\u0119ga</t> lub <t>Zakl\u0119cie</t> albo odkryj atut z cech\u0105 <t>Ksi\u0119ga</t> lub <t>Zakl\u0119cie</t> z twojej r\u0119ki. Rozpatrz zdolno\u015b\u0107 <action> lub <free> z danego atutu ignoruj\u0105c wszystkie koszty <i>(wliczaj\u0105c w to koszt <action>, je\u015bli jest jaki\u015b)</i>. Nast\u0119pnie, je\u015bli dany atut znajdowa\u0142 si\u0119 na twojej r\u0119ce, mo\u017cesz go odrzuci\u0107, aby dobra\u0107 1 kart\u0119.",
                 "traits": "Informacja."
-            },
-            "back": {}
+            }
         },
         "05321-t": {
             "name": "Uwi\u0105d",
             "front": {
-                "text": "Zmutowana.\n<action>: <b>Walka.</b> Ten atak u\u017cywa [willpower] zamiast [combat]. <br>Do tego ataku dostajesz +2 [willpower]. Je\u015bli podczas tego ataku zostanie odkryty dowlony symbol, do ko\u0144ca tury zaatakowany wr\u00f3g dostaje -1 walki, -1 do wytrzyma\u0142o\u015bci i -1 do warto\u015bci wymykania si\u0119 (do minimum 1).",
+                "text": "Zmutowana.\n<action>: <b>Walka</b> ([willpower]). Do tego ataku dostajesz +2 [willpower]. Je\u015bli podczas tego ataku zostanie odkryty dowlony symbol, do ko\u0144ca tury zaatakowany wr\u00f3g dostaje -1 walki, -1 do wytrzyma\u0142o\u015bci i -1 do warto\u015bci wymykania si\u0119 (do minimum 1).",
                 "traits": "Zakl\u0119cie."
-            },
-            "back": {}
+            }
         },
         "05324-t": {
             "name": "Szcz\u0119\u015bliwe zako\u0144czenie",
             "front": {
                 "text": "Zmutowana. Szybka. Zagraj, kiedy odkry\u0142e\u015b \u017ceton chaosu, kt\u00f3ry podczas testu umiej\u0119tno\u015bci mia\u0142by obni\u017cy\u0107 warto\u015b\u0107 twojej umiej\u0119tno\u015bci do 0 (\u0142\u0105cznie z \u017cetonem <auto_fail>).\nAnuluj dany \u017ceton i zamiast tego traktuj go jak \u017ceton <elder_sign>. Usu\u0144 <name> z gry.",
                 "traits": "Los. B\u0142ogos\u0142awiony."
-            },
-            "back": {}
+            }
         },
         "06002-t": {
-            "name": "Mandy Thompson",
             "front": {
-                "name": "<unique><name>",
-                "text": "Zmutowana.\n<reaction> Kiedy dowolny badacz w twojej lokalizacji mia\u0142by przeszuka\u0107 swoj\u0105 tali\u0119 lub tali\u0119 spotka\u0144: mo\u017ce przeszuka\u0107 3 dodatkowe karty albo rozpatrzy\u0107 1 dodatkowy cel danego przeszukiwania. (Limit raz na rund\u0119).\nEfekt <elder_sign>: +0. Przeszukaj 3 wierzchnie karty twojej talii w poszukiwaniu dowolnej karty i dobierz j\u0105 albo przeznacz do tego testu, je\u015bli to mo\u017cliwe. Potasuj twoj\u0105 tali\u0119.",
                 "subtitle": "Pracownik naukowy",
+                "text": "Zmutowana.\n<reaction> Kiedy dowolny badacz w twojej lokalizacji mia\u0142by przeszuka\u0107 swoj\u0105 tali\u0119 lub tali\u0119 spotka\u0144: mo\u017ce przeszuka\u0107 3 dodatkowe karty albo rozpatrzy\u0107 1 dodatkowy cel danego przeszukiwania. (Limit raz na rund\u0119).\nEfekt <elder_sign>: +0. Przeszukaj 3 wierzchnie karty twojej talii w poszukiwaniu dowolnej karty i dobierz j\u0105 albo przeznacz do tego testu, je\u015bli to mo\u017cliwe. Potasuj twoj\u0105 tali\u0119.",
                 "traits": "Asystent. Uczony."
             },
             "back": {
-                "text": "Zmutowana.\n<b>Rozmiar talii</b>: 50.\n<b>Wyb\u00f3r drugorz\u0119dnej klasy</b>: podczas tworzenia talii wybierz Mistyka (<mystic>), \u0141otra (<rogue>) lub Ocala\u0142ego <br>(<survivor>).<br> <b>Opcje tworzenia talii</b>: karty Poszukiwacza (<seeker>) o poziomie 0-5, karty neutralne o poziomie 0-5, do 10 kart wydarze\u0144 i/lub umiej\u0119tno\u015bci twojej wybranej drugorz\u0119dnej klasy o poziomie 0-1.<br> <b>Wymogi tworzenia talii (nie wliczane do wielko\u015bci talii)</b>: 3 kopie Dowodu okultyzmu, Szokuj\u0105ce odkrycie, 1 losowe podstawowe os\u0142abienie.",
-                "flavor_text": "Ju\u017c od dziecka Mandy lubi\u0142a czyta\u0107, gdy nie mog\u0142a zasn\u0105\u0107. Czyli prawie co noc. Niesamowita pami\u0119\u0107 i zdolno\u015b\u0107 kojarzenia fakt\u00f3w pozwoli\u0142y jej sta\u0107 si\u0119 cenionym pracownikiem naukowym Uniwersytetu Miskatonic. Sp\u0119dzi\u0142a wiele godzin nad blu\u017anierczymi stronicami staro\u017cytnych, zakazanych pism, co pozwoli\u0142o jej odkry\u0107 pewien wz\u00f3r m\u00f3wi\u0105cy o nadci\u0105gaj\u0105cym kataklizmie. Czy w ko\u0144cu i ona zacz\u0119\u0142a popada\u0107 w paranoj\u0119? A mo\u017ce ludzko\u015bci naprawd\u0119 grozi katastrofa na niewyobra\u017caln\u0105 skal\u0119?"
+                "flavor_text": "Ju\u017c od dziecka Mandy lubi\u0142a czyta\u0107, gdy nie mog\u0142a zasn\u0105\u0107. Czyli prawie co noc. Niesamowita pami\u0119\u0107 i zdolno\u015b\u0107 kojarzenia fakt\u00f3w pozwoli\u0142y jej sta\u0107 si\u0119 cenionym pracownikiem naukowym Uniwersytetu Miskatonic. Sp\u0119dzi\u0142a wiele godzin nad blu\u017anierczymi stronicami staro\u017cytnych, zakazanych pism, co pozwoli\u0142o jej odkry\u0107 pewien wz\u00f3r m\u00f3wi\u0105cy o nadci\u0105gaj\u0105cym kataklizmie. Czy w ko\u0144cu i ona zacz\u0119\u0142a popada\u0107 w paranoj\u0119? A mo\u017ce ludzko\u015bci naprawd\u0119 grozi katastrofa na niewyobra\u017caln\u0105 skal\u0119?",
+                "text": "Zmutowana.\n<b>Rozmiar talii</b>: 50.\n<b>Wyb\u00f3r drugorz\u0119dnej klasy</b>: podczas tworzenia talii wybierz Mistyka (<mystic>), \u0141otra (<rogue>) lub Ocala\u0142ego <br>(<survivor>).<br> <b>Opcje tworzenia talii</b>: karty Poszukiwacza (<seeker>) o poziomie 0-5, karty neutralne o poziomie 0-5, do 10 kart wydarze\u0144 i/lub umiej\u0119tno\u015bci twojej wybranej drugorz\u0119dnej klasy o poziomie 0-1.<br> <b>Wymogi tworzenia talii (nie wliczane do wielko\u015bci talii)</b>: 3 kopie Dowodu okultyzmu, Szokuj\u0105ce odkrycie, 1 losowe podstawowe os\u0142abienie."
             }
         },
         "06022-t": {
             "name": "Wisior kr\u00f3lowej",
             "front": {
+                "subtitle": "Absolutnie niczego",
                 "text": "Zmutowana. Powi\u0105zana (Cz\u0105stka onyksu). Zu\u017cywalny (3 \u0142adunki). Je\u015bli na tej karcie nie znajduj\u0105 si\u0119 \u017cadne \u0142adunki, usu\u0144 j\u0105 z gry.\n<free> Wyczerp <name> i wydaj 1 \u0142adunek: wybierz dowoln\u0105 odkryt\u0105 lokalizacj\u0119 i wybierz jedno \u2013 porusz si\u0119 do danej lokalizacji, odkryj 1 \u017ceton wskaz\u00f3wki w danej lokalizacji albo automatycznie wymknij si\u0119 wrogowi w danej lokalizacji.",
-                "traits": "Przedmiot. Relikwia.",
-                "subtitle": "Absolutnie niczego"
-            },
-            "back": {}
+                "traits": "Przedmiot. Relikwia."
+            }
         },
         "06195-t": {
             "name": "Winchester .35",
             "front": {
                 "text": "Zmutowana. Zu\u017cywalny (5 naboj\u00f3w).\n<action> Wydaj 1 nab\u00f3j: <b>Walka.</b> Do tego ataku dostajesz +2 [combat]. Je\u015bli podczas tego ataku zostanie ods\u0142oni\u0119ty \u017ceton z nieujemnym modyfikatorem, ten atak zadaje +2 obra\u017cenia.",
                 "traits": "Przedmiot. Bro\u0144. Palna."
-            },
-            "back": {}
+            }
         },
         "06199-t": {
             "name": "Tr\u00f3jka as\u00f3w",
             "front": {
                 "text": "Zmutowana. Niezliczone.\nJe\u015bli przeznaczysz 3 kopie Tr\u00f3jki as\u00f3w do testu umiej\u0119tno\u015bci, dany test automatycznie ko\u0144czy si\u0119 sukcesem <i>(nie odkrywaj \u017ceton\u00f3w z worka chaosu)</i>. Nast\u0119pnie dobierz 3 karty i zyskaj 3 \u017cetony zasob\u00f3w (maksymalnie raz na test). Usu\u0144 z gry ka\u017cd\u0105 przeznaczon\u0105 do tego testu kopi\u0119 Tr\u00f3jki as\u00f3w.",
                 "traits": "Los. Nabyta."
-            },
-            "back": {}
+            }
         },
         "06332-t": {
             "name": "Zbieractwo",
             "front": {
-                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\n<reaction> Wyczerp <name> po tym, jak twoje badanie zako\u0144czy si\u0119 sukcesem o 2 lub wi\u0119cej: wybierz znajduj\u0105ca si\u0119 na twoim stosie kart odrzuconych kart\u0119 z cech\u0105 <t>Przedmiot</t> i dodaj j\u0105 na twoj\u0105 r\u0119k\u0119 albo zagraj j\u0105 <i>(p\u0142ac\u0105c jej koszt)</i>.",
-                "traits": "Talent."
-            },
-            "back": {}
+                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\n<reaction> Wyczerp <name> po tym, jak twoje badanie zako\u0144czy si\u0119 sukcesem o 2 lub wi\u0119cej: wybierz znajduj\u0105ca si\u0119 na twoim stosie kart odrzuconych kart\u0119 z cech\u0105 <t>Przedmiot</t> i dodaj j\u0105 na twoj\u0105 r\u0119k\u0119 albo zagraj j\u0105 <i>(p\u0142ac\u0105c jej koszt)</i>."
+            }
         },
         "07003-t": {
-            "name": "Trish Scarborough",
             "front": {
-                "name": "<unique><name>",
-                "text": "Zmutowana.\n<reaction> Po tym, jak odkryjesz 1 lub wi\u0119cej \u017ceton\u00f3w wskaz\u00f3wek w lokalizacji, w kt\u00f3rej znajduje si\u0119 wr\u00f3g: odkryj 1 dodatkowy \u017ceton wskaz\u00f3wki w danej lokalizacji albo automatycznie wymknij si\u0119 danemu wrogowi je\u015bli jest nie-<t>Elitarny</t>. (Limit raz na rund\u0119).\nEfekt <elder_sign>: +2. Je\u015bli ten test to badanie, mo\u017cesz wybra\u0107 dowoln\u0105 odkryt\u0105 lokalizacj\u0119; wykonujesz to badanie tak, jakby\u015b zamiast tego znajdowa\u0142 si\u0119 w danej lokalizacji.",
                 "subtitle": "Szpieg",
+                "text": "Zmutowana.\n<reaction> Po tym, jak odkryjesz 1 lub wi\u0119cej \u017ceton\u00f3w wskaz\u00f3wek w lokalizacji, w kt\u00f3rej znajduje si\u0119 wr\u00f3g: odkryj 1 dodatkowy \u017ceton wskaz\u00f3wki w danej lokalizacji albo automatycznie wymknij si\u0119 danemu wrogowi je\u015bli jest nie-<t>Elitarny</t>. (Limit raz na rund\u0119).\nEfekt <elder_sign>: +2. Je\u015bli ten test to badanie, mo\u017cesz wybra\u0107 dowoln\u0105 odkryt\u0105 lokalizacj\u0119; wykonujesz to badanie tak, jakby\u015b zamiast tego znajdowa\u0142 si\u0119 w danej lokalizacji.",
                 "traits": "Agencja. Detektyw."
             },
             "back": {
-                "text": "<b>Rozmiar talii:</b> 30\n<b>Opcje tworzenia talii:</b> karty \u0141otra (<rogue>) o poziomie 0-5, karty neutralne o poziomie 0-5, karty Poszukiwacza (<seeker>) o poziomie 0-2.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielko\u015bci talii): Po\u015br\u00f3d cieni, Nieust\u0119pliwi \u015bledczy, 1 losowe podstawowe os\u0142abienie.",
-                "flavor_text": "Trish zawsze wyr\u00f3\u017cnia\u0142a si\u0119 zar\u00f3wno sprawno\u015bci\u0105 fizyczn\u0105, jak i m\u0105dro\u015bci\u0105, a jej niezachwiane skupienie na samodoskonaleniu i nieustraszona postawa gwarantowa\u0142y jej zwyci\u0119stwo. Bior\u0105c pod uwag\u0119 jej znakomite wyniki w nauce i sporcie, wszyscy oczekiwali, \u017ce osi\u0105gnie w \u017cyciu naprawd\u0119 wiele. Jednak zamiast tego Trish podj\u0119\u0142a prac\u0119 w firmie specjalizuj\u0105cej si\u0119 w prawie handlowym. Pocz\u0105tkowy szok wynikaj\u0105cy z podj\u0119cia przez ni\u0105 tak skromnej pracy w ko\u0144cu min\u0105\u0142, a wyj\u0105tkowa Trish Scarborough popad\u0142a w zapomnienie. Dla Trish by\u0142a to idealna sytuacja, poniewa\u017c utrudnia\u0142a innym odkrycie prawdy: jej praca by\u0142a jedynie przykrywk\u0105 dla prawdziwej kariery jako szpiega w Czarnej Komorze, agencji Biura \u0142ami\u0105cej tajne szyfry.",
                 "entries": [
                     [
                         "<b>Rozmiar talii:</b>",
@@ -424,7 +361,9 @@
                         "<b>Deckbuilding Restrictions:</b>",
                         ""
                     ]
-                ]
+                ],
+                "flavor_text": "Trish zawsze wyr\u00f3\u017cnia\u0142a si\u0119 zar\u00f3wno sprawno\u015bci\u0105 fizyczn\u0105, jak i m\u0105dro\u015bci\u0105, a jej niezachwiane skupienie na samodoskonaleniu i nieustraszona postawa gwarantowa\u0142y jej zwyci\u0119stwo. Bior\u0105c pod uwag\u0119 jej znakomite wyniki w nauce i sporcie, wszyscy oczekiwali, \u017ce osi\u0105gnie w \u017cyciu naprawd\u0119 wiele. Jednak zamiast tego Trish podj\u0119\u0142a prac\u0119 w firmie specjalizuj\u0105cej si\u0119 w prawie handlowym. Pocz\u0105tkowy szok wynikaj\u0105cy z podj\u0119cia przez ni\u0105 tak skromnej pracy w ko\u0144cu min\u0105\u0142, a wyj\u0105tkowa Trish Scarborough popad\u0142a w zapomnienie. Dla Trish by\u0142a to idealna sytuacja, poniewa\u017c utrudnia\u0142a innym odkrycie prawdy: jej praca by\u0142a jedynie przykrywk\u0105 dla prawdziwej kariery jako szpiega w Czarnej Komorze, agencji Biura \u0142ami\u0105cej tajne szyfry.",
+                "text": "<b>Rozmiar talii:</b> 30\n<b>Opcje tworzenia talii:</b> karty \u0141otra (<rogue>) o poziomie 0-5, karty neutralne o poziomie 0-5, karty Poszukiwacza (<seeker>) o poziomie 0-2.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielko\u015bci talii): Po\u015br\u00f3d cieni, Nieust\u0119pliwi \u015bledczy, 1 losowe podstawowe os\u0142abienie."
             }
         },
         "07122-t": {
@@ -432,396 +371,339 @@
             "front": {
                 "text": "Zmutowana. Trwa\u0142y. Limit 1 karta z cech\u0105 <t>Przymierze</t> na tali\u0119.\n<reaction> Kiedy podczas testu umiej\u0119tno\u015bci rozpatrujesz \u017ceton <blessing>, wyczerp <name>: nie odkrywaj kolejnego \u017cetonu z efektu tego \u017cetonu <blessing>.",
                 "traits": "Przymierze. B\u0142ogos\u0142awiony."
-            },
-            "back": {}
+            }
         },
         "07197-t": {
-            "name": "Signum Crucis",
             "front": {
                 "text": "Uwolniona (-2 do\u015bwiadczenia).\nPrzeznacz tylko do wykonywanego przez ciebie testu umiej\u0119tno\u015bci i tylko wtedy, gdy poziom trudno\u015bci danego testu jest wy\u017cszy od twojej podstawowej warto\u015bci umiej\u0119tno\u015bci.\nPo tym, jak przeznaczysz <name> do testu umiej\u0119tno\u015bci, dodaj X \u017ceton\u00f3w <blessing> do worka chaosu. X to r\u00f3\u017cnica pomi\u0119dzy trudno\u015bci\u0105 tego testu a twoj\u0105 bazow\u0105 warto\u015bci\u0105 umiej\u0119tno\u015bci.",
                 "traits": "Nabyta. B\u0142ogos\u0142awiony."
-            },
-            "back": {}
+            }
         },
         "07268-t": {
             "name": "Flet Zewn\u0119trznych Bog\u00f3w",
             "front": {
-                "name": "<unique><name>",
                 "text": "Zmutowana. Piecz\u0119\u0107 (maksymalnie X <curse>). Limit 1 na tali\u0119.\n<action> Wyczerp Flet Zewn\u0119trznych Bog\u00f3w i uwolnij 1 zapiecz\u0119towany na nim \u017ceton <curse>: wybierz nie-<t>Elitarnego</t> wroga w twojej lokalizacji. Porusz wybranego wroga do po\u0142\u0105czonej lokalizacji albo zadaj warto\u015b\u0107 jego obra\u017ce\u0144 dowolnemu wrogowi w jego lokalizacji. Ta akcja nie wywo\u0142uje atak\u00f3w towarzysz\u0105cych.",
                 "traits": "Przedmiot. Instrument. Relikwia. Przekl\u0119ty."
-            },
-            "back": {}
+            }
         },
         "07269-t": {
             "name": "Cisza przed burz\u0105",
             "front": {
                 "text": "Zmutowana. Jako dodatkowy koszt zagrania Ciszy przed burz\u0105 przeszukaj worek chaosu i/lub karty w grze w poszukiwaniu \u0142\u0105cznie 5 \u017ceton\u00f3w <blessing> i cofnij je do puli \u017ceton\u00f3w. \nSzybka. Zagraj, kiedy mia\u0142by si\u0119 zacz\u0105\u0107 krok \u201edobranie kart z talii spotka\u0144\u201d fazy Mit\u00f3w. \nPomi\u0144 ten krok fazy Mit\u00f3w. Usu\u0144 Cisz\u0119 przed burz\u0105 z gry.",
                 "traits": "Duch. B\u0142ogos\u0142awiony."
-            },
-            "back": {}
+            }
         },
         "07301-t": {
             "name": "U\u015bwi\u0119cenie",
             "front": {
-                "text": "Zmutowana. Jako dodatkowy koszt zagrania U\u015bwi\u0119cenia cofnij do puli \u017ceton\u00f3w 10 \u017ceton\u00f3w <blessing> znajduj\u0105cych si\u0119 w worku chaosu lub zapiecz\u0119towanych na kartach w grze.\nUsu\u0144 1 \u017ceton zag\u0142ady z dowolnej karty w grze. Usu\u0144 <name> z gry.",
                 "flavor_text": "A \u015bwiat\u0142o\u015b\u0107 w ciemno\u015bci \u015bwieci i ciemno\u015b\u0107 jej nie ogarn\u0119\u0142a.",
+                "text": "Zmutowana. Jako dodatkowy koszt zagrania U\u015bwi\u0119cenia cofnij do puli \u017ceton\u00f3w 10 \u017ceton\u00f3w <blessing> znajduj\u0105cych si\u0119 w worku chaosu lub zapiecz\u0119towanych na kartach w grze.\nUsu\u0144 1 \u017ceton zag\u0142ady z dowolnej karty w grze. Usu\u0144 <name> z gry.",
                 "traits": "Zakl\u0119cie. B\u0142ogos\u0142awiony."
-            },
-            "back": {}
+            }
         },
         "07308-t": {
             "name": "Rytua\u0142 r\u00f3wnowagi",
             "front": {
                 "text": "Uwolniona (-2 do\u015bwiadczenia).\nWybierz jedno:\n- Dodaj do worka chaosu X \u017ceton\u00f3w <curse>, aby doda\u0107 do worka chaosu X \u017ceton\u00f3w <blessing>.\n- Usu\u0144 z worka chaosu X \u017ceton\u00f3w <curse> i X \u017ceton\u00f3w <blessing>, aby wyleczy\u0107 \u0142\u0105cznie X punkt\u00f3w przera\u017cenia spo\u015br\u00f3d kart w twojej<br> lokalizacji.",
                 "traits": "Zakl\u0119cie. B\u0142ogos\u0142awiony. Przekl\u0119ty."
-            },
-            "back": {}
+            }
         },
         "08019-t": {
             "name": "Wyposa\u017cony",
             "front": {
-                "text": "Zmutowana. Trwa\u0142y. Limit 1 na tali\u0119. Kup podczas budowania talii.\n<b>Wymuszony</b> - Kiedy zaczyna si\u0119 twoja pierwsza tura podczas gry: zagraj jeden po drugim, do 5 atut\u00f3w z cech\u0105 <t>Przedmiot</t> z twojej r\u0119ki, obni\u017caj\u0105c o 1 koszt zagrania ka\u017cdego z nich. Podczas tej tury masz 3 akcje mniej do wykonania.",
-                "traits": "Talent."
-            },
-            "back": {}
+                "text": "Zmutowana. Trwa\u0142y. Limit 1 na tali\u0119. Kup podczas budowania talii.\n<b>Wymuszony</b> - Kiedy zaczyna si\u0119 twoja pierwsza tura podczas gry: zagraj jeden po drugim, do 5 atut\u00f3w z cech\u0105 <t>Przedmiot</t> z twojej r\u0119ki, obni\u017caj\u0105c o 1 koszt zagrania ka\u017cdego z nich. Podczas tej tury masz 3 akcje mniej do wykonania."
+            }
         },
         "08032-t": {
-            "name": "Jeremiah Kirby",
             "front": {
-                "name": "<unique><name>",
-                "text": "Zmutowana.\nDostajesz +1 [intellect].\n<reaction> Po tym, jak <name> wejdzie do gry, wybierz \u201eparzyste\u201d lub \u201enieparzyste\u201d: odkryj 5 wierzchnich kart z twojej talii. Dobierz ka\u017cd\u0105 kart\u0119, kt\u00f3rej koszt odpowiada wybranej przez ciebie opcji. Wtasuj pozosta\u0142e karty z powrotem do twojej talii. (Maksymalnie 2 razy na gr\u0119).",
                 "subtitle": "Archeolog z Arktyki",
+                "text": "Zmutowana.\nDostajesz +1 [intellect].\n<reaction> Po tym, jak <name> wejdzie do gry, wybierz \u201eparzyste\u201d lub \u201enieparzyste\u201d: odkryj 5 wierzchnich kart z twojej talii. Dobierz ka\u017cd\u0105 kart\u0119, kt\u00f3rej koszt odpowiada wybranej przez ciebie opcji. Wtasuj pozosta\u0142e karty z powrotem do twojej talii. (Maksymalnie 2 razy na gr\u0119).",
                 "traits": "Sprzymierzeniec. Miskatonic. Podr\u00f3\u017cnik."
-            },
-            "back": {}
+            }
         },
         "08045-t": {
-            "name": "Prophesiae Profana",
             "front": {
+                "subtitle": "Atlas niepoznawalnego",
                 "text": "Zmutowana.\nDop\u00f3ki nie znajdujesz si\u0119 w miejscu mocy, dostajesz +1 [intellect], +1 [agility] i mo\u017cesz ignorowa\u0107 pierwszy atak towarzysz\u0105cy ka\u017cdej tury.\n<reaction> Po tym, jak <name> wejdzie do gry: wybierz odkryt\u0105 lokalizacj\u0119. Dana lokalizacja to \u201emiejsce mocy\u201d, dop\u00f3ki <name> nie opu\u015bci gry.\n<action>: Porusz dowolnego badacza na miejsce mocy.",
-                "traits": "Przedmiot. Relikwia. Ksi\u0119ga.",
-                "subtitle": "Atlas niepoznawalnego"
-            },
-            "back": {}
+                "traits": "Przedmiot. Relikwia. Ksi\u0119ga."
+            }
         },
         "08055-t": {
             "name": "Czarny rynek",
             "front": {
                 "text": "Zmutowana. Szybka. Zagraj na pocz\u0105tku fazy badaczy. Maksymalnie raz na rund\u0119.\nOdkrywaj jedna po drugiej karty z wierzchu dowolnych talii badaczy, dop\u00f3ki nie zostanie odkrytych dok\u0142adnie 5 kart. Od\u0142\u00f3\u017c te karty na bok, poza gr\u0119. Dop\u00f3ki dane karty s\u0105 od\u0142o\u017cone na bok, dowolny badacz mo\u017ce zagra\u0107 dowolne z tych kart tak, jakby znajdowa\u0142y si\u0119 na jego r\u0119ce. Na pocz\u0105tku nast\u0119pnej fazy badaczy wtasuj ka\u017cd\u0105 z danych kart, kt\u00f3ra nadal jest od\u0142o\u017cona na bok, do talii jej w\u0142a\u015bciciela.",
                 "traits": "Przys\u0142uga."
-            },
-            "back": {}
+            }
         },
         "08076-t": {
             "name": "Spal po przeczytaniu",
             "front": {
                 "text": "Zakazana.\nWygnaj z r\u0119ki kart\u0119 o poziomie 0-5. Odkryj 2 \u017cetony wskaz\u00f3wek w twojej lokalizacji. Je\u015bli wygnana karta mia\u0142a poziom 2 lub wy\u017cszy, usu\u0144 1 \u017ceton zag\u0142ady z obecnej tajemnicy. Wygnaj <name>. \n<b>Karta zaprojektowana przez Rad\u0119 na Wygnaniu podczas Gen Con 2020.</b>",
                 "traits": "Informacja."
-            },
-            "back": {}
+            }
         },
         "08093-t": {
             "name": "Cyklopowy m\u0142ot",
             "front": {
                 "text": "Zmutowana.\n<action>: <b>Walka.</b> Dodaj warto\u015b\u0107 twojej [willpower] do warto\u015bci twojej umiej\u0119tno\u015bci do tego ataku. Do tego ataku zadajesz +1 obra\u017cenie. Je\u015bli test zako\u0144czy si\u0119 sukcesem i zaatakowany wr\u00f3g jest nie-<t>Elitarny</t>, mo\u017cesz poruszy\u0107 go o 1 lokalizacj\u0119, oddalaj\u0105c go od ciebie. (Je\u015bli test zako\u0144czy si\u0119 sukcesem o 3 lub wi\u0119cej, mo\u017cesz wyczerpa\u0107 Cyklopowy M\u0142ot, by zamiast tego zada\u0107 +2 obra\u017cenia i poruszy\u0107 wroga o maksymalnie 2 lokalizacje, oddalaj\u0105c go od ciebie).",
                 "traits": "Przedmiot. Relikwia. Bro\u0144. Bia\u0142a."
-            },
-            "back": {}
+            }
         },
         "08098-t": {
             "name": "Mapa eon\u00f3w",
             "front": {
                 "text": "Zmutowana. Zu\u017cywalny (3 sekrety).\n<free> Podczas twojej tury wyczerp Map\u0119 eon\u00f3w i wydaj 1 sekret: wybierz i wykonaj jedn\u0105 z nast\u0119puj\u0105cych akcji podstawowych (ruch, wymykanie si\u0119 lub badanie).",
                 "traits": "Przedmiot. Relikwia."
-            },
-            "back": {}
+            }
         },
         "08099-t": {
-            "name": "Gen\u00e9 Beauregard",
             "front": {
-                "name": "<unique><name>",
-                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\nDostajesz +1 [intellect] i +1 [agility].\n<reaction> Podczas twojej tury, po tym jak poruszysz si\u0119 do dowolnej lokalizacji, wyczerp <name>: porusz 1 \u017ceton wskaz\u00f3wki albo nie-<t>Elitarnego</t> wroga z po\u0142\u0105czonej lokalizacji do twojej lokalizacji, albo na odwr\u00f3t.",
                 "subtitle": "Nieustraszony odkrywca",
+                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\nDostajesz +1 [intellect] i +1 [agility].\n<reaction> Podczas twojej tury, po tym jak poruszysz si\u0119 do dowolnej lokalizacji, wyczerp <name>: porusz 1 \u017ceton wskaz\u00f3wki albo nie-<t>Elitarnego</t> wroga z po\u0142\u0105czonej lokalizacji do twojej lokalizacji, albo na odwr\u00f3t.",
                 "traits": "Sprzymierzeniec. Podr\u00f3\u017cnik."
-            },
-            "back": {}
+            }
         },
         "08100-t": {
             "name": "Mapa eon\u00f3w",
             "front": {
                 "text": "Zmutowana. Zu\u017cywalny (3 sekrety).\n<free> Podczas twojej tury wyczerp Map\u0119 eon\u00f3w i wydaj 1 sekret: wybierz i wykonaj dwie r\u00f3\u017cne akcje podstawowe z nast\u0119puj\u0105cych, w dowolnej kolejno\u015bci (ruch, wymykanie si\u0119 lub badanie).",
                 "traits": "Przedmiot. Relikwia."
-            },
-            "back": {}
+            }
         },
         "08113-t": {
             "name": "Bezwzgl\u0119dna lichwa",
             "front": {
                 "text": "Tylko tryb kampanii. Limit 1 na badacza. Nie mo\u017ce opu\u015bci\u0107 gry.\n<reaction> Po tym, jak zagrasz Bezwzgl\u0119dn\u0105 lichw\u0119: zyskujesz 10 \u017ceton\u00f3w zasob\u00f3w.\n<b>Wymuszony</b> - Kiedy gra si\u0119 ko\u0144czy lub zostaniesz wyeliminowany, je\u015bli posiadasz mniej ni\u017c 10 \u017ceton\u00f3w zasob\u00f3w w swojej puli zasob\u00f3w: wygnaj Bezwzgl\u0119dn\u0105 lichw\u0119.",
                 "traits": "Pakt."
-            },
-            "back": {}
+            }
         },
         "09022-t": {
             "name": "Runiczny top\u00f3r",
             "front": {
-                "name": "<unique><name>",
                 "text": "Przystosowalny. Zu\u017cywalny (4 \u0142adunki). Uzupe\u0142nij 1 z tych \u0142adunk\u00f3w na pocz\u0105tku ka\u017cdej rundy.\n<action>: <b>Walka.</b> Do tego ataku dostajesz +1 [combat]. Przed tym atakiem mo\u017cesz wyda\u0107 dowoln\u0105 liczb\u0119 \u0142adunk\u00f3w, aby wzmocni\u0107 top\u00f3r tak\u0105 sam\u0105 liczb\u0105 r\u00f3\u017cnych inskrypcji --\n- <i>Celno\u015b\u0107</i> -- Do tego ataku dostajesz dodatkowe +2 [combat].\n- <i>Si\u0142a</i> -- Ten atak zadaje +1 obra\u017cenie.",
                 "traits": "Przedmiot. Bro\u0144. Bia\u0142a."
-            },
-            "back": {}
+            }
         },
         "09041-t": {
             "name": "Hipoteza empiryczna",
             "front": {
                 "text": "Zmutowana. Przystosowalny. Limit 1 na badacza.\n<b>Wymuszony</b> - Pocz\u0105tek rundy: wybierz jeden z nast\u0119puj\u0105cych warunk\u00f3w na t\u0119 rund\u0119:\n- tw\u00f3j test zako\u0144czy si\u0119 pora\u017ck\u0105 o 2 lub wi\u0119cej.\n- tw\u00f3j test zako\u0144czy si\u0119 sukcesem o 3 lub wi\u0119cej.\nKiedy wybrany warunek zostanie spe\u0142niony, mo\u017cesz wyczerpa\u0107 Hipotez\u0119 empiryczn\u0105, aby doda\u0107 na ni\u0105 1 dow\u00f3d.\n<free> Wydaj 1 dow\u00f3d: dobierz 1 kart\u0119. (Limit 2 razy na rund\u0119).",
                 "traits": "Talent. Nauka."
-            },
-            "back": {}
+            }
         },
         "09045-t": {
             "name": "Notatki z bada\u0144",
             "front": {
                 "text": "Zmutowana.\n<reaction> Po tym, jak zdolno\u015b\u0107 karty gracza umie\u015bci 1 lub wi\u0119cej twoich \u017ceton\u00f3w wskaz\u00f3wek na twojej lokalizacji: umie\u015b\u0107 tyle samo \u017ceton\u00f3w zasob\u00f3w na Notatkach z bada\u0144 jako dowody.\n<action>: Wykonaj test [intellect] (0). Za ka\u017cdy punkt, o kt\u00f3ry test zako\u0144czy si\u0119 sukcesem, mo\u017cesz wyda\u0107 1 dow\u00f3d, aby odkry\u0107 1 \u017ceton wskaz\u00f3wki w twojej lokalizacji (maksymalnie 3 dowody wydane na rund\u0119).",
                 "traits": "Przedmiot. Ksi\u0119ga. Nauka."
-            },
-            "back": {}
+            }
         },
         "09072-t": {
-            "name": "Chuck Fergus",
             "front": {
+                "subtitle": "Szofer O'Bannion\u00f3w",
                 "text": "Zmutowana. <reaction> Kiedy zagrywasz kart\u0119 wydarzenia z cech\u0105 <t>Taktyka</t> lub <t>Sztuczka</t>, wyczerp Chucka Fergusa: wybierz jedno -\n- Dane wydarzenie zyskuje: \u201eSzybka. Zagraj tylko podczas swojej tury\u201d.\n- Zagranie danego wydarzenia kosztuje o 2 \u017cetony zasob\u00f3w mniej.\n- Dostajesz +2 do warto\u015bci umiej\u0119tno\u015bci w czasie wykonywania testu umiej\u0119tno\u015bci podczas rozpatrywania danego wydarzenia.",
-                "traits": "Sprzymierzeniec. Przest\u0119pca.",
-                "subtitle": "Szofer O'Bannion\u00f3w"
-            },
-            "back": {}
+                "traits": "Sprzymierzeniec. Przest\u0119pca."
+            }
         },
         "09077-t": {
             "name": "Nielegalny handel",
             "front": {
                 "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\nTrwa\u0142y. Wyj\u0105tkowa. Rozmiar twojej talii jest zwi\u0119kszony o 10.\n<reaction> Przed dobraniem pocz\u0105tkowej r\u0119ki wybierz 10 kart z cech\u0105 <t>Nielegalny</t> z twojej talii: potasuj je osobno i umie\u015b\u0107 obok Nielegalnego handlu jako tali\u0119 handlu.\n<reaction> Pocz\u0105tek twojej tury: odkryj 2 wierzchnie karty twojej talii handlu. Mo\u017cesz wyda\u0107 1 zas\u00f3b, aby dobra\u0107 1 z nich. Pozosta\u0142e umie\u015b\u0107 na spodzie talii handlu w dowolnej kolejno\u015bci.",
                 "traits": "Powi\u0105zanie. Nielegalny."
-            },
-            "back": {}
+            }
         },
         "09081-t": {
             "name": "Pot\u0119ga s\u0142owa",
             "front": {
                 "text": "Zmutowana. Przystosowalny. Szybka. Zagraj tylko podczas twojej tury.\nDo\u0142\u0105cz do nie-<t>Elitarnego</t> wroga w twojej lokalizacji.\n<action> Je\u015bli wr\u00f3g, do kt\u00f3rego do\u0142\u0105czono t\u0119 kart\u0119, znajduje si\u0119 w twojej lokalizacji: <b>Pertraktacje.</b> Wykonaj test <br>[willpower] (2). Je\u017celi test zako\u0144czy\u0142 si\u0119 sukcesem, wydaj mu rozkaz (limit raz na rund\u0119 na ka\u017cdy rozkaz) --\n- \u201eId\u017a\u201d. Ten wr\u00f3g porusza si\u0119 1 raz w wybranym przez ciebie kierunku.",
                 "traits": "Zakl\u0119cie."
-            },
-            "back": {}
+            }
         },
         "09108-t": {
             "name": "Roztaczanie \u015bwiat\u0142a",
             "front": {
                 "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\nSzybka. Zagraj przed odkryciem \u017cetonu chaosu podczas wykonywanego przez ciebie badania i tylko je\u015bli trudno\u015b\u0107 tego testu wynosi obecnie 0.\nTen test automatycznie ko\u0144czy si\u0119 sukcesem. Odkrywasz 1 dodatkowy \u017ceton wskaz\u00f3wki w tej lokalizacji i 1 dodatkowy \u017ceton wskaz\u00f3wki w dowolnej innej lokalizacji.",
                 "traits": "Informacja. Sztuczka."
-            },
-            "back": {}
+            }
         },
         "09117-t": {
             "name": "Stary p\u0119k kluczy",
             "front": {
                 "text": "Sp\u0119tana (+1 do\u015bwiadczenie).\nZu\u017cywalny (3 klucze). Je\u015bli na Starym p\u0119ku kluczy nie ma \u017cadnych kluczy, odrzu\u0107 go.\n<action>: <b>Badanie.</b> Do tego badania twoja lokalizacja dostaje -2 zas\u0142ony. Je\u015bli test zako\u0144czy si\u0119 sukcesem, usu\u0144 1 klucz ze Starego p\u0119ku kluczy, a je\u015bli trudno\u015b\u0107 tego testu wynosi 0, odkrywasz 1 dodatkowy \u017ceton wskaz\u00f3wki.",
                 "traits": "Przedmiot. Narz\u0119dzie."
-            },
-            "back": {}
+            }
         },
         "10026-t": {
             "name": "Na muszce",
             "front": {
-                "text": "Zmutowana.\n<b>Pertraktacje.</b> Wybierz wroga w twojej lokalizacji <br>i atut z cech\u0105 <t>Przedmiot</t> w twojej r\u0119ce. Wykonaj akcj\u0119 walki przeciwko wybranemu wrogowi. Je\u015bli test zako\u0144czy si\u0119 sukcesem, zagraj wybrany atut, obni\u017caj\u0105c jego koszt o ka\u017cdy punkt, o kt\u00f3ry test zako\u0144czy\u0142 si\u0119 sukcesem.",
                 "flavor_text": "\u201eTrzymaj r\u0119ce na widoku!\"",
+                "text": "Zmutowana.\n<b>Pertraktacje.</b> Wybierz wroga w twojej lokalizacji <br>i atut z cech\u0105 <t>Przedmiot</t> w twojej r\u0119ce. Wykonaj akcj\u0119 walki przeciwko wybranemu wrogowi. Je\u015bli test zako\u0144czy si\u0119 sukcesem, zagraj wybrany atut, obni\u017caj\u0105c jego koszt o ka\u017cdy punkt, o kt\u00f3ry test zako\u0144czy\u0142 si\u0119 sukcesem.",
                 "traits": "Taktyka. Sztuczka."
-            },
-            "back": {}
+            }
         },
         "10030-t": {
             "name": "Koordynacja wzrokowo-ruchowa",
             "front": {
-                "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury.\nRozpatrz zdolno\u015b\u0107 <action> z atutu z cech\u0105 <t>Narz\u0119dzie</t> lub <t>Bro\u0144</t> o poziomie 0-3, kt\u00f3ry kontrolujesz, ignoruj\u0105c wszystkie koszty.",
                 "flavor_text": "Nie spuszczaj wzroku z celu.",
+                "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury.\nRozpatrz zdolno\u015b\u0107 <action> z atutu z cech\u0105 <t>Narz\u0119dzie</t> lub <t>Bro\u0144</t> o poziomie 0-3, kt\u00f3ry kontrolujesz, ignoruj\u0105c wszystkie koszty.",
                 "traits": "Informacja."
-            },
-            "back": {}
+            }
         },
         "10031-t": {
             "name": "Silna r\u0119ka",
             "front": {
                 "text": "Sp\u0119tana (+1 do\u015bwiadczenie).\nKiedy <name> zostanie przeznaczona do ataku przy pomocy atutu z cech\u0105 <t>Bia\u0142a</t> lub <t>Dystansowa</t>, ten atak zadaje +1 obra\u017cenie. Po odkryciu \u017cetonu chaosu do tego testu umiej\u0119tno\u015bci mo\u017cesz otrzyma\u0107 1 obra\u017cenie aby anulowa\u0107 dany \u017ceton chaosu, cofn\u0105\u0107 go do worka chaosu, i odkry\u0107 nowy. <i>(Mo\u017cesz to zrobi\u0107 dowoln\u0105 liczb\u0119 razy).</i>",
                 "traits": "Wrodzona."
-            },
-            "back": {}
+            }
         },
         "10037-t": {
             "name": "Lawina cios\u00f3w ",
             "front": {
                 "text": "Uwolniona (-2 do\u015bwiadczenia).\nZagraj tylko, je\u015bli kt\u00f3ry kontrolujesz atut z cech\u0105 <t>Bia\u0142a</t>. Jako dodatkowy koszt zagrania Lawiny cios\u00f3w wydaj akcj\u0119.\n<b>Walka.</b> Wybierz atut z cech\u0105 <t>Bia\u0142a</t> kt\u00f3ry kontrolujesz i natychmiast wykonaj akcj\u0119 walki przy pomocy danego atutu <i>(bez p\u0142acenia jej kosztu <action>)</i>. Mo\u017cesz powt\u00f3rzy\u0107 ten efekt maksymalnie trzy razy. Je\u015bli trwa twoja tura po rozpatrzeniu ostatniego ataku ko\u0144czysz swoj\u0105 tur\u0119.",
                 "traits": "Taktyka. Podw\u00f3jny. Przeznaczony."
-            },
-            "back": {}
+            }
         },
         "10059-t": {
             "name": "\u017bar\u0142oczny mykonid",
             "front": {
-                "text": "Zmutowana. Zbadany. Limit 1 na tali\u0119.\n<free>: Przeszukaj twoje powi\u0105zane karty w poszukiwaniu Niespotykanego rozrostu i dodaj go na twoj\u0105 r\u0119k\u0119. (Limit raz na rund\u0119).\n<reaction> Kiedy dowolny badacz dobierze kart\u0119 podst\u0119pu nieb\u0119d\u0105c\u0105 os\u0142abieniem, je\u015bli warto\u015b\u0107 zas\u0142ony jego lokalizacji jest mniejsza od liczby rozrost\u00f3w na \u017bar\u0142ocznym mykonidzie: anuluj efekty danej karty podst\u0119pu i odrzu\u0107 j\u0105. Usu\u0144 wszystkie rozrosty z Zar\u0142ocznego <br>mykonida.",
                 "subtitle": "Odmiana \u015bwiadoma",
+                "text": "Zmutowana. Zbadany. Limit 1 na tali\u0119.\n<free>: Przeszukaj twoje powi\u0105zane karty w poszukiwaniu Niespotykanego rozrostu i dodaj go na twoj\u0105 r\u0119k\u0119. (Limit raz na rund\u0119).\n<reaction> Kiedy dowolny badacz dobierze kart\u0119 podst\u0119pu nieb\u0119d\u0105c\u0105 os\u0142abieniem, je\u015bli warto\u015b\u0107 zas\u0142ony jego lokalizacji jest mniejsza od liczby rozrost\u00f3w na \u017bar\u0142ocznym mykonidzie: anuluj efekty danej karty podst\u0119pu i odrzu\u0107 j\u0105. Usu\u0144 wszystkie rozrosty z Zar\u0142ocznego <br>mykonida.",
                 "traits": "Stworzenie. Nauka."
-            },
-            "back": {}
+            }
         },
         "10060-t": {
             "name": "\u017bar\u0142oczny mykonid",
             "front": {
-                "text": "Sp\u0119tana (+1 do\u015bwiadczenie).\nZbadany. Limit 1 na tali\u0119.\n<free>: Przeszukaj twoje powi\u0105zane karty w poszukiwaniu Niespotykanego rozrostu i dodaj go na twoj\u0105 r\u0119k\u0119. (Limit raz na rund\u0119).\n<free> Wybierz nie-<t>Elitarnego</t> wroga w twojej lokalizacji kt\u00f3ry ma tyle samo lub mniej pozosta\u0142ej wytrzyma\u0142o\u015bci ni\u017c liczba rozrost\u00f3w na \u017bar\u0142ocznym mykonidzie: pokonaj danego wroga. Usu\u0144 wszystkie rozrosty z \u017bar\u0142ocznego mykonida.",
                 "subtitle": "Odmiana mi\u0119so\u017cerna",
+                "text": "Sp\u0119tana (+1 do\u015bwiadczenie).\nZbadany. Limit 1 na tali\u0119.\n<free>: Przeszukaj twoje powi\u0105zane karty w poszukiwaniu Niespotykanego rozrostu i dodaj go na twoj\u0105 r\u0119k\u0119. (Limit raz na rund\u0119).\n<free> Wybierz nie-<t>Elitarnego</t> wroga w twojej lokalizacji kt\u00f3ry ma tyle samo lub mniej pozosta\u0142ej wytrzyma\u0142o\u015bci ni\u017c liczba rozrost\u00f3w na \u017bar\u0142ocznym mykonidzie: pokonaj danego wroga. Usu\u0144 wszystkie rozrosty z \u017bar\u0142ocznego mykonida.",
                 "traits": "Potw\u00f3r. Nauka."
-            },
-            "back": {}
+            }
         },
         "10085-t": {
             "name": "R\u00f3\u017cd\u017cka Carnamagosa",
             "front": {
-                "name": "<unique><name>",
-                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\nLimit 1 na tali\u0119.\n<free> Wybierz nie-<t>Elitarnego</t> wroga w dowolnej lokalizacji i wyczerp R\u00f3\u017cd\u017ck\u0119 Carnamagosa: Odkryj 5 losowych \u017ceton\u00f3w chaosu z worka chaosu. Je\u015bli zosta\u0142 odkryty \u017ceton <curse>, przeszukaj twoje powi\u0105zane karty w poszukiwaniu losowej karty wydarzenia z cech\u0105 <t>Zgnilizna</t> i do\u0142\u0105cz j\u0105 do danego wroga.",
                 "subtitle": "Ber\u0142o szalonego proroka",
+                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\nLimit 1 na tali\u0119.\n<free> Wybierz nie-<t>Elitarnego</t> wroga w dowolnej lokalizacji i wyczerp R\u00f3\u017cd\u017ck\u0119 Carnamagosa: Odkryj 5 losowych \u017ceton\u00f3w chaosu z worka chaosu. Je\u015bli zosta\u0142 odkryty \u017ceton <curse>, przeszukaj twoje powi\u0105zane karty w poszukiwaniu losowej karty wydarzenia z cech\u0105 <t>Zgnilizna</t> i do\u0142\u0105cz j\u0105 do danego wroga.",
                 "traits": "Przedmiot. Relikwia. Okultyzm. Przekl\u0119ty."
-            },
-            "back": {}
+            }
         },
         "10098-t": {
             "name": "R\u00f3\u017cd\u017cka Carnamagosa",
             "front": {
-                "name": "<unique><name>",
-                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\n<free> Wybierz nie-<t>Elitarnego</t> wroga w dowolnej lokalizacji i wyczerp R\u00f3\u017cd\u017ck\u0119 Carnamagosa: Odkryj 5 losowych \u017ceton\u00f3w chaosu z worka chaosu. Dla ka\u017cdego odkrytego \u017cetonu <curse>, mo\u017cesz przeszuka\u0107 twoje powi\u0105zane karty w poszukiwaniu karty wydarzenia z cech\u0105 <t>Zgnilizna</t> i do\u0142\u0105czy\u0107 j\u0105 do danego wroga.",
                 "subtitle": "Ber\u0142o szalonego proroka",
+                "text": "Sp\u0119tana (+2 do\u015bwiadczenia).\n<free> Wybierz nie-<t>Elitarnego</t> wroga w dowolnej lokalizacji i wyczerp R\u00f3\u017cd\u017ck\u0119 Carnamagosa: Odkryj 5 losowych \u017ceton\u00f3w chaosu z worka chaosu. Dla ka\u017cdego odkrytego \u017cetonu <curse>, mo\u017cesz przeszuka\u0107 twoje powi\u0105zane karty w poszukiwaniu karty wydarzenia z cech\u0105 <t>Zgnilizna</t> i do\u0142\u0105czy\u0107 j\u0105 do danego wroga.",
                 "traits": "Przedmiot. Relikwia. Okultyzm. Przekl\u0119ty."
-            },
-            "back": {}
+            }
         },
         "11031-t": {
             "name": "Szybki strza\u0142",
             "front": {
-                "text": "Uwolniona (-2 do\u015bwiadczenia).\nNiezliczone. Szybka. Zagraj tylko podczas twojej tury.\nZadaj 1 obra\u017cenie wrogowi w twojej lokalizacji.\n<reaction> Po tym, jak dobierzesz <name> w trakcie twojej tury: zagraj go, obni\u017caj\u0105c jego koszt o 2.",
                 "flavor_text": "Nie bez powodu m\u00f3wili, \u017ce Siostra Sofia to \u201er\u0119ka Boga\u201d.",
+                "text": "Uwolniona (-2 do\u015bwiadczenia).\nNiezliczone. Szybka. Zagraj tylko podczas twojej tury.\nZadaj 1 obra\u017cenie wrogowi w twojej lokalizacji.\n<reaction> Po tym, jak dobierzesz <name> w trakcie twojej tury: zagraj go, obni\u017caj\u0105c jego koszt o 2.",
                 "traits": "Duch."
-            },
-            "back": {}
+            }
         },
         "11055-t": {
             "name": "Za fraki",
             "front": {
                 "text": "Sp\u0119tana (+1 do\u015bwiadczenie).\n<b>Wymykanie si\u0119.</b> Dodaj warto\u015b\u0107 twojej [combat] do warto\u015bci twojej umiej\u0119tno\u015bci do tej pr\u00f3by wymykania si\u0119. Je\u015bli test zako\u0144czy si\u0119 sukcesem o 2 lub wi\u0119cej, zadaj 1 obra\u017cenie danemu wrogowi. Je\u015bli ten wr\u00f3g jest nie-<t>Elitarny</t>, mo\u017cesz poruszy\u0107 go do po\u0142\u0105czonej lokalizacji.",
                 "traits": "Taktyka. Sztuczka."
-            },
-            "back": {}
+            }
         },
         "11065-t": {
             "name": "Krew Tota",
             "front": {
-                "name": "<unique><name>",
-                "text": "Zmutowana.\n<reaction> Kiedy \u017ceton zag\u0142ady zostaje umieszczony na karcie, kt\u00f3r\u0105 kontrolujesz: umie\u015b\u0107 1 \u017ceton zasobu na tej karcie <i>(z puli \u017ceton\u00f3w)</i>, jako ofiar\u0119.\n<free> Podczas fazy badaczy, ale nie podczas akcji, wydaj 2 ofiary z Krwi Tota i wyczerp j\u0105: wybierz badacza w twojej lokalizacji, aby natychmiast wykona\u0142 akcj\u0119 tak, jakby trwa\u0142a jego tura.",
                 "subtitle": "Prawo wcielone",
+                "text": "Zmutowana.\n<reaction> Kiedy \u017ceton zag\u0142ady zostaje umieszczony na karcie, kt\u00f3r\u0105 kontrolujesz: umie\u015b\u0107 1 \u017ceton zasobu na tej karcie <i>(z puli \u017ceton\u00f3w)</i>, jako ofiar\u0119.\n<free> Podczas fazy badaczy, ale nie podczas akcji, wydaj 2 ofiary z Krwi Tota i wyczerp j\u0105: wybierz badacza w twojej lokalizacji, aby natychmiast wykona\u0142 akcj\u0119 tak, jakby trwa\u0142a jego tura.",
                 "traits": "Przedmiot. Relikwia."
-            },
-            "back": {}
+            }
         },
         "11071-t": {
             "name": "Duchowa tarcza",
             "front": {
                 "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury. Do\u0142\u0105cz do karty gracza w twojej lokalizacji, kt\u00f3ra posiada wytrzyma\u0142o\u015b\u0107 i/lub poczytalno\u015b\u0107.\n<b>Wymuszony</b> -- Kiedy karta, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119, po raz pierwszy otrzyma 1 lub wi\u0119cej obra\u017ce\u0144 / punkt\u00f3w przera\u017cenia: anuluj 1 z tych obra\u017ce\u0144 lub punkt\u00f3w przera\u017cenia. W\u0142a\u015bciciel Duchowej tarczy musi usun\u0105\u0107 1 \u0142adunek z atutu, kt\u00f3ry kontroluje. Je\u015bli nie mo\u017ce tego zrobi\u0107, odrzu\u0107 Duchow\u0105 tarcz\u0119.",
                 "traits": "Zakl\u0119cie. Duch."
-            },
-            "back": {}
+            }
         },
         "11075-t": {
             "name": "Duchowe echo",
             "front": {
                 "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury.\nDo\u0142\u0105cz do twojej lokalizacji. Limit 1 na lokalizacj\u0119.\n<reaction> Po tym, jak aktywujesz zdolno\u015b\u0107 <action> lub <free> z atutu z cech\u0105 <t>Zakl\u0119cie</t> lub <t>Rytua\u0142</t>: rozpatrz dan\u0105 zdolno\u015b\u0107 ponownie w lokalizacji, do kt\u00f3rej do\u0142\u0105czono t\u0119 kart\u0119 tak, jakby\u015b si\u0119 w niej znajdowa\u0142, ignoruj\u0105c koszt <action> na tym atucie, je\u015bli jaki\u015b jest. <i>(Mo\u017cesz aktywowa\u0107 t\u0119 zdolno\u015b\u0107 z dowolnej lokalizacji).</i> Cofnij Duchowe echo na twoj\u0105 r\u0119k\u0119. (Limit raz na rund\u0119).",
                 "traits": "Rytua\u0142."
-            },
-            "back": {}
+            }
         },
         "11117-t": {
-            "name": "Archibald MacVeigh",
             "front": {
-                "name": "<unique><name>",
-                "text": "Uwolniona (-2 do\u015bwiadczenia).\nTylko talia <t>Asystenta</t>, <t>Reportera</t> lub <t>Uczonego</t>. Zu\u017cywalny (4 sekrety).\nDostajesz +1 [intellect].\nSekrety na atutach, kt\u00f3re kontrolujesz, mog\u0105 by\u0107 wydawane jako \u017cetony zasob\u00f3w, aby op\u0142aci\u0107 koszt wydarze\u0144 z cech\u0105 <t>Informacja</t>, kt\u00f3re zagrywasz.",
                 "flavor_text": "\u201e'Publikuj albo zgi\u0144', m\u00f3wili. Mo\u017ce zdarzy si\u0119 jedno i drugie\u201d.",
                 "subtitle": "Utalentowany wyk\u0142adowca",
+                "text": "Uwolniona (-2 do\u015bwiadczenia).\nTylko talia <t>Asystenta</t>, <t>Reportera</t> lub <t>Uczonego</t>. Zu\u017cywalny (4 sekrety).\nDostajesz +1 [intellect].\nSekrety na atutach, kt\u00f3re kontrolujesz, mog\u0105 by\u0107 wydawane jako \u017cetony zasob\u00f3w, aby op\u0142aci\u0107 koszt wydarze\u0144 z cech\u0105 <t>Informacja</t>, kt\u00f3re zagrywasz.",
                 "traits": "Sprzymierzeniec."
-            },
-            "back": {}
+            }
         },
         "11118-t": {
             "name": "Karta biblioteczna",
             "front": {
                 "text": "Zmutowana. Tylko talia <t>Miskatonic</t> lub <t>Uczonego</t>. Trwa\u0142y. Limit 1 na tali\u0119.\n<free> Podczas twojej tury, je\u015bli \u017caden atut nie jest do\u0142\u0105czony do Karty bibliotecznej, wyczerp Kart\u0119 biblioteczn\u0105: do\u0142\u0105cz do tej karty atut z cech\u0105 <t>Ksi\u0119ga</t> z twojej r\u0119ki. Do\u0142\u0105czony atut nie zajmuje \u017cadnej strefy.\n<b>Wymuszony</b> -- Kiedy twoja tura dobiega ko\u0144ca: umie\u015b\u0107 do\u0142\u0105czony atut na spodzie twojej talii, chyba \u017ce wydasz 1 \u017ceton zasobu.",
                 "traits": "Przedmiot. Miskatonic."
-            },
-            "back": {}
+            }
         },
         "11120-t": {
             "name": "Depcz\u0105cy po pi\u0119tach",
             "front": {
-                "text": "Zmutowana. Tylko talia <t>Detektywa</t>, <t>\u0141owcy</t>, <t>Policji</t> lub <t>Reportera</t>.\nLimit 1 na badacza. Zu\u017cywalny (5 trop\u00f3w). Je\u015bli na Depcz\u0105cym po pi\u0119tach nie ma \u017cadnych trop\u00f3w, odrzu\u0107 go.\n<reaction> Po tym, jak wejdziesz do lokalizacji, w kt\u00f3rej jest 1 lub wi\u0119cej wrog\u00f3w, wydaj 1 trop i wyczerp Depcz\u0105cego po pi\u0119tach: odkryj 1 \u017ceton wskaz\u00f3wki w twojej lokalizacji lub zadaj 1 obra\u017cenie wrogowi w twojej lokalizacji.",
-                "traits": "Talent."
-            },
-            "back": {}
+                "text": "Zmutowana. Tylko talia <t>Detektywa</t>, <t>\u0141owcy</t>, <t>Policji</t> lub <t>Reportera</t>.\nLimit 1 na badacza. Zu\u017cywalny (5 trop\u00f3w). Je\u015bli na Depcz\u0105cym po pi\u0119tach nie ma \u017cadnych trop\u00f3w, odrzu\u0107 go.\n<reaction> Po tym, jak wejdziesz do lokalizacji, w kt\u00f3rej jest 1 lub wi\u0119cej wrog\u00f3w, wydaj 1 trop i wyczerp Depcz\u0105cego po pi\u0119tach: odkryj 1 \u017ceton wskaz\u00f3wki w twojej lokalizacji lub zadaj 1 obra\u017cenie wrogowi w twojej lokalizacji."
+            }
         },
         "60233-t": {
             "name": "Necronomicon",
             "front": {
+                "subtitle": "T\u0142umaczenie Petrusa de Dacia",
                 "text": "Zakazana. Zu\u017cywalny (6 sekret\u00f3w). Limit 1 na tali\u0119.\n<free> Wydaj 1 sekret: dostajesz +2 do warto\u015bci umiej\u0119tno\u015bci do tego testu umiej\u0119tno\u015bci.\n<free> Wydaj 2 sekrety: dobierz 2 karty.\n<free> Wydaj 3 sekrety: odkryj 1 \u017ceton wskaz\u00f3wki w dowolnej lokalizacji.\n<free> Wydaj 4 sekrety: zadaj 3 obra\u017cenia wrogowi b\u0119d\u0105cemu z tob\u0105 w zwarciu.",
-                "traits": "Przedmiot. Ksi\u0119ga.",
-                "subtitle": "T\u0142umaczenie Petrusa de Dacia"
-            },
-            "back": {}
+                "traits": "Przedmiot. Ksi\u0119ga."
+            }
         },
         "60318-t": {
             "name": "Ryzykant",
             "front": {
+                "flavor_text": "\"Wini, jeste\u015b szalona!\"\n\"Wiem, czy\u017c to nie wspania\u0142e?\"",
                 "text": "Zmutowana. Po tym, jak przeznaczysz <name>a do testu umiej\u0119tno\u015bci, odrzucaj karty z wierzchu twojej talii, dop\u00f3ki nie odrzucisz umiej\u0119tno\u015bci <rogue>, kt\u00f3r\u0105 mo\u017cesz przeznaczy\u0107 do tego testu. Przeznacz j\u0105. Po rozpatrzeniu tego testu, dobierz ka\u017cde os\u0142abienie odrzucone przez ten efekt.",
-                "traits": "Los. Nabyta.",
-                "flavor_text": "\"Wini, jeste\u015b szalona!\"\n\"Wiem, czy\u017c to nie wspania\u0142e?\""
-            },
-            "back": {}
+                "traits": "Los. Nabyta."
+            }
         },
         "60327-t": {
             "name": "Strzelec wyborowy",
             "front": {
-                "text": "Uwolniona (-1 do\u015bwiadczenie).\n<reaction> Kiedy u\u017cywasz zdolno\u015bci Walka na atucie z cech\u0105 <t>Palna</t>, wyczerp Strzelca wyborowego: Wybierz jedno lub oba - \n- Ten atak u\u017cywa [agility] zamiast [combat]. Wszystkie modyfikatory twojej [combat] do tego ataku zamiast tego modyfikuj\u0105 twoj\u0105 [agility].\n- Do tego ataku u\u017cyj warto\u015bci wymykania si\u0119 atakowanego wroga zamiast jego warto\u015bci walki.",
-                "traits": "Talent."
-            },
-            "back": {}
+                "text": "Uwolniona (-1 do\u015bwiadczenie).\n<reaction> Kiedy u\u017cywasz zdolno\u015bci Walka na atucie z cech\u0105 <t>Palna</t>, wyczerp Strzelca wyborowego: Wybierz jedno lub oba - \n- Ten atak u\u017cywa [agility] zamiast [combat]. Wszystkie modyfikatory twojej [combat] do tego ataku zamiast tego modyfikuj\u0105 twoj\u0105 [agility].\n- Do tego ataku u\u017cyj warto\u015bci wymykania si\u0119 atakowanego wroga zamiast jego warto\u015bci walki."
+            }
         },
         "60332-t": {
-            "name": "Chuck Fergus",
             "front": {
+                "subtitle": "Szofer O'Bannion\u00f3w",
                 "text": "Zmutowana. <reaction> Kiedy zagrywasz kart\u0119 wydarzenia z cech\u0105 <t>Taktyka</t> lub <t>Sztuczka</t>, wyczerp Chucka Fergusa: wybierz jedno -\n- Dane wydarzenie zyskuje: \u201eSzybka. Zagraj tylko podczas swojej tury\u201d.\n- Zagranie danego wydarzenia kosztuje o 2 \u017cetony zasob\u00f3w mniej.\n- Dostajesz +2 do warto\u015bci umiej\u0119tno\u015bci w czasie wykonywania testu umiej\u0119tno\u015bci podczas rozpatrywania danego wydarzenia.",
-                "traits": "Sprzymierzeniec. Przest\u0119pca.",
-                "subtitle": "Szofer O'Bannion\u00f3w"
-            },
-            "back": {}
+                "traits": "Sprzymierzeniec. Przest\u0119pca."
+            }
         },
         "60416-t": {
             "name": "G\u0142os Ra",
             "front": {
                 "text": "Zmutowana.\nZyskaj 1 \u017ceton zasobu. Odkryj 3 losowe \u017cetony z worka chaosu. Za ka\u017cdy odkryty dowolny symbol zyskaj 2 dodatkowe \u017cetony<br>zasob\u00f3w.",
                 "traits": "Zakl\u0119cie."
-            },
-            "back": {}
+            }
         },
         "60423-t": {
             "name": "Hipnotyzuj\u0105ce spojrzenie",
             "front": {
                 "text": "Zmutowana. Szybka. Zagraj, kiedy wr\u00f3g zaatakuje badacza w twojej lokalizacji.\nAnuluj ten atak. Nast\u0119pnie odkryj losowy \u017ceton z worka chaosu. Je\u015bli ma dowolny symbol, zadaj atakuj\u0105cemu wrogowi obra\u017cenia w liczbie r\u00f3wnej jego warto\u015bci obra\u017ce\u0144 lub przera\u017cenia.",
                 "traits": "Zakl\u0119cie."
-            },
-            "back": {}
+            }
         }
     },
-    "guides": [],
-    "encounter_sets": []
+    "encounter_sets": {},
+    "guides": {},
+    "parent": "Taboo1.json",
+    "project": {
+        "meta": {
+            "language": "pl"
+        }
+    },
+    "type": "modification"
 }
