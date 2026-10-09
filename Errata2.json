@@ -99,13 +99,14 @@
                 "classes": [
                     "guardian"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/core_2026.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tommy.svg\">",
                 "collection_number": "28",
                 "cost": "2",
                 "icons": "CAQ",
-                "illustration_pan_x": 111.0,
-                "illustration_pan_y": 221.0,
-                "illustration_scale": 1.96,
+                "illustration": "./img/ahc100_spoilercards_guardian_endurance.png",
+                "illustration_pan_x": 72.0,
+                "illustration_pan_y": 52.0,
+                "illustration_scale": 2.14,
                 "illustrator": "Illus. Lin Hsiang",
                 "level": "3",
                 "text": "Starting. <i>(You may begin the game with 1 copy of a starting card in your opening hand.)</i>\n<free>Spend 1 resource: You get +1 <combat> for this skill test (+2 <combat> instead if this is an attack or evasion).\n<free> Spend 1 resource: You get +1 <agility> for this skill test (+2 <agility> instead if this is an attack or evasion).",
