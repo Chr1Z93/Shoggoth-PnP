@@ -125,19 +125,37 @@
                 "willpower": "3"
             },
             "back": {
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        "Seeker cards (<seeker>) level 0-5, Neutral cards level 0-5, up to five other level 0 cards from any other class (<guardian>, <rogue>, <mystic> and/or <survivor>)."
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "Search for the Truth, Rex's Curse, 1 random basic weakness."
+                    ],
+                    [
+                        "<b>Deckbuilding Restrictions:</b>",
+                        "No <t>Fortune</t> cards."
+                    ]
+                ],
                 "flavor_text": "When disaster strikes, <name> is usually on hand, suffering the consequences. After spending a day with Rex, even the most hardened skeptic will concede that the man is cursed. Anytime he had a lead on a good story, something would go wrong. That business in Innsmouth with the photographs that had blown out to sea. The tracks in Dunwich that had washed away in the rain just before he'd brought the sheriff. His terrible fortune has more than once exposed him to gruesome beasts and occult conspiracies. To survive, Rex has developed an inquisitive mind, keeping one step ahead of the next disaster.",
                 "illustration": "./img/Rex Murphy (ahc02-002) - Cristi Balanescu - brighter.jpg",
                 "illustration_pan_x": -320.0,
                 "illustration_pan_y": -165.0,
                 "illustration_scale": 0.63,
-                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Neutral cards level 0-5, up to five other level 0 cards from any other class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Search for the Truth, Rex's Curse, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No [[Fortune]] cards.",
+                "text": "<b>Deck Size:</b> 30\n<b>Deckbuilding Options:</b> Seeker cards (<seeker>) level 0-5, Neutral cards level 0-5, up to five other level 0 cards from any other class (<guardian>, <rogue>, <mystic> and/or <survivor>).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Search for the Truth, Rex's Curse, 1 random basic weakness.\n<b>Deckbuilding Restrictions:</b> No <t>Fortune</t> cards.",
                 "type": "investigator_back"
             }
         },
         {
             "name": "Double or Nothing",
             "id": "02026-t",
-            "amount": 0,
+            "amount": 2,
             "front": {
                 "copyright": "\u00a9 2016 FFG",
                 "classes": [
@@ -471,13 +489,35 @@
                 "willpower": "3"
             },
             "back": {
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "35"
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        "Survivor, Guardian, Seeker, Rogue, and Mystic cards (<survivor>, <guardian>, <seeker>, <rogue>, and <mystic>) level 0-3, Neutral cards level 0-5."
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "2 copies of Improvisation, 2 copies of Crisis of Identity, 1 random basic weakness."
+                    ],
+                    [
+                        "<b>Deckbuilding Restrictions:</b>",
+                        "Your deck must include at least 7 cards each from 3 different classes (<survivor>, <guardian>, <seeker>, <rogue>, or <mystic>)."
+                    ],
+                    [
+                        "<b>Additional Setup:</b>",
+                        "After you draw your opening hand, choose a role (<survivor>, <guardian>, <seeker>, <rogue>, <mystic>, or Neutral)."
+                    ]
+                ],
                 "flavor_text": "Lola has performed to sold-out houses worldwide, but no play has been as haunting or as odd as The King in Yellow. Even during rehearsals, everything about it brought calamity and dread. When her co-star, Miriam, was found floating dead in the Seine, she decided she'd had enough, and penned a letter to the director explaining that her next performance would be her last. Now she heads home to Arkham for one final show, hoping she can finally be rid of this dreadful play.",
                 "illustration": "./img/Lola Hayes (ahc11-006)-screenshot - Magali Villeneuve.jpg",
                 "illustration_pan_x": 77.0,
                 "illustration_pan_y": 38.0,
                 "illustration_rotation": -8,
                 "illustration_scale": 0.26,
-                "text": "Mutated.\n<b>Deck Size</b>: 35.\n<b>Deckbuilding Options</b>: Survivor, Guardian, Seeker, Rogue, and Mystic cards (<survivor>, <guardian>, <seeker>, <rogue>, and <mystic>) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 2 copies of Improvisation, 2 copies of Crisis of Identity, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include at least 7 cards each from 3 different classes (<survivor>, <guardian>, <seeker>, <rogue>, or <mystic>).\n<b>Additional Setup</b>: After you draw your opening hand, choose a role (<survivor>, <guardian>, <seeker>, <rogue>, <mystic>, or Neutral).",
+                "text": "\n<b>Deck Size</b>: 35.\n<b>Deckbuilding Options</b>: Survivor, Guardian, Seeker, Rogue, and Mystic cards (<survivor>, <guardian>, <seeker>, <rogue>, and <mystic>) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 2 copies of Improvisation, 2 copies of Crisis of Identity, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include at least 7 cards each from 3 different classes (<survivor>, <guardian>, <seeker>, <rogue>, or <mystic>).\n<b>Additional Setup</b>: After you draw your opening hand, choose a role (<survivor>, <guardian>, <seeker>, <rogue>, <mystic>, or Neutral).",
                 "type": "investigator_back"
             }
         },
@@ -1168,20 +1208,38 @@
                 "willpower": "3"
             },
             "back": {
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "50"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        "At deck creation, choose Mystic (<mystic>), Rogue (<rogue>), or Survivor (<survivor>)."
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        "Seeker cards (<seeker>) level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class."
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "3 copies of Occult Evidence, Shocking Discovery, 1 random basic weakness."
+                    ]
+                ],
                 "flavor_text": "Ever since she was a child, Mandy would read whenever she could not sleep. Such has been the case on many nights. Her remarkable memory and ability to correlate facts have landed her a highly valued job as a researcher for Miskatonic University. She has spent hours poring over the profane pages of ancient, forbidden texts. In doing so, she has discovered a pattern indicating an impending catacylsm. Has paranoia finally caught up to her? Or is a disaster of truly epic proportions on the horizon?",
                 "illustration": "./img/Mandy Thompson (ahc37-002) - Tony Foti.jpg",
                 "illustration_pan_x": -163.0,
                 "illustration_pan_y": 31.0,
                 "illustration_rotation": -8,
                 "illustration_scale": 0.94,
-                "text": "Mutated.\n<b>Deck Size</b>: 50.\n<b>Secondary Class Choice</b>: At deck creation, choose Mystic (<mystic>), Rogue (<rogue>), or Survivor (<survivor>).\n<b>Deckbuilding Options</b>: Seeker cards (<seeker>) level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of Occult Evidence, Shocking Discovery, 1 random basic weakness.",
+                "text": "\n<b>Deck Size</b>: 50.\n<b>Secondary Class Choice</b>: At deck creation, choose Mystic (<mystic>), Rogue (<rogue>), or Survivor (<survivor>).\n<b>Deckbuilding Options</b>: Seeker cards (<seeker>) level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of Occult Evidence, Shocking Discovery, 1 random basic weakness.",
                 "type": "investigator_back"
             }
         },
         {
             "name": "Pendant of the Queen",
             "id": "06022-t",
-            "amount": 0,
+            "amount": 1,
             "front": {
                 "name": "<unique><name>",
                 "copyright": "\u00a9 2019 FFG",
@@ -1321,13 +1379,27 @@
                 "willpower": "2"
             },
             "back": {
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        "Rogue cards (<rogue>) level 0-5, Neutral cards level 0-5, Seeker cards (<seeker>) level 0-2."
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "In the Shadows, Shadow Agents, 1 random basic weakness."
+                    ]
+                ],
                 "flavor_text": "Trish had always excelled in both body and mind, her unwavering focus on excellence and her fearless disposition a winning combination. Given her stellar academic and athletic records, everyone expected to see her become something great. Instead, Trish took a job at a commercial code company. The initial shock of her humble work eventually wore off, and the exceptional <name> faded into obscurity. This suited Trish just fine, as it made it harder for anyone to realize the truth: her job was a cover for her true work as a spy with the Black Chamber, the Bureau's code-breaking agency.",
                 "illustration": "./img/Trish Scarborough (ahc52-003) - Magali Villeneuve.webp",
                 "illustration_pan_x": 3.0,
                 "illustration_pan_y": 58.0,
                 "illustration_rotation": -8,
                 "illustration_scale": 0.6,
-                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, Neutral cards level 0-5, Seeker cards ([seeker]) level 0-2.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): In the Shadows, Shadow Agents, 1 random basic weakness.",
+                "text": "<b>Deck Size:</b> 30\n<b>Deckbuilding Options:</b> Rogue cards (<rogue>) level 0-5, Neutral cards level 0-5, Seeker cards (<seeker>) level 0-2.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): In the Shadows, Shadow Agents, 1 random basic weakness.",
                 "type": "investigator_back"
             }
         },
@@ -1614,7 +1686,7 @@
         {
             "name": "Burn After Reading",
             "id": "08076-t",
-            "amount": 0,
+            "amount": 2,
             "front": {
                 "copyright": "\u00a9 2021 FFG",
                 "classes": [
@@ -2485,7 +2557,7 @@
         {
             "name": "The Necronomicon",
             "id": "60233-t",
-            "amount": 0,
+            "amount": 2,
             "front": {
                 "copyright": "\u00a9 2019 FFG",
                 "classes": [
