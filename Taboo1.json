@@ -2726,6 +2726,112 @@
             "back": {
                 "type": "player"
             }
+        },
+        {
+            "name": "Power Word Upgrade Sheet",
+            "id": "09081-t-c",
+            "amount": 2,
+            "front": {
+                "checkbox_entries": [
+                    [
+                        1,
+                        "Betray",
+                        "Add the command: \"<bullet> <i>'Betray.'</i> Deal 1 damage to any enemy at this enemy's location with an equal or lower fight value than this enemy.\""
+                    ],
+                    [
+                        1,
+                        "Cower",
+                        "Add the command: \"<bullet> <i>'Cower.'</i> This enemy exhausts.\""
+                    ],
+                    [
+                        1,
+                        "Confess",
+                        "Add the command: \"<bullet> <i>'Confess.'</i> Discover 1 clue at this enemy's location if its health is equal to or higher than its location's shroud.\""
+                    ],
+                    [
+                        1,
+                        "Distract",
+                        "Add the command: \"<bullet> <i>'Distract.'</i> Automatically evade any enemy at this enemy's location with an equal or lower evade value than this enemy.\""
+                    ],
+                    [
+                        2,
+                        "Greater Control",
+                        "Power Word gains \"<free>: Return Power Word to your hand.\""
+                    ],
+                    [
+                        3,
+                        "Bonded",
+                        "You may activate the parley ability on Power Word from up to one location away from the attached enemy."
+                    ],
+                    [
+                        3,
+                        "Tonguetwister",
+                        "When you parley with Power Word, you may give up to two different commands."
+                    ],
+                    [
+                        3,
+                        "Thrice Spoken",
+                        "You may include three copies of Power Word in your deck. When you give a command using one copy, also give that command to each other enemy with one of your copies of Power Word attached."
+                    ]
+                ],
+                "type": "customizable"
+            },
+            "back": {
+                "type": "customizable_back"
+            }
+        },
+        {
+            "name": "Runic Axe Upgrade Sheet",
+            "id": "09022-t-c",
+            "amount": 2,
+            "front": {
+                "checkbox_entries": [
+                    [
+                        1,
+                        "Heirloom",
+                        "This asset gets -1 cost and gains the <t>Relic</t> trait."
+                    ],
+                    [
+                        1,
+                        "Inscription of Glory",
+                        "Add this inscription: \"<bullet> <i>Glory</i> - If this attack defeats an enemy, choose one: draw 1 card, heal 1 damage, or heal 1 horror.\""
+                    ],
+                    [
+                        1,
+                        "Inscription of the Elders",
+                        "Add this inscription: \"<bullet> <i>Elders</i> - If this attack succeeds by an amount equal to or greater than your location's shroud, discover 1 clue at your location.\""
+                    ],
+                    [
+                        2,
+                        "Inscription of the Hunt",
+                        "Add this inscription: \"<bullet> <i>Hunt</i> - Immediately move to a connecting location or engage an enemy at your location.\""
+                    ],
+                    [
+                        1,
+                        "Inscription of Fury",
+                        "Add this inscription: \"<bullet> <i>Fury</i> - If this attack is successful, in addition to its standard damage, deal 1 damage to each other enemy engaged with you.\""
+                    ],
+                    [
+                        3,
+                        "Ancient Power",
+                        "You may imbue the same inscription up to three times."
+                    ],
+                    [
+                        3,
+                        "Saga",
+                        "Replenish 2 of Runic Axe's charges at the start of each round, instead of only 1."
+                    ],
+                    [
+                        4,
+                        "Scriptweaver",
+                        "For every charge spent, you may imbue the axe with up to two different inscriptions."
+                    ]
+                ],
+                "type": "customizable"
+            },
+            "back": {
+                "type": "customizable_back"
+            }
         }
     ],
     "encounter_sets": [],
