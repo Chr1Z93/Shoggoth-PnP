@@ -47,14 +47,14 @@
                         "Keine <t>Glücksfall</t> Karten."
                     ]
                 ],
-                "flavor_text": "Wenn etwas Schreckliches passiert, ist <name> in der Regel sofort zur Stelle und nimmt dabei sämtliche Konsequenzen in Kauf. Nach einem Tag mit Rex gibt selbst der größte Skeptiker zu, dass dieser Mann verflucht ist. Immer wenn er einen großen Geschichte auf der Spur ist, geht etwas schief. Diese Sache in Innsmouth mit den Fotografien, die aufs Meer hinaus geweht wurden. Die Spuren in Dunwich, die der Regen fortgewaschen hatte, kurz bevor der Sheriff eingetroffen war. Sein fürchterliches Pech hat ihn mehr als ein Mal in Berührung mit scheußlichen Kreaturen und okkulten Verschwörungen gebracht. Um zu überleben, hat Rex eine Wissbegier entwicklet, mit der er hofft der nächsten Katastrophe einen Schritt voraus sdein zu können.",
+                "flavor_text": "Wenn etwas Schreckliches passiert, ist <name> in der Regel sofort zur Stelle und nimmt dabei sämtliche Konsequenzen in Kauf. Nach einem Tag mit Rex gibt selbst der größte Skeptiker zu, dass dieser Mann verflucht ist. Immer wenn er einer großen Geschichte auf der Spur ist, geht etwas schief. Diese Sache in Innsmouth mit den Fotografien, die aufs Meer hinausgeweht wurden. Die Spuren in Dunwich, die der Regen fortgewaschen hatte, kurz bevor der Sheriff eingetroffen war. Sein fürchterliches Pech hat ihn mehr als ein Mal in Berührung mit scheußlichen Kreaturen und okkulten Verschwörungen gebracht. Um zu überleben, hat Rex eine Wissbegier entwickelt, mit der er hofft, der nächsten Katastrophe einen Schritt voraus sein zu können.",
                 "text": "<b>Deckgröße:</b> 30\n<b>Deckbau-Optionen:</b> Sucherkarten (<seeker>) Stufe 0-5, Neutrale Karten Stufe 0-5, bis zu fünf andere Karten der Stufe 0 beliebiger anderer Klassen (<guardian>, <rogue>, <mystic> und/oder <survivor>).\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): Suche nach der Wahrheit, Rex' Fluch, 1 zufällige Grundschwäche.\n<b>Deckbau-Einschränkungen:</b> Keine <t>Glücksfall</t> Karten."
             }
         },
         "02026-t": {
             "name": "Doppelt oder Nichts",
             "front": {
-                "text": "<size 65>Verboten.\nMax. 1 pro Fertigkeitsprobe beitragen.\nVerdopple die Schwierigkeit dieser Fertigkeitsprobe. Falls diese Fertigkeitsprobe gelingt, handle die Effekte der erfolgreichen probe zwei Mal ab.",
+                "text": "<size 65>Verboten.\nMax. 1 pro Fertigkeitsprobe beitragen.\nVerdopple die Schwierigkeit dieser Fertigkeitsprobe. Falls diese Fertigkeitsprobe gelingt, handle die Effekte der erfolgreichen Probe zwei Mal ab.",
                 "traits": "Glücksfall."
             }
         },
@@ -77,7 +77,7 @@
             "name": "Zu tief graben",
             "front": {
                 "flavor_text": "Einige Dinge kann man, wenn man sie erst gesehen hat, nicht mehr ungesehen machen.",
-                "text": "<size 60>Mutiert.\nIn Spielerreihenfolge zieht jeder Ermittler 1 Karte oben vom Begegnungsdeck. Füge dann <name> dem Siegpunktestapel hinzu. (Max. 2 Kopien von <name> im Siegpunktestapel.)",
+                "text": "<size 60>Mutiert.\nIn Spielerreihenfolge zieht jeder Ermittler die oberste Karte vom Begegnungsdeck. Füge dann <name> dem Siegpunktestapel hinzu. (Max. 2 Kopien von <name> im Siegpunktestapel.)",
                 "traits": "Erkenntnis.",
                 "victory": "Sieg 1."
             }
@@ -145,7 +145,7 @@
                     ],
                     [
                         "<b>Deckbau-Optionen:</b>",
-                        "Überlebender-, Wächter-, Sucher-, Schurken- und Mystikerkarten (<survivor>, <guardian>, <seeker>, <rogue>, and <mystic>) Stufe 0-3, Neutrale Karten Stufe 0-5."
+                        "Überlebender-, Wächter-, Sucher-, Schurken- und Mystikerkarten (<survivor>, <guardian>, <seeker>, <rogue> und <mystic>) Stufe 0-3, Neutrale Karten Stufe 0-5."
                     ],
                     [
                         "<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße):",
@@ -153,7 +153,7 @@
                     ],
                     [
                         "<b>Zusätzliche Voraussetzungen:</b>",
-                        "Dein Deck muss mindestens jeweils 7 Karten von 3 verschiedenen Klassen enthalten (<survivor>, <guardian>, <seeker>, <rogue>, or <mystic>)."
+                        "Dein Deck muss mindestens jeweils 7 Karten von 3 verschiedenen Klassen enthalten (<survivor>, <guardian>, <seeker>, <rogue> oder <mystic>)."
                     ],
                     [
                         "<b>Zusätzliche Vorbereitung:</b>",
@@ -161,7 +161,7 @@
                     ]
                 ],
                 "flavor_text": "Lola hat in ausverkauften Häusern auf der ganzen Welt gespielt, aber noch kein Stück hat sie so aufgewühlt oder war so merkwürdig wie Der König in Gelb. Schon bei den Proben brachte es nur Unheil und Schrecken. Als ihre Schauspielkollegin Miriam tot in der Seine treibend aufgefunden wurde, beschloss sie genug davon zu haben und schrieb einen Brief an den Regisseuer, in dem sie ankündigte, dass die nächste Vorstellug ihre letzte sein würde. Nun ist sie für diese letzte Aufführung zurück in ihre Heimat Arkham gekommen, in der Hoffnung, hier endlich dieses fürchterliche Stück hinter sich zu lassen.",
-                "text": "<b>Deckgröße:</b> 35\n<b>Deckbau-Optionen:</b> Überlebender-, Wächter-, Sucher-, Schurken- und Mystikerkarten (<survivor>, <guardian>, <seeker>, <rogue>, and <mystic>) Stufe 0-3, Neutrale Karten Stufe 0-5.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): 2 Kopien von Improvisation, 2 Kopien von Identitätskrise, 1 zufällige Grundschwäche.\n<b>Zusätzliche Voraussetzungen:</b> Dein Deck muss mindestens jeweils 7 Karten von 3 verschiedenen Klassen enthalten (<survivor>, <guardian>, <seeker>, <rogue>, or <mystic>).\n<b>Zusätzliche Vorbereitung:</b> Nachdem du deine Starthand gezogen hast: Wähle eine Rolle (<survivor>, <guardian>, <seeker>, <rogue>, <mystic> or Neutral)."
+                "text": "<b>Deckgröße:</b> 35\n<b>Deckbau-Optionen:</b> Überlebender-, Wächter-, Sucher-, Schurken- und Mystikerkarten (<survivor>, <guardian>, <seeker>, <rogue> und <mystic>) Stufe 0-3, Neutrale Karten Stufe 0-5.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): 2 Kopien von Improvisation, 2 Kopien von Identitätskrise, 1 zufällige Grundschwäche.\n<b>Zusätzliche Voraussetzungen:</b> Dein Deck muss mindestens jeweils 7 Karten von 3 verschiedenen Klassen enthalten (<survivor>, <guardian>, <seeker>, <rogue> oder <mystic>).\n<b>Zusätzliche Vorbereitung:</b> Nachdem du deine Starthand gezogen hast: Wähle eine Rolle (<survivor>, <guardian>, <seeker>, <rogue>, <mystic> or Neutral)."
             }
         },
         "03019-t": {
@@ -180,7 +180,7 @@
         },
         "03112-t": {
             "front": {
-                "subtitle": "Angesehender Eschatologe",
+                "subtitle": "Angesehener Eschatologe",
                 "text": "Mutiert. Solange sich mindestens 1 Verderben auf <name> befindet, bekommst du +1 [willpower].\n<free> Erschöpfe <name>: Du darfst 1 Verderben auf <name> platzieren. Du erhältst 1 Ressource für jedes Verderben auf <name> (bis zu einem Maximum von 3 Ressourcen).",
                 "traits": "Verbündeter. Mäzen."
             }
@@ -189,15 +189,15 @@
             "name": "Schlüssel von Ys",
             "front": {
                 "subtitle": "Lass den Sturm toben",
-                "text": "Mutiert. Außergewöhnlich. Du bekommst +1 auf jede deiner Fertigkeiten für jeden Horror auf <name>.\n<for> Sobald eine beliebige Menge Horror auf die platziert werden würde: Platziere 1 Horror davon auf <name>.\n<for> Sobald <name> das Spiel verlässt: Lege die obersten 10 Karten deines Decks ab.",
+                "text": "Mutiert. Außergewöhnlich. Du bekommst +1 auf jede deiner Fertigkeiten für jeden Horror auf <name>.\n<for> Sobald eine beliebige Menge Horror auf dir platziert werden würde: Platziere 1 Horror davon auf <name>.\n<for> Sobald <name> das Spiel verlässt: Lege die obersten 10 Karten deines Decks ab.",
                 "traits": "Gegenstand. Relikt."
             }
         },
         "04032-t": {
-            "name": "Dunkle Prophezeihung",
+            "name": "Dunkle Prophezeiung",
             "front": {
                 "flavor_text": "<valign>Die Geheimnisse waren in den Sternen geschrieben.",
-                "text": "Mutiert. Schnell. Spiele diese Karte, sobald du einen Chaosmarker enthüllen würdest.\nEnthülle stattdessen 5 statt 1 Chaosmarker. Wähle einen jener Marker mit einem Nicht-<elder_sign>-Symbol, um ihn abzuhandeln und ignoriere die restlichen. (Falls kein solcher Marker enthüllt wird, wähle einen beliebigen Marker jener Marker, den du abhandelst, und ignoriere die restlichen.)",
+                "text": "Mutiert. Schnell. Spiele diese Karte, sobald du einen Chaosmarker enthüllen würdest.\nEnthülle stattdessen 5 statt 1 Chaosmarker. Wähle einen jener Marker mit einem Nicht-<elder_sign>-Symbol, um ihn abzuhandeln und ignoriere die restlichen. (Falls kein solcher Marker enthüllt wird, wähle einen beliebigen jener Marker, den du abhandelst, und ignoriere die restlichen.)",
                 "traits": "Weissagung."
             }
         },
@@ -241,7 +241,7 @@
             "name": "Befragung",
             "front": {
                 "flavor_text": "<valign>Er verschwieg etwas… aber warum?",
-                "text": "Mutiert.\n<b>Verhandlung.</b> Wähle einen Nicht-<t>Elite</t>-Gegner an deinem Ort und lege eine [combat]-Probe (3) ab. DIese Probe bekommt +X Schwierigkeit. X ist dabei der Schadenswert des gewählten Gegners. Falls die Probe gelingt, entdeckst du 1 Hinweis an deinem Ort und 1 Hinweis an einem beliebigen anderen Ort.",
+                "text": "Mutiert.\n<b>Verhandlung.</b> Wähle einen Nicht-<t>Elite</t>-Gegner an deinem Ort und lege eine [combat]-Probe (3) ab. Diese Probe bekommt +X Schwierigkeit. X ist dabei der Schadenswert des gewählten Gegners. Falls die Probe gelingt, entdeckst du 1 Hinweis an deinem Ort und 1 Hinweis an einem beliebigen anderen Ort.",
                 "traits": "Taktik. Erkenntnis."
             }
         },
@@ -264,7 +264,7 @@
             "front": {
                 "flavor_text": "<valign>„Möchten Sie das wirklich wissen?<br>Dann gibt es kein Zurück mehr.”",
                 "subtitle": "Geheimnishändler",
-                "text": "Mutiert. Anwendungen (3 Geheimnisse).\n<action> Erschöpfe <name> und gib 1 Geheimnis aus: Durchsuche die oberen 3, 6 oder 9 Karten deines Decks nach einer beliebigen Karte und ziehe sie. Falls unter den angesehen Karten mindestens 1 Schwäche ist, ziehe außerdem 1 von ihnen. Mische dein Deck.",
+                "text": "Mutiert. Anwendungen (3 Geheimnisse).\n<action> Erschöpfe <name> und gib 1 Geheimnis aus: Durchsuche die oberen 3, 6 oder 9 Karten deines Decks nach einer beliebigen Karte und ziehe sie. Falls unter den angesehenen Karten mindestens 1 Schwäche ist, ziehe außerdem 1 von ihnen. Mische dein Deck.",
                 "traits": "Verbündeter."
             }
         },
@@ -278,7 +278,7 @@
         "05157-t": {
             "name": "Welken",
             "front": {
-                "text": "Mutiert.\n<action>: <b>Fight ([willpower]).</b> If a symbol token is revealed during this attack, the attacked enemy gets -1 fight and -1 evade for the remainder of the turn (to a minimum of 1).",
+                "text": "Mutiert.\n<action>: <b>Kampf ([willpower]).</b> Falls ein Symbolmarker während dieses Angriffs enthüllt wird, bekommt der angegriffene Gegner für den Rest des Zuges -1 Kampf und -1 Entkommen (bis zu einem Minimum von 1).",
                 "traits": "Zauber."
             }
         },
@@ -320,7 +320,7 @@
         "05321-t": {
             "name": "Welken",
             "front": {
-                "text": "Mutiert.\n<action>: <b>Fight ([willpower]).</b> You get +2 [willpower] for this attack. If a symbol token is revealed during this attack, the attacked enemy gets -1 fight, -1 health, and -1 evade until the end of the phase (to a minimum of 1).",
+                "text": "Mutiert.\n<action>: <b>Fight ([willpower]).</b> Du bekommst für diesen Angriff +2 [willpower]. Falls ein Symbolmarker während dieses Angriffs enthüllt wird, bekommt der angegriffene Gegner bis zum Ende der Phase -1 Kampf, -1 Ausdauer und -1 Entkommen (bis zu einem Minimum von 1).",
                 "traits": "Zauber."
             }
         },
@@ -385,7 +385,7 @@
         "06332-t": {
             "name": "Plündern",
             "front": {
-                "text": "Verkettet (+2 Erfahrung).\n<reaction> Nachdem du erfolgreich um 2 oder mehr ermittelt hast, erschöpfe <name>: Wähle eine <t>Gegenstand</t>-Karte in deinem Ablagestapel und füge sie entweder deine Hand hinzu oder spiele sie <i>(und zahle die Kosten dafür)</i>."
+                "text": "Verkettet (+2 Erfahrung).\n<reaction> Nachdem du erfolgreich um 2 oder mehr ermittelt hast, erschöpfe <name>: Wähle eine <t>Gegenstand</t>-Karte in deinem Ablagestapel und füge sie entweder deiner Hand hinzu oder spiele sie <i>(und zahle die Kosten dafür)</i>."
             }
         },
         "07003-t": {
@@ -416,7 +416,7 @@
         "07122-t": {
             "name": "Uralter Bund",
             "front": {
-                "text": "Mutiert. Dauerhaft. Nur 1 <t>Bund</t> pro Deck.\n<reaction>Sobald du einen <blessing>-Marker während einer Fertigkeitsprobe abhandelst, erschöpfe <name>: Enthülle keinen weiteren Marker als Teil des Effekts dieses <blessing>-Markers.",
+                "text": "Mutiert. Dauerhaft. Nur 1 <t>Bund</t> pro Deck.\n<reaction> Sobald du einen <blessing>-Marker während einer Fertigkeitsprobe abhandelst, erschöpfe <name>: Enthülle keinen weiteren Marker als Teil des Effekts dieses <blessing>-Markers.",
                 "traits": "Bund. Gesegnet."
             }
         },
@@ -458,7 +458,7 @@
         "08019-t": {
             "name": "Voll ausgerüstet",
             "front": {
-                "text": "Mutiert. Dauerhaft. Nur 1 pro Deck. Kann nur beim Deckbau erworben werden.\n<for> Sobald dein erster Zug des Spiels beginnt: Spiele nacheinander bis zu 5 <t>Gegenstand</t>-Vorteilskarten von deiner Hand, wobei ihre Kosten je um 1 gesenkt werden. Während diese Zuges hast du 3 Aktionen weniger, die du nehmen kannst."
+                "text": "Mutiert. Dauerhaft. Nur 1 pro Deck. Kann nur beim Deckbau erworben werden.\n<for> Sobald dein erster Zug des Spiels beginnt: Spiele nacheinander bis zu 5 <t>Gegenstand</t>-Vorteilskarten von deiner Hand, wobei ihre Kosten je um 1 gesenkt werden. Während dieses Zuges hast du 3 Aktionen weniger, die du nehmen kannst."
             }
         },
         "08032-t": {
@@ -478,7 +478,7 @@
         "08055-t": {
             "name": "Schwarzmarkt",
             "front": {
-                "text": "Mutiert. Schnell. Spiele diese Karte zu Beginn der Ermittlungsphase. Max. 1 Mal pro Runde.\nEnthülle nacheinander Karten oben von beliebigen Ermittlerdecks, bis genau 5 Karten enthüllt worden sind. Lege jene Karten als nicht im Spiel befindlich beiseite. Solange jene Karten beseitegelegt sind, darf sie jeder beliebige Ermittler spielen, als ob sie sich auf seiner Hand befänden. Zu Beginn der nächsten Ermittlungsphase werden jene Karten, die noch immer beiseitegelegt sind, ins jeweilige Deck ihrer Besitzer gemischt.",
+                "text": "Mutiert. Schnell. Spiele diese Karte zu Beginn der Ermittlungsphase. Max. 1 Mal pro Runde.\nEnthülle nacheinander Karten oben von beliebigen Ermittlerdecks, bis genau 5 Karten enthüllt worden sind. Lege jene Karten als nicht im Spiel befindlich beiseite. Solange jene Karten beiseitegelegt sind, darf sie jeder beliebige Ermittler spielen, als ob sie sich auf seiner Hand befänden. Zu Beginn der nächsten Ermittlungsphase werden jene Karten, die noch immer beiseitegelegt sind, ins jeweilige Deck ihrer Besitzer gemischt.",
                 "traits": "Gefallen."
             }
         },
@@ -500,7 +500,7 @@
         "08098-t": {
             "name": "Karte der Zeitalter",
             "front": {
-                "text": "Mutiert. Anwendungen (3 Geheimnisse).\n<free> Erschöpfe während deines Zuges <name> and gib 1 Geheimnis aus: Wähle und nimm 1 der folgenden Basis-Aktionen (Bewegen, Entkommen oder Ermitteln).",
+                "text": "Mutiert. Anwendungen (3 Geheimnisse).\n<free> Erschöpfe während deines Zuges <name> und gib 1 Geheimnis aus: Wähle und nimm 1 der folgenden Basis-Aktionen (Bewegen, Entkommen oder Ermitteln).",
                 "traits": "Gegenstand. Relikt."
             }
         },
@@ -514,7 +514,7 @@
         "08100-t": {
             "name": "Karte der Zeitalter",
             "front": {
-                "text": "Mutiert. Anwendungen (3 Geheimnisse).\n<free> Erschöpfe während deines Zuges <name> and gib 1 Geheimnis aus: Wähle 2 verschiedene der folgenden Basis-Aktionen und nimm sie in beliebiger Reihenfolge (Bewegen, Entkommen oder Ermitteln).",
+                "text": "Mutiert. Anwendungen (3 Geheimnisse).\n<free> Erschöpfe während deines Zuges <name> und gib 1 Geheimnis aus: Wähle 2 verschiedene der folgenden Basis-Aktionen und nimm sie in beliebiger Reihenfolge (Bewegen, Entkommen oder Ermitteln).",
                 "traits": "Gegenstand. Relikt."
             }
         },
@@ -612,7 +612,7 @@
         "09081-t": {
             "name": "Machtwort",
             "front": {
-                "text": "Mutiert. Individualisierbar. Schnell. Spiele diese Karte nur in deinem Zug.\nHänge diese Karte an einen Nicht-<t>Elite</t>-Gegner an deinem Ort an.\n<action> Falls der Gegner mit dieser Verstärkung an deinem Ort ist: <b>Verhandlung.</b> Lege eine [willpower]-Probe (2) ab. Falls die Probe gelingt, erteile ihm einen Befehlt (nur 1 Mal pro Runde pro Befehl) ...\n <bullet> \"<i>Beweg dich!</i>\" Dieser Gegner bewegt sich 1 Mal in eine Richtung deiner Wahl.",
+                "text": "Mutiert. Individualisierbar. Schnell. Spiele diese Karte nur in deinem Zug.\nHänge diese Karte an einen Nicht-<t>Elite</t>-Gegner an deinem Ort an.\n<action> Falls der Gegner mit dieser Verstärkung an deinem Ort ist: <b>Verhandlung.</b> Lege eine [willpower]-Probe (2) ab. Falls die Probe gelingt, erteile ihm einen Befehl (nur 1 Mal pro Runde pro Befehl) ...\n <bullet> \"<i>Beweg dich!</i>\" Dieser Gegner bewegt sich 1 Mal in eine Richtung deiner Wahl.",
                 "traits": "Zauber."
             }
         },
@@ -705,7 +705,7 @@
         "10037-t": {
             "name": "Schlaghagel",
             "front": {
-                "text": "Unverkettet (-2 Erfahrung).\nSpiele diese Kare nur, falls du eine <t>Nahkampf</t>-Vorteilskarte kontrollierst. Als zusätzliche Kosten, um <name> zu spielen, gib 1 Aktion aus.\n<b>Kampf.</b> Wähle eine <t>Nahkampf</t>-Vorteilskarte, die du kontrollierst, und nimm sofort eine Kampfaktion mit ihr <i>(ohne ihre <action>-Kosten zu zahlen)</i>. Du darfst diesen Effekt bis zu drei Mal wiederholen. Nachdem der letzte Angriff abgehandelt worden ist und falls es dein Zug ist, beende deinen Zug.",
+                "text": "Unverkettet (-2 Erfahrung).\nSpiele diese Karte nur, falls du eine <t>Nahkampf</t>-Vorteilskarte kontrollierst. Als zusätzliche Kosten, um <name> zu spielen, gib 1 Aktion aus.\n<b>Kampf.</b> Wähle eine <t>Nahkampf</t>-Vorteilskarte, die du kontrollierst, und nimm sofort eine Kampfaktion mit ihr <i>(ohne ihre <action>-Kosten zu zahlen)</i>. Du darfst diesen Effekt bis zu drei Mal wiederholen. Nachdem der letzte Angriff abgehandelt worden ist und falls es dein Zug ist, beende deinen Zug.",
                 "traits": "Taktik. Doppelt. Schicksalhaft."
             }
         },
@@ -767,7 +767,7 @@
         "11071-t": {
             "name": "Geisterhafter Schild",
             "front": {
-                "text": "Mutiert. Fast. Play only during your turn. Attach to a player card with health and/or sanity at your location.\n<for> The first time attached card takes 1 or more damage/horror each round: Cancel 1 of that damage/horror. The owner of Spectral Shield must remove 1 charge from an asset they control. If they cannot, discard Spectral Shield.",
+                "text": "Mutiert. Schnell. Spiele diese Karten nur in deinem Zug. Hänge diese Karte an eine Spielerkarte mit Ausdauer und/oder geistiger Gesundheit an deinem Ort an.\n<for> Sobald die Karte mit dieser Verstärkung zum ersten Mal in jeder Runde 1 oder mehr Schaden/Horror nimmt: Hebe 1 Schaden/Horror davon auf. Der Besitzer von <name> muss 1 Ladung von einer Vorteilskarte entfernen, die er kontrolliert. Falls er dies nicht kann, lege <name> ab.",
                 "traits": "Zauber. Geist."
             }
         },
@@ -788,21 +788,21 @@
         "11118-t": {
             "name": "Büchereiausweis",
             "front": {
-                "text": "Mutiert. <t>Miskatonic</t>, <t>Scholar</t> deck only. Permanent. Limit 1 per deck.\n<free> During your turn, if there is no asset attached to <name>, erschöpfe <name>: Attach a <t>Tome</t> asset from your hand to <name>. Attached asset takes up no slots.\n<for> When your turn ends: Place attached asset on the bottom of your deck unless you spend 1 resource.",
+                "text": "Mutiert. Nur für ein <t>Miskatonic</t>- oder <t>Gelehrter</t> -Deck. Dauerhaft. Nur 1 pro Deck.\n<free> Falls keine Vorteilskarte an <name> angehängt ist, erschöpfe in deinem Zug diese Karte: Hänge eine <t>Buch</t>-Vorteilskarte von deiner Hand an diese Karte an. Sie benötigt keine Handslots.\n<for> Sobald dein Zug endet: Lege eine hier angehängte Vorteilskarte unter dein Deck, außer du zahlst 1 Ressource.",
                 "traits": "Gegenstand. Miskatonic."
             }
         },
         "11120-t": {
             "name": "Auf den Fersen",
             "front": {
-                "text": "Mutiert. <t>Detective</t>, <t>Hunter</t>, <t>Police</t>, <t>Reporter</t> deck only.\nLimit 1 per investigator. Anwendungen (5 leads). If On Their Heels has no leads, discard it.\n<reaction> After you enter a location with 1 or more enemies, spend 1 lead and erschöpfe <name>: Either discover 1 clue at your location or deal 1 damage to an enemy at your location."
+                "text": "Mutiert.\nNur für ein <t>Detective</t>-, <t>Jäger</t>-, <t>Polizei</t>- oder <t>Reporter</t>-Deck.\nNur 1 pro Ermittler. Anwendungen (5 Spuren).\nFalls auf dieser Karte keine Spuren liegen, lege sie ab.\n<reaction> Nachdem du einen Ort mit 1 oder mehr Gegner betreten hast, gib 1 Spur aus und erschöpfe <name>: Entdecke entweder 1 Hinweis an deinem Ort oder füge einem Gegner an deinem Ort 1 Schaden zu."
             }
         },
         "60233-t": {
             "name": "Das Necronomicon",
             "front": {
                 "subtitle": "Übersetzung von Petrus de Dacia",
-                "text": "Verboten. Anwendungen (6 Geheimnisse). Nur 1 pro Deck.\n<free> Gib 1 Geheimnis aus: Du bekommst +2 auf den Fertigkeitswert für diese Probe.\n<free>Gib 2 Geheimnisse aus: Ziehe 2 Karten.\n<free> Gib 3 Geheimnisse aus: Entdecke 1 Hinweis an einem beliebigen Ort.\n<free> Gib 4 Geheimnisse aus: Füge einem mit dir in einen Kampf verwickelten Gegner 3 Schaden zu.",
+                "text": "Verboten. Anwendungen (6 Geheimnisse). Nur 1 pro Deck.\n<free> Gib 1 Geheimnis aus: Du bekommst +2 auf den Fertigkeitswert für diese Probe.\n<free> Gib 2 Geheimnisse aus: Ziehe 2 Karten.\n<free> Gib 3 Geheimnisse aus: Entdecke 1 Hinweis an einem beliebigen Ort.\n<free> Gib 4 Geheimnisse aus: Füge einem mit dir in einen Kampf verwickelten Gegner 3 Schaden zu.",
                 "traits": "Gegenstand. Buch."
             }
         },
