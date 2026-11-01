@@ -13,7 +13,7 @@
             "id": "05313",
             "amount": 1,
             "front": {
-                "copyright": "\u00a9 2018 FFG",
+                "copyright": "© 2018 FFG",
                 "classes": [
                     "guardian"
                 ],
@@ -42,7 +42,7 @@
             "id": "05316",
             "amount": 1,
             "front": {
-                "copyright": "\u00a9 2018 FFG",
+                "copyright": "© 2018 FFG",
                 "classes": [
                     "seeker"
                 ],
@@ -72,7 +72,7 @@
             "amount": 1,
             "front": {
                 "name": "<unique><name>",
-                "copyright": "\u00a9 2019 FFG",
+                "copyright": "© 2019 FFG",
                 "classes": [
                     "survivor"
                 ],
@@ -106,7 +106,7 @@
             "amount": 1,
             "front": {
                 "name": "<unique><name>",
-                "copyright": "\u00a9 2016 FFG",
+                "copyright": "© 2016 FFG",
                 "classes": [
                     "neutral"
                 ],
@@ -135,7 +135,7 @@
             "id": "03264",
             "amount": 1,
             "front": {
-                "copyright": "\u00a9 2017 FFG",
+                "copyright": "© 2017 FFG",
                 "classes": [
                     "guardian"
                 ],
@@ -160,7 +160,7 @@
             "id": "05273",
             "amount": 2,
             "front": {
-                "copyright": "\u00a9 2018 FFG",
+                "copyright": "© 2018 FFG",
                 "classes": [
                     "guardian"
                 ],
@@ -186,7 +186,7 @@
             "id": "03153",
             "amount": 2,
             "front": {
-                "copyright": "\u00a9 2017 FFG",
+                "copyright": "© 2017 FFG",
                 "classes": [
                     "mystic"
                 ],
@@ -214,7 +214,7 @@
             "amount": 1,
             "front": {
                 "name": "<unique><name>",
-                "copyright": "\u00a9 2020 FFG",
+                "copyright": "© 2020 FFG",
                 "classes": [
                     "weakness"
                 ],
@@ -235,7 +235,7 @@
             "id": "09020",
             "amount": 1,
             "front": {
-                "copyright": "\u00a9 2022 FFG",
+                "copyright": "© 2022 FFG",
                 "classes": [
                     "weakness"
                 ],
@@ -259,7 +259,7 @@
             "id": "09107",
             "amount": 2,
             "front": {
-                "copyright": "\u00a9 2022 FFG",
+                "copyright": "© 2022 FFG",
                 "classes": [
                     "survivor"
                 ],
@@ -284,7 +284,7 @@
             "amount": 2,
             "front": {
                 "name": "<unique><name>",
-                "copyright": "\u00a9 2025 FFG",
+                "copyright": "© 2025 FFG",
                 "classes": [
                     "mystic"
                 ],
@@ -316,7 +316,7 @@
             "id": "11103",
             "amount": 2,
             "front": {
-                "copyright": "\u00a9 2025 FFG",
+                "copyright": "© 2025 FFG",
                 "classes": [
                     "specialist"
                 ],
@@ -347,7 +347,7 @@
             "amount": 1,
             "front": {
                 "name": "<unique><name>",
-                "copyright": "\u00a9 2024 FFG",
+                "copyright": "© 2024 FFG",
                 "classes": [
                     "weakness"
                 ],
@@ -379,7 +379,7 @@
             "id": "52008",
             "amount": 2,
             "front": {
-                "copyright": "\u00a9 2019 FFG",
+                "copyright": "© 2019 FFG",
                 "classes": [
                     "mystic"
                 ],
@@ -407,7 +407,7 @@
             "amount": 1,
             "front": {
                 "name": "<unique><name>",
-                "copyright": "\u00a9 2020 FFG",
+                "copyright": "© 2020 FFG",
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
                 "collection_number": "331a",
                 "collection_total": "26/42",
@@ -430,7 +430,7 @@
             "amount": 1,
             "front": {
                 "name": "<unique><name>",
-                "copyright": "\u00a9 2020 FFG",
+                "copyright": "© 2020 FFG",
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
                 "collection_number": "330a",
                 "collection_total": "25/42",
@@ -453,7 +453,7 @@
             "id": "11753a",
             "amount": 1,
             "front": {
-                "copyright": "\u00a9 2025 FFG",
+                "copyright": "© 2025 FFG",
                 "classes": [
                     "weakness"
                 ],
@@ -479,7 +479,7 @@
             "id": "11674",
             "amount": 1,
             "front": {
-                "copyright": "\u00a9 2025 FFG",
+                "copyright": "© 2025 FFG",
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcc.svg\">",
                 "collection_number": "174a",
                 "collection_total": "2/9",
@@ -498,7 +498,7 @@
             "id": "6f973b26-3eee-41b9-8626-47b937bc43ec",
             "amount": 2,
             "front": {
-                "copyright": "\u00a9 2017 FFG",
+                "copyright": "© 2017 FFG",
                 "classes": [
                     "seeker"
                 ],
