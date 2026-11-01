@@ -21,6 +21,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/core.svg\">",
                 "collection_number": "33",
                 "cost": "4",
+                "flavor_text": "<valign>\"While I truly pray that this nightmare is just a singular abomination, I must admit that I am exhilarated by the possibility that this is but one specimen of a new genus!\"",
                 "health": "1",
                 "icons": "I",
                 "illustration": "./img/ahc01-033 Dr. Milan Christopher-Anthony Devine.jpg",
@@ -168,7 +169,7 @@
                 "illustration_pan_y": 232.0,
                 "illustrator": "Illus. Mark Molnar",
                 "level": "0",
-                "text": "Forbidden. Max 1 committed per skill test.\nDouble the difficulty of this skill test. If this skill test is successful, resolve the effects of the successful test twice.",
+                "text": "Forbidden.\nMax 1 committed per skill test.\nDouble the difficulty of this skill test. If this skill test is successful, resolve the effects of the successful test twice.",
                 "traits": "Fortune.",
                 "type": "skill"
             },
@@ -188,7 +189,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
                 "collection_number": "29",
                 "cost": "1",
-                "flavor_text": "The wax tapers give off an eerie glow, and the flames move as if they are alive.",
+                "flavor_text": "The wax tapers give off an eerie glow, and the flames move as if they are alive.<valign>",
                 "icons": "W",
                 "illustration": "./img/ahc02-029 Ritual Candles - Kristina Gehrmann.png",
                 "illustration_pan_x": 48.0,
@@ -247,11 +248,11 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
                 "collection_number": "111",
                 "cost": "1",
-                "flavor_text": "Some things, once seen, can't be unseen.<br> <br> <br> ",
+                "flavor_text": "Some things, once seen, can't be unseen.<br><br> ",
                 "illustration": "./img/ahc02-111 Delve Too Deep - Anders Finér (not Jessie Calderon_).jpg",
                 "illustrator": "Illus. Anders Finér",
                 "level": "0",
-                "text": "Mutated.\nIn player order, each investigator draws 1 card from the top of the encounter deck. Then, add <name> to the victory display.\nGroup limit 2 copies of <name> in the victory display.<br> ",
+                "text": "Mutated.\nIn player order, each investigator draws 1 card from the top of the encounter deck. Then, add <name> to the victory display. (Max. 2 copies of <name> in the victory display.)",
                 "traits": "Insight.",
                 "type": "event",
                 "victory": "Victory 1."
@@ -309,7 +310,7 @@
                 "slots": [
                     "hands"
                 ],
-                "text": "Mutated. Uses (3 ammo).\n<action> Spend 1 ammo: <b>Fight.</b> You get +3 [combat] and deal +2 damage for this attack. This attack may target a non-<t>Elite</t> enemy up to one location away from its standard range, ignoring the aloof and retaliate keywords. Cannot be used to attack enemies engaged with you.",
+                "text": "Mutated. Uses (3 ammo).\n<action> Spend 1 ammo: <b>Fight ([combat]).</b> You get +3 [combat] and deal +2 damage for this attack. This attack may target a non-<t>Elite</t> enemy up to one location away from its standard range, ignoring the aloof and retaliate keywords. Cannot be used to attack enemies engaged with you.",
                 "traits": "Item. Weapon. Firearm.",
                 "type": "asset"
             },
@@ -363,7 +364,7 @@
                 "illustrator": "Illus. Tiziano Baracchi",
                 "level": "4",
                 "subtitle": "Acidic Ichor",
-                "text": "Mutated. Researched. Uses (3 supplies).\n<action> Spend 1 supply: <b>Fight.</b> Attack with a base [combat] skill of 6. This attack deals +1 damage.",
+                "text": "Mutated. Researched. Uses (3 supplies).\n<action> Spend 1 supply: <b>Fight ([combat]).</b> Attack with a base [combat] skill of 6. This attack deals +1 damage.",
                 "traits": "Item. Science.",
                 "type": "asset"
             },
@@ -384,9 +385,9 @@
                 "collection_number": "266",
                 "cost": "0",
                 "illustration": "./img/ahc02-266 Ace in the Hole - narrow - bright - export - John Pacer.png",
-                "illustration_pan_x": 88.0,
+                "illustration_pan_x": 71.0,
                 "illustration_pan_y": 63.0,
-                "illustration_scale": 1.0,
+                "illustration_scale": 1.01,
                 "illustrator": "Illus. John Pacer",
                 "level": "3",
                 "text": "Mutated. Exceptional. Fast. Play only during your turn.\nYou may take an additional 3 actions this turn. (Max once per round.)",
@@ -421,7 +422,7 @@
                     "accessory"
                 ],
                 "subtitle": "Gift of the Homunculi",
-                "text": "Mutated.\nAfter a symbol is revealed during a skill test at your location, exhaust <name>: Draw 1 card or gain 2 resources.",
+                "text": "Mutated.\n<reaction> After a symbol is revealed during a skill test at your location, exhaust <name>: Draw 1 card or gain 2 resources.",
                 "traits": "Item. Relic.",
                 "type": "asset"
             },
@@ -448,7 +449,7 @@
                 "illustration_scale": 1.24,
                 "illustrator": "Illus. Henning Ludvigsen",
                 "level": "5",
-                "text": "Unchained (-2 experience).\n<b>Fight.</b> If this attack succeeds against a non-<t>Elite</t> enemy, defeat that enemy.",
+                "text": "Unchained (-2 experience).\n<b>Fight ([combat]).</b> If this attack succeeds against a non-<t>Elite</t> enemy, defeat that enemy.",
                 "traits": "Spirit.",
                 "type": "event"
             },
@@ -502,8 +503,8 @@
                         "2 copies of Improvisation, 2 copies of Crisis of Identity, 1 random basic weakness."
                     ],
                     [
-                        "<b>Deckbuilding Restrictions:</b>",
-                        "Your deck must include at least 7 cards each from 3 different classes (<survivor>, <guardian>, <seeker>, <rogue>, or <mystic>)."
+                        "<b>Additional Requirements:</b>",
+                        "Your deck must include at least 7 cards each from 3 different classes."
                     ],
                     [
                         "<b>Additional Setup:</b>",
@@ -516,7 +517,7 @@
                 "illustration_pan_y": 38.0,
                 "illustration_rotation": -8,
                 "illustration_scale": 0.26,
-                "text": "\n<b>Deck Size</b>: 35.\n<b>Deckbuilding Options</b>: Survivor, Guardian, Seeker, Rogue, and Mystic cards (<survivor>, <guardian>, <seeker>, <rogue>, and <mystic>) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 2 copies of Improvisation, 2 copies of Crisis of Identity, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include at least 7 cards each from 3 different classes (<survivor>, <guardian>, <seeker>, <rogue>, or <mystic>).\n<b>Additional Setup</b>: After you draw your opening hand, choose a role (<survivor>, <guardian>, <seeker>, <rogue>, <mystic>, or Neutral).",
+                "text": "<b>Deck Size:</b> 35\n<b>Deckbuilding Options:</b> Survivor, Guardian, Seeker, Rogue, and Mystic cards (<survivor>, <guardian>, <seeker>, <rogue>, and <mystic>) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 2 copies of Improvisation, 2 copies of Crisis of Identity, 1 random basic weakness.\n<b>Additional Requirements:</b> Your deck must include at least 7 cards each from 3 different classes.\n<b>Additional Setup:</b> After you draw your opening hand, choose a role (<survivor>, <guardian>, <seeker>, <rogue>, <mystic>, or Neutral).",
                 "type": "investigator_back"
             }
         },
@@ -531,7 +532,7 @@
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/ptc.svg\">",
                 "collection_number": "19",
-                "flavor_text": "\"I've played so many roles. Madness is to be expected.\"<br> ",
+                "flavor_text": "<valign>\"I've played so many roles. Madness is to be expected.\"",
                 "illustration": "./img/ahc11-019 Crisis of Identity - Matt Bradbury.png",
                 "illustration_pan_x": 103.0,
                 "illustration_pan_y": 71.0,
@@ -559,9 +560,9 @@
                 "cost": "1",
                 "icons": "IA",
                 "illustration": "./img/ahc11-029 Sleight of Hand - export - tall - Ilich Henriquez.png",
-                "illustration_pan_x": 60.0,
+                "illustration_pan_x": 70.0,
                 "illustration_pan_y": 46.0,
-                "illustration_scale": 1.0,
+                "illustration_scale": 1.01,
                 "illustrator": "Illus. Ilich Henriquez",
                 "level": "0",
                 "text": "Mutated. Fast. Play only during your turn.\nPut a level 0-3 <t>Item</t> asset into play from your hand. At the end of your turn, if that asset is still in play, return it to your hand.",
@@ -652,12 +653,12 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
                 "collection_number": "32",
                 "cost": "1",
-                "flavor_text": "The secrets were written in the stars.",
+                "flavor_text": "<valign>The secrets were written in the stars.",
                 "icons": "WA",
                 "illustration": "./img/ahc19-032 Dark Prophecy - Alice Duke.png",
                 "illustration_pan_x": 70.0,
                 "illustration_pan_y": 28.0,
-                "illustration_scale": 2.0,
+                "illustration_scale": 2.04,
                 "illustrator": "Illus. Alice Duke",
                 "level": "0",
                 "text": "Mutated. Fast. Play when you would reveal a chaos token.\nReveal 5 chaos tokens instead of 1. Choose one of those tokens with a non-<elder_sign> symbol to resolve, and ignore the rest. (If no such token is revealed, choose any one of those tokens to resolve, and ignore the rest.)",
@@ -707,10 +708,10 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
                 "collection_number": "110",
                 "cost": "2",
-                "flavor_text": "\"Not on my watch.\"",
+                "flavor_text": "<valign>\"Not on my watch.\"",
                 "icons": "WI",
                 "illustration": "./img/ahc19-110 Counterspell - export - Matthew Cowdery.png",
-                "illustration_pan_x": 34.0,
+                "illustration_pan_x": 50.0,
                 "illustration_pan_y": 59.0,
                 "illustration_scale": 1.019,
                 "illustrator": "Illus. Matthew Cowdery",
@@ -769,9 +770,10 @@
                 "illustrator": "Illus. Jose Vega",
                 "level": "5",
                 "slots": [
-                    "hands"
+                    "hands",
+                    "body"
                 ],
-                "text": "Chained (+1 experience).\nUses (4 ammo).\n<action> Spend 1 ammo: <b>Fight.</b> The enemy chosen for this attack must be the enemy engaged with you with the highest fight. You get +4 [combat] for this attack. If this attack is successful, instead of its standard damage, you may assign up to 4 damage among enemies engaged with you <i>(any additional damage adds to this total)</i>.",
+                "text": "Chained (+1 experience).\nUses (4 ammo).\n<action> Spend 1 ammo: <b>Fight ([combat]).</b> The enemy chosen for this attack must be the enemy engaged with you with the highest fight. You get +4 [combat] for this attack. If this attack is successful, instead of its standard damage, you may assign up to 4 damage among enemies engaged with you <i>(any additional damage adds to this total)</i>.",
                 "traits": "Item. Weapon. Firearm.",
                 "type": "asset"
             },
@@ -816,7 +818,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "collection_number": "20",
                 "cost": "2",
-                "flavor_text": "He was hiding something… but why?",
+                "flavor_text": "<valign>He was hiding something… but why?",
                 "icons": "IC",
                 "illustration": "./img/ahc29-020 Interrogate - John Pacer.jpg",
                 "illustration_pan_x": 0.0,
@@ -848,7 +850,7 @@
                 "illustration": "./img/ahc29-113 Banish - Stephen Somers.jpg",
                 "illustrator": "Illus. Stephen Somers",
                 "level": "1",
-                "text": "Mutated.\n<b>Evade.</b> Use only on a non-<t>Elite</t> enemy. This evasion attempt uses [willpower] instead of [agility]. If you succeed, move the enemy just evaded to any location in play. If you succeed and a symbol was revealed during this evasion attempt, that enemy does not ready during the next upkeep phase.",
+                "text": "Mutated.\n<b>Evade ([willpower]).</b> Use only on a non-<t>Elite</t> enemy. If you succeed, move the enemy just evaded to any location in play. If you succeed and a symbol was revealed during this evasion attempt, that enemy does not ready during the next upkeep phase.",
                 "traits": "Spell.",
                 "type": "event"
             },
@@ -900,7 +902,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "collection_number": "153",
                 "cost": "3",
-                "flavor_text": "\"Are you sure you want to know? There is no going back.\"",
+                "flavor_text": "<valign>\"Are you sure you want to know? There is no going back.\"",
                 "health": "2",
                 "icons": "W",
                 "illustration": "./img/ahc29-153 Mr. Rook - Romana Kendelic.png",
@@ -936,7 +938,7 @@
                 "cost": "2",
                 "icons": "AA",
                 "illustration": "./img/ahc29-156 Swift Reflexes - Miguel Coimbra.jpg",
-                "illustration_pan_x": -97.0,
+                "illustration_pan_x": -73.0,
                 "illustration_pan_y": 73.0,
                 "illustrator": "Illus. Miguel Coimbra",
                 "level": "0",
@@ -970,7 +972,7 @@
                 "slots": [
                     "arcane"
                 ],
-                "text": "Mutated.\n<action>: <b>Fight.</b> This attack uses [willpower] instead of [combat]. If a symbol token is revealed during this attack, the attacked enemy gets -1 fight and -1 evade for the remainder of the turn (to a minimum of 1).",
+                "text": "Mutated.\n<action>: <b>Fight ([willpower]).</b> If a symbol token is revealed during this attack, the attacked enemy gets -1 fight and -1 evade for the remainder of the turn (to a minimum of 1).",
                 "traits": "Spell.",
                 "type": "asset"
             },
@@ -1018,7 +1020,7 @@
                 "collection_number": "188",
                 "cost": "1",
                 "icons": "II",
-                "illustration": "./img/ahc29-116 Scroll of Secrets (Multiclass) - Matthew Cowdery.png",
+                "illustration": "./img/ahc29-188 Scroll of Secrets (Seeker) - Matthew Cowdery.png",
                 "illustration_pan_x": 63.0,
                 "illustration_pan_y": 190.0,
                 "illustration_scale": 2.06,
@@ -1048,7 +1050,7 @@
                 "collection_number": "189",
                 "cost": "1",
                 "icons": "WI",
-                "illustration": "./img/ahc29-116 Scroll of Secrets (Multiclass) - Matthew Cowdery.png",
+                "illustration": "./img/ahc29-189 Scroll of Secrets (Mystic) - Matthew Cowdery.png",
                 "illustration_pan_x": 63.0,
                 "illustration_pan_y": 190.0,
                 "illustration_scale": 2.06,
@@ -1079,9 +1081,9 @@
                 "cost": "3",
                 "icons": "ICA",
                 "illustration": "./img/ahc29-230 Telescopic Sight - export - Tiziano Baracchi.png",
-                "illustration_pan_x": 67.0,
+                "illustration_pan_x": 70.0,
                 "illustration_pan_y": 51.0,
-                "illustration_scale": 1.0,
+                "illustration_scale": 1.01,
                 "illustrator": "Illus. Tiziano Baracchi",
                 "level": "3",
                 "text": "Mutated. Fast. Attach to a <t>Firearm</t> asset you control that takes up two hand slots.\nWhen you perform a <b>Fight</b> action using attached asset, if you are engaged with no enemies, exhaust Telecopic Sight: This attack can target a non-<t>Elite</t> enemy at a connecting location. Ignore the aloof and retaliate keywords for this attack.",
@@ -1104,14 +1106,14 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "collection_number": "231",
                 "cost": "0",
-                "flavor_text": "... and power corrupts.",
+                "flavor_text": "<valign>... and power corrupts.",
                 "icons": "WI",
                 "illustration": "./img/ahc29-231 Knowledge is Power-wide - Michal Milkowski.png",
                 "illustration_pan_x": 0.0,
                 "illustration_pan_y": -34.0,
                 "illustrator": "Illus. Michal Milkowski",
                 "level": "0",
-                "text": "Chained (+2 experience).\nFast. Play only during your turn.\nChoose a <t>Tome</t> or <t>Spell</t> asset you control, or reveal a <t>Tome</t> or <t>Spell</t> asset from your hand. Resolve an <action> or <free> ability on that asset, ignoring all costs <i>(including its <action> cost, if any)</i>. Then, if that asset was in your hand, you may discard it to draw 1 card.",
+                "text": "Chained (+2 experience). Fast. Play only during your turn.\nChoose a <t>Tome</t> or <t>Spell</t> asset you control, or reveal a <t>Tome</t> or <t>Spell</t> asset from your hand. Resolve an <action> or <free> ability on that asset, ignoring all costs <i>(including its <action> cost, if any)</i>. Then, if that asset was in your hand, you may discard it to draw 1 card.",
                 "traits": "Insight.",
                 "type": "event"
             },
@@ -1141,7 +1143,7 @@
                 "slots": [
                     "arcane"
                 ],
-                "text": "Mutated.\n<action>: <b>Fight.</b> This attack uses [willpower] instead of [combat]. You get +2 [willpower] for this attack. If a symbol token is revealed during this attack, the attacked enemy gets -1 fight, -1 health, and -1 evade until the end of the phase (to a minimum of 1).",
+                "text": "Mutated.\n<action>: <b>Fight ([willpower]).</b> You get +2 [willpower] for this attack. If a symbol token is revealed during this attack, the attacked enemy gets -1 fight, -1 health, and -1 evade until the end of the phase (to a minimum of 1).",
                 "traits": "Spell.",
                 "type": "asset"
             },
@@ -1163,7 +1165,7 @@
                 "cost": "2",
                 "icons": "QQ",
                 "illustration": "./img/ahc29-324 Eucatastrophe - Julian Kok.png",
-                "illustration_pan_x": 39.0,
+                "illustration_pan_x": 49.0,
                 "illustration_pan_y": 20.0,
                 "illustration_scale": 2.06,
                 "illustrator": "Illus. Julian Kok",
@@ -1195,7 +1197,7 @@
                 "illustration_fade_mode": "distance",
                 "illustration_pan_x": -25.0,
                 "illustration_pan_y": 310.0,
-                "illustration_scale": 1.24,
+                "illustration_scale": 1.25,
                 "illustration_shape": "./img/Mandy Thompson - Mask.jpg",
                 "illustrator": "Illus. Tony Foti",
                 "intellect": "5",
@@ -1287,7 +1289,7 @@
                 "slots": [
                     "hands"
                 ],
-                "text": "Mutated. Uses (5 ammo).\n<action> Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack.  If a chaos token with a non-negative modifier is revealed during this attack, this attack deals +2 damage.",
+                "text": "Mutated. Uses (5 ammo).\n<action> Spend 1 ammo: <b>Fight ([combat]).</b> You get +2 [combat] for this attack.  If a chaos token with a non-negative modifier is revealed during this attack, this attack deals +2 damage.",
                 "traits": "Item. Weapon. Firearm.",
                 "type": "asset"
             },
@@ -1522,7 +1524,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
                 "collection_number": "301",
                 "cost": "3",
-                "flavor_text": "Even in the deepest darkness, light can still bloom.",
+                "flavor_text": "<valign>Even in the deepest darkness, light can still bloom.",
                 "icons": "WQ",
                 "illustration": "./img/ahc52-301 Hallow - Romana Kendelic.jpg",
                 "illustration_pan_x": -71.0,
@@ -1552,12 +1554,12 @@
                 "cost": "0",
                 "icons": "Q",
                 "illustration": "./img/ahc52-308 Rite of Equilibrium - export - maybe extended - Adam S Doyle.png",
-                "illustration_pan_x": 77.0,
+                "illustration_pan_x": 70.0,
                 "illustration_pan_y": 60.0,
-                "illustration_scale": 1.0,
+                "illustration_scale": 1.01,
                 "illustrator": "Illus. Adam S. Doyle",
                 "level": "5",
-                "text": "Unchained (-2 experience).\nEither (choose one):\n- Add X <curse> tokens to the chaos bag to add X <blessing> tokens to the chaos bag.\n- Remove X <curse> and X <blessing> tokens from the chaos bag to heal X total horror from among cards at your location.",
+                "text": "Unchained (-2 experience).\nEither (choose one):\n- Add X <curse> tokens to the chaos bag to add X <blessing> tokens to the chaos bag.\n<margin 15>\n- Remove X <curse> and X <blessing> tokens from the chaos bag to heal X total horror from among cards at your location.",
                 "traits": "Spell. Blessed. Cursed.",
                 "type": "event"
             },
@@ -1694,14 +1696,15 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
                 "collection_number": "76",
                 "cost": "1",
+                "flavor_text": "<valign><b>Card designed by the Council-in-Exile at Gen Con 2020</b>",
                 "icons": "Q",
                 "illustration": "./img/ahc63-076 Burn After Reading (Ian Hardaway) - Romana Kendelic.jpg",
-                "illustration_pan_x": 84.0,
+                "illustration_pan_x": 71.0,
                 "illustration_pan_y": 77.0,
                 "illustration_scale": 2.504,
                 "illustrator": "Illus. Romana Kendelic",
                 "level": "1",
-                "text": "Forbidden.\nExile a level 0-5 card in your hand. Discover 2 clues at your location. If the exiled card was level 2 or higher, remove 1 doom from the current agenda. Exile <name>.\n<b>Card designed by the Council-in-Exile at Gen Con 2020</b>",
+                "text": "Forbidden.\nExile a level 0-5 card in your hand. Discover 2 clues at your location. If the exiled card was level 2 or higher, remove 1 doom from the current agenda. Exile <name>.",
                 "traits": "Insight.",
                 "type": "event"
             },
@@ -1732,7 +1735,7 @@
                 "slots": [
                     "hands"
                 ],
-                "text": "Mutated.\n<action>: <b>Fight.</b> Add your [willpower] to your skill value for this attack. You deal +1 damage for this attack. If you succeed and the enemy is non-<t>Elite</t>, you may move it one location away from you. (If you succeed by 3 or more, you may exhaust <name> to instead deal +2 damage and may move the enemy up to two locations away from you.)",
+                "text": "Mutated.\n<action>: <b>Fight ([combat]).</b> Add your [willpower] to your skill value for this attack. You deal +1 damage for this attack. If you succeed and the enemy is non-<t>Elite</t>, you may move it one location away from you. (If you succeed by 3 or more, you may exhaust <name> to instead deal +2 damage and may move the enemy up to two locations away from you.)",
                 "traits": "Item. Relic. Weapon. Melee.",
                 "type": "asset"
             },
@@ -1887,7 +1890,7 @@
                 "slots": [
                     "hands"
                 ],
-                "text": "Customizable. Uses (4 charges). Replenish 1 of these charges at the start of each round.\n<action>: <b>Fight.</b> You get +1 [combat] for this attack. Before this attack, you may spend any number of charges to imbue the axe with that many different inscriptions --\n- <i>Accuracy</i> -- You get an additional +2 [combat] for this attack.\n- <i>Power</i> -- This attack deals +1 damage.",
+                "text": "Customizable. Uses (4 charges). Replenish 1 of these charges at the start of each round.\n<action>: <b>Fight ([combat]).</b> You get +1 [combat] for this attack. Before this attack, you may spend any number of charges to imbue the axe with that many different inscriptions --\n- <i>Accuracy</i> -- You get an additional +2 [combat] for this attack.\n- <i>Power</i> -- This attack deals +1 damage.",
                 "traits": "Item. Weapon. Melee.",
                 "type": "asset"
             },
@@ -1913,7 +1916,7 @@
                 "illustration_pan_y": 248.0,
                 "illustration_scale": 1.96,
                 "illustrator": "Illus. Isuardi Therianto",
-                "level": "0",
+                "level": "None",
                 "text": "Mutated. Customizable. Limit 1 per investigator.\n<for> At the start of the round: Choose one of the following criteria for this round\n- You fail a test by 2 or more.\n- You succeed at a test by 3 or more.\nWhen the chosen criteria is met, you may exhaust <name> to add 1 evidence to it.\n<free> Spend 1 evidence: Draw 1 card. (Limit twice per round.)",
                 "traits": "Talent. Science.",
                 "type": "asset"
@@ -1978,7 +1981,7 @@
                     "ally"
                 ],
                 "subtitle": "O'Bannion Driver",
-                "text": "Mutated. <reaction> When you play a <t>Tactic</t> or <t>Trick</t> event, exhaust <name>: Choose one -\n- That event gains: \"Fast. Play only during your turn.\"\n- That event costs 2 fewer resources to play.\n- You get +2 skill value while performing a skill test during the resolution of that event.",
+                "text": "Mutated.\n<reaction> When you play a <t>Tactic</t> or <t>Trick</t> event, exhaust <name>: Choose one -\n- That event gains: „Fast. Play only during your turn.\"\n<margin 15>\n- That event costs 2 fewer resources to play.\n<margin 15>\n- You get +2 skill value while performing a skill test during the resolution of that event.",
                 "traits": "Ally. Criminal.",
                 "type": "asset"
             },
@@ -2030,7 +2033,7 @@
                 "illustration_scale": 2.038,
                 "illustrator": "Illus. Anders Finer",
                 "level": "None",
-                "text": "Mutated. Customizable. Fast. Play only during your turn.\nAttach to a non-<t>Elite</t> enemy at your location.\n<action> If attached enemy is at your location: <b>Parley.</b> Test [willpower] (2). If you succeed, give it a command (limit once per round per command) --\n <bullet> \"Go.\" This enemy moves once in a direction of your choice.",
+                "text": "Mutated. Customizable. Fast. Play only during your turn.\nAttach to a non-<t>Elite</t> enemy at your location.\n<action> If attached enemy is at your location: <b>Parley.</b> Test [willpower] (2). If you succeed, give it a command (limit once per round per command) --\n <bullet> \"<i>Go.</i>\" This enemy moves once in a direction of your choice.",
                 "traits": "Spell.",
                 "type": "event"
             },
@@ -2084,7 +2087,7 @@
                 "slots": [
                     "hand"
                 ],
-                "text": "Chained (+1 experience).\nUses (3 keys). If there are no keys on <name>, discard it.\n<action>: <b>Investigate.</b> Your location gets -2 shroud for this investigation. If you succeed, remove 1 key from <name>, and if this test's difficulty is 0, you discover 1 additional clue.",
+                "text": "Chained (+1 experience).\nUses (3 keys). If there are no keys on <name>, discard it.\n<action>: <b>Investigate ([intellect]).</b> Your location gets -2 shroud for this investigation. If you succeed, remove 1 key from <name>, and if this test's difficulty is 0, you discover 1 additional clue.",
                 "traits": "Item. Tool.",
                 "type": "asset"
             },
@@ -2104,10 +2107,10 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
                 "collection_number": "26",
                 "cost": "1",
-                "flavor_text": "\"H-hands where I can see 'em!\"",
+                "flavor_text": "<valign>\"H-hands where I can see 'em!\"",
                 "icons": "CA",
                 "illustration": "./img/ahc76-026 Hold Up - Robert Laskey.jpg",
-                "illustration_pan_x": 96.0,
+                "illustration_pan_x": 68.0,
                 "illustration_pan_y": 77.0,
                 "illustration_scale": 1.4,
                 "illustrator": "Illus. Rob Laskey",
@@ -2132,15 +2135,15 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
                 "collection_number": "30",
                 "cost": "1",
-                "flavor_text": "Keep your eyes on the target.",
+                "flavor_text": "<valign>Keep your eyes on the target.",
                 "icons": "IC",
                 "illustration": "./img/ahc76-030 Hand-Eye Coordination - export - Romana Kendelic.png",
-                "illustration_pan_x": 60.0,
+                "illustration_pan_x": 70.0,
                 "illustration_pan_y": 47.0,
-                "illustration_scale": 1.0,
+                "illustration_scale": 1.01,
                 "illustrator": "Illus. Romana Kendelic",
                 "level": "1",
-                "text": "Mutated. Fast. Play only during your turn.\nResolve an <action> ability on a level 0-3 <t>Tool</t> or <t>Weapon</t> asset you control, ignoring all costs.\n",
+                "text": "Mutated. Fast. Play only during your turn.\nResolve an <action> ability on a level 0-3 <t>Tool</t> or <t>Weapon</t> asset you control, ignoring all costs.",
                 "traits": "Insight.",
                 "type": "event"
             },
@@ -2337,7 +2340,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
                 "collection_number": "31",
                 "cost": "2",
-                "flavor_text": "They called Sister Sofia the \"hand of God\" for a very good reason.",
+                "flavor_text": "<valign>They called Sister Sofia the \"hand of God\" for a very good reason.",
                 "icons": "CA",
                 "illustration": "./img/ahc83-031 Quick Shot - Gabrielle Portal.jpg",
                 "illustration_pan_x": -7.0,
@@ -2345,7 +2348,7 @@
                 "illustration_scale": 0.95,
                 "illustrator": "Illus. Gabby Portal",
                 "level": "3",
-                "text": "Unchained (-2 experience).\nMyriad. Fast. Play only during your turn.\nDeal 1 damage to an enemy at your location.\n<reaction> After you draw <name> during your turn: Play it, reducing its resource cost by 2.",
+                "text": "Unchained (-2 experience). Myriad. Fast. Play only during your turn.\nDeal 1 damage to an enemy at your location.\n<reaction> After you draw <name> during your turn: Play it, reducing its resource cost by 2.",
                 "traits": "Spirit.",
                 "type": "event"
             },
@@ -2372,7 +2375,7 @@
                 "illustration_scale": 2.15,
                 "illustrator": "Illus. Diego Gisbert",
                 "level": "0",
-                "text": "Chained (+1 experience).\n<b>Evade.</b> Add your [combat] value to your skill value for this evasion attempt. If you succeed by 2 or more, deal that enemy 1 damage. If that enemy is non-<t>Elite</t>, you may move it to a connecting location.",
+                "text": "Chained (+1 experience).\n<b>Evade ([agility]).</b> Add your [combat] value to your skill value for this evasion attempt. If you succeed by 2 or more, deal that enemy 1 damage. If that enemy is non-<t>Elite</t>, you may move it to a connecting location.",
                 "traits": "Tactic. Trick.",
                 "type": "event"
             },
@@ -2426,9 +2429,9 @@
                 "cost": "1",
                 "icons": "Q",
                 "illustration": "./img/ahc83-071 Spectral Shield - export - David Hovey.png",
-                "illustration_pan_x": 78.0,
+                "illustration_pan_x": 70.0,
                 "illustration_pan_y": 63.0,
-                "illustration_scale": 1.0,
+                "illustration_scale": 1.01,
                 "illustrator": "Illus. David Hovey",
                 "level": "0",
                 "text": "Mutated. Fast. Play only during your turn. Attach to a player card with health and/or sanity at your location.\n<for> The first time attached card takes 1 or more damage/horror each round: Cancel 1 of that damage/horror. The owner of <name> must remove 1 charge from an asset they control. If they cannot, discard <name>.",
@@ -2479,7 +2482,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
                 "collection_number": "117",
                 "cost": "4",
-                "flavor_text": "\"'Publish or Perish,' they said. Perhaps we'll do both.\"",
+                "flavor_text": "<valign>\"'Publish or Perish,' they said. Perhaps we'll do both.\"",
                 "health": "2",
                 "icons": "IQ",
                 "illustration": "./img/ahc83-117 Archibald MacVeigh - Alexandre Dainche.jpg",
@@ -2558,7 +2561,7 @@
             "id": "60233-t",
             "amount": 2,
             "front": {
-                "copyright": "© 2019 FFG",
+                "copyright": "© 2020 FFG",
                 "classes": [
                     "seeker"
                 ],
@@ -2595,7 +2598,7 @@
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/winifred.svg\">",
                 "collection_number": "18",
-                "flavor_text": "\"You're a maniac, Wini!\"\n\"I know! Isn't it wonderful?\"",
+                "flavor_text": "<valign>\"You're a maniac, Wini!\"<br>\"I know! Isn't it wonderful?\"",
                 "icons": "Q",
                 "illustration": "./img/60318-t.png",
                 "illustration_pan_x": 38.0,
@@ -2603,7 +2606,7 @@
                 "illustration_scale": 2.05,
                 "illustrator": "Illus. Borja Pindado",
                 "level": "0",
-                "text": "Mutated. After you commit <name> to a skill test, discard cards from the top of your deck until you discard a <rogue> skill you can commit to this test. Commit it. After this skill test resolves, draw each weakness discarded by this effect.",
+                "text": "Mutated.\nAfter you commit <name> to a skill test, discard cards from the top of your deck until you discard a <rogue> skill you can commit to this test. Commit it. After this skill test resolves, draw each weakness discarded by this effect.",
                 "traits": "Fortune. Practiced.",
                 "type": "skill"
             },
@@ -2630,7 +2633,7 @@
                 "illustration_scale": 2.0,
                 "illustrator": "Illus. Matt Bradbury",
                 "level": "3",
-                "text": "Unchained (-1 experience).\n<reaction> When you use a fight ability on a <t>Firearm</t> asset, exhaust <name>: Choose one, or both - \n- This attack uses [agility] instead of [combat]. All modifiers to your [combat] for this attack modify your [agility] instead.\n- Use the attacked enemy's evade value for this attack, instead of their fight value.",
+                "text": "Unchained (-1 experience).\n<reaction> When you use a fight ability on a <t>Firearm</t> asset, exhaust <name>: Choose one, or both - \n- This attack uses [agility] instead of [combat]. All modifiers to your [combat] for this attack modify your [agility] instead.\n<margin 15>\n- Use the attacked enemy's evade value for this attack, instead of their fight value.",
                 "traits": "Talent.",
                 "type": "asset"
             },
@@ -2664,7 +2667,7 @@
                     "ally"
                 ],
                 "subtitle": "O'Bannion Driver",
-                "text": "Mutated. <reaction> When you play a <t>Tactic</t> or <t>Trick</t> event, exhaust <name>: Choose two -\n- That event gains: \"Fast. Play only during your turn.\"\n- That event costs 2 fewer resources to play.\n- You get +2 skill value while performing a skill test during the resolution of that event.",
+                "text": "Mutated.\n<reaction> When you play a <t>Tactic</t> or <t>Trick</t> event, exhaust <name>: Choose two -\n- That event gains: „Fast. Play only during your turn.\"\n<margin 15>\n- That event costs 2 fewer resources to play.\n<margin 15>\n- You get +2 skill value while performing a skill test during the resolution of that event.",
                 "traits": "Ally. Criminal.",
                 "type": "asset"
             },
@@ -2677,7 +2680,7 @@
             "id": "60416-t",
             "amount": 2,
             "front": {
-                "copyright": "© 2019 FFG",
+                "copyright": "© 2020 FFG",
                 "classes": [
                     "mystic"
                 ],
@@ -2686,9 +2689,9 @@
                 "cost": "0",
                 "icons": "W",
                 "illustration": "./img/ahc50-016 Voice of Ra - Matt Bradbury.png",
-                "illustration_pan_x": 93.0,
+                "illustration_pan_x": 69.0,
                 "illustration_pan_y": 70.0,
-                "illustration_scale": 2.0,
+                "illustration_scale": 2.04,
                 "illustrator": "Illus. Matt Bradbury",
                 "level": "0",
                 "text": "Mutated.\nGain 1 resource. Reveal 3 random tokens from the chaos bag. For each symbol revealed, gain an additional 2 resources.",
@@ -2727,10 +2730,11 @@
             }
         },
         {
-            "name": "Power Word Upgrade Sheet",
+            "name": "Power Word (Upgrade Sheet)",
             "id": "09081-t-c",
             "amount": 2,
             "front": {
+                "name": "Power Word",
                 "checkbox_entries": [
                     [
                         1,
@@ -2773,6 +2777,7 @@
                         "You may include three copies of Power Word in your deck. When you give a command using one copy, also give that command to each other enemy with one of your copies of Power Word attached."
                     ]
                 ],
+                "text": "Mutated.\n",
                 "type": "customizable"
             },
             "back": {
@@ -2780,10 +2785,11 @@
             }
         },
         {
-            "name": "Runic Axe Upgrade Sheet",
+            "name": "Runic Axe (Upgrade Sheet)",
             "id": "09022-t-c",
             "amount": 2,
             "front": {
+                "name": "Runic Axe",
                 "checkbox_entries": [
                     [
                         1,
@@ -2826,6 +2832,7 @@
                         "For every charge spent, you may imbue the axe with up to two different inscriptions."
                     ]
                 ],
+                "text": "Mutated.\n",
                 "type": "customizable"
             },
             "back": {

@@ -2,7 +2,6 @@
     "id": "cafcaa9b-5090-489d-98da-e3964dd429ab",
     "cards": {
         "01033-t": {
-            "name": "Dr Milan Christopher",
             "front": {
                 "flavor_text": "\"Mam nadzieję, że ta koszmarna istota to jakiś pojedynczy wybryk natury, choć z drugiej strony, to ekscytujące, gdyby okazał się przedstawicielem nowego gatunku!\"",
                 "subtitle": "Profesor entomologii",
@@ -104,7 +103,7 @@
             "name": "Klejnot Aureolusa",
             "front": {
                 "subtitle": "Dar od homunkulusów",
-                "text": "Zmutowana.\nWyczerp <name> po tym, jak podczas testu umiejętności w twojej lokalizacji zostanie odkryty dowolny symbol: dobierasz 1 kartę lub zyskujesz 2 żetony zasobów.",
+                "text": "Zmutowana.\n<reaction> Wyczerp <name> po tym, jak podczas testu umiejętności w twojej lokalizacji zostanie odkryty dowolny symbol: dobierasz 1 kartę lub zyskujesz 2 żetony zasobów.",
                 "traits": "Przedmiot. Relikwia."
             }
         },
