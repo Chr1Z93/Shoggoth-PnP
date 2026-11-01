@@ -320,7 +320,7 @@
         "05321-t": {
             "name": "Welken",
             "front": {
-                "text": "Mutiert.\n<action>: <b>Fight ([willpower]).</b> Du bekommst für diesen Angriff +2 [willpower]. Falls ein Symbolmarker während dieses Angriffs enthüllt wird, bekommt der angegriffene Gegner bis zum Ende der Phase -1 Kampf, -1 Ausdauer und -1 Entkommen (bis zu einem Minimum von 1).",
+                "text": "Mutiert.\n<action>: <b>Kampf ([willpower]).</b> Du bekommst für diesen Angriff +2 [willpower]. Falls ein Symbolmarker während dieses Angriffs enthüllt wird, bekommt der angegriffene Gegner bis zum Ende der Phase -1 Kampf, -1 Ausdauer und -1 Entkommen (bis zu einem Minimum von 1).",
                 "traits": "Zauber."
             }
         },
@@ -767,7 +767,7 @@
         "11071-t": {
             "name": "Geisterhafter Schild",
             "front": {
-                "text": "Mutiert. Schnell. Spiele diese Karten nur in deinem Zug. Hänge diese Karte an eine Spielerkarte mit Ausdauer und/oder geistiger Gesundheit an deinem Ort an.\n<for> Sobald die Karte mit dieser Verstärkung zum ersten Mal in jeder Runde 1 oder mehr Schaden/Horror nimmt: Hebe 1 Schaden/Horror davon auf. Der Besitzer von <name> muss 1 Ladung von einer Vorteilskarte entfernen, die er kontrolliert. Falls er dies nicht kann, lege <name> ab.",
+                "text": "Mutiert. Schnell. Spiele diese Karte nur in deinem Zug. Hänge diese Karte an eine Spielerkarte mit Ausdauer und/oder geistiger Gesundheit an deinem Ort an.\n<for> Sobald die Karte mit dieser Verstärkung zum ersten Mal in jeder Runde 1 oder mehr Schaden/Horror nimmt: Hebe 1 Schaden/Horror davon auf. Der Besitzer von <name> muss 1 Ladung von einer Vorteilskarte entfernen, die er kontrolliert. Falls er dies nicht kann, lege <name> ab.",
                 "traits": "Zauber. Geist."
             }
         },
@@ -788,14 +788,14 @@
         "11118-t": {
             "name": "Büchereiausweis",
             "front": {
-                "text": "Mutiert. Nur für ein <t>Miskatonic</t>- oder <t>Gelehrter</t> -Deck. Dauerhaft. Nur 1 pro Deck.\n<free> Falls keine Vorteilskarte an <name> angehängt ist, erschöpfe in deinem Zug diese Karte: Hänge eine <t>Buch</t>-Vorteilskarte von deiner Hand an diese Karte an. Sie benötigt keine Handslots.\n<for> Sobald dein Zug endet: Lege eine hier angehängte Vorteilskarte unter dein Deck, außer du zahlst 1 Ressource.",
+                "text": "Mutiert. Nur für ein <t>Miskatonic</t>- oder <t>Gelehrter</t>-Deck. Dauerhaft. Nur 1 pro Deck.\n<free> Falls keine Vorteilskarte an <name> angehängt ist, erschöpfe in deinem Zug diese Karte: Hänge eine <t>Buch</t>-Vorteilskarte von deiner Hand an diese Karte an. Sie benötigt keine Handslots.\n<for> Sobald dein Zug endet: Lege eine hier angehängte Vorteilskarte unter dein Deck, außer du zahlst 1 Ressource.",
                 "traits": "Gegenstand. Miskatonic."
             }
         },
         "11120-t": {
             "name": "Auf den Fersen",
             "front": {
-                "text": "Mutiert.\nNur für ein <t>Detective</t>-, <t>Jäger</t>-, <t>Polizei</t>- oder <t>Reporter</t>-Deck.\nNur 1 pro Ermittler. Anwendungen (5 Spuren).\nFalls auf dieser Karte keine Spuren liegen, lege sie ab.\n<reaction> Nachdem du einen Ort mit 1 oder mehr Gegner betreten hast, gib 1 Spur aus und erschöpfe <name>: Entdecke entweder 1 Hinweis an deinem Ort oder füge einem Gegner an deinem Ort 1 Schaden zu."
+                "text": "Mutiert.\nNur für ein <t>Detective</t>-, <t>Jäger</t>-, <t>Polizei</t>- oder <t>Reporter</t>-Deck.\nNur 1 pro Ermittler. Anwendungen (5 Spuren).\nFalls auf dieser Karte keine Spuren liegen, lege sie ab.\n<reaction> Nachdem du einen Ort mit 1 oder mehr Gegnern betreten hast, gib 1 Spur aus und erschöpfe <name>: Entdecke entweder 1 Hinweis an deinem Ort oder füge einem Gegner an deinem Ort 1 Schaden zu."
             }
         },
         "60233-t": {
