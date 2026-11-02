@@ -528,6 +528,7 @@
         "09022-t-c": {
             "name": "Runiczny topór (Upgrade Sheet)",
             "front": {
+                "name": "Runiczny topór",
                 "checkbox_entries": [
                     [
                         1,
