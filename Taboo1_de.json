@@ -44,11 +44,11 @@
                     ],
                     [
                         "<b>Deckbau-Einschränkungen:</b>",
-                        "Keine <t>Glücksfall</t> Karten."
+                        "Keine <t>Glücksfall</t>-Karten."
                     ]
                 ],
                 "flavor_text": "Wenn etwas Schreckliches passiert, ist <name> in der Regel sofort zur Stelle und nimmt dabei sämtliche Konsequenzen in Kauf. Nach einem Tag mit Rex gibt selbst der größte Skeptiker zu, dass dieser Mann verflucht ist. Immer wenn er einer großen Geschichte auf der Spur ist, geht etwas schief. Diese Sache in Innsmouth mit den Fotografien, die aufs Meer hinausgeweht wurden. Die Spuren in Dunwich, die der Regen fortgewaschen hatte, kurz bevor der Sheriff eingetroffen war. Sein fürchterliches Pech hat ihn mehr als ein Mal in Berührung mit scheußlichen Kreaturen und okkulten Verschwörungen gebracht. Um zu überleben, hat Rex eine Wissbegier entwickelt, mit der er hofft, der nächsten Katastrophe einen Schritt voraus sein zu können.",
-                "text": "<b>Deckgröße:</b> 30\n<b>Deckbau-Optionen:</b> Sucherkarten (<seeker>) Stufe 0-5, Neutrale Karten Stufe 0-5, bis zu fünf andere Karten der Stufe 0 beliebiger anderer Klassen (<guardian>, <rogue>, <mystic> und/oder <survivor>).\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): Suche nach der Wahrheit, Rex' Fluch, 1 zufällige Grundschwäche.\n<b>Deckbau-Einschränkungen:</b> Keine <t>Glücksfall</t> Karten."
+                "text": "<b>Deckgröße:</b> 30\n<b>Deckbau-Optionen:</b> Sucherkarten (<seeker>) Stufe 0-5, Neutrale Karten Stufe 0-5, bis zu fünf andere Karten der Stufe 0 beliebiger anderer Klassen (<guardian>, <rogue>, <mystic> und/oder <survivor>).\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): Suche nach der Wahrheit, Rex' Fluch, 1 zufällige Grundschwäche.\n<b>Deckbau-Einschränkungen:</b> Keine <t>Glücksfall</t>-Karten."
             }
         },
         "02026-t": {
@@ -135,7 +135,7 @@
             "front": {
                 "flavor_text": "Vielleicht wird dies ihr großes Comeback.",
                 "subtitle": "Die Schauspielerin",
-                "text": "Mutiert.\nDu kannst nur neutrale Karten und Karten deiner Rolle spielen oder beitragen und Fähigkeiten auf neutralen Karten deiner Rolle auslösen.\n<free>: Wechsle deine Rolle. (Nur ein Mal pro Runde.)\n<action>: Wechsle deine Rolle. Dies provoziert keine Gelegenheitsangriffe.\n<elder_sign>-Effekt: +2. Du darfst deine Rolle wechseln."
+                "text": "Mutiert.\nDu kannst nur neutrale Karten und Karten deiner Rolle spielen oder beitragen und Fähigkeiten auf neutralen Karten oder Karten deiner Rolle auslösen.\n<free>: Wechsle deine Rolle. (Nur ein Mal pro Runde.)\n<action>: Wechsle deine Rolle. Dies provoziert keine Gelegenheitsangriffe.\n<elder_sign>-Effekt: +2. Du darfst deine Rolle wechseln."
             },
             "back": {
                 "entries": [
@@ -157,11 +157,11 @@
                     ],
                     [
                         "<b>Zusätzliche Vorbereitung:</b>",
-                        "Nachdem du deine Starthand gezogen hast: Wähle eine Rolle (<survivor>, <guardian>, <seeker>, <rogue>, <mystic> or Neutral)."
+                        "Nachdem du deine Starthand gezogen hast: Wähle eine Rolle (<survivor>, <guardian>, <seeker>, <rogue>, <mystic> oder Neutral)."
                     ]
                 ],
-                "flavor_text": "Lola hat in ausverkauften Häusern auf der ganzen Welt gespielt, aber noch kein Stück hat sie so aufgewühlt oder war so merkwürdig wie Der König in Gelb. Schon bei den Proben brachte es nur Unheil und Schrecken. Als ihre Schauspielkollegin Miriam tot in der Seine treibend aufgefunden wurde, beschloss sie genug davon zu haben und schrieb einen Brief an den Regisseuer, in dem sie ankündigte, dass die nächste Vorstellug ihre letzte sein würde. Nun ist sie für diese letzte Aufführung zurück in ihre Heimat Arkham gekommen, in der Hoffnung, hier endlich dieses fürchterliche Stück hinter sich zu lassen.",
-                "text": "<b>Deckgröße:</b> 35\n<b>Deckbau-Optionen:</b> Überlebender-, Wächter-, Sucher-, Schurken- und Mystikerkarten (<survivor>, <guardian>, <seeker>, <rogue> und <mystic>) Stufe 0-3, Neutrale Karten Stufe 0-5.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): 2 Kopien von Improvisation, 2 Kopien von Identitätskrise, 1 zufällige Grundschwäche.\n<b>Zusätzliche Voraussetzungen:</b> Dein Deck muss mindestens jeweils 7 Karten von 3 verschiedenen Klassen enthalten (<survivor>, <guardian>, <seeker>, <rogue> oder <mystic>).\n<b>Zusätzliche Vorbereitung:</b> Nachdem du deine Starthand gezogen hast: Wähle eine Rolle (<survivor>, <guardian>, <seeker>, <rogue>, <mystic> or Neutral)."
+                "flavor_text": "Lola hat in ausverkauften Häusern auf der ganzen Welt gespielt, aber noch kein Stück hat sie so aufgewühlt oder war so merkwürdig wie Der König in Gelb. Schon bei den Proben brachte es nur Unheil und Schrecken. Als ihre Schauspielkollegin Miriam tot in der Seine treibend aufgefunden wurde, beschloss sie genug davon zu haben und schrieb einen Brief an den Regisseur, in dem sie ankündigte, dass die nächste Vorstellung ihre letzte sein würde. Nun ist sie für diese letzte Aufführung zurück in ihre Heimat Arkham gekommen, in der Hoffnung, hier endlich dieses fürchterliche Stück hinter sich zu lassen.",
+                "text": "<b>Deckgröße:</b> 35\n<b>Deckbau-Optionen:</b> Überlebender-, Wächter-, Sucher-, Schurken- und Mystikerkarten (<survivor>, <guardian>, <seeker>, <rogue> und <mystic>) Stufe 0-3, Neutrale Karten Stufe 0-5.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): 2 Kopien von Improvisation, 2 Kopien von Identitätskrise, 1 zufällige Grundschwäche.\n<b>Zusätzliche Voraussetzungen:</b> Dein Deck muss mindestens jeweils 7 Karten von 3 verschiedenen Klassen enthalten (<survivor>, <guardian>, <seeker>, <rogue> oder <mystic>).\n<b>Zusätzliche Vorbereitung:</b> Nachdem du deine Starthand gezogen hast: Wähle eine Rolle (<survivor>, <guardian>, <seeker>, <rogue>, <mystic> oder Neutral)."
             }
         },
         "03019-t": {
@@ -409,7 +409,7 @@
                         "In den Schatten, Schattenagenten, 1 zufällige Grundschwäche."
                     ]
                 ],
-                "flavor_text": "Mit ihren hervorragenden körperlichen und geistigen Fähigkeiten, ihrem unerschütterlichen Fokus, Spitzenleistungen zu erbringen, und ihrer unerschrockenen Einstellung, nur auf Sieg zu spielen, hatte Trish schon früh jeden übertroffen. Wegen ihrer Bestnoten in Sport und Wissenschaft wurde von ihr Großes erwartet. Aber Trish nahm stattdessen eine einfache Stelle bei einem Unternehmen an, das sich auf die Verschlüsslung von Nachrichten spezialisiert hatte. Zuerst war man überrascht über ihre Entscheidung, doch schon bald verlor man das Interesse an der herausragenden Trish Scarborough. Das war ihr nur recht. So konnte man die Wahrheit nicht so leicht erkennen: Ihr Job war nur eine Tarnung. Tatsächlich arbeitete sie als Spionin bei der Black Chamber, einer geheimen Dechiffrierabteilung der Ermittlungsbehörde.",
+                "flavor_text": "Mit ihren hervorragenden körperlichen und geistigen Fähigkeiten, ihrem unerschütterlichen Fokus, Spitzenleistungen zu erbringen, und ihrer unerschrockenen Einstellung, nur auf Sieg zu spielen, hatte Trish schon früh jeden übertroffen. Wegen ihrer Bestnoten in Sport und Wissenschaft wurde von ihr Großes erwartet. Aber Trish nahm stattdessen eine einfache Stelle bei einem Unternehmen an, das sich auf die Verschlüsselung von Nachrichten spezialisiert hatte. Zuerst war man überrascht über ihre Entscheidung, doch schon bald verlor man das Interesse an der herausragenden Trish Scarborough. Das war ihr nur recht. So konnte man die Wahrheit nicht so leicht erkennen: Ihr Job war nur eine Tarnung. Tatsächlich arbeitete sie als Spionin bei der Black Chamber, einer geheimen Dechiffrierabteilung der Ermittlungsbehörde.",
                 "text": "<b>Deckgröße:</b> 30\n<b>Deckbau-Optionen:</b> Schurkenkarten (<rogue>) Stufe 0-5, Neutrale Karten Stufe 0-5, Sucherkarten (<seeker>) Stufe 0-2.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): In den Schatten, Schattenagenten, 1 zufällige Grundschwäche."
             }
         },

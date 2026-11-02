@@ -473,7 +473,7 @@
         "08113-t": {
             "name": "Bezwzględna lichwa",
             "front": {
-                "text": "Tylko tryb kampanii. Limit 1 na badacza. Nie może opuścić gry.\n<reaction> Po tym, jak zagrasz Bezwzględna lichwę: zyskujesz 10 żetonów zasobów.\n<for> Kiedy gra się kończy lub zostaniesz wyeliminowany, jeśli posiadasz mniej niż 10 żetonów zasobów w swojej puli zasobów: wygnaj Bezwzględna lichwę.",
+                "text": "Tylko tryb kampanii. Limit 1 na badacza. Nie może opuścić gry.\n<reaction> Po tym, jak zagrasz Bezwzględną lichwę: zyskujesz 10 żetonów zasobów.\n<for> Kiedy gra się kończy lub zostaniesz wyeliminowany, jeśli posiadasz mniej niż 10 żetonów zasobów w swojej puli zasobów: wygnaj Bezwzględną lichwę.",
                 "traits": "Pakt."
             }
         },
@@ -536,7 +536,7 @@
         "10026-t": {
             "name": "Na muszce",
             "front": {
-                "flavor_text": "<valign>„Trzymaj ręce na widoku!\"",
+                "flavor_text": "<valign>„Trzymaj ręce na widoku!”",
                 "text": "Zmutowana.\n<b>Pertraktacje.</b> Wybierz wroga w twojej lokalizacji <br>i atut z cechą <t>Przedmiot</t> w twojej ręce. Wykonaj akcję walki przeciwko wybranemu wrogowi. Jeśli test zakończy się sukcesem, zagraj wybrany atut, obniżając jego koszt o każdy punkt, o który test zakończył się sukcesem.",
                 "traits": "Taktyka. Sztuczka."
             }
