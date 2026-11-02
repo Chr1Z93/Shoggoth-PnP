@@ -27,7 +27,7 @@
             "front": {
                 "flavor_text": "\"Esta vez, nada evitará que llegue a la verdad.\"",
                 "subtitle": "El reportero",
-                "text": "Mutada.\n<reaction> Después de que tengas éxito en una prueba de habilidad por 2 o más al investigar: Descubre 1 pista en tu Lugar. Límite de una vez por ronda.\nEfecto<elder_sign>: +2. En lugar de eso, puedes elegir fracasar automáticamente en esta prueba de habilidad para robar 3 cartas.",
+                "text": "Mutada.\n<reaction> Después de que tengas éxito en una prueba de habilidad por 2 o más al investigar: Descubre 1 pista en tu Lugar. Límite de una vez por ronda.\nEfecto <elder_sign>: +2. En lugar de eso, puedes elegir fracasar automáticamente en esta prueba de habilidad para robar 3 cartas.",
                 "traits": "Reportero."
             },
             "back": {
