@@ -557,7 +557,7 @@
         "09072-t": {
             "front": {
                 "subtitle": "Conductor de O'Bannion",
-                "text": "Mutada. <reaction> Cuando juegues un Evento <t>Táctica</t> o <t>Truco</t>, agota a <name>: Elige una opción -\n- Ese Evento obtiene: “Rápido. Juega esta carta sólo durante tu turno.”.\n- Ese Evento cuesta 2 recursos menos para jugarlo.\n- Recibes +2 a tu valor de habilidad al realizar una prueba de habilidad durante la resolución de ese Evento.",
+                "text": "Mutada.\n<reaction> Cuando juegues un Evento <t>Táctica</t> o <t>Truco</t>, agota a <name>: Elige una opción -\n- Ese Evento obtiene: “Rápido. Juega esta carta sólo durante tu turno.”.\n- Ese Evento cuesta 2 recursos menos para jugarlo.\n- Recibes +2 a tu valor de habilidad al realizar una prueba de habilidad durante la resolución de ese Evento.",
                 "traits": "Aliado. Criminal."
             }
         },
@@ -735,7 +735,7 @@
         "60332-t": {
             "front": {
                 "subtitle": "Conductor de O'Bannion",
-                "text": "Mutada. <reaction> Cuando juegues un Evento <t>Táctica</t> o <t>Truco</t>, agota a <name> y elige dos opciones:\n- Ese Evento obtiene: “Rápido. Juega esta carta sólo durante tu turno.”.\n- Ese Evento cuesta 2 recursos menos para jugarlo.\n- Recibes +2 a tu valor de habilidad al realizar una prueba de habilidad durante la resolución de ese Evento.",
+                "text": "Mutada.\n<reaction> Cuando juegues un Evento <t>Táctica</t> o <t>Truco</t>, agota a <name> y elige dos opciones:\n- Ese Evento obtiene: “Rápido. Juega esta carta sólo durante tu turno.”.\n- Ese Evento cuesta 2 recursos menos para jugarlo.\n- Recibes +2 a tu valor de habilidad al realizar una prueba de habilidad durante la resolución de ese Evento.",
                 "traits": "Aliado. Criminal."
             }
         },
@@ -792,13 +792,40 @@
                             "bleed": true,
                             "filename_format": "code_name",
                             "folder": "D:/Datos/Projects/shoggoth/Shoggoth-PnP/png export",
-                            "format": "png",
+                            "format": "jpeg",
                             "include_backs": false,
                             "quality": 95,
                             "rotate": true,
                             "rounded": false,
                             "separate_versions": false,
                             "size_label": "FFG 1453×2079 px"
+                        },
+                        "type": "images"
+                    }
+                ]
+            },
+            {
+                "name": "test",
+                "id": "9b8a0c8f-63ae-42f8-8bf7-89d463e762f2",
+                "entries": [
+                    {
+                        "id": "59dc53e1-a436-42e6-90f9-26b1965a813d",
+                        "scope": {
+                            "card_ids": [],
+                            "encounter_set_ids": [],
+                            "type": "all"
+                        },
+                        "settings": {
+                            "bleed": true,
+                            "filename_format": "id",
+                            "folder": null,
+                            "format": "jpeg",
+                            "include_backs": false,
+                            "quality": 95,
+                            "rotate": true,
+                            "rounded": false,
+                            "separate_versions": false,
+                            "size_label": "FFG 726×1039 px (Default)"
                         },
                         "type": "images"
                     }
