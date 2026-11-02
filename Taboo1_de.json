@@ -61,7 +61,7 @@
         "02029-t": {
             "name": "Ritualkerzen",
             "front": {
-                "flavor_text": "Die Wachskerzen glühen unheimlich und die Flammen zucken, als ob sie lebendig wären.",
+                "flavor_text": "<valign>Die Wachskerzen glühen unheimlich und die Flammen zucken, als ob sie lebendig wären.",
                 "text": "Mutiert.\n<reaction> Nachdem ein Symbol während einer Probe enthüllt worden ist, die du ablegst: Du bekommst für diese Probe +1 auf deinen Fertigkeitswert.",
                 "traits": "Gegenstand."
             }
@@ -181,7 +181,7 @@
         "03112-t": {
             "front": {
                 "subtitle": "Angesehener Eschatologe",
-                "text": "Mutiert. Solange sich mindestens 1 Verderben auf <name> befindet, bekommst du +1 [willpower].\n<free> Erschöpfe <name>: Du darfst 1 Verderben auf <name> platzieren. Du erhältst 1 Ressource für jedes Verderben auf <name> (bis zu einem Maximum von 3 Ressourcen).",
+                "text": "Mutiert.\nSolange sich mindestens 1 Verderben auf <name> befindet, bekommst du +1 [willpower].\n<free> Erschöpfe <name>: Du darfst 1 Verderben auf <name> platzieren. Du erhältst 1 Ressource für jedes Verderben auf <name> (bis zu einem Maximum von 3 Ressourcen).",
                 "traits": "Verbündeter. Mäzen."
             }
         },
@@ -451,7 +451,7 @@
         "07308-t": {
             "name": "Ritual des Gleichgewichts",
             "front": {
-                "text": "Unverkettet (-2 Erfahrung).\nEntweder (wähle eins):\n- Füge dem Chaosbeutel X <curse>-Marker hinzu, um dem Chaosbeutel X <blessing>-Marker hinzuzufügen.\n<margin 15>\n- Entferne X <curse>- und X <blessing>-Marker aus dem Chaosbeutel, um insgesamt X Horror von Karten an deinem Ort zu heilen.",
+                "text": "Unverkettet (-2 Erfahrung).\nEntweder (wähle eins):\n- Füge dem Chaosbeutel X <curse>-Marker hinzu, um dem Chaosbeutel X <blessing>-Marker hinzuzufügen.\n<margin 0>\n- Entferne X <curse>- und X <blessing>-Marker aus dem Chaosbeutel, um insgesamt X Horror von Karten an deinem Ort zu heilen.",
                 "traits": "Zauber. Gesegnet. Verflucht."
             }
         },
@@ -528,7 +528,7 @@
         "09022-t": {
             "name": "Runenaxt",
             "front": {
-                "text": "Verkettet. Individualisierbar. Anwendungen (4 Ladungen). Fülle 1 dieser Ladungen zu Beginn jeder Runde auf.\n<action>: <b>Kampf ([combat]).</b> Du bekommst für diesen Angriff +1 [combat]. Vor diesem Angriff darfst du beliebig viele Ladungen ausgeben, um die Axt mit so vielen verschiedenen Inschriften aufzuladen …\n- <i>Genauigkeit</i> - Du bekommst für diesen Angriff zusätzlich +2 [combat].\n- <i>Macht</i> - Dieser Angriff fügt +1 Schaden zu.",
+                "text": "Verkettet. Individualisierbar. Anwendungen (4 Ladungen). Fülle 1 dieser Ladungen zu Beginn jeder Runde auf.\n<action>: <b>Kampf ([combat]).</b> Du bekommst für diesen Angriff +1 [combat]. Vor diesem Angriff darfst du beliebig viele Ladungen ausgeben, um die Axt mit so vielen verschiedenen Inschriften aufzuladen …\n- <i>Genauigkeit</i> -- Du bekommst für diesen Angriff zusätzlich +2 [combat].\n<margin 0>\n- <i>Macht</i> -- Dieser Angriff fügt +1 Schaden zu.",
                 "traits": "Gegenstand. Waffe. Nahkampf."
             }
         },
@@ -598,7 +598,7 @@
         "09072-t": {
             "front": {
                 "subtitle": "O'Bannions Fahrer",
-                "text": "Mutiert.\n<reaction>Sobald du eine <t>Taktik</t>- oder <t>Trick</t>-Ereigniskarte spielst, erschöpfe <name>: Wähle eins ...\n- Jene Ereigniskarte erhält: „Schnell. Spiele diese Karte nur während deines Zuges.\"\n<margin 15>\n- Jene Ereigniskarte kostet zum Spielen 2 Ressourcen weniger.\n<margin 15>\n- Du bekommst +2 auf deinen Fertigkeitswert, solange du eine Fertigkeitsprobe während der Abhandlung jener Ereigniskarte durchführst.",
+                "text": "Mutiert.\n<reaction>Sobald du eine <t>Taktik</t>- oder <t>Trick</t>-Ereigniskarte spielst, erschöpfe <name>: Wähle eins ...\n- Jene Ereigniskarte erhält: „Schnell. Spiele diese Karte nur während deines Zuges.\"\n<margin 0>\n- Jene Ereigniskarte kostet zum Spielen 2 Ressourcen weniger.\n<margin 0>\n- Du bekommst +2 auf deinen Fertigkeitswert, solange du eine Fertigkeitsprobe während der Abhandlung jener Ereigniskarte durchführst.",
                 "traits": "Verbündeter. Krimineller."
             }
         },
@@ -729,7 +729,7 @@
             "name": "Stab von Carnamagos",
             "front": {
                 "subtitle": "Zepter des Wahnsinnigen Sehers",
-                "text": "Verkettet (+2 Erfahrung).\nNur 1 pro Deck.\n<free> Wähle einen Nicht-<t>Elite</t>-Gegner an einem beliebigen Ort und erschöpfe <name>: Enthülle 5 zufällige Chaosmarker aus dem Chaosbeutel. Falls ein <curse>-Marker enthüllt wird, durchsuche deine gebundenen Karten nach einer zufälligen <t>Fäulnis</t>-Ereigniskarte und hänge sie an jenen Gegner an.",
+                "text": "Verkettet (+2 Erfahrung). Nur 1 pro Deck.\n<free> Wähle einen Nicht-<t>Elite</t>-Gegner an einem beliebigen Ort und erschöpfe <name>: Enthülle 5 zufällige Chaosmarker aus dem Chaosbeutel. Falls ein <curse>-Marker enthüllt wird, durchsuche deine gebundenen Karten nach einer zufälligen <t>Fäulnis</t>-Ereigniskarte und hänge sie an jenen Gegner an.",
                 "traits": "Gegenstand. Relikt. Okkult. Verflucht."
             }
         },
@@ -774,7 +774,7 @@
         "11075-t": {
             "name": "Spirituelles Echo",
             "front": {
-                "text": "Mutiert. Fast. Play only during your turn.\nAttach to your location. Limit 1 per location.\n<reaction> After you activate an <action> or <free> ability on a <t>Spell</t> or <t>Ritual</t> asset: Perform that ability again at attached location as if you were there, ignoring that asset's <action> cost, if any. <i>(You may trigger this ability from any location.)</i> Return Spiritual Echo to your hand at the end of your turn. (Limit once per round.)"
+                "text": "Mutiert. Schnell. Spiele diese Karte nur in deinem Zug. Hänge diese Karte an deinen Ort an. Nur 1 pro Ort.\n<reaction> Nachdem du eine <action>- oder <free>-Fähigkeit auf einer <t>Zauber</t>- oder <t>Ritual</t>-Vorteilskarte aktiviert hast: Führe jene Fähigkeit erneut an dem Ort mit dieser Verstärkung durch, als ob du dort wärst, wobei du die <action>-Kosten jener Vorteilskarte ignorierst, falls vorhanden. <i>(Du darfst diese Fähigkeit von einem beliebigen Ort aus aktivieren.)</i>  Schicke <name> auf deine Hand zurück. (Nur 1 Mal pro Runde.)"
             }
         },
         "11117-t": {
@@ -817,13 +817,13 @@
         "60327-t": {
             "name": "Scharfschütze",
             "front": {
-                "text": "Unverkettet (-1 Erfahrung).\n<reaction> Sobald du eine <b>Kampf</b>-Fähigkeit auf einer <t>Feuerwaffe</t>-Vorteilskarte verwendest, erschöpfe <name>: Wähle eins oder beides ...\n- Dieser Angriff verwendet [agility] statt [combat]. Alle [combat]-Modifikatoren modifizieren für diesen Angriff stattdessen deine [agility].\n<margin 15>\n- Verwende für diesen Angriff den Entkommen-Wert des angegriffenen Gegners statt seines Kampfwertes."
+                "text": "Unverkettet (-1 Erfahrung).\n<reaction> Sobald du eine <b>Kampf</b>-Fähigkeit auf einer <t>Feuerwaffe</t>-Vorteilskarte verwendest, erschöpfe <name>: Wähle eins oder beides ...\n- Dieser Angriff verwendet [agility] statt [combat]. Alle [combat]-Modifikatoren modifizieren für diesen Angriff stattdessen deine [agility].\n<margin 0>\n- Verwende für diesen Angriff den Entkommen-Wert des angegriffenen Gegners statt seines Kampfwertes."
             }
         },
         "60332-t": {
             "front": {
                 "subtitle": "O'Bannions Fahrer",
-                "text": "Mutiert.\n<reaction>Sobald du eine <t>Taktik</t>- oder <t>Trick</t>-Ereigniskarte spielst, erschöpfe <name>: Wähle zwei ...\n- Jene Ereigniskarte erhält: „Schnell. Spiele diese Karte nur während deines Zuges.\"\n<margin 15>\n- Jene Ereigniskarte kostet zum Spielen 2 Ressourcen weniger.\n<margin 15>\n- Du bekommst +2 auf deinen Fertigkeitswert, solange du eine Fertigkeitsprobe während der Abhandlung jener Ereigniskarte durchführst.",
+                "text": "Mutiert.\n<reaction>Sobald du eine <t>Taktik</t>- oder <t>Trick</t>-Ereigniskarte spielst, erschöpfe <name>: Wähle zwei ...\n- Jene Ereigniskarte erhält: „Schnell. Spiele diese Karte nur während deines Zuges.\"\n<margin 0>\n- Jene Ereigniskarte kostet zum Spielen 2 Ressourcen weniger.\n<margin 0>\n- Du bekommst +2 auf deinen Fertigkeitswert, solange du eine Fertigkeitsprobe während der Abhandlung jener Ereigniskarte durchführst.",
                 "traits": "Verbündeter. Krimineller."
             }
         },

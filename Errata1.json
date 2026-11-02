@@ -71,7 +71,7 @@
             "id": "06030",
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2019 FFG",
                 "classes": [
                     "survivor"
@@ -87,6 +87,7 @@
                 "illustration_scale": 2.0,
                 "illustrator": "Illus. Bill Thompson",
                 "level": "1",
+                "name_unique": "<unique>",
                 "sanity": "2",
                 "slots": [
                     "ally"
@@ -105,7 +106,7 @@
             "id": "01514",
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2016 FFG",
                 "classes": [
                     "neutral"
@@ -119,6 +120,7 @@
                 "illustration_scale": 0.8,
                 "illustrator": "Illus. Linda Tso",
                 "level": "None",
+                "name_unique": "<unique>",
                 "slots": [
                     "accessory"
                 ],
@@ -213,7 +215,7 @@
             "id": "98018",
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2020 FFG",
                 "classes": [
                     "weakness"
@@ -222,6 +224,7 @@
                 "collection_number": "18",
                 "illustration": "./img/nah15-018 Yaztaroth-Adam S Doyle.jpg",
                 "illustrator": "Illus. Adam S. Doyle",
+                "name_unique": "<unique>",
                 "text": "Dexter Drake deck only. Replacement.\n<rev> Put <name> into play in your threat area.\nYou cannot play assets or put assets into play.\n<action><action>: Discard Yaztaroth.",
                 "traits": "Curse. Pact.",
                 "type": "treachery"
@@ -283,7 +286,7 @@
             "id": "11069",
             "amount": 2,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2025 FFG",
                 "classes": [
                     "mystic"
@@ -298,6 +301,7 @@
                 "illustration_pan_y": 35.0,
                 "illustration_scale": 2.15,
                 "illustrator": "Illus. Daniel Watson",
+                "name_unique": "<unique>",
                 "sanity": "2",
                 "slots": [
                     "ally"
@@ -346,7 +350,7 @@
             "id": "90093",
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2024 FFG",
                 "classes": [
                     "weakness"
@@ -361,6 +365,7 @@
                 "illustration_scale": 2.0,
                 "illustrator": "Illus. Walter Velez",
                 "level": "None",
+                "name_unique": "<unique>",
                 "sanity": "<dash>",
                 "slots": [
                     "ally"
@@ -406,7 +411,7 @@
             "id": "07331a",
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2020 FFG",
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
                 "collection_number": "331a",
@@ -414,6 +419,7 @@
                 "illustration": "./img/ahc58-331 Hydra - Matthew Cowdery.jpg",
                 "illustration_pan_y": 1130.0,
                 "illustrator": "Illus. Matthew Cowdery",
+                "name_unique": "<unique>",
                 "subtitle": "Deep in Slumber",
                 "text": "<name> is slumbering. She cannot attack or engage, and is immune to investigator actions and player card effects.\n<for> At the end of the investigation phase, if an investigator is in Lair of Hydra and <name> is ready: Place 1 doom on her.\n<center><action>: Test <willpower> (4). If you succeed, either exhaust <name> or remove 1 doom from her. If you fail by 3 or more, place 1 doom on her.",
                 "traits": "Ancient One. Elite.",
@@ -429,7 +435,7 @@
             "id": "07330a",
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2020 FFG",
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
                 "collection_number": "330a",
@@ -438,6 +444,7 @@
                 "illustration_pan_y": -90.0,
                 "illustration_scale": 2.2,
                 "illustrator": "Illus. Stanislav Dikolenko",
+                "name_unique": "<unique>",
                 "subtitle": "Deep in Slumber",
                 "text": "<name> is slumbering. He cannot attack or engage, and is immune to investigator actions and player card effects.\n<for> At the end of the investigation phase, if an investigator is in Lair of Dagon and <name> is ready: Place 1 doom on him.\n<center><action>: Test <willpower> (4). If you succeed, either exhaust <name> or remove 1 doom from him. If you fail by 3 or more, place 1 doom on him.",
                 "traits": "Ancient One. Elite.",

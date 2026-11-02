@@ -13,7 +13,7 @@
             "id": "01033-t",
             "amount": 2,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2016 FFG",
                 "classes": [
                     "seeker"
@@ -30,6 +30,7 @@
                 "illustration_scale": 1.38,
                 "illustrator": "Illus. Anthony Devine",
                 "level": "0",
+                "name_unique": "<unique>",
                 "sanity": "2",
                 "slots": [
                     "ally"
@@ -99,7 +100,7 @@
             "id": "02002-t",
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2016 FFG",
                 "agility": "3",
                 "classes": [
@@ -117,6 +118,7 @@
                 "illustration_shape": "./img/Rex Murphy - Mask.jpg",
                 "illustrator": "Illus. Cristi Balanescu",
                 "intellect": "4",
+                "name_unique": "<unique>",
                 "sanity": "9",
                 "subtitle": "The Reporter",
                 "text": "Mutated.\n<reaction> After you succeed at a skill test by 2 or more while investigating: Discover 1 clue at your location. (Limit once per round.)\n<elder_sign> effect: +2. You may instead choose to automatically fail this skill test to draw 3 cards.",
@@ -189,7 +191,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
                 "collection_number": "29",
                 "cost": "1",
-                "flavor_text": "The wax tapers give off an eerie glow, and the flames move as if they are alive.<valign>",
+                "flavor_text": "<valign>The wax tapers give off an eerie glow, and the flames move as if they are alive.",
                 "icons": "W",
                 "illustration": "./img/ahc02-029 Ritual Candles - Kristina Gehrmann.png",
                 "illustration_pan_x": 48.0,
@@ -403,7 +405,7 @@
             "id": "02269-t",
             "amount": 2,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2016 FFG",
                 "classes": [
                     "mystic"
@@ -418,6 +420,7 @@
                 "illustration_scale": 2.0,
                 "illustrator": "Illus. Dani Hartel",
                 "level": "3",
+                "name_unique": "<unique>",
                 "slots": [
                     "accessory"
                 ],
@@ -462,7 +465,7 @@
             "id": "03006-t",
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2017 FFG",
                 "agility": "3",
                 "classes": [
@@ -481,6 +484,7 @@
                 "illustration_shape": "./img/Lola Hayes - Mask.jpg",
                 "illustrator": "Illus. Magali Villeneuve",
                 "intellect": "3",
+                "name_unique": "<unique>",
                 "sanity": "6",
                 "subtitle": "The Actress",
                 "text": "Mutated.\nYou can only play, commit, or trigger abilities on Neutral cards or cards of your role.\n<free>: Switch your role. (Limit once per round.)\n<action>: Switch roles. Does not provoke attacks of opportunity.\n<elder_sign> effect: +2. You may switch roles.",
@@ -578,7 +582,7 @@
             "id": "03112-t",
             "amount": 2,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2017 FFG",
                 "classes": [
                     "mystic"
@@ -594,12 +598,13 @@
                 "illustration_scale": 1.974,
                 "illustrator": "Illus. Alexandre Dainche",
                 "level": "0",
+                "name_unique": "<unique>",
                 "sanity": "1",
                 "slots": [
                     "ally"
                 ],
                 "subtitle": "Esteemed Eschatologist",
-                "text": "Mutated. While <name> has at least 1 doom on him, you get +1 [willpower].\n<free> Exhaust <name>: You may place 1 doom on <name>. Gain 1 resource for each doom on <name> (to a maximum of 3 resources).",
+                "text": "Mutated.\nWhile <name> has at least 1 doom on him, you get +1 [willpower].\n<free> Exhaust <name>: You may place 1 doom on <name>. Gain 1 resource for each doom on <name> (to a maximum of 3 resources).",
                 "traits": "Ally. Patron.",
                 "type": "asset"
             },
@@ -612,7 +617,7 @@
             "id": "03315-t",
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2017 FFG",
                 "classes": [
                     "neutral"
@@ -628,6 +633,7 @@
                 "illustration_scale": 2.0,
                 "illustrator": "Illus. Stephen Somers",
                 "level": "5",
+                "name_unique": "<unique>",
                 "sanity": "4",
                 "slots": [
                     "accessory"
@@ -742,7 +748,7 @@
                 "illustration_scale": 2.038,
                 "illustrator": "Illus. Dual Brush Studios",
                 "level": "1",
-                "text": "Mutated. Gain 1 resource for each action you spent this turn <i>(including this one)</i>. If it is your turn, end your turn.",
+                "text": "Mutated.\nGain 1 resource for each action you spent this turn <i>(including this one)</i>. If it is your turn, end your turn.",
                 "traits": "Illicit. Fated.",
                 "type": "event"
             },
@@ -773,7 +779,7 @@
                     "hands",
                     "body"
                 ],
-                "text": "Chained (+1 experience).\nUses (4 ammo).\n<action> Spend 1 ammo: <b>Fight ([combat]).</b> The enemy chosen for this attack must be the enemy engaged with you with the highest fight. You get +4 [combat] for this attack. If this attack is successful, instead of its standard damage, you may assign up to 4 damage among enemies engaged with you <i>(any additional damage adds to this total)</i>.",
+                "text": "Chained (+1 experience). Uses (4 ammo).\n<action> Spend 1 ammo: <b>Fight ([combat]).</b> The enemy chosen for this attack must be the enemy engaged with you with the highest fight. You get +4 [combat] for this attack. If this attack is successful, instead of its standard damage, you may assign up to 4 damage among enemies engaged with you <i>(any additional damage adds to this total)</i>.",
                 "traits": "Item. Weapon. Firearm.",
                 "type": "asset"
             },
@@ -894,7 +900,7 @@
             "id": "05153-t",
             "amount": 2,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2018 FFG",
                 "classes": [
                     "seeker"
@@ -911,6 +917,7 @@
                 "illustration_scale": 2.0,
                 "illustrator": "Illus. Romana Kendelic",
                 "level": "0",
+                "name_unique": "<unique>",
                 "sanity": "2",
                 "slots": [
                     "ally"
@@ -1086,7 +1093,7 @@
                 "illustration_scale": 1.01,
                 "illustrator": "Illus. Tiziano Baracchi",
                 "level": "3",
-                "text": "Mutated. Fast. Attach to a <t>Firearm</t> asset you control that takes up two hand slots.\nWhen you perform a <b>Fight</b> action using attached asset, if you are engaged with no enemies, exhaust Telecopic Sight: This attack can target a non-<t>Elite</t> enemy at a connecting location. Ignore the aloof and retaliate keywords for this attack.",
+                "text": "Mutated. Fast. Attach to a <t>Firearm</t> asset you control that takes up two hand slots.\n<reaction> When you perform a <b>Fight</b> action using attached asset, if you are engaged with no enemies, exhaust Telecopic Sight: This attack can target a non-<t>Elite</t> enemy at a connecting location. Ignore the aloof and retaliate keywords for this attack.",
                 "traits": "Item. Upgrade.",
                 "type": "event"
             },
@@ -1183,7 +1190,7 @@
             "id": "06002-t",
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2019 FFG",
                 "agility": "3",
                 "classes": [
@@ -1201,6 +1208,7 @@
                 "illustration_shape": "./img/Mandy Thompson - Mask.jpg",
                 "illustrator": "Illus. Tony Foti",
                 "intellect": "5",
+                "name_unique": "<unique>",
                 "sanity": "8",
                 "subtitle": "The Researcher",
                 "text": "Mutated.\n<reaction> When an investigator at your location would search their deck or the encounter deck: They may either search 3 additional cards or resolve 1 additional target of the search. (Limit once per round.)\n<elder_sign> effect: +0. Search the top 3 cards of your deck for a card and either draw it or commit it to this test, if able. Shuffle your deck.",
@@ -1242,7 +1250,7 @@
             "id": "06022-t",
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2019 FFG",
                 "classes": [
                     "seeker"
@@ -1255,6 +1263,7 @@
                 "illustration_scale": 0.84,
                 "illustrator": "Illus. Diana Martínez",
                 "level": "None",
+                "name_unique": "<unique>",
                 "slots": [
                     "accessory"
                 ],
@@ -1354,7 +1363,7 @@
             "id": "07003-t",
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2020 FFG",
                 "agility": "4",
                 "classes": [
@@ -1372,6 +1381,7 @@
                 "illustration_shape": "./img/Trish Scarborough - Mask.jpg",
                 "illustrator": "Illus. Magali Villeneuve",
                 "intellect": "4",
+                "name_unique": "<unique>",
                 "sanity": "6",
                 "subtitle": "The Spy",
                 "text": "Mutated.\n<reaction> After you discover 1 or more clues at a location with an enemy: Either discover 1 additional clue at that location, or automatically evade that enemy if it is non-<t>Elite</t>. (Limit once per round.)\n<elder_sign> effect: +2. If this is an investigation, you may choose any revealed location; you are now investigating as if you were at that location instead.",
@@ -1459,7 +1469,7 @@
             "id": "07268-t",
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2020 FFG",
                 "classes": [
                     "mystic"
@@ -1474,6 +1484,7 @@
                 "illustration_scale": 2.06,
                 "illustrator": "Illus. Carlos Palma Cruchaga",
                 "level": "4",
+                "name_unique": "<unique>",
                 "slots": [
                     "hand"
                 ],
@@ -1559,7 +1570,7 @@
                 "illustration_scale": 1.01,
                 "illustrator": "Illus. Adam S. Doyle",
                 "level": "5",
-                "text": "Unchained (-2 experience).\nEither (choose one):\n- Add X <curse> tokens to the chaos bag to add X <blessing> tokens to the chaos bag.\n<margin 15>\n- Remove X <curse> and X <blessing> tokens from the chaos bag to heal X total horror from among cards at your location.",
+                "text": "Unchained (-2 experience).\nEither (choose one):\n- Add X <curse> tokens to the chaos bag to add X <blessing> tokens to the chaos bag.\n<margin 0>\n- Remove X <curse> and X <blessing> tokens from the chaos bag to heal X total horror from among cards at your location.",
                 "traits": "Spell. Blessed. Cursed.",
                 "type": "event"
             },
@@ -1597,7 +1608,7 @@
             "id": "08032-t",
             "amount": 2,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2021 FFG",
                 "classes": [
                     "seeker"
@@ -1613,6 +1624,7 @@
                 "illustration_scale": 1.95,
                 "illustrator": "Illus. Romana Kendelic",
                 "level": "0",
+                "name_unique": "<unique>",
                 "sanity": "1",
                 "slots": [
                     "ally"
@@ -1631,7 +1643,7 @@
             "id": "08045-t",
             "amount": 2,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2021 FFG",
                 "classes": [
                     "seeker"
@@ -1640,12 +1652,13 @@
                 "collection_number": "45",
                 "cost": "4",
                 "icons": "QQ",
-                "illustration": "./img/ahc63-045 Prophesae Profana - Drazenka Kimpel.jpg",
+                "illustration": "./img/ahc63-045 Prophesiae Profana - Drazenka Kimpel.jpg",
                 "illustration_pan_x": 46.0,
                 "illustration_pan_y": 126.0,
                 "illustration_scale": 1.85,
                 "illustrator": "Illus. Drazenka Kimpel",
                 "level": "5",
+                "name_unique": "<unique>",
                 "slots": [
                     "hand"
                 ],
@@ -1779,7 +1792,7 @@
             "id": "08099-t",
             "amount": 2,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2021 FFG",
                 "classes": [
                     "seeker",
@@ -1796,6 +1809,7 @@
                 "illustration_scale": 2.0,
                 "illustrator": "Illus. Vlad Ricean",
                 "level": "3",
+                "name_unique": "<unique>",
                 "sanity": "2",
                 "slots": [
                     "ally"
@@ -1872,7 +1886,7 @@
             "id": "09022-t",
             "amount": 2,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2022 FFG",
                 "classes": [
                     "guardian"
@@ -1887,10 +1901,11 @@
                 "illustration_scale": 2.0,
                 "illustrator": "Illus. Pixoloid Studios",
                 "level": "None",
+                "name_unique": "<unique>",
                 "slots": [
                     "hands"
                 ],
-                "text": "Customizable. Uses (4 charges). Replenish 1 of these charges at the start of each round.\n<action>: <b>Fight ([combat]).</b> You get +1 [combat] for this attack. Before this attack, you may spend any number of charges to imbue the axe with that many different inscriptions --\n- <i>Accuracy</i> -- You get an additional +2 [combat] for this attack.\n- <i>Power</i> -- This attack deals +1 damage.",
+                "text": "Customizable. Uses (4 charges). Replenish 1 of these charges at the start of each round.\n<action>: <b>Fight ([combat]).</b> You get +1 [combat] for this attack. Before this attack, you may spend any number of charges to imbue the axe with that many different inscriptions --\n- <i>Accuracy</i> -- You get an additional +2 [combat] for this attack.\n<margin 0>\n- <i>Power</i> -- This attack deals +1 damage.",
                 "traits": "Item. Weapon. Melee.",
                 "type": "asset"
             },
@@ -1917,7 +1932,7 @@
                 "illustration_scale": 1.96,
                 "illustrator": "Illus. Isuardi Therianto",
                 "level": "None",
-                "text": "Mutated. Customizable. Limit 1 per investigator.\n<for> At the start of the round: Choose one of the following criteria for this round\n- You fail a test by 2 or more.\n- You succeed at a test by 3 or more.\nWhen the chosen criteria is met, you may exhaust <name> to add 1 evidence to it.\n<free> Spend 1 evidence: Draw 1 card. (Limit twice per round.)",
+                "text": "Mutated. Customizable. Limit 1 per investigator.\n<for> At the start of the round: Choose one of the following criteria for this round\n- You fail a test by 2 or more.\n<margin 0>\n- You succeed at a test by 3 or more.\nWhen the chosen criteria is met, you may exhaust <name> to add 1 evidence to it.\n<free> Spend 1 evidence: Draw 1 card. (Limit twice per round.)",
                 "traits": "Talent. Science.",
                 "type": "asset"
             },
@@ -1960,7 +1975,7 @@
             "id": "09072-t",
             "amount": 2,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2022 FFG",
                 "classes": [
                     "rogue"
@@ -1976,12 +1991,13 @@
                 "illustration_scale": 1.4,
                 "illustrator": "Illus. Derek D. Edgell",
                 "level": "2",
+                "name_unique": "<unique>",
                 "sanity": "2",
                 "slots": [
                     "ally"
                 ],
                 "subtitle": "O'Bannion Driver",
-                "text": "Mutated.\n<reaction> When you play a <t>Tactic</t> or <t>Trick</t> event, exhaust <name>: Choose one -\n- That event gains: „Fast. Play only during your turn.\"\n<margin 15>\n- That event costs 2 fewer resources to play.\n<margin 15>\n- You get +2 skill value while performing a skill test during the resolution of that event.",
+                "text": "Mutated.\n<reaction> When you play a <t>Tactic</t> or <t>Trick</t> event, exhaust <name>: Choose one -\n- That event gains: „Fast. Play only during your turn.\"\n<margin 0>\n- That event costs 2 fewer resources to play.\n<margin 0>\n- You get +2 skill value while performing a skill test during the resolution of that event.",
                 "traits": "Ally. Criminal.",
                 "type": "asset"
             },
@@ -2006,7 +2022,7 @@
                 "illustration_scale": 2.0,
                 "illustrator": "Illus. Anders Finer",
                 "level": "2",
-                "text": "Chained (+2 experience).\nPermanent. Exceptional. You get +10 deck size.\n<reaction> Before drawing your opening hand, choose 10 <t>Illicit</t> cards from your deck: Shuffle them together and place them next to <name>, as your market deck.\n<reaction> At the start of your turn: Reveal the top 2 cards of your market deck. You may spend 1 resource to draw 1 of them. Place the rest on the bottom, in any order.",
+                "text": "Chained (+2 experience). Permanent. Exceptional. You get +10 deck size.\n<reaction> Before drawing your opening hand, choose 10 <t>Illicit</t> cards from your deck: Shuffle them together and place them next to <name>, as your market deck.\n<reaction> At the start of your turn: Reveal the top 2 cards of your market deck. You may spend 1 resource to draw 1 of them. Place the rest on the bottom, in any order.",
                 "traits": "Connection. Illicit.",
                 "type": "asset"
             },
@@ -2087,7 +2103,7 @@
                 "slots": [
                     "hand"
                 ],
-                "text": "Chained (+1 experience).\nUses (3 keys). If there are no keys on <name>, discard it.\n<action>: <b>Investigate ([intellect]).</b> Your location gets -2 shroud for this investigation. If you succeed, remove 1 key from <name>, and if this test's difficulty is 0, you discover 1 additional clue.",
+                "text": "Chained (+1 experience). Uses (3 keys). If there are no keys on <name>, discard it.\n<action>: <b>Investigate ([intellect]).</b> Your location gets -2 shroud for this investigation. If you succeed, remove 1 key from <name>, and if this test's difficulty is 0, you discover 1 additional clue.",
                 "traits": "Item. Tool.",
                 "type": "asset"
             },
@@ -2196,7 +2212,7 @@
                 "illustration_scale": 2.536,
                 "illustrator": "Illus. Lin Hsiang",
                 "level": "5",
-                "text": "Unchained (-2 experience).\nPlay only if you control a <t>Melee</t> asset. As an additional cost to play <name>, spend an action.\n<b>Fight.</b> Choose a <t>Melee</t> asset you control and take an immediate fight action with that asset <i>(without paying its <action> cost)</i>. You may repeat this effect up to three times. After the final attack resolves, if it is your turn, end your turn.",
+                "text": "Unchained (-2 experience). Play only if you control a <t>Melee</t> asset. As an additional cost to play <name>, spend an action.\n<b>Fight.</b> Choose a <t>Melee</t> asset you control and take an immediate fight action with that asset <i>(without paying its <action> cost)</i>. You may repeat this effect up to three times. After the final attack resolves, if it is your turn, end your turn.",
                 "traits": "Tactic. Double. Fated.",
                 "type": "event"
             },
@@ -2269,7 +2285,7 @@
             "id": "10085-t",
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2024 FFG",
                 "classes": [
                     "mystic"
@@ -2284,11 +2300,12 @@
                 "illustration_scale": 1.35,
                 "illustrator": "Illus. Borja Pindado",
                 "level": "0",
+                "name_unique": "<unique>",
                 "slots": [
                     "hand"
                 ],
                 "subtitle": "Scepter of the Mad Seer",
-                "text": "Chained (+2 experience).\nLimit 1 per deck.\n<free> Choose a non-<t>Elite</t> enemy at any location and exhaust <name>: Reveal 5 random chaos tokens from the chaos bag. If a <curse> token is revealed, search your bonded cards for a random <t>Rot</t> event and attach it to that enemy.",
+                "text": "Chained (+2 experience). Limit 1 per deck.\n<free> Choose a non-<t>Elite</t> enemy at any location and exhaust <name>: Reveal 5 random chaos tokens from the chaos bag. If a <curse> token is revealed, search your bonded cards for a random <t>Rot</t> event and attach it to that enemy.",
                 "traits": "Item. Relic. Occult. Cursed.",
                 "type": "asset"
             },
@@ -2301,7 +2318,7 @@
             "id": "10098-t",
             "amount": 2,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2024 FFG",
                 "classes": [
                     "mystic"
@@ -2316,6 +2333,7 @@
                 "illustration_scale": 1.35,
                 "illustrator": "Illus. Borja Pindado",
                 "level": "2",
+                "name_unique": "<unique>",
                 "slots": [
                     "hand"
                 ],
@@ -2388,7 +2406,7 @@
             "id": "11065-t",
             "amount": 2,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2025 FFG",
                 "classes": [
                     "mystic"
@@ -2403,6 +2421,7 @@
                 "illustration_scale": 2.05,
                 "illustrator": "Illus. Pixoloid Studios",
                 "level": "0",
+                "name_unique": "<unique>",
                 "slots": [
                     "accessory"
                 ],
@@ -2456,12 +2475,12 @@
                 "cost": "1",
                 "icons": "WC",
                 "illustration": "./img/ahc83-075 Spiritual Echo - export - Andreas Zafiratos.png",
-                "illustration_pan_x": 53.0,
+                "illustration_pan_x": 70.0,
                 "illustration_pan_y": 48.0,
-                "illustration_scale": 1.0,
+                "illustration_scale": 1.01,
                 "illustrator": "Illus. Andreas Zafiratos",
                 "level": "2",
-                "text": "Mutated. Fast. Play only during your turn.\nAttach to your location. Limit 1 per location.\n<reaction> After you activate an <action> or <free> ability on a <t>Spell</t> or <t>Ritual</t> asset: Perform that ability again at attached location as if you were there, ignoring that asset's <action> cost, if any. <i>(You may trigger this ability from any location.)</i> Return <name> to your hand at the end of your turn. (Limit once per round.)",
+                "text": "Mutated. Fast. Play only during your turn. Attach to your location. Limit 1 per location.\n<reaction> After you activate an <action> or <free> ability on a <t>Spell</t> or <t>Ritual</t> asset: Perform that ability again at attached location as if you were there, ignoring that asset's <action> cost, if any. <i>(You may trigger this ability from any location.)</i> Return <name> to your hand at the end of your turn. (Limit once per round.)",
                 "traits": "Ritual.",
                 "type": "event"
             },
@@ -2474,7 +2493,7 @@
             "id": "11117-t",
             "amount": 2,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2025 FFG",
                 "classes": [
                     "specialist"
@@ -2491,6 +2510,7 @@
                 "illustration_scale": 1.3,
                 "illustrator": "Illus. Alexandre Dainche",
                 "level": "5",
+                "name_unique": "<unique>",
                 "sanity": "3",
                 "slots": [
                     "ally"
@@ -2633,7 +2653,7 @@
                 "illustration_scale": 2.0,
                 "illustrator": "Illus. Matt Bradbury",
                 "level": "3",
-                "text": "Unchained (-1 experience).\n<reaction> When you use a fight ability on a <t>Firearm</t> asset, exhaust <name>: Choose one, or both - \n- This attack uses [agility] instead of [combat]. All modifiers to your [combat] for this attack modify your [agility] instead.\n<margin 15>\n- Use the attacked enemy's evade value for this attack, instead of their fight value.",
+                "text": "Unchained (-1 experience).\n<reaction> When you use a fight ability on a <t>Firearm</t> asset, exhaust <name>: Choose one, or both - \n- This attack uses [agility] instead of [combat]. All modifiers to your [combat] for this attack modify your [agility] instead.\n<margin 0>\n- Use the attacked enemy's evade value for this attack, instead of their fight value.",
                 "traits": "Talent.",
                 "type": "asset"
             },
@@ -2646,7 +2666,7 @@
             "id": "60332-t",
             "amount": 2,
             "front": {
-                "name": "<unique><name>",
+                "name": "<name>",
                 "copyright": "© 2019 FFG",
                 "classes": [
                     "rogue"
@@ -2662,12 +2682,13 @@
                 "illustration_scale": 1.4,
                 "illustrator": "Illus. Derek D. Edgell",
                 "level": "5",
+                "name_unique": "<unique>",
                 "sanity": "2",
                 "slots": [
                     "ally"
                 ],
                 "subtitle": "O'Bannion Driver",
-                "text": "Mutated.\n<reaction> When you play a <t>Tactic</t> or <t>Trick</t> event, exhaust <name>: Choose two -\n- That event gains: „Fast. Play only during your turn.\"\n<margin 15>\n- That event costs 2 fewer resources to play.\n<margin 15>\n- You get +2 skill value while performing a skill test during the resolution of that event.",
+                "text": "Mutated.\n<reaction> When you play a <t>Tactic</t> or <t>Trick</t> event, exhaust <name>: Choose two -\n- That event gains: „Fast. Play only during your turn.\"\n<margin 0>\n- That event costs 2 fewer resources to play.\n<margin 0>\n- You get +2 skill value while performing a skill test during the resolution of that event.",
                 "traits": "Ally. Criminal.",
                 "type": "asset"
             },
