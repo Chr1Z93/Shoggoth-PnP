@@ -37,7 +37,7 @@
         "02026-t": {
             "name": "Podwajam stawkę",
             "front": {
-                "text": "Zakazana.\nNa każdy test umiejętności można przeznaczyć maksymalnie 1 taką kartę.\nPodwój poziom trudności danego testu umiejętności. Jeśli test zakończy się sukcesem, dwukrotnie rozpatrz efekty testu zakończonego sukcesem.",
+                "text": "Zakazana. Na każdy test umiejętności można przeznaczyć maksymalnie 1 taką kartę.\nPodwój poziom trudności danego testu umiejętności. Jeśli test zakończy się sukcesem, dwukrotnie rozpatrz efekty testu zakończonego<br>sukcesem.",
                 "traits": "Los."
             }
         },
@@ -45,7 +45,7 @@
             "name": "Świece rytualne",
             "front": {
                 "flavor_text": "<valign>Knoty jarzyły się upiornym blaskiem, a płomienie poruszały się, jakby były żywe.",
-                "text": "Zmutowana.\n<reaction> Po tym, jak podczas wykonywanego przez ciebie testu zostanie odkryty dowolny symbol: do tego testu dostajesz +1 do wartości umiejętności.",
+                "text": "Zmutowana.\n<reaction> Po tym, jak podczas wykonywanego przez ciebie<br>testu zostanie odkryty dowolny symbol: do tego testu dostajesz +1 do wartości umiejętności.",
                 "traits": "Przedmiot."
             }
         },
@@ -59,7 +59,7 @@
         "02111-t": {
             "name": "Nadmierna ciekawość",
             "front": {
-                "flavor_text": "Gdy już coś ujrzysz, nie da się tego cofnąć.\n ",
+                "flavor_text": "<valign>Gdy już coś ujrzysz, nie da się tego cofnąć.\n ",
                 "text": "Zmutowana.\nW kolejności graczy każdy badacz dobiera 1 kartę z wierzchu talii spotkań. Następnie dodaj Nadmierną ciekawość do puli zwycięstwa. (Maksymalnie 2 kopie Nadmiernej ciekawości w puli zwycięstwa.)",
                 "traits": "Informacja.",
                 "victory": "Zwycięstwo 1."
@@ -68,13 +68,13 @@
         "02153-t": {
             "name": "Hipnotyzujące spojrzenie",
             "front": {
-                "text": "Zmutowana. Szybka. Zagraj, kiedy wróg zaatakuje badacza w twojej lokalizacji.\nAnuluj ten atak. Następnie odkryj losowy żeton z worka chaosu. Jeśli ma dowolny symbol, atakujący wróg zadaje obrażenia samemu sobie.",
+                "text": "Zmutowana. \nSzybka. Zagraj, kiedy wróg zaatakuje badacza w twojej lokalizacji.\nAnuluj ten atak. Następnie odkryj losowy żeton z worka chaosu. Jeśli ma dowolny symbol, atakujący wróg zadaje obrażenia samemu sobie.",
                 "traits": "Zaklęcie."
             }
         },
         "02226-t": {
             "front": {
-                "text": "Zmutowana. Zużywalny (3 naboje).\n<action> Wydaj 1 nabój: <b>Walka ([combat]).</b> Dostajesz +3 [combat] i zadajesz +2 obrażenia do tego ataku. Celem tego ataku może być nie-<t>Elitarny</t> wróg oddalony o 1 lokalizację dalej od jego normalnego zasięgu, ignorując słowa kluczowe Powściągliwy i Mściwy. Nie możesz w ten sposób zaatakować wrogów będących z tobą w zwarciu.",
+                "text": "Zmutowana. Zużywalny (3 naboje).\n<action> Wydaj 1 nabój: <b>Walka ([combat]).</b> Do tego ataku dostajesz +3 [combat] i zadajesz +2 obrażenia. Nie możesz w ten sposób zaatakować wrogów będących z tobą w zwarciu. Celem tego ataku może być nie-<t>Elitarny</t> wróg oddalony o 1 lokalizację dalej od jego normalnego zasięgu, ignorując słowa kluczowe Powściągliwy i Mściwy. ",
                 "traits": "Przedmiot. Broń. Palna."
             }
         },
@@ -89,7 +89,7 @@
             "name": "Dziwny roztwór",
             "front": {
                 "subtitle": "Żrąca posoka",
-                "text": "Zmutowana. Zbadany. Zużywalny (3 zapasy).\n<action> Wydaj 1 zapasy: <b>Walka ([combat]).</b> Zaatakuj z podstawową umiejętnością [combat] o wartości 6. Ten atak zadaje +1 obrażenie.",
+                "text": "Zmutowana. Zbadany. Zużywalny (3 zapasy).\n<action> Wydaj 1 zapasy: <b>Walka ([combat]).</b> Zaatakuj<br>z podstawową umiejętnością [combat] o wartości 6.<br>Ten atak zadaje +1 obrażenie.",
                 "traits": "Przedmiot. Nauka."
             }
         },
@@ -104,14 +104,14 @@
             "name": "Klejnot Aureolusa",
             "front": {
                 "subtitle": "Dar od homunkulusów",
-                "text": "Zmutowana.\n<reaction> Wyczerp <name> po tym, jak podczas testu umiejętności w twojej lokalizacji zostanie odkryty dowolny symbol: dobierasz 1 kartę lub zyskujesz 2 żetony zasobów.",
+                "text": "Zmutowana.\n<reaction> Wyczerp <name> po tym, jak podczas testu umiejętności w twojej lokalizacji zostanie odkryty dowolny symbol: dobierasz <br>1 kartę lub zyskujesz 2 żetony zasobów.",
                 "traits": "Przedmiot. Relikwia."
             }
         },
         "02300-t": {
             "name": "Pogromca potworów",
             "front": {
-                "text": "Uwolniona (-2 doświadczenia).\n<b>Walka ([combat]).</b> Jeśli ten atak powiedzie się przeciw nie-<t>Elitarnemu</t> wrogowi, pokonaj tego<br> wroga.",
+                "text": "Uwolniona (-2 doświadczenia).\n<b>Walka ([combat]).</b> Jeśli ten atak zakończy się powodzeniem przeciw nie-<t>Elitarnemu</t> wrogowi, pokonaj tego wroga.",
                 "traits": "Duch."
             }
         },
@@ -146,14 +146,14 @@
                     ]
                 ],
                 "flavor_text": "Lola występowała na scenach całego świata, zawsze grając przy pełnej sali, ale żadna sztuka, w której brała udział, nie była tak niepokojąca ani tak dziwna jak „Król w Żółci”. Nawet podczas prób to przedstawienie sprowadzało nieszczęście i grozę. Kiedy jej koleżankę ze sceny, Miriam, znaleziono martwą w rzece Seine, doszła do wniosku, że to już za wiele, i napisała list do reżysera, oznajmiając, że następny spektakl jest ostatnim, w jakim zamierza wystąpić. Teraz zmierza do Arkham na swoje ostatnie przedstawienie w nadziei, że nareszcie uwolni się od tej koszmarnej sztuki.",
-                "text": "Zmutowana.\n<b>Rozmiar talii</b>: 35.\n<b>Opcje tworzenia talii</b>: karty Ocalałego, Strażnika, Poszukiwacza, Łotra i Mistyka (<survivor>, <guardian>, <seeker>, <rogue> i <mystic>) o poziomie 0-3, karty neutralne o poziomie 0-5.\n<b>Wymogi tworzenia talii</b> (niewliczane do wielkości talii): 2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie.\n<b>Dodatkowe wymogi</b>: twoja talia musi zawierać przynaj- mniej po 7 kart z 3 różnych klas (<survivor>, <guardian>, <seeker>, <rogue> lub <mystic>).\n<b>Dodatkowe zasady przygotowania</b>: Po tym, jak dobierzesz początkowe karty: wybierz rolę (<survivor>, <guardian>, <seeker>, <rogue>, <mystic> lub neutralną)."
+                "text": "<b>Rozmiar talii</b>: 35.\n<b>Opcje tworzenia talii</b>: karty Ocalałego, Strażnika, Poszukiwacza, Łotra i Mistyka (<survivor>, <guardian>, <seeker>, <rogue> i <mystic>)<br>o poziomie 0-3, karty neutralne o poziomie 0-5.\n<b>Wymogi tworzenia talii</b> (niewliczane do wielkości talii): 2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie.\n<b>Dodatkowe wymogi</b>: twoja talia musi zawierać przynaj- mniej po 7 kart z 3 różnych klas (<survivor>, <guardian>, <seeker>, <rogue> lub <mystic>).\n<b>Dodatkowe zasady przygotowania</b>: Po tym, jak dobierzesz początkowe karty: wybierz rolę (<survivor>, <guardian>, <seeker>, <rogue>, <mystic> lub neutralną)."
             }
         },
         "03019-t": {
             "name": "Kryzys tożsamości",
             "front": {
                 "flavor_text": "<valign>„Wcielałam się już w tak wiele ról. Można się było spodziewać, że dopadnie mnie szaleństwo”.<br> ",
-                "text": "Zmutowana.\n<b>Odkrycie</b> - Odrzuć 1 kartę z twojej ręki lub obszaru gry twojej obecnej roli. Następnie odrzuć wierzchnią kartę z twojej talii. Zmień twoją rolę na rolę odpowiadającą klasie odrzuconej karty (jeśli odrzucona karta to osłabienie, zmień rolę na neutralną).",
+                "text": "Zmutowana.\n<b>Odkrycie</b> -- Odrzuć 1 kartę z twojej ręki lub obszaru gry twojej obecnej roli. Następnie odrzuć wierzchnią kartę z twojej talii. Zmień twoją rolę na rolę odpowiadającą klasie odrzuconej karty (jeśli odrzucona karta to osłabienie, zmień rolę na neutralną).",
                 "traits": "Szaleństwo."
             }
         },
@@ -167,7 +167,7 @@
         "03112-t": {
             "front": {
                 "subtitle": "Znany eschatolog",
-                "text": "Zmutowana. \nDopóki na Davidzie Renfieldzie znajduje się przynajmniej 1 żeton zagłady, dostajesz+1 [willpower].\n<free> Wyczerp Davida Renfielda: możesz umieścić 1 żeton zagłady na Davidzie Renfieldzie. Zyskaj 1 żeton zasobu za każdy żeton zagłady na Davidzie Renfieldzie (do maksymalnie 3 żetonów zasobów).",
+                "text": "Zmutowana. Dopóki na Davidzie Renfieldzie znajduje się przynajmniej 1 żeton zagłady, dostajesz +1 [willpower].\n<free> Wyczerp Davida Renfielda: możesz umieścić<br>1 żeton zagłady na Davidzie Renfieldzie. Zyskaj 1 żeton zasobu za każdy żeton zagłady na Davidzie Renfieldzie (do maksymalnie 3 żetonów zasobów).",
                 "traits": "Sprzymierzeniec. Opiekun."
             }
         },
@@ -175,7 +175,7 @@
             "name": "Klucz Ys",
             "front": {
                 "subtitle": "Niech rozpęta się burza",
-                "text": "Zmutowana. Wyjątkowa. Dostajesz +1 do każdej twojej umiejętności za każdy punkt przerażenia na Kluczu Ys.\n<for>  Kiedy dowolna liczba punktów przerażenia miałaby zostać umieszczona na tobie: umieść 1 z tych punktów przerażenia na Kluczu Ys.\n<for> Kiedy <name> opuszcza grę: odrzuć 10 wierzchnich kart z twojej talii.",
+                "text": "Zmutowana. Wyjątkowa.\nDostajesz +1 do każdej twojej umiejętności za każdy punkt przerażenia<br>na Kluczu Ys.\n<b> Wymuszony --</b> Kiedy dowolna liczba punktów przerażenia miałaby zostać umieszczona na tobie: umieść 1 z tych punktów przerażenia na Kluczu Ys.\n<b> Wymuszony --</b> Kiedy <name> opuszcza grę: odrzuć 10 wierzchnich kart z twojej talii.",
                 "traits": "Przedmiot. Relikwia."
             }
         },
@@ -205,7 +205,7 @@
         "04233-t": {
             "name": "Dzień wypłaty",
             "front": {
-                "text": "Zmutowana.\nZyskaj 1 żeton zasobu za każdą wykorzystaną akcję tej tury <i>(włącznie<br>z tą)</i>. Jeśli trwa twoja tura, kończysz twoją turę.",
+                "text": "Zmutowana.\nZyskaj 1 żeton zasobu za każdą wykorzystaną akcję tej tury <i>(włącznie z tą)</i>. Jeśli trwa twoja tura, kończysz twoją turę.",
                 "traits": "Nielegalny. Przeznaczony."
             }
         },
@@ -219,7 +219,7 @@
         "04309-t": {
             "name": "Wszystko na jedną kartę",
             "front": {
-                "text": "Zmutowana.\nNa każdy test umiejętności można przeznaczyć maksymalnie 1 taką kartę.\nJeśli ten test zakończy się sukcesem, dobierz 1 kartę za każdy punkt, o który test się powiódł (do maksimum 5). Wtasuj każde osłabienie dobrane w wyniku tego efektu z powrotem do twojej talii, bez rozpatrywania go. Usuń <name> z gry.",
+                "text": "Zmutowana. Na każdy test umiejętności można przeznaczyć maksymalnie 1 taką kartę.\nJeśli ten test zakończy się sukcesem, dobierz 1 kartę za każdy punkt, o który test się powiódł (do maksimum 5). Wtasuj każde osłabienie dobrane w wyniku tego efektu z powrotem do twojej talii, bez rozpatrywania go. Usuń <name> z gry.",
                 "traits": "Los."
             }
         },
@@ -227,14 +227,14 @@
             "name": "Przesłuchanie",
             "front": {
                 "flavor_text": "<valign>On coś ukrywał... ale dlaczego?",
-                "text": "Zmutowana.\n<b>Pertraktacje.</b> Wybierz nie-<t>Elitarnego</t> wroga znajdującego się w twojej lokalizacji i wykonaj test<br>[combat] (3). Ten test dostaje +X do poziomu trudności, gdzie X to wartość obrażeń wybranego wroga. Jeśli test zakończy się sukcesem, odkryj 1 wskazówkę w twojej lokalizacji i 1 wskazówkę w dowolnej innej lokalizacji.",
+                "text": "Zmutowana.\n<b>Pertraktacje.</b> Wybierz nie-<t>Elitarnego</t> wroga znajdującego się w twojej lokalizacji i wykonaj test<br>[combat] (3). Ten test dostaje +X do trudności, gdzie X to wartość obrażeń wybranego wroga. Jeśli test zakończy się sukcesem, odkryj 1 wskazówkę w twojej lokalizacji i 1 wskazówkę w dowolnej innej lokalizacji.",
                 "traits": "Taktyka. Informacja."
             }
         },
         "05113-t": {
             "name": "Wypędzenie",
             "front": {
-                "text": "Zmutowana.\n<b>Wymykanie (<willpower>).</b> Użyj tylko na nie-<t>Elitarnym</t> wrogu. Jeśli test zakończył się sukcesem, porusz wroga, któremu się właśnie wymknąłeś, do dowolnej lokalizacji w grze. Jeśli test zakończył się sukcesem i podczas próby wymknięcia się został odkryty dowolny symbol, dany wróg nie zostaje przygotowany podczas następnej fazy<br>utrzymania.",
+                "text": "Zmutowana. <b>Wymykanie (<willpower>).</b> Użyj tylko na nie-<t>Elitarnym</t> wrogu. Jeśli test zakończył się sukcesem, porusz wroga, któremu się właśnie wymknąłeś, do dowolnej lokalizacji w grze. Jeśli test zakończył się sukcesem i podczas próby wymknięcia się został odkryty dowolny symbol, dany wróg nie zostaje przygotowany podczas następnej fazy utrzymania.",
                 "traits": "Zaklęcie."
             }
         },
@@ -246,9 +246,9 @@
             }
         },
         "05153-t": {
-            "name": "Pan \"Szuler\"",
+            "name": "Pan „Szuler\"",
             "front": {
-                "flavor_text": "<valign>\"Jesteś pewien, że chcesz to wiedzieć? Nie będzie odwrotu.\"",
+                "flavor_text": "<valign>„Jesteś pewien, że chcesz to wiedzieć? Nie będzie odwrotu.\"",
                 "subtitle": "Handlarz sekretów",
                 "text": "Zmutowana. Zużywalny (3 sekrety).\n<action> Wyczerp Pana \"Szulera\" i wydaj 1 sekret: przeszukaj<br>3, 6 albo 9 wierzchnich kart z twojej talii w poszukiwaniu dowolnej karty i dobierz ją. Jeśli pośród przeszukiwanych kart znajduje się przynajmniej 1 osłabienie, dobierz <br>również 1 z nich. Potasuj twoją talię.",
                 "traits": "Sprzymierzeniec."
@@ -263,7 +263,7 @@
         "05157-t": {
             "name": "Uwiąd",
             "front": {
-                "text": "Zmutowana.\n<action>: <b>Walka ([willpower]).</b> Jeśli podczas tego ataku zostanie odkryty dowolny symbol, do końca tury zaatakowany wróg dostaje -1 do walki i -1 do wymykania się (do minimum 1).",
+                "text": "Zmutowana.\n<action>: <b>Walka ([willpower]).</b> Jeśli podczas tego ataku zostanie odkryty dowolny symbol, do końca tury zaatakowany wróg dostaje --1 do walki i --1 do wymykania się (do minimum 1).",
                 "traits": "Zaklęcie."
             }
         },
@@ -290,22 +290,22 @@
         "05230-t": {
             "name": "Celownik optyczny",
             "front": {
-                "text": "Zmutowana. Szybka. Dołącz do kontrolowanego przez Ciebie atutu z cechą <t>Palna</t>, który zajmuje 2 strefy rąk.\n<reaction> Kiedy wykonujesz akcję Walki przy użyciu atutu, do którego dołączono tę kartę, jeśli nie jesteś w zwarciu z żadnym wrogiem, wyczerp <name>: celem tego ataku może być nie-<t>Elitarny</t> wróg w połączonej lokalizacji. Podczas tego ataku zignoruj słowa kluczowe Powściągliwy i Mściwy.",
-                "traits": "Przedmiot. Ulepszenie."
+                "text": "Zmutowana. Szybka. Dołącz do kontrolowanego przez Ciebie atutu z cechą <t>Palna</t>, który zajmuje 2 strefy rąk.\n<reaction> Kiedy wykonujesz akcję <b>Walki</b> przy użyciu atutu,<br>do którego dołączono tę kartę, jeśli nie jesteś w zwarciu z żadnym wrogiem, wyczerp <name>: celem tego ataku może być nie-<t>Elitarny</t> wróg w połączonej lokalizacji. Podczas tego ataku zignoruj słowa kluczowe Powściągliwy i Mściwy.",
+                "traits": "Przedmiot. Usprawnienie."
             }
         },
         "05231-t": {
             "name": "Wiedza to potęga",
             "front": {
                 "flavor_text": "<valign>... a potęga bywa przekleństwem.",
-                "text": "Spętana (+2 doświadczenia). \nSzybka. Zagraj tylko podczas twojej tury.\nWybierz kontrolowany przez ciebie atut z cechą <t>Księga</t><br>lub <t>Zaklęcie</t> albo odkryj atut z cechą <t>Księga</t> lub <t>Zaklęcie</t><br>z twojej ręki. Rozpatrz zdolność <action> lub <free> z danego atutu ignorując wszystkie koszty <i>(wliczając w to koszt <action>, jeśli jest jakiś)</i>. Następnie, jeśli dany atut znajdował się na twojej ręce, możesz go odrzucić, aby dobrać 1 kartę.",
+                "text": "Spętana (+2 doświadczenia). Szybka. Zagraj tylko podczas twojej tury.\nWybierz kontrolowany przez ciebie atut z cechą <t>Księga</t><br>lub <t>Zaklęcie</t> albo odkryj atut z cechą <t>Księga</t> lub <t>Zaklęcie</t><br>z twojej ręki. Rozpatrz zdolność <action> lub <free> z danego atutu ignorując wszystkie koszty <i>(wliczając w to koszt <action>, jeśli jest jakiś)</i>. Następnie, jeśli dany atut znajdował się na twojej ręce, możesz go odrzucić, aby dobrać 1 kartę.",
                 "traits": "Informacja."
             }
         },
         "05321-t": {
             "name": "Uwiąd",
             "front": {
-                "text": "Zmutowana.\n<action>: <b>Walka ([willpower]).</b> Do tego ataku dostajesz +2 [willpower]. Jeśli podczas tego ataku zostanie odkryty dowolny symbol, do końca tury zaatakowany wróg dostaje -1 walki, -1 do wytrzymałości i -1 do wartości wymykania się (do minimum 1).",
+                "text": "Zmutowana.\n<action>: <b>Walka ([willpower]).</b> Do tego ataku dostajesz +2 [willpower]. Jeśli podczas tego ataku zostanie odkryty dowolny symbol, do końca tury zaatakowany wróg dostaje --1 do walki, --1 do wytrzymałości<br>i --1 do wymykania się (do minimum 1).",
                 "traits": "Zaklęcie."
             }
         },
@@ -342,7 +342,7 @@
                     ]
                 ],
                 "flavor_text": "Już od dziecka Mandy lubiła czytać, gdy nie mogła zasnąć. Czyli prawie co noc. Niesamowita pamięć i zdolność kojarzenia faktów pozwoliły jej stać się cenionym pracownikiem naukowym Uniwersytetu Miskatonic. Spędziła wiele godzin nad bluźnierczymi stronicami starożytnych, zakazanych pism, co pozwoliło jej odkryć pewien wzór mówiący o nadciągającym kataklizmie. Czy w końcu i ona zaczęła popadać w paranoję? A może ludzkości naprawdę grozi katastrofa na niewyobrażalną skalę?",
-                "text": "Zmutowana.\n<b>Rozmiar talii</b>: 50.\n<b>Wybór drugorzędnej klasy</b>: podczas tworzenia talii wybierz Mistyka (<mystic>), Łotra (<rogue>) lub Ocalałego (<survivor>).\n<b>Opcje tworzenia talii</b>: karty Poszukiwacza (<seeker>)<br>o poziomie 0-5, karty neutralne o poziomie 0-5,<br>do 10 kart wydarzeń i/lub umiejętności twojej wybranej drugorzędnej klasy o poziomie 0-1.<br> <b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): 3 kopie Dowodu okultyzmu, Szokujące odkrycie,<br>1 losowe podstawowe osłabienie."
+                "text": "<b>Rozmiar talii</b>: 50.\n<b>Wybór drugorzędnej klasy</b>: podczas tworzenia talii wybierz Mistyka (<mystic>), Łotra (<rogue>) lub Ocalałego (<survivor>).<br><b>Opcje tworzenia talii</b>: karty Poszukiwacza (<seeker>)<br>o poziomie 0-5, karty neutralne o poziomie 0-5,<br>do 10 kart wydarzeń i/lub umiejętności twojej wybranej drugorzędnej klasy o poziomie 0-1.<br> <b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): 3 kopie Dowodu okultyzmu, Szokujące odkrycie,<br>1 losowe podstawowe osłabienie."
             }
         },
         "06022-t": {
@@ -409,20 +409,20 @@
         "07122-t": {
             "name": "Starożytne Przymierze",
             "front": {
-                "text": "Zmutowana. Trwały. Limit 1 karta z cechą <t>Przymierze</t> na talię.\n<reaction> Kiedy podczas testu umiejętności rozpatrujesz żeton <blessing>, wyczerp <name>: nie odkrywaj kolejnego żetonu z efektu tego żetonu <blessing>.",
+                "text": "Zmutowana. Trwały. Limit 1 karta z cechą <t>Przymierze</t> na talię.\n<reaction> Kiedy podczas testu umiejętności rozpatrujesz<br>żeton <blessing>, wyczerp <name>: nie odkrywaj kolejnego żetonu z efektu tego żetonu <blessing>.<br>",
                 "traits": "Przymierze. Błogosławiony."
             }
         },
         "07197-t": {
             "front": {
-                "text": "Uwolniona (-2 doświadczenia).\nPrzeznacz tylko do wykonywanego przez ciebie testu umiejętności i tylko wtedy, gdy poziom trudności danego testu jest wyższy od twojej podstawowej wartości umiejętności.\nPo tym, jak przeznaczysz <name> do testu umiejętności, dodaj X żetonów <blessing> do worka chaosu. X to różnica pomiędzy trudnością tego testu a twoją bazową wartością umiejętności.",
+                "text": "<margin 15>\nUwolniona (-2 doświadczenia).\nPrzeznacz tylko do wykonywanego przez ciebie testu umiejętności i tylko wtedy, gdy poziom trudności danego testu jest wyższy od twojej podstawowej wartości umiejętności.\nPo tym, jak przeznaczysz <name> do testu umiejętności,<br>dodaj X żetonów <blessing> do worka chaosu. X to różnica pomiędzy trudnością tego testu a twoją bazową wartością umiejętności.",
                 "traits": "<size 60>Nabyta. Błogosławiony."
             }
         },
         "07268-t": {
             "name": "Flet Zewnętrznych Bogów",
             "front": {
-                "text": "Zmutowana. Pieczęć (maksymalnie X <curse>). Limit 1 na talię.\n<action> Wyczerp Flet Zewnętrznych Bogów i uwolnij 1 zapieczętowany na nim żeton <curse>: wybierz nie-<t>Elitarnego</t> wroga w twojej lokalizacji. Porusz wybranego wroga do połączonej lokalizacji albo zadaj wartość jego obrażeń dowolnemu wrogowi w jego lokalizacji. Ta akcja nie wywołuje ataków towarzyszących.",
+                "text": "Zmutowana. Pieczęć (maksymalnie X <curse>). Limit 1 na talię.\n<action> Wyczerp Flet Zewnętrznych Bogów i uwolnij<br>1 zapieczętowany na nim żeton <curse>: wybierz nie-<t>Elitarnego</t><br> wroga w twojej lokalizacji. Porusz wybranego wroga do połączonej lokalizacji albo zadaj wartość jego obrażeń dowolnemu wrogowi w jego lokalizacji. Ta akcja nie wywołuje ataków towarzyszących.",
                 "traits": "Przedmiot. Instrument. Relikwia. Przeklęty."
             }
         },
@@ -451,13 +451,13 @@
         "08019-t": {
             "name": "Wyposażony",
             "front": {
-                "text": "Zmutowana. Trwały. Limit 1 na talię. Kup podczas budowania talii.\n<for> Kiedy zaczyna się twoja pierwsza tura podczas gry: zagraj jeden po drugim, do 5 atutów z cechą <t>Przedmiot</t> z twojej ręki, obniżając o 1 koszt zagrania każdego z nich. Podczas tej tury masz 3 akcje mniej do wykonania."
+                "text": "Zmutowana. Trwały. Limit 1 na talię. Kup podczas budowania talii.\n<b>Wymuszony</b> -- Kiedy zaczyna się twoja pierwsza tura podczas gry: zagraj pojedynczo do 5 atutów z cechą <t>Przedmiot</t> z twojej ręki, obniżając o 1 koszt zagrania każdego z nich. Podczas tej tury masz 3 akcje mniej do wykonania."
             }
         },
         "08032-t": {
             "front": {
                 "subtitle": "Archeolog z Arktyki",
-                "text": "Zmutowana.\nDostajesz +1 [intellect].\n<reaction> Po tym, jak <name> wejdzie do gry, wybierz „parzyste” lub „nieparzyste”: odkryj 5 wierzchnich kart z twojej talii. Dobierz każdą kartę, której koszt odpowiada wybranej przez ciebie opcji. Wtasuj pozostałe karty z powrotem do twojej talii. (Maksymalnie 2 razy na grę).",
+                "text": "Zmutowana. Dostajesz +1 [intellect].\n<reaction> Po tym, jak <name> wejdzie do gry, wybierz „parzyste” lub „nieparzyste”: odkryj 5 wierzchnich kart z twojej talii. Dobierz każdą kartę, której koszt odpowiada wybranej przez ciebie opcji. Wtasuj pozostałe karty z powrotem do twojej talii. (Maksymalnie 2 razy na grę).",
                 "traits": "Sprzymierzeniec. Miskatonic. Podróżnik."
             }
         },
@@ -479,7 +479,7 @@
             "name": "Spal po przeczytaniu",
             "front": {
                 "flavor_text": "<valign><b>Karta zaprojektowana przez Radę na Wygnaniu podczas Gen Con 2020</b>",
-                "text": "Zakazana.\nWygnaj z ręki kartę o poziomie 0-5. Odkryj 2 żetony wskazówek w twojej lokalizacji. Jeśli wygnana karta miała poziom 2 lub wyższy, usuń 1 żeton zagłady z obecnej tajemnicy. Wygnaj <name>. ",
+                "text": "Zakazana.\nWygnaj z ręki kartę o poziomie 0-5. Odkryj<br>2 żetony wskazówek w twojej lokalizacji. Jeśli wygnana karta miała poziom 2 lub wyższy,<br>usuń 1 żeton zagłady z obecnej tajemnicy. Wygnaj <name>. ",
                 "traits": "Informacja."
             }
         },
@@ -493,7 +493,7 @@
         "08098-t": {
             "name": "Mapa eonów",
             "front": {
-                "text": "Zmutowana. Zużywalny (3 sekrety).\n<free> Podczas twojej tury wyczerp Mapę eonów<br>i wydaj 1 sekret: wybierz i wykonaj jedną z<br>następujących akcji podstawowych (ruch, wymykanie się lub badanie).",
+                "text": "Zmutowana. Zużywalny (3 sekrety).\n<free> Podczas twojej tury wyczerp Mapę eonów<br>i wydaj 1 sekret: wybierz i wykonaj jedną <br>z następujących akcji podstawowych (ruch, wymykanie się lub badanie).",
                 "traits": "Przedmiot. Relikwia."
             }
         },
@@ -514,7 +514,7 @@
         "08113-t": {
             "name": "Bezwzględna lichwa",
             "front": {
-                "text": "Tylko tryb kampanii. Limit 1 na badacza. Nie może opuścić gry.\n<reaction> Po tym, jak zagrasz Bezwzględną lichwę: zyskujesz 10 żetonów zasobów.\n<for> Kiedy gra się kończy lub zostaniesz wyeliminowany, jeśli posiadasz mniej niż 10 żetonów zasobów w swojej puli zasobów: wygnaj Bezwzględną lichwę.",
+                "text": "Tylko tryb kampanii. Limit 1 na badacza. Nie może opuścić gry.\n<reaction> Po tym, jak zagrasz Bezwzględną lichwę: zyskujesz 10 żetonów zasobów.\n<b>Wymuszony --</b> Kiedy gra się kończy lub zostaniesz wyeliminowany, jeśli posiadasz mniej niż 10 żetonów zasobów w swojej puli zasobów: wygnaj Bezwzględną lichwę.",
                 "traits": "Pakt."
             }
         },
@@ -577,7 +577,7 @@
         "09041-t": {
             "name": "Hipoteza empiryczna",
             "front": {
-                "text": "Zmutowana. Przystosowalny. Limit 1 na badacza.\n<for> Początek rundy: wybierz jeden z następujących warunków na tę rundę:\n- twój test zakończy się porażką o 2 lub więcej.\n<margin 0>\n- twój test zakończy się sukcesem o 3 lub więcej.\nKiedy wybrany warunek zostanie spełniony, możesz wyczerpać Hipotezę empiryczną, aby dodać na nią 1 dowód.\n<free> Wydaj 1 dowód: dobierz 1 kartę. (Limit 2 razy na rundę).",
+                "text": "Zmutowana. Przystosowalny. Limit 1 na badacza.\n<b>Wymuszony</b> -- Początek rundy: wybierz jeden z następujących warunków na tę rundę:\n- twój test zakończy się porażką o 2 lub więcej.\n<margin 0>\n- twój test zakończy się sukcesem o 3 lub więcej.\nKiedy wybrany warunek zostanie spełniony, możesz wyczerpać Hipotezę empiryczną, aby dodać na nią 1 dowód.\n<free> Wydaj 1 dowód: dobierz 1 kartę. (Limit 2 razy na rundę).",
                 "traits": "Talent. Nauka."
             }
         },
@@ -591,21 +591,21 @@
         "09072-t": {
             "front": {
                 "subtitle": "Szofer O'Bannionów",
-                "text": "Zmutowana.\n<reaction> Kiedy zagrywasz kartę wydarzenia z cechą <t>Taktyka</t> lub <t>Sztuczka</t>, wyczerp Chucka Fergusa: wybierz jedno --\n- Dane wydarzenie zyskuje: „Szybka. Zagraj tylko podczas swojej tury”.\n<margin 0>\n- Zagranie danego wydarzenia kosztuje o 2 żetony<br>zasobów mniej.\n<margin 0>\n- Dostajesz +2 do wartości umiejętności w czasie wykonywania testu umiejętności podczas rozpatrywania danego wydarzenia.",
+                "text": "Zmutowana. <reaction> Kiedy zagrywasz kartę wydarzenia z cechą <t>Taktyka</t> lub <t>Sztuczka</t>, wyczerp Chucka Fergusa: wybierz jedno --\n- Dane wydarzenie zyskuje: „Szybka. Zagraj tylko podczas swojej tury”.\n<margin 0>\n- Zagranie danego wydarzenia kosztuje o 2 żetony zasobów mniej.\n<margin 0>\n- Dostajesz +2 do wartości umiejętności w czasie wykonywania testu umiejętności podczas rozpatrywania danego wydarzenia.",
                 "traits": "Sprzymierzeniec. Przestępca."
             }
         },
         "09077-t": {
             "name": "Nielegalny handel",
             "front": {
-                "text": "Spętana (+2 doświadczenia).\nTrwały. Wyjątkowa. Rozmiar twojej talii jest zwiększony o 10.\n<reaction> Przed dobraniem początkowej ręki wybierz 10 kart z cechą <t>Nielegalny</t> z twojej talii: potasuj je osobno i umieść obok Nielegalnego handlu jako talię handlu.\n<reaction> Początek twojej tury: odkryj 2 wierzchnie karty twojej talii handlu. Możesz wydać 1 zasób, aby dobrać 1 z nich. Pozostałe<br>umieść na spodzie talii handlu w dowolnej kolejności.",
+                "text": "Spętana (+2 doświadczenia). Trwały. Wyjątkowa. Rozmiar twojej talii jest zwiększony o 10.\n<reaction> Przed dobraniem początkowej ręki wybierz 10 kart z cechą <t>Nielegalny</t> z twojej talii: potasuj je osobno i umieść obok Nielegalnego handlu jako talię handlu.\n<reaction> Początek twojej tury: odkryj 2 wierzchnie karty twojej talii handlu. Możesz wydać 1 zasób, aby dobrać 1 z nich. Pozostałe<br>umieść na spodzie talii handlu w dowolnej kolejności.",
                 "traits": "Powiązanie. Nielegalny."
             }
         },
         "09081-t": {
             "name": "Potęga słowa",
             "front": {
-                "text": "Zmutowana. Przystosowalny. Szybka. Zagraj tylko podczas twojej tury.\nDołącz do nie-<t>Elitarnego</t> wroga w twojej lokalizacji.\n<action> Jeśli wróg, do którego dołączono tę kartę, znajduje się w twojej lokalizacji: <b>Pertraktacje.</b> Wykonaj test <br>[willpower] (2). Jeżeli test zakończy się sukcesem, wydaj mu rozkaz (limit raz na rundę na każdy rozkaz) --\n- „<i>Idź.</i>” Ten wróg porusza się 1 raz w wybranym przez ciebie kierunku.",
+                "text": "Zmutowana. Przystosowalny. Szybka. Zagraj tylko podczas twojej tury.\nDołącz do nie-<t>Elitarnego</t> wroga w twojej lokalizacji.\n<action> Jeśli wróg, do którego dołączono tę kartę, znajduje się w twojej lokalizacji: <b>Pertraktacje.</b> Wykonaj test <br>[willpower] (2). Jeżeli test zakończy się sukcesem, wydaj mu rozkaz (limit raz na rundę na każdy rozkaz) --\n- „<i>Idź.</i>” Ten wróg porusza się 1 raz w wybranym<br>przez ciebie kierunku.",
                 "traits": "Zaklęcie."
             }
         },
@@ -617,7 +617,7 @@
                     [
                         1,
                         "Zdrada",
-                        "Dodaj rozkaz: „<bullet> <i>„Zdrada.\"</i> Zadaj 1 obrażenie<br>dowolnemu wrogowi w lokalizacji tego wroga o takiej samej lub niższej wartości walki od tego wroga”."
+                        "Dodaj rozkaz: „<bullet> <i>„Zdradź.\"</i> Zadaj 1 obrażenie<br>dowolnemu wrogowi w lokalizacji tego wroga o takiej<br>samej lub niższej wartości walki od tego wroga”."
                     ],
                     [
                         1,
@@ -668,7 +668,7 @@
         "09117-t": {
             "name": "Stary pęk kluczy",
             "front": {
-                "text": "Spętana (+1 doświadczenie). Zużywalny (3 klucze). Jeśli na Starym pęku kluczy nie ma żadnych kluczy, odrzuć go.\n<action>: <b>Badanie ([intellect]).</b> Do tego badania twoja lokalizacja dostaje <br>-2 zasłony. Jeśli test zakończy się sukcesem, usuń 1 klucz<br>ze Starego pęku kluczy, a jeśli trudność tego testu wynosi 0, odkrywasz 1 dodatkowy żeton wskazówki.",
+                "text": "Spętana (+1 doświadczenie). Zużywalny (3 klucze). Jeśli na Starym pęku kluczy nie ma żadnych kluczy, odrzuć go.\n<action>: <b>Badanie ([intellect]).</b> Do tego badania twoja lokalizacja dostaje --2 zasłony. Jeśli test zakończy się sukcesem, usuń 1 klucz ze Starego pęku kluczy, a jeśli trudność tego testu wynosi 0, odkrywasz 1 dodatkowy żeton wskazówki.",
                 "traits": "Przedmiot. Narzędzie."
             }
         },
@@ -714,7 +714,7 @@
             "name": "Żarłoczny mykonid",
             "front": {
                 "subtitle": "Odmiana mięsożerna",
-                "text": "Spętana (+1 doświadczenie).\nZbadany. Limit 1 na talię.\n<free>: Przeszukaj twoje powiązane karty w poszukiwaniu Niespo- tykanego rozrostu i dodaj go na twoją rękę. (Limit raz na rundę).\n<free> Wybierz nie-<t>Elitarnego</t> wroga w twojej lokalizacji, który ma tyle samo lub mniej pozostałej wytrzymałości niż liczba rozrostów na Żarłocznym mykonidzie: pokonaj danego wroga. Usuń wszystkie rozrosty z Żarłocznego mykonida.",
+                "text": "Spętana (+1 doświadczenie). Zbadany. Limit 1 na talię.\n<free>: Przeszukaj twoje powiązane karty w poszukiwaniu Niespo- tykanego rozrostu i dodaj go na twoją rękę. (Limit raz na rundę).\n<free> Wybierz nie-<t>Elitarnego</t> wroga w twojej lokalizacji, który ma tyle samo lub mniej pozostałej wytrzymałości niż liczba rozrostów na Żarłocznym mykonidzie: pokonaj danego wroga. Usuń wszystkie rozrosty z Żarłocznego mykonida.",
                 "traits": "Potwór. Nauka."
             }
         },
@@ -722,7 +722,7 @@
             "name": "Różdżka Carnamagosa",
             "front": {
                 "subtitle": "Berło szalonego proroka",
-                "text": "Spętana (+2 doświadczenia).\nLimit 1 na talię.\n<free> Wybierz nie-<t>Elitarnego</t> wroga w dowolnej lokalizacji i wyczerp Różdżkę Carnamagosa: odkryj 5 losowych żetonów chaosu z worka chaosu. Jeśli został odkryty żeton <curse>, przeszukaj twoje powiązane karty w poszukiwaniu losowej karty wydarzenia z cechą <t>Zgnilizna</t> i dołącz ją do danego wroga.",
+                "text": "Spętana (+2 doświadczenia). Limit 1 na talię.\n<free> Wybierz nie-<t>Elitarnego</t> wroga w dowolnej lokalizacji i wyczerp Różdżkę Carnamagosa: odkryj<br>5 losowych żetonów chaosu z worka chaosu. Jeśli został odkryty żeton <curse>, przeszukaj twoje powiązane karty w poszukiwaniu losowej karty wydarzenia z cechą <t>Zgnilizna</t> i dołącz ją do danego wroga.",
                 "traits": "Przedmiot. Relikwia. Okultyzm. Przeklęty."
             }
         },
@@ -730,7 +730,7 @@
             "name": "Różdżka Carnamagosa",
             "front": {
                 "subtitle": "Berło szalonego proroka",
-                "text": "Spętana (+2 doświadczenia).\n<free> Wybierz nie-<t>Elitarnego</t> wroga w dowolnej lokalizacji i wyczerp Różdżkę Carnamagosa: odkryj 5 losowych żetonów chaosu z worka chaosu. Dla każdego odkrytego żetonu <curse>, możesz przeszukać twoje powiązane karty w poszukiwaniu karty wydarzenia z cechą <t>Zgnilizna</t> i dołączyć ją do danego wroga.",
+                "text": "Spętana (+2 doświadczenia).\n<free> Wybierz nie-<t>Elitarnego</t> wroga w dowolnej lokalizacji i wyczerp Różdżkę Carnamagosa: odkryj<br>5 losowych żetonów chaosu z worka chaosu. Dla każdego odkrytego żetonu <curse>, możesz przeszukać twoje powiązane karty w poszukiwaniu karty wydarzenia z cechą <t>Zgnilizna</t> i dołączyć ją do danego wroga.",
                 "traits": "Przedmiot. Relikwia. Okultyzm. Przeklęty."
             }
         },
@@ -738,7 +738,7 @@
             "name": "Szybki strzał",
             "front": {
                 "flavor_text": "<valign>Nie bez powodu mówili, że Siostra Sofia to „ręka Boga”.",
-                "text": "Uwolniona (-2 doświadczenia). Niezliczone. Szybka. Zagraj tylko podczas twojej tury.\nZadaj 1 obrażenie wrogowi w twojej lokalizacji.\n<reaction> Po tym, jak dobierzesz <name> w trakcie twojej tury: zagraj go, obniżając jego koszt o 2.",
+                "text": "Uwolniona (-2 doświadczenia).\nNiezliczone. Szybka. Zagraj tylko podczas twojej tury.\nZadaj 1 obrażenie wrogowi w twojej lokalizacji.\n<reaction> Po tym, jak dobierzesz <name> w trakcie twojej tury: zagraj go, obniżając jego koszt o 2.",
                 "traits": "Duch."
             }
         },
@@ -760,7 +760,7 @@
         "11071-t": {
             "name": "Duchowa tarcza",
             "front": {
-                "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury. Dołącz do karty gracza w twojej lokalizacji, która posiada wytrzymałość i/lub poczytalność.\n<for >Kiedy karta, do której dołączono tę kartę, po raz pierwszy otrzyma 1 lub więcej obrażeń / punktów przerażenia: anuluj 1 z tych obrażeń lub punktów przerażenia. Właściciel Duchowej tarczy musi usunąć 1 ładunek z atutu, który kontroluje. Jeśli nie może tego zrobić, odrzuć Duchową tarczę.",
+                "text": "Zmutowana. Szybka. Zagraj tylko podczas twojej tury. Dołącz do karty gracza w twojej lokalizacji, która posiada wytrzymałość i/lub poczytalność.\n<b>Wymuszony --</b> Kiedy karta, do której dołączono tę kartę, po raz pierwszy otrzyma 1 lub więcej obrażeń / punktów przerażenia: anuluj 1 z tych obrażeń lub punktów przerażenia. Właściciel Duchowej tarczy musi usunąć 1 ładunek z atutu, który kontroluje. Jeśli nie może tego zrobić, odrzuć Duchową tarczę.",
                 "traits": "Zaklęcie. Duch."
             }
         },
@@ -782,7 +782,7 @@
         "11118-t": {
             "name": "Karta biblioteczna",
             "front": {
-                "text": "Zmutowana. Tylko talia <t>Miskatonic</t> lub <t>Uczonego</t>. Trwały. Limit 1 na talię.\n<free> Podczas twojej tury, jeśli żaden atut nie jest dołączony do Karty bibliotecznej, wyczerp Kartę biblioteczną: dołącz do tej karty atut z cechą <t>Księga</t> z twojej ręki. Dołączony atut nie zajmuje żadnej strefy.\n<for> Kiedy twoja tura dobiega końca: umieść dołączony atut na spodzie twojej talii, chyba że wydasz 1 żeton zasobu.",
+                "text": "Zmutowana. Tylko talia <t>Miskatonic</t> lub <t>Uczonego</t>. Trwały. Limit<br>1 na talię.\n<free> Podczas twojej tury, jeśli żaden atut nie jest dołączony do Karty bibliotecznej, wyczerp Kartę biblioteczną: dołącz do tej karty atut z cechą <t>Księga</t> z twojej ręki. Dołączony atut nie zajmuje żadnej strefy.\n<b>Wymuszony</b> -- Kiedy twoja tura dobiega końca: umieść dołączony atut na spodzie twojej talii, chyba że wydasz 1 żeton zasobu.",
                 "traits": "Przedmiot. Miskatonic."
             }
         },
@@ -796,7 +796,7 @@
             "name": "Necronomicon",
             "front": {
                 "subtitle": "Tłumaczenie Petrusa de Dacia",
-                "text": "Zakazana. Zużywalny (6 sekretów). Limit 1 na talię.\n<free> Wydaj 1 sekret: dostajesz +2 do wartości umiejętności<br>do tego testu umiejętności.\n<free> Wydaj 2 sekrety: dobierz 2 karty.\n<free> Wydaj 3 sekrety: odkryj 1 żeton wskazówki w dowolnej lokalizacji.\n<free> Wydaj 4 sekrety: zadaj 3 obrażenia wrogowi będącemu<br>z tobą w zwarciu.",
+                "text": "Zakazana. Zużywalny (6 sekretów). Limit 1 na talię.\n<free> Wydaj 1 sekret: dostajesz +2 do wartości umiejętności do tego testu umiejętności.\n<free> Wydaj 2 sekrety: dobierz 2 karty.\n<free> Wydaj 3 sekrety: odkryj 1 żeton wskazówki w dowolnej lokalizacji.\n<free> Wydaj 4 sekrety: zadaj 3 obrażenia wrogowi będącemu z tobą<br>w zwarciu.",
                 "traits": "Przedmiot. Księga."
             }
         },
@@ -804,7 +804,7 @@
             "name": "Ryzykant",
             "front": {
                 "flavor_text": "<valign>„Wini, jesteś szalona!\"<br>„Wiem, czyż to nie wspaniałe?\"",
-                "text": "Zmutowana.\nPo tym, jak przeznaczysz <name>a do testu umiejętności, odrzucaj karty z wierzchu twojej talii, dopóki nie odrzucisz umiejętności <rogue>, którą możesz przeznaczyć do tego testu. Przeznacz ją. Po rozpatrzeniu tego testu, dobierz każde osłabienie odrzucone przez ten efekt.",
+                "text": "Zmutowana.\nPo tym, jak przeznaczysz <name>a do testu umiejętności,<br> odrzucaj karty z wierzchu twojej talii, dopóki nie odrzucisz<br> umiejętności <rogue>, którą możesz przeznaczyć do tego testu. Przeznacz ją. Po rozpatrzeniu tego testu, dobierz każde osłabienie odrzucone przez ten efekt.",
                 "traits": "Los. Nabyta."
             }
         },
@@ -817,7 +817,7 @@
         "60332-t": {
             "front": {
                 "subtitle": "Szofer O'Bannionów",
-                "text": "Zmutowana.\n<reaction> Kiedy zagrywasz kartę wydarzenia z cechą <t>Taktyka</t> lub <t>Sztuczka</t>, wyczerp Chucka Fergusa: wybierz dwa --\n- Dane wydarzenie zyskuje: „Szybka. Zagraj tylko podczas swojej tury”.\n<margin 0>\n- Zagranie danego wydarzenia kosztuje o 2 żetony zasobów mniej.\n<margin 0>\n- Dostajesz +2 do wartości umiejętności w czasie wykonywania testu umiejętności podczas rozpatrywania danego wydarzenia.",
+                "text": "Zmutowana. <reaction> Kiedy zagrywasz kartę wydarzenia z cechą <t>Taktyka</t> lub <t>Sztuczka</t>, wyczerp Chucka Fergusa: wybierz dwa --\n- Dane wydarzenie zyskuje: „Szybka. Zagraj tylko podczas swojej tury”.\n<margin 0>\n- Zagranie danego wydarzenia kosztuje o 2 żetony zasobów mniej.\n<margin 0>\n- Dostajesz +2 do wartości umiejętności w czasie wykonywania testu umiejętności podczas rozpatrywania danego wydarzenia.",
                 "traits": "Sprzymierzeniec. Przestępca."
             }
         },
@@ -831,7 +831,7 @@
         "60423-t": {
             "name": "Hipnotyzujące spojrzenie",
             "front": {
-                "text": "Zmutowana. Szybka. Zagraj, kiedy wróg zaatakuje badacza w twojej lokalizacji.\nAnuluj ten atak. Następnie odkryj losowy żeton z worka chaosu. Jeśli ma dowolny symbol, zadaj atakującemu wrogowi obrażenia w liczbie równej jego wartości obrażeń lub przerażenia.",
+                "text": "Zmutowana. \nSzybka. Zagraj, kiedy wróg zaatakuje badacza w twojej lokalizacji.\nAnuluj ten atak. Następnie odkryj losowy żeton z worka chaosu. Jeśli ma dowolny symbol, zadaj atakującemu wrogowi obrażenia w liczbie równej jego wartości obrażeń lub przerażenia.<br>",
                 "traits": "Zaklęcie."
             }
         }

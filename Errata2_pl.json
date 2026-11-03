@@ -4,7 +4,7 @@
         "12020": {
             "name": "Maczeta",
             "front": {
-                "flavor_text": "Doskonale ścina winorośle, krzaki i macki.",
+                "flavor_text": "<valign>Doskonale ścina winorośle, krzaki i macki.",
                 "text": "<action>: <b>Walka</b> (<combat>). Do tego ataku dostajesz +1<combat>. Jeśli test zakończy się sukcesem i zaatakowany wróg jest jedynym wrogiem znajdującym się<br>z tobą w zwarciu, możesz wyczerpać Maczetę,<br>aby ten atak zadał +1 obrażenie.",
                 "traits": "Przedmiot. Broń. Biała."
             }
@@ -19,7 +19,7 @@
         "60178": {
             "name": "Wytrzymałość",
             "front": {
-                "text": "Startowa. <i>(Możesz rozpocząć grę z 1 kopią startowej karty<br>na twojej początkowej ręce.)</i>\n<free>Wydaj 1 zasób: do tego testu umiejętności dostajesz +1 <combat> (zamiast tego +2 <combat>, jeśli to atak lub wymykanie się).\n<free> Wydaj 1 zasób: do tego testu umiejętności dostajesz  +1 <agility> (zamiast tego +2 <agility>, jeśli to atak lub wymykanie się)."
+                "text": "Startowa. <i>(Możesz rozpocząć grę z 1 kopią startowej karty<br>na twojej początkowej ręce)</i>.\n<free>Wydaj 1 zasób: do tego testu umiejętności dostajesz +1 <combat> (zamiast tego +2 <combat>, jeśli to atak lub wymykanie się).\n<free> Wydaj 1 zasób: do tego testu umiejętności dostajesz  +1 <agility> (zamiast tego +2 <agility>, jeśli to atak lub wymykanie się)."
             }
         },
         "60563": {
@@ -35,14 +35,14 @@
             "name": "Instynkt łowcy",
             "front": {
                 "name": "Instynkt łowcy",
-                "text": "Limit 1 na badacza. Zużywalny (3 zapasy).<br>Jeśli na Instynkcie łowcy nie ma żadnych zapasów, odrzuć go.\n<reaction> Po tym, jak wejdziesz w zwarcie z wrogiem, wydaj 1 zapasy i wyczerp <name>: dodaj na swoją rękę<br>kartę wydarzenia poziomu 0-2 z twojego stosu kart<br>odrzuconych."
+                "text": "Limit 1 na badacza. Zużywalny (3 zapasy). Jeśli na Instynkcie łowcy nie ma żadnych zapasów, odrzuć go.\n<reaction> Po tym, jak wejdziesz w zwarcie z wrogiem, wydaj<br>1 zapasy i wyczerp <name>: dodaj na swoją rękę<br>kartę wydarzenia poziomu 0-2 z twojego stosu kart<br>odrzuconych."
             }
         },
         "6b1811aa-2f5b-420f-ab66-990faa5a7c68": {
             "name": "Pułapka-wabik",
             "front": {
                 "name": "Pułapka-wabik",
-                "text": "This card has correct text in Polish.\nText tej karty nie zawiera błędów w języku polskim.",
+                "text": "Szybka. Dołącz do twojej lokalizacji. Limit 1 <t>Pułapka</t><br>na lokalizację.\n<reaction> Po tym, jak wróg wejdzie do lokalizacji, do której dołączono tę kartę, wyczerp Pułapkę-wabik: <b>Wymykanie się</b> (<intellect> lub <agility>). Wymknij się temu wrogowi. Do tego wymykania się dostajesz +1 do wartości umiejętności. Jeśli ten test zakończy się sukcesem, możesz odrzucić Pułapkę-<br>wabik, aby poruszyć się do danej lokalizacji. <i>(Możesz aktywować tę zdolność z dowolnej lokalizacji).</i><br>",
                 "traits": "Pułapka. Sztuczka."
             }
         },
@@ -50,7 +50,7 @@
             "name": "Na czatach",
             "front": {
                 "name": "Na czatach",
-                "text": "Szybka. Dołącz do twojej lokalizacji. Limit 1 <t>Pułapka</t> na lokalizację.\n<reaction> Po tym, jak wróg wejdzie do lokalizacji, do której dołączono tę kartę, wyczerp Na czatach: <b>Badanie</b> (<intellect><br>lub <agility>). Zbadaj lokalizację, do której dołączono tę kartę. Dostajesz +1 do wartości umiejętności do tego badania. Jeśli test zakończy się sukcesem, możesz odrzucić Na czatach, aby odkryć 1 dodatkową wskazówkę w tej lokalizacji. (<i>Możesz aktywować tę zdolność z dowolnej lokalizacji</i>).",
+                "text": "Szybka. Dołącz do twojej lokalizacji. Limit 1 <t>Pułapka</t><br>na lokalizację.\n<reaction> Po tym, jak wróg wejdzie do lokalizacji, do której dołączono tę kartę, wyczerp Na czatach: <b>Badanie</b> (<intellect><br>lub <agility>). Zbadaj lokalizację, do której dołączono tę kartę. Dostajesz +1 do wartości umiejętności do tego badania. Jeśli test zakończy się sukcesem, możesz odrzucić Na czatach, aby odkryć 1 dodatkową wskazówkę w tej lokalizacji. (<i>Możesz aktywować tę zdolność z dowolnej lokalizacji</i>).",
                 "traits": "Informacja. Pułapka."
             }
         },
@@ -58,7 +58,7 @@
             "name": "W ukryciu",
             "front": {
                 "name": "W ukryciu",
-                "text": "Szybka. Dołącz do twojej lokalizacji. Limit 1 <t>Pułapka</t> na lokalizację.\n<reaction> Po tym, jak wróg wejdzie do tej lokalizacji, wyczerp W ukryciu: <b>Walka</b> (<combat> lub <agility>). Walcz z tym wrogiem. Dostajesz +1 do wartości umiejętności do tego ataku. Jeśli test zakończy się sukcesem, możesz odrzucić <name>, aby ten atak zadał +1 obrażenie. (<i>Możesz aktywować tę zdolność z dowolnej lokalizacji</i>).",
+                "text": "Szybka. Dołącz do twojej lokalizacji. Limit 1 <t>Pułapka</t><br>na lokalizację.\n<reaction> Po tym, jak wróg wejdzie do tej lokalizacji,<br>wyczerp W ukryciu: <b>Walka</b> (<combat> lub <agility>). Walcz z tym wrogiem. Dostajesz +1 do wartości umiejętności do<br>tego ataku. Jeśli test zakończy się sukcesem, możesz odrzucić <name>, aby ten atak zadał +1 obrażenie.<br> (<i>Możesz aktywować tę zdolność z dowolnej lokalizacji</i>).",
                 "traits": "Taktyka. Pułapka."
             }
         }
