@@ -364,7 +364,7 @@
             "name": "Anhänger der Königin",
             "front": {
                 "subtitle": "Von nichts und wieder nichts",
-                "text": "Mutiert. Gebunden (Onyxstück). Anwendungen (3 Ladungen). Falls diese Karte keine Ladungen hat, entferne sie aus dem Spiel.\n<free> Erschöpfe <name> und gib 1 Ladung aus: Wähle einen enthüllten Ort und wähle eins - du bewegst dich an jenen Ort, du entdeckst 1 Hinweis an jenem Ort oder du entkommst automatisch einem Gegner an jenem Ort.",
+                "text": "Mutiert. Gebunden (Onyxstück).<br>Anwendungen (3 Ladungen). Falls diese Karte keine Ladungen hat, entferne sie aus dem Spiel.\n<free> Erschöpfe <name> und gib 1 Ladung aus: Wähle einen enthüllten Ort und wähle eins - du bewegst dich an jenen Ort, du entdeckst 1 Hinweis an jenem Ort oder du entkommst automatisch einem Gegner an jenem Ort.",
                 "traits": "Gegenstand. Relikt."
             }
         },
