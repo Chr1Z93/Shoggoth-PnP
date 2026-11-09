@@ -494,7 +494,8 @@
         "08076-t": {
             "name": "Quemar después de leer",
             "front": {
-                "text": "Prohibida.\nExilia una carta de nivel 0-5 de tu mano. Descubre 2 pistas en tu Lugar. Si la carta exiliada era de nivel 2 o mayor, retira 1 ficha de Perdición del plan en curso. Exilia <name>.\n<center><b>Carta diseñada por El consejo en el exilio en la Gen Con 2020</b>",
+                "flavor_text": "<valign><b>Carta diseñada por El consejo en el exilio en la Gen Con 2020</b>",
+                "text": "Prohibida.\nExilia una carta de nivel 0-5 de tu mano. Descubre 2 pistas en tu Lugar. Si la carta exiliada era de nivel 2 o mayor, retira 1 ficha de Perdición del plan en curso. Exilia <name>.",
                 "traits": "Inspiración."
             }
         },
@@ -540,6 +541,55 @@
                 "traits": "Objeto. Arma. Cuerpo a cuerpo."
             }
         },
+        "09022-t-c": {
+            "name": "Hacha rúnica (Lista de mejoras)",
+            "front": {
+                "name": "Hacha rúnica",
+                "checkbox_entries": [
+                    [
+                        1,
+                        "Herencia",
+                        "Este Apoyo recibe -1 a su coste y obtiene el rasgo  <t>Reliquia</t>."
+                    ],
+                    [
+                        1,
+                        "Inscripción de gloria",
+                        "Añade esta inscripción: \"<bullet> <i>Gloria</i> -- Si este ataque derrota a un Enemigo, elige una opción: roba 1 carta, cúrate 1 punto de daño o cúrate 1 punto de horror.\"."
+                    ],
+                    [
+                        1,
+                        "Inscripción de los ancianos",
+                        "Añade esta inscripción: \"<bullet> <i>Ancianos</i> -- Si este ataque tiene éxito por una cantidad igual o mayor que el velo de tu Lugar, descubre 1 pista en tu Lugar.\"."
+                    ],
+                    [
+                        2,
+                        "Inscripción de la caza",
+                        "Añade esta inscripción: \"<bullet> <i>Caza</i> -- Muévete inmediatamente a un Lugar conectado o enfréntate a un Enemigo que esté en tu Lugar.\"."
+                    ],
+                    [
+                        1,
+                        "Inscripción de furia",
+                        "Añade esta inscripción: \"<bullet> <i>Furia</i> -- Si este ataque tiene éxito, además de su daño estándar, inflige 1 punto de daño a cada uno de los demás Enemigos enfrentados a ti.\"."
+                    ],
+                    [
+                        3,
+                        "Poder antiguo",
+                        "Puedes imbuir la misma inscripción hasta tres veces."
+                    ],
+                    [
+                        3,
+                        "Saga",
+                        "Repón 2 de las cargas del Hacha rúnica al comienzo de cada ronda en lugar de sólo 1."
+                    ],
+                    [
+                        4,
+                        "Tejedora de escritura",
+                        "Por cada carga gastada, puedes imbuir el hacha de hasta dos inscripciones distintas."
+                    ]
+                ],
+                "text": "Mutada.\n"
+            }
+        },
         "09041-t": {
             "name": "Hipótesis empírica",
             "front": {
@@ -573,6 +623,55 @@
             "front": {
                 "text": "Mutada. Personalizable. Rápido. Juega esta carta sólo durante tu turno.\nVincula esta carta a un Enemigo que no sea <t>Élite</t> que esté en tu Lugar.\n<action> Si el Enemigo vinculado está en tu Lugar: <b>Negociar</b>. Realiza una prueba de [willpower] (2). Si tienes éxito, dale una orden (límite de una vez por ronda y por orden) - \n- <i>“Vete”</i>. Este Enemigo se mueve una vez en una dirección de tu elección.",
                 "traits": "Hechizo."
+            }
+        },
+        "09081-t-c": {
+            "name": "Palabra de poder (Lista de mejoras)",
+            "front": {
+                "name": "Palabra de poder",
+                "checkbox_entries": [
+                    [
+                        1,
+                        "Traiciona",
+                        "Añade la orden: \"<bullet> <i>'Traiciona.'</i> Inflige 1 punto de daño a cualquier Enemigo que esté en el Lugar de este Enemigo y que tenga un valor de combate igual o menor que este Enemigo.\"."
+                    ],
+                    [
+                        1,
+                        "Acobárdate",
+                        "Añade la orden: \"<bullet> <i>'Acobárdate.'</i> Este Enemigo se agota.\"."
+                    ],
+                    [
+                        1,
+                        "Confiesa",
+                        "Añade la orden: \"<bullet> <i>'Confiesa.'</i> Descubre 1 pista en el Lugar de este Enemigo si su salud es igual o mayor que el velo de su Lugar.\"."
+                    ],
+                    [
+                        1,
+                        "Distrae",
+                        "Añade la orden: \"<bullet> <i>'Distrae.'</i> Evita automáticamente a cualquier Enemigo que esté en el Lugar de este Enemigo y que tenga un valor de evitar igual o menor que este Enemigo.\"."
+                    ],
+                    [
+                        2,
+                        "Mayor control",
+                        "La Palabra de poder obtiene \"<free>: Devuelve la Palabra de poder a tu mano.\"."
+                    ],
+                    [
+                        3,
+                        "Atado",
+                        "Puedes activar la capacidad de negociar de la Palabra de poder desde un máximo de un Lugar de distancia del Enemigo vinculado."
+                    ],
+                    [
+                        3,
+                        "Trabalenguas",
+                        "Cuando negocies con la Palabra de poder, puedes dar hasta dos órdenes distintas."
+                    ],
+                    [
+                        3,
+                        "Pronunciada tres veces",
+                        "Puedes incluir tres copias de la Palabra de poder en tu mazo. Cuando des una orden usando una copia, dale también esa orden a cada uno de los demás Enemigos que tenga vinculada una de tus copias de la Palabra de poder."
+                    ]
+                ],
+                "text": "Mutada.\n"
             }
         },
         "09108-t": {
@@ -691,7 +790,7 @@
             "front": {
                 "flavor_text": "\"Publica o fallece, me dijeron. Tal vez haga ambas cosas.\"",
                 "subtitle": "Conferenciante atribulado",
-                "text": "Desencadenada (-2 de Experiencia). Sólo para un mazo <t>Ayudante</t>, <t>Reportero</t>, <t>Erudito</t>. \nUsos (4 secretos). Recibes +1 [intellect].\nLos secretos de los Apoyos que controles se pueden gastar como recursos para pagar Eventos <t>Inspiración</t> que juegues.",
+                "text": "Desencadenada (-2 de experiencia). Sólo para un mazo <t>Ayudante</t>, <t>Reportero</t>, <t>Erudito</t>. \nUsos (4 secretos). Recibes +1 [intellect].\nLos secretos de los Apoyos que controles se pueden gastar como recursos para pagar Eventos <t>Inspiración</t> que juegues.",
                 "traits": "Aliado."
             }
         },
