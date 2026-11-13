@@ -530,7 +530,7 @@
         "08113-t": {
             "name": "Préstamo sin escrúpulos",
             "front": {
-                "text": "Sólo modo de campaña. Límite de 1 por investigador. No puede abandonar el juego.\n<reaction> Después de que juegues el <name>: Obtén 10 recursos.\n<b>Obligado</b> – Cuando acabe la partida o seas eliminado, si tienes menos de 10 recursos en tu reserva de recursos: Exilia el <name>.",
+                "text": "Mutada. Sólo modo de campaña. Límite de 1 por investigador. No puede abandonar el juego.\n<reaction> Después de que juegues el <name>: Obtén 10 recursos.\n<b>Obligado</b> – Cuando acabe la partida o seas eliminado, si tienes menos de 10 recursos en tu reserva de recursos: Exilia el <name>.",
                 "traits": "Pacto."
             }
         },
