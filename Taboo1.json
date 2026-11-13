@@ -1873,7 +1873,7 @@
                 "illustration_scale": 2.15,
                 "illustrator": "Illus. Drazenka Kimpel",
                 "level": "3",
-                "text": "Campaign Mode only. Limit 1 per investigator. Cannot leave play.\n<reaction> After you play <name>: Gain 10 resources.\n<for> When the game ends or you are eliminated, if you have fewer than 10 resources in your resource pool: Exile <name>.",
+                "text": "Mutated. Campaign Mode only. Limit 1 per investigator. Cannot leave play.\n<reaction> After you play <name>: Gain 10 resources.\n<for> When the game ends or you are eliminated, if you have fewer than 10 resources in your resource pool: Exile <name>.",
                 "traits": "Pact.",
                 "type": "asset"
             },
