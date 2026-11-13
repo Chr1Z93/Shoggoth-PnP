@@ -494,7 +494,7 @@
         "08076-t": {
             "name": "Quemar después de leer",
             "front": {
-                "flavor_text": "<valign><b>Carta diseñada por El consejo en el exilio en la Gen Con 2020</b>",
+                "flavor_text": "<b>Carta diseñada por El consejo en el exilio en la Gen Con 2020</b>",
                 "text": "Prohibida.\nExilia una carta de nivel 0-5 de tu mano. Descubre 2 pistas en tu Lugar. Si la carta exiliada era de nivel 2 o mayor, retira 1 ficha de Perdición del plan en curso. Exilia <name>.",
                 "traits": "Inspiración."
             }
@@ -554,22 +554,22 @@
                     [
                         1,
                         "Inscripción de gloria",
-                        "Añade esta inscripción: \"<bullet> <i>Gloria</i> -- Si este ataque derrota a un Enemigo, elige una opción: roba 1 carta, cúrate 1 punto de daño o cúrate 1 punto de horror.\"."
+                        "Añade esta inscripción: \"- <i>Gloria</i> -- Si este ataque derrota a un Enemigo, elige una opción: roba 1 carta, cúrate 1 punto de daño o cúrate 1 punto de horror.\"."
                     ],
                     [
                         1,
                         "Inscripción de los ancianos",
-                        "Añade esta inscripción: \"<bullet> <i>Ancianos</i> -- Si este ataque tiene éxito por una cantidad igual o mayor que el velo de tu Lugar, descubre 1 pista en tu Lugar.\"."
+                        "Añade esta inscripción: \"- <i>Ancianos</i> -- Si este ataque tiene éxito por una cantidad igual o mayor que el velo de tu Lugar, descubre 1 pista en tu Lugar.\"."
                     ],
                     [
                         2,
                         "Inscripción de la caza",
-                        "Añade esta inscripción: \"<bullet> <i>Caza</i> -- Muévete inmediatamente a un Lugar conectado o enfréntate a un Enemigo que esté en tu Lugar.\"."
+                        "Añade esta inscripción: \"- <i>Caza</i> -- Muévete inmediatamente a un Lugar conectado o enfréntate a un Enemigo que esté en tu Lugar.\"."
                     ],
                     [
                         1,
                         "Inscripción de furia",
-                        "Añade esta inscripción: \"<bullet> <i>Furia</i> -- Si este ataque tiene éxito, además de su daño estándar, inflige 1 punto de daño a cada uno de los demás Enemigos enfrentados a ti.\"."
+                        "Añade esta inscripción: \"- <i>Furia</i> -- Si este ataque tiene éxito, además de su daño estándar, inflige 1 punto de daño a cada uno de los demás Enemigos enfrentados a ti.\"."
                     ],
                     [
                         3,
@@ -633,22 +633,22 @@
                     [
                         1,
                         "Traiciona",
-                        "Añade la orden: \"<bullet> <i>'Traiciona.'</i> Inflige 1 punto de daño a cualquier Enemigo que esté en el Lugar de este Enemigo y que tenga un valor de combate igual o menor que este Enemigo.\"."
+                        "Añade la orden: \"- <i>'Traiciona.'</i> Inflige 1 punto de daño a cualquier Enemigo que esté en el Lugar de este Enemigo y que tenga un valor de combate igual o menor que este Enemigo.\"."
                     ],
                     [
                         1,
                         "Acobárdate",
-                        "Añade la orden: \"<bullet> <i>'Acobárdate.'</i> Este Enemigo se agota.\"."
+                        "Añade la orden: \"- <i>'Acobárdate.'</i> Este Enemigo se agota.\"."
                     ],
                     [
                         1,
                         "Confiesa",
-                        "Añade la orden: \"<bullet> <i>'Confiesa.'</i> Descubre 1 pista en el Lugar de este Enemigo si su salud es igual o mayor que el velo de su Lugar.\"."
+                        "Añade la orden: \"- <i>'Confiesa.'</i> Descubre 1 pista en el Lugar de este Enemigo si su salud es igual o mayor que el velo de su Lugar.\"."
                     ],
                     [
                         1,
                         "Distrae",
-                        "Añade la orden: \"<bullet> <i>'Distrae.'</i> Evita automáticamente a cualquier Enemigo que esté en el Lugar de este Enemigo y que tenga un valor de evitar igual o menor que este Enemigo.\"."
+                        "Añade la orden: \"- <i>'Distrae.'</i> Evita automáticamente a cualquier Enemigo que esté en el Lugar de este Enemigo y que tenga un valor de evitar igual o menor que este Enemigo.\"."
                     ],
                     [
                         2,

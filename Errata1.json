@@ -273,7 +273,7 @@
                 "illustration_scale": 2.23,
                 "illustrator": "Illus. David Hovey",
                 "level": "0",
-                "text": "Max 2 <t>Dilemma</t> per round.\n<rev> If there are no enemies in play, draw 1 card. Otherwise, you must decide (choose one):\n<bullet> Each unengaged non-<t>Elite</t> enemy moves once toward the nearest investigator.\n<bullet> Each investigator disengages from each enemy engaged with them and moves once away from the nearest enemy.",
+                "text": "Max 2 <t>Dilemma</t> per round.\n<rev> If there are no enemies in play, draw 1 card. Otherwise, you must decide (choose one):\n- Each unengaged non-<t>Elite</t> enemy moves once toward the nearest investigator.\n- Each investigator disengages from each enemy engaged with them and moves once away from the nearest enemy.",
                 "traits": "Dilemma. Tactic.",
                 "type": "event"
             },

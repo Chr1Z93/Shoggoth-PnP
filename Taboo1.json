@@ -21,7 +21,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/core.svg\">",
                 "collection_number": "33",
                 "cost": "4",
-                "flavor_text": "<valign>\"While I truly pray that this nightmare is just a singular abomination, I must admit that I am exhilarated by the possibility that this is but one specimen of a new genus!\"",
+                "flavor_text": "\"While I truly pray that this nightmare is just a singular abomination, I must admit that I am exhilarated by the possibility that this is but one specimen of a new genus!\"",
                 "health": "1",
                 "icons": "I",
                 "illustration": "./img/ahc01-033 Dr. Milan Christopher-Anthony Devine.jpg",
@@ -191,7 +191,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
                 "collection_number": "29",
                 "cost": "1",
-                "flavor_text": "<valign>The wax tapers give off an eerie glow, and the flames move as if they are alive.",
+                "flavor_text": "The wax tapers give off an eerie glow, and the flames move as if they are alive.",
                 "icons": "W",
                 "illustration": "./img/ahc02-029 Ritual Candles - Kristina Gehrmann.png",
                 "illustration_pan_x": 48.0,
@@ -536,7 +536,7 @@
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/ptc.svg\">",
                 "collection_number": "19",
-                "flavor_text": "<valign>\"I've played so many roles. Madness is to be expected.\"",
+                "flavor_text": "\"I've played so many roles. Madness is to be expected.\"",
                 "illustration": "./img/ahc11-019 Crisis of Identity - Matt Bradbury.png",
                 "illustration_pan_x": 103.0,
                 "illustration_pan_y": 71.0,
@@ -659,7 +659,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
                 "collection_number": "32",
                 "cost": "1",
-                "flavor_text": "<valign>The secrets were written in the stars.",
+                "flavor_text": "The secrets were written in the stars.",
                 "icons": "WA",
                 "illustration": "./img/ahc19-032 Dark Prophecy - Alice Duke.png",
                 "illustration_pan_x": 70.0,
@@ -714,7 +714,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
                 "collection_number": "110",
                 "cost": "2",
-                "flavor_text": "<valign>\"Not on my watch.\"",
+                "flavor_text": "\"Not on my watch.\"",
                 "icons": "WI",
                 "illustration": "./img/ahc19-110 Counterspell - export - Matthew Cowdery.png",
                 "illustration_pan_x": 50.0,
@@ -824,7 +824,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "collection_number": "20",
                 "cost": "2",
-                "flavor_text": "<valign>He was hiding something… but why?",
+                "flavor_text": "He was hiding something… but why?",
                 "icons": "IC",
                 "illustration": "./img/ahc29-020 Interrogate - John Pacer.jpg",
                 "illustration_pan_x": 0.0,
@@ -908,7 +908,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "collection_number": "153",
                 "cost": "3",
-                "flavor_text": "<valign>\"Are you sure you want to know? There is no going back.\"",
+                "flavor_text": "\"Are you sure you want to know? There is no going back.\"",
                 "health": "2",
                 "icons": "W",
                 "illustration": "./img/ahc29-153 Mr. Rook - Romana Kendelic.png",
@@ -1113,7 +1113,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tcu.svg\">",
                 "collection_number": "231",
                 "cost": "0",
-                "flavor_text": "<valign>... and power corrupts.",
+                "flavor_text": "... and power corrupts.",
                 "icons": "WI",
                 "illustration": "./img/ahc29-231 Knowledge is Power-wide - Michal Milkowski.png",
                 "illustration_pan_x": 0.0,
@@ -1535,7 +1535,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tic.svg\">",
                 "collection_number": "301",
                 "cost": "3",
-                "flavor_text": "<valign>Even in the deepest darkness, light can still bloom.",
+                "flavor_text": "Even in the deepest darkness, light can still bloom.",
                 "icons": "WQ",
                 "illustration": "./img/ahc52-301 Hallow - Romana Kendelic.jpg",
                 "illustration_pan_x": -71.0,
@@ -1709,7 +1709,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
                 "collection_number": "76",
                 "cost": "1",
-                "flavor_text": "<valign><b>Card designed by the Council-in-Exile at Gen Con 2020</b>",
+                "flavor_text": "<b>Card designed by the Council-in-Exile at Gen Con 2020</b>",
                 "icons": "Q",
                 "illustration": "./img/ahc63-076 Burn After Reading (Ian Hardaway) - Romana Kendelic.jpg",
                 "illustration_pan_x": 71.0,
@@ -1932,7 +1932,7 @@
                 "illustration_scale": 1.96,
                 "illustrator": "Illus. Isuardi Therianto",
                 "level": "None",
-                "text": "Mutated. Customizable. Limit 1 per investigator.\n<for> At the start of the round: Choose one of the following criteria for this round\n- You fail a test by 2 or more.\n<margin 0>\n- You succeed at a test by 3 or more.\nWhen the chosen criteria is met, you may exhaust <name> to add 1 evidence to it.\n<free> Spend 1 evidence: Draw 1 card. (Limit twice per round.)",
+                "text": "Mutated. Customizable. Limit 1 per investigator.\n<for> At the start of the round: Choose one of the following criteria ...\n- You fail a test by 2 or more.\n<margin 0>\n- You succeed at a test by 3 or more.\n<reaction> When the chosen criteria is met, exhaust <name>: Add 1 evidence to it.\n<free> Spend 1 evidence: Draw 1 card. (Limit twice per round.)",
                 "traits": "Talent. Science.",
                 "type": "asset"
             },
@@ -2049,7 +2049,7 @@
                 "illustration_scale": 2.038,
                 "illustrator": "Illus. Anders Finer",
                 "level": "None",
-                "text": "Mutated. Customizable. Fast. Play only during your turn.\nAttach to a non-<t>Elite</t> enemy at your location.\n<action> If attached enemy is at your location: <b>Parley.</b> Test [willpower] (2). If you succeed, give it a command (limit once per round per command) --\n <bullet> \"<i>Go.</i>\" This enemy moves once in a direction of your choice.",
+                "text": "Mutated. Customizable. Fast. Play only during your turn.\nAttach to a non-<t>Elite</t> enemy at your location.\n<action> If attached enemy is at your location: <b>Parley.</b> Test [willpower] (2). If you succeed, give it a command (limit once per round per command) --\n- \"<i>Go.</i>\" This enemy moves once in a direction of your choice.",
                 "traits": "Spell.",
                 "type": "event"
             },
@@ -2123,7 +2123,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
                 "collection_number": "26",
                 "cost": "1",
-                "flavor_text": "<valign>\"H-hands where I can see 'em!\"",
+                "flavor_text": "\"H-hands where I can see 'em!\"",
                 "icons": "CA",
                 "illustration": "./img/ahc76-026 Hold Up - Robert Laskey.jpg",
                 "illustration_pan_x": 68.0,
@@ -2151,7 +2151,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/fhv.svg\">",
                 "collection_number": "30",
                 "cost": "1",
-                "flavor_text": "<valign>Keep your eyes on the target.",
+                "flavor_text": "Keep your eyes on the target.",
                 "icons": "IC",
                 "illustration": "./img/ahc76-030 Hand-Eye Coordination - export - Romana Kendelic.png",
                 "illustration_pan_x": 70.0,
@@ -2358,7 +2358,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
                 "collection_number": "31",
                 "cost": "2",
-                "flavor_text": "<valign>They called Sister Sofia the \"hand of God\" for a very good reason.",
+                "flavor_text": "They called Sister Sofia the \"hand of God\" for a very good reason.",
                 "icons": "CA",
                 "illustration": "./img/ahc83-031 Quick Shot - Gabrielle Portal.jpg",
                 "illustration_pan_x": -7.0,
@@ -2501,7 +2501,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tdcp.svg\">",
                 "collection_number": "117",
                 "cost": "4",
-                "flavor_text": "<valign>\"'Publish or Perish,' they said. Perhaps we'll do both.\"",
+                "flavor_text": "\"'Publish or Perish,' they said. Perhaps we'll do both.\"",
                 "health": "2",
                 "icons": "IQ",
                 "illustration": "./img/ahc83-117 Archibald MacVeigh - Alexandre Dainche.jpg",
@@ -2618,7 +2618,7 @@
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/winifred.svg\">",
                 "collection_number": "18",
-                "flavor_text": "<valign>\"You're a maniac, Wini!\"<br>\"I know! Isn't it wonderful?\"",
+                "flavor_text": "\"You're a maniac, Wini!\"<br>\"I know! Isn't it wonderful?\"",
                 "icons": "Q",
                 "illustration": "./img/60318-t.png",
                 "illustration_pan_x": 38.0,
@@ -2760,22 +2760,22 @@
                     [
                         1,
                         "Betray",
-                        "Add the command: \"<bullet> <i>'Betray.'</i> Deal 1 damage to any enemy at this enemy's location with an equal or lower fight value than this enemy.\""
+                        "Add the command: \"- <i>'Betray.'</i> Deal 1 damage to any enemy at this enemy's location with an equal or lower fight value than this enemy.\""
                     ],
                     [
                         1,
                         "Cower",
-                        "Add the command: \"<bullet> <i>'Cower.'</i> This enemy exhausts.\""
+                        "Add the command: \"- <i>'Cower.'</i> This enemy exhausts.\""
                     ],
                     [
                         1,
                         "Confess",
-                        "Add the command: \"<bullet> <i>'Confess.'</i> Discover 1 clue at this enemy's location if its health is equal to or higher than its location's shroud.\""
+                        "Add the command: \"- <i>'Confess.'</i> Discover 1 clue at this enemy's location if its health is equal to or higher than its location's shroud.\""
                     ],
                     [
                         1,
                         "Distract",
-                        "Add the command: \"<bullet> <i>'Distract.'</i> Automatically evade any enemy at this enemy's location with an equal or lower evade value than this enemy.\""
+                        "Add the command: \"- <i>'Distract.'</i> Automatically evade any enemy at this enemy's location with an equal or lower evade value than this enemy.\""
                     ],
                     [
                         2,
@@ -2820,22 +2820,22 @@
                     [
                         1,
                         "Inscription of Glory",
-                        "Add this inscription: \"<bullet> <i>Glory</i> - If this attack defeats an enemy, choose one: draw 1 card, heal 1 damage, or heal 1 horror.\""
+                        "Add this inscription: \"- <i>Glory</i> - If this attack defeats an enemy, choose one: draw 1 card, heal 1 damage, or heal 1 horror.\""
                     ],
                     [
                         1,
                         "Inscription of the Elders",
-                        "Add this inscription: \"<bullet> <i>Elders</i> - If this attack succeeds by an amount equal to or greater than your location's shroud, discover 1 clue at your location.\""
+                        "Add this inscription: \"- <i>Elders</i> - If this attack succeeds by an amount equal to or greater than your location's shroud, discover 1 clue at your location.\""
                     ],
                     [
                         2,
                         "Inscription of the Hunt",
-                        "Add this inscription: \"<bullet> <i>Hunt</i> - Immediately move to a connecting location or engage an enemy at your location.\""
+                        "Add this inscription: \"- <i>Hunt</i> - Immediately move to a connecting location or engage an enemy at your location.\""
                     ],
                     [
                         1,
                         "Inscription of Fury",
-                        "Add this inscription: \"<bullet> <i>Fury</i> - If this attack is successful, in addition to its standard damage, deal 1 damage to each other enemy engaged with you.\""
+                        "Add this inscription: \"- <i>Fury</i> - If this attack is successful, in addition to its standard damage, deal 1 damage to each other enemy engaged with you.\""
                     ],
                     [
                         3,

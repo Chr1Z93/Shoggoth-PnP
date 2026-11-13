@@ -61,7 +61,7 @@
         "02029-t": {
             "name": "Ritualkerzen",
             "front": {
-                "flavor_text": "<valign>Die Wachskerzen glühen unheimlich und die Flammen zucken, als ob sie lebendig wären.",
+                "flavor_text": "Die Wachskerzen glühen unheimlich und die Flammen zucken, als ob sie lebendig wären.",
                 "text": "Mutiert.\n<reaction> Nachdem ein Symbol während einer Probe enthüllt worden ist, die du ablegst: Du bekommst für diese Probe +1 auf deinen Fertigkeitswert.",
                 "traits": "Gegenstand."
             }
@@ -167,7 +167,7 @@
         "03019-t": {
             "name": "Identitätskrise",
             "front": {
-                "flavor_text": "<valign>„Ich habe so viele Rollen gespielt.<br>Da muss man mit dem Wahnsinn rechnen.“",
+                "flavor_text": "„Ich habe so viele Rollen gespielt.<br>Da muss man mit dem Wahnsinn rechnen.“",
                 "text": "Mutiert.\n<rev> Lege 1 Karte deiner aktuellen Rolle von deiner Hand oder aus deiner Spielzone ab. Lege dann die oberste Karte deines Decks ab. Wechsele deine Rolle zu der Klasse der abgelegten Karte (falls die abgelegte Karte eine Schwäche ist, wechsle deine Rolle auf Neutral).",
                 "traits": "Wahnsinn."
             }
@@ -196,7 +196,7 @@
         "04032-t": {
             "name": "Dunkle Prophezeiung",
             "front": {
-                "flavor_text": "<valign>Die Geheimnisse waren in den Sternen geschrieben.",
+                "flavor_text": "Die Geheimnisse waren in den Sternen geschrieben.",
                 "text": "Mutiert. Schnell. Spiele diese Karte, sobald du einen Chaosmarker enthüllen würdest.\nEnthülle stattdessen 5 statt 1 Chaosmarker. Wähle einen jener Marker mit einem Nicht-<elder_sign>-Symbol, um ihn abzuhandeln und ignoriere die restlichen. (Falls kein solcher Marker enthüllt wird, wähle einen beliebigen jener Marker, den du abhandelst, und ignoriere die restlichen.)",
                 "traits": "Weissagung."
             }
@@ -211,7 +211,7 @@
         "04110-t": {
             "name": "Gegenzauber",
             "front": {
-                "flavor_text": "<valign>„Nicht mit mir!“",
+                "flavor_text": "„Nicht mit mir!“",
                 "text": "<size 65>Mutiert. Schnell. Spiele diese Karte, sobald ein Nicht-<auto_fail>-Symbol während einer Fertigkeitsprobe an deinem Ort enthüllt wird.\nHebe jenen Chaosmarker auf. <i>(Enthülle keinen neuen Chaosmarker, um ihn zu ersetzen.)</i>",
                 "traits": "Zauber. Gesegnet."
             }
@@ -240,7 +240,7 @@
         "05020-t": {
             "name": "Befragung",
             "front": {
-                "flavor_text": "<valign>Er verschwieg etwas… aber warum?",
+                "flavor_text": "Er verschwieg etwas… aber warum?",
                 "text": "Mutiert.\n<b>Verhandlung.</b> Wähle einen Nicht-<t>Elite</t>-Gegner an deinem Ort und lege eine [combat]-Probe (3) ab. Diese Probe bekommt +X Schwierigkeit. X ist dabei der Schadenswert des gewählten Gegners. Falls die Probe gelingt, entdeckst du 1 Hinweis an deinem Ort und 1 Hinweis an einem beliebigen anderen Ort.",
                 "traits": "Taktik. Erkenntnis."
             }
@@ -262,7 +262,7 @@
         "05153-t": {
             "name": "Mr. „Rook”",
             "front": {
-                "flavor_text": "<valign>„Möchten Sie das wirklich wissen?<br>Dann gibt es kein Zurück mehr.”",
+                "flavor_text": "„Möchten Sie das wirklich wissen?<br>Dann gibt es kein Zurück mehr.”",
                 "subtitle": "Geheimnishändler",
                 "text": "Mutiert. Anwendungen (3 Geheimnisse).\n<action> Erschöpfe <name> und gib 1 Geheimnis aus: Durchsuche die oberen 3, 6 oder 9 Karten deines Decks nach einer beliebigen Karte und ziehe sie. Falls unter den angesehenen Karten mindestens 1 Schwäche ist, ziehe außerdem 1 von ihnen. Mische dein Deck.",
                 "traits": "Verbündeter."
@@ -312,7 +312,7 @@
         "05231-t": {
             "name": "Wissen ist Macht",
             "front": {
-                "flavor_text": "<valign>... und Macht verdirbt.",
+                "flavor_text": "... und Macht verdirbt.",
                 "text": "Verkettet (+2 Erfahrung). Schnell. Spiele diese Karte nur in deinem Zug.\nWähle eine <t>Buch</t>- oder <t>Zauber</t>-Vorteilskarte, die du kontrollierst, oder enthülle eine <t>Buch</t>- oder <t>Zauber</t>-Vorteilskarte von deiner Hand. Handle eine <action>- oder <free>-Fähigkeit jener Vorteilskarte ab und ignoriere dafür alle Kosten <i>(einschließlich ihrer <action>-Kosten, sofern vorhanden)</i>. Falls jene Vorteilskarte auf deiner Hand war, darfst du sie dann ablegen, um 1 Karte zu ziehen.",
                 "traits": "Erkenntnis."
             }
@@ -443,7 +443,7 @@
         "07301-t": {
             "name": "Weihen",
             "front": {
-                "flavor_text": "<valign>Selbst in der tiefsten Dunkelheit kann ein Licht erwachsen.",
+                "flavor_text": "Selbst in der tiefsten Dunkelheit kann ein Licht erwachsen.",
                 "text": "Mutiert. Als zusätzliche Kosten, um <name> zu spielen, lege insgesamt 10 <blessing>-Marker aus dem Chaosbeutel und/oder versiegelt auf Karten im Spiel in den Markervorrat zurück.\nEntferne 1 Verderben von einer beliebigen Karte im Spiel. Entferne <name> aus dem Spiel.",
                 "traits": "Zauber. Gesegnet."
             }
@@ -485,7 +485,7 @@
         "08076-t": {
             "name": "Nach dem Lesen verbrennen",
             "front": {
-                "flavor_text": "<valign><b>Kartenentwurf vom Council-in-Exile<br>auf der Gen Con 2020</b>",
+                "flavor_text": "<b>Kartenentwurf vom Council-in-Exile<br>auf der Gen Con 2020</b>",
                 "text": "Verboten.\nSchicke eine Karte der Stufe 0-5 von deiner Hand ins Exil. Entdecke 2 Hinweise an deinem Ort. Falls die ins Exil geschickte Karte Stufe 2 oder höher war, entferne 1 Verderben von der aktuellen Agenda. Schicke <name> ins Exil.",
                 "traits": "Erkenntnis."
             }
@@ -545,22 +545,22 @@
                     [
                         1,
                         "Inschrift des Ruhms",
-                        "Füge diese Inschrift hinzu: „<bullet> <i>Ruhm</i> - Falls dieser Angriff einen Gegner besiegt, wähle eins: Ziehe 1 Karte, heile 1 Schaden oder heile 1 Horror.\""
+                        "Füge diese Inschrift hinzu: „- <i>Ruhm</i> - Falls dieser Angriff einen Gegner besiegt, wähle eins: Ziehe 1 Karte, heile 1 Schaden oder heile 1 Horror.\""
                     ],
                     [
                         1,
                         "Inschrift der Ältesten",
-                        "Füge diese Inschrift hinzu: „<bullet> <i>Älteste</i> - Falls dieser Angriff um mindestens den Schleierwert deines Ortes gelingt, entdeckst du 1 Hinweis an deinem Ort.\""
+                        "Füge diese Inschrift hinzu: „- <i>Älteste</i> - Falls dieser Angriff um mindestens den Schleierwert deines Ortes gelingt, entdeckst du 1 Hinweis an deinem Ort.\""
                     ],
                     [
                         2,
                         "Inschrift der Jagd",
-                        "Füge diese Inschrift hinzu: „<bullet> <i>Jagd</i> - Bewege dich sofort an einen verbundenen Ort oder verwickle einen Gegner an deinem Ort in einen Kampf.\""
+                        "Füge diese Inschrift hinzu: „- <i>Jagd</i> - Bewege dich sofort an einen verbundenen Ort oder verwickle einen Gegner an deinem Ort in einen Kampf.\""
                     ],
                     [
                         1,
                         "Inschrift der Wut",
-                        "Füge diese Inschrift hinzu: „<bullet> <i>Wut</i> - Falls dieser Angriff erfolgreich ist, füge zusätzlich zum normalen Schaden jedem anderen Gegner, der mit dir in einen Kampf verwickelt ist, 1 Schaden zu.\""
+                        "Füge diese Inschrift hinzu: „- <i>Wut</i> - Falls dieser Angriff erfolgreich ist, füge zusätzlich zum normalen Schaden jedem anderen Gegner, der mit dir in einen Kampf verwickelt ist, 1 Schaden zu.\""
                     ],
                     [
                         3,
@@ -612,7 +612,7 @@
         "09081-t": {
             "name": "Machtwort",
             "front": {
-                "text": "Mutiert. Individualisierbar. Schnell. Spiele diese Karte nur in deinem Zug.\nHänge diese Karte an einen Nicht-<t>Elite</t>-Gegner an deinem Ort an.\n<action> Falls der Gegner mit dieser Verstärkung an deinem Ort ist: <b>Verhandlung.</b> Lege eine [willpower]-Probe (2) ab. Falls die Probe gelingt, erteile ihm einen Befehl (nur 1 Mal pro Runde pro Befehl) ...\n <bullet> \"<i>Beweg dich!</i>\" Dieser Gegner bewegt sich 1 Mal in eine Richtung deiner Wahl.",
+                "text": "Mutiert. Individualisierbar. Schnell. Spiele diese Karte nur in deinem Zug.\nHänge diese Karte an einen Nicht-<t>Elite</t>-Gegner an deinem Ort an.\n<action> Falls der Gegner mit dieser Verstärkung an deinem Ort ist: <b>Verhandlung.</b> Lege eine [willpower]-Probe (2) ab. Falls die Probe gelingt, erteile ihm einen Befehl (nur 1 Mal pro Runde pro Befehl) ...\n - \"<i>Beweg dich!</i>\" Dieser Gegner bewegt sich 1 Mal in eine Richtung deiner Wahl.",
                 "traits": "Zauber."
             }
         },
@@ -624,22 +624,22 @@
                     [
                         1,
                         "Verrat",
-                        "Füge diesen Befehl hinzu: „<bullet> <i>'Verrat!'</i> Füge einem beliebigen Gegner mit einem Kampfwert gleich oder niedriger als der dieses Gegners am Ort dieses Gegners 1 Schaden zu.\""
+                        "Füge diesen Befehl hinzu: „- <i>'Verrat!'</i> Füge einem beliebigen Gegner mit einem Kampfwert gleich oder niedriger als der dieses Gegners am Ort dieses Gegners 1 Schaden zu.\""
                     ],
                     [
                         1,
                         "Ducken",
-                        "Füge diesen Befehl hinzu: „<bullet> <i>'Ducken!</i> Dieser Gegner wird erschöpft.\""
+                        "Füge diesen Befehl hinzu: „- <i>'Ducken!</i> Dieser Gegner wird erschöpft.\""
                     ],
                     [
                         1,
                         "Beichte",
-                        "Füge diesen Befehl hinzu: „<bullet> <i>'Beichte!'</i> Du entdeckst 1 Hinweis am Ort dieses Gegners, falls sein Ausdauerwert gleich oder höher als der Schleierwert jenes Ortes ist.\""
+                        "Füge diesen Befehl hinzu: „- <i>'Beichte!'</i> Du entdeckst 1 Hinweis am Ort dieses Gegners, falls sein Ausdauerwert gleich oder höher als der Schleierwert jenes Ortes ist.\""
                     ],
                     [
                         1,
                         "Ablenkung",
-                        "Füge diesen Befehl hinzu: „<bullet> <i>'Ablenkung!'</i> Du entkommst am Ort dieses Gegners automatisch einem beliebigen Gegner mit einem Entkommen-Wert gleich oder niedriger als der dieses Gegners.\""
+                        "Füge diesen Befehl hinzu: „- <i>'Ablenkung!'</i> Du entkommst am Ort dieses Gegners automatisch einem beliebigen Gegner mit einem Entkommen-Wert gleich oder niedriger als der dieses Gegners.\""
                     ],
                     [
                         2,
@@ -682,7 +682,7 @@
         "10026-t": {
             "name": "In den Weg stellen",
             "front": {
-                "flavor_text": "<valign>\"H-hände dahin, wo ich sie sehen kann!\"",
+                "flavor_text": "\"H-hände dahin, wo ich sie sehen kann!\"",
                 "text": "Mutiert.\n<b>Verhandlung.</b> Wähle einen Gegner an deinem Ort und eine <t>Gegenstand</t>-Vorteilskarte auf deiner Hand. Führe eine Kampfaktion gegen den gewählten Gegner durch. Falls die Probe gelingt, spiele die gewählte Vorteilskarte. Senke dabei ihre Kosten für jeden Punkt, um den die Probe gelungen ist, um 1.",
                 "traits": "Taktik. Trick."
             }
@@ -690,7 +690,7 @@
         "10030-t": {
             "name": "Hand-Auge-Koordination",
             "front": {
-                "flavor_text": "<valign>Verlier das Ziel nicht aus den Augen.",
+                "flavor_text": "Verlier das Ziel nicht aus den Augen.",
                 "text": "Mutiert. Schnell. Spiele diese Karte nur in deinem Zug.\nHandle eine <action>-Fähigkeit auf einer <t>Werkzeug</t>- oder <t>Waffe</t>-Vorteilskarte der Stufe 0-3 ab, die du kontrollierst, wobei alle Kosten ignoriert werden.",
                 "traits": "Erkenntnis."
             }
@@ -744,7 +744,7 @@
         "11031-t": {
             "name": "Schnellschuss",
             "front": {
-                "flavor_text": "<valign>Sie nannten Schwester Sofia \"die Hand Gottes\", und das aus gutem Grund",
+                "flavor_text": "Sie nannten Schwester Sofia \"die Hand Gottes\", und das aus gutem Grund",
                 "text": "Unverkettet (-2 Erfahrung).\nUnzählig. Schnell. Spiele diese Karte nur in deinem Zug.\nFüge einem Gegner an deinem Ort 1 Schaden zu.\n<reaction> Nachdem du <name> in deinem Zug gezogen hast: Spiele diese Karte und senke dabei ihre Ressourcenkosten um 2.",
                 "traits": "Geist."
             }
@@ -779,7 +779,7 @@
         },
         "11117-t": {
             "front": {
-                "flavor_text": "<valign>\"‚Schreib oder stirb', heißt es. Vielleicht müssen wir beides machen.\"",
+                "flavor_text": "\"‚Schreib oder stirb', heißt es. Vielleicht müssen wir beides machen.\"",
                 "subtitle": "Überlasteter Dozent",
                 "text": "Unverkettet (-2 Erfahrung). Nur für ein <t>Assistent</t>-, <t>Reporter</t>- oder <t>Gelehrter</t>-Deck. Anwendungen (4 Geheimnisse).\nDu bekommst +1 [intellect].\nGeheimnisse auf Vorteilskarten, die du kontrollierst, dürfen als Ressourcen ausgegeben werden, um für <t>Erkenntnis</t>-Ereignisse zu bezahlen.",
                 "traits": "Verbündeter."
@@ -809,7 +809,7 @@
         "60318-t": {
             "name": "Tollkühn",
             "front": {
-                "flavor_text": "<valign>„Du bist ja verrückt, Wini!”<br>„Ich weiß! Ist das nicht großartig?”",
+                "flavor_text": "„Du bist ja verrückt, Wini!”<br>„Ich weiß! Ist das nicht großartig?”",
                 "text": "Mutiert.\nNachdem du <name> zu einer Fertigkeitsprobe beigetragen hast, lege Karten oben von deinem Deck ab, bis du eine <rogue>-Fertigkeit abgelegt hast, die du zu dieser Probe beitragen kannst. Trage sie zu der Probe bei. Nachdem diese Probe abgehandelt worden ist, ziehe jede Schwächekarte, die durch diesen Effekt abgelegt worden ist.",
                 "traits": "Glücksfall. Trainiert."
             }

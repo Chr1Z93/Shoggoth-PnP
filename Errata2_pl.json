@@ -4,7 +4,7 @@
         "12020": {
             "name": "Maczeta",
             "front": {
-                "flavor_text": "<valign>Doskonale ścina winorośle, krzaki i macki.",
+                "flavor_text": "Doskonale ścina winorośle, krzaki i macki.",
                 "text": "<action>: <b>Walka</b> (<combat>). Do tego ataku dostajesz +1<combat>. Jeśli test zakończy się sukcesem i zaatakowany wróg jest jedynym wrogiem znajdującym się<br>z tobą w zwarciu, możesz wyczerpać Maczetę,<br>aby ten atak zadał +1 obrażenie.",
                 "traits": "Przedmiot. Broń. Biała."
             }
