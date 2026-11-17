@@ -1,0 +1,486 @@
+{
+    "id": "b39bd8c7-12fc-43ef-816d-c74461303b31",
+    "cards": {
+        "90001": {
+            "front": {
+                "flavor_text": "„I can shut the book, but I can never unread its words.”",
+                "subtitle": "Die Bibliothekarin",
+                "text": "Du bekommst +1 [willpower] und +1 geistige Gesundheit für jede <t>Buch</t>-Vorteilskarte die du kontrollierst.\n<free>: Handle nacheinander auf jeder <t>Buch</t>-Vorteilskarte, die du kontrollierst, eine <action>-Fähigkeit ab, wobei du ihre <action>-Kosten ignorierst. (Nur ein Mal pro Spiel.)\n<elder_sign>-Effekt: +1. Du darfst eine <t>Buch</t>-Vorteilskarte aus deinem Ablagestapel auf deine Hand zurückschicken."
+            }
+        },
+        "90002": {
+            "name": "Daisys Büchertasche",
+            "front": {
+                "text": "Nur für das Deck von Daisy Walker. Weiterentwickelt.\nDu hast 2 zusätzliche Handslots, die nur für <t>Buch</t>-Vorteilskarten verwendet werden können.\n<reaction> Sobald du in deinem Zug eine <t>Buch</t>-Vorteilskarte spielst, erschöpfe <name>: Jene Vorteilskarte erhält Schnell.",
+                "traits": "Gegenstand."
+            }
+        },
+        "90003": {
+            "name": "Das Necronomicon",
+            "front": {
+                "subtitle": "Übersetzung von John Dee",
+                "text": "Weiterentwickelt.\n<b>Enthüllung</b> - Bringe <name> mit 3 Horror in deiner Bedrohungszone ins Spiel. Diese Karte kann das Spiel nicht verlassen, solange sich 1 oder mehr Horror darauf befinden. Solange sich diese Karte im Spiel befindet, behandle jedes <elder_sign>, das du auf einem Chaosmarker enthüllst, als <cultist>, <tablet> und <elder_thing> <i>(handle alle drei ab)</i>.\n<action>: Bewege 1 Horror von <name> auf Daisy Walker. Falls sich dann kein Horror auf <name> befindet, lege diese Karte ab.",
+                "traits": "Gegenstand. Buch."
+            }
+        },
+        "90004": {
+            "name": "Lies oder Stirb",
+            "front": {
+                "text": "Einfach / Normal\n<skull>: -X. X ist die Anzahl an <t>Buch</t>/Vorteilskarten, die Daisy Walker kontrolliert.\n<cultist>: Enthülle einen weiteren Marker. Falls die Probe misslingt, lege die obersten 2 Karten deines Decks ab.\n<tablet>: -2. Falls dies ein Angriff oder ein Entkommen-Versuch gegen Nenner der Toten ist und die Probe nicht mindestens um 2 gelingt, greift er dich an.\n<elder_thing>: -3. Falls die Probe misslingt, nimmt, Daisy Walker 1 Horror."
+            }
+        },
+        "90005": {
+            "name": "Tödliche Nachforschung",
+            "front": {
+                "flavor_text": "Die Wesenheit, die sich aus dem Necronomicon hat befreien können, weitet ihren tödlichen Schatten auf den Campus aus. Du musst sie stoppen, bevor sie zu mächtig wird, um noch aufgehalten zu werden.",
+                "text": "Dr. Henry Armitage benötigt keinen Verbündeter-Slot und erhält: „Du hast 2 zusätzliche Handslots, die nur für <t>Buch</t>-Vorteilskarten verwendet werden können.”\n„Jazz” Mulligan erhält: „<action>: Bewege dich zu einem <t>Miskatonic</t>-Ort bis zu 3 Verbindungen entfernt.”"
+            }
+        },
+        "90006": {
+            "name": "Schnelllesen",
+            "front": {
+                "flavor_text": "In einem dieser vielen Bücher auf dem Campus muss doch geschrieben stehen, wie dieses Wesen gebannt werden kann…",
+                "text": "Ignoriere alle <b>Ermittlungsziele</b> auf Orten.\n<free> Falls du Daisy Walker bist, geben Ermittler an deinem Ort 1 [per_investigator] Hinweise aus: Mische 1 verdeckte Spielerkarte unter diesem Ort in dein Deck.\n<b>Ermittlungsziel</b> - Finde einen Weg, um den Nenner der Toten zu bannen, bevor es zu spät ist."
+            }
+        },
+        "90007": {
+            "name": "Nenner der Toten",
+            "front": {
+                "subtitle": "Die Präsenz im Zauberbuch",
+                "text": "Jäger.\n<b>Beute</b> - Nur Daisy Walker.\n<b>Erzwungen</b> - Sobald <name> besiegt werden würde: Heile ihn stattdessen vollständig, erschöpfe ihn und bewege ihn in die Orne-Bibliothek.\n<action> Falls du Daisy Walker bist und mindestens 4 Nicht-Schwäche-<t>Buch</t>-Vorteilskarten kontrollierst: <b>Verhandlung.</b> Lege eine [willpower]-Probe (18) ab. Diese Probe bekommt -2 Schwierigkeit für jede <t>Buch</t>-Vorteilskarte, die du kontrollierst. Falls die Probe gelingt, rücke die Szene vor.",
+                "traits": "Monster. Spuk. Elite."
+            }
+        },
+        "90008": {
+            "front": {
+                "subtitle": "Der Ex-Sträfling",
+                "text": "<free> Gib bis zu 3 Ressourcen aus: Lege eine Probe mit einem Grundwert von 3 gegen eine Schwierigkeit ab, die der Menge der gerade ausgegebenen Ressourcen entspricht. Falls die Probe gelingt, erhältst du doppelt so viele der ausgegebenen Ressourcen. Nur [agility]- und [wild]-Symbole dürfen zu dieser Probe beigetragen werden. (Nur ein Mal pro Runde.)\n<elder_sign>-Effekt: +1. Wähle eine Karte der Stufe 2 oder weniger in deinem Ablagestapel. Füge die gewählte Karte deiner Hand hinzu.",
+                "traits": "Krimineller."
+            }
+        },
+        "90009": {
+            "name": "Auf der Flucht",
+            "front": {
+                "text": "Nur für das Deck von \"Skids\" O'Toole. Weiterentwickelt. Schnell. Spiele diese Karte in einem beliebigen <free>-Fenster.\nBis zum Ende der Runde können dich Nicht-<t>Elite</t>-Gegner nicht angreifen. Am Ende der Runde darfst du dich von jedem Gegner lösen, der mit dir in einen Kampf verwickelt ist, und dich bis zu 2 Orte weit bewegen.",
+                "traits": "Taktik."
+            }
+        },
+        "90010": {
+            "name": "Krankenhausrechnungen",
+            "front": {
+                "text": "Weiterentwickelt. <b>Enthüllung</b> - Bringe <name> in deiner Bedrohungszone ins Spiel.\n<free>: Bewege 1 Ressource aus deinem Ressourcen vorrat auf <name>. (Nur drei Mal pro Runde.)\n<b>Erzwungen</b> - Sobald das Spiel endet und falls sich weniger als 9 Ressourcen auf <name> befinden: Du verdienst für dieses Szenario 2 Erfahrungspunkte weniger.",
+                "traits": "Aufgabe."
+            }
+        },
+        "90011": {
+            "name": "Alles oder nichts",
+            "front": {
+                "text": "Einfach / Normal\n<skull>: -1 für jeden Hinweis, den du hast.\n<cultist>: -2 (-4 stattdessen, falls du 10 oder mehr Ressourcen hast).\n<tablet>: -2. Falls die Probe misslingt, verlierst du 3 Ressourcen.\n<elder_thing>: -3. Falls die Probe misslingt, nimmt „Skids” O'Toole 1 Horror."
+            }
+        },
+        "90012": {
+            "name": "Augen in jeder Ecke",
+            "front": {
+                "flavor_text": "Im Clover Club versammeln sich Gangster und Spieler aus allen Gesellschaftsschichten. Hoch zu gewinnen, ohne Aufmerksamkeit zu erregen, wird nicht so einfach sein, wie du dir das vorgestellt hast.",
+                "text": "<action> Falls du dich im Spielzimmer des Clover Clubs befindest, gib eine beliebige Anzahl an Hinweisen aus: Du löst deine Chips ein. Du erhältst 5 Ressourcen für jeden Hinweis, den du gerade ausgegeben hast.\n<b>Erzwungen</b> - Falls „Skids” O'Toole besiegt wird: <b>(→A2)</b>"
+            }
+        },
+        "90013": {
+            "name": "Kartenspiel",
+            "front": {
+                "flavor_text": "Du willst keinen Ärger, also solltest du dich zurückhalten. Versuch nicht, zu schnell alles auf eine Karte zu setzen, sonst könntest du rausgeworfen werden.",
+                "text": "Ermittler können nicht aufgeben.\nPit Boss des Clover Clubs erhält Zurückhaltend.\n<b>Erzwungen</b> - Nachdem ein <t>Krimineller</t>-Gegner besiegt worden ist: Platziere 1 Verderben auf die Agenda.\n<b>Ermittlungsziel</b> - Am Ende der Runde: Falls ein Ermittler 15 oder mehr Ressourcen hat, rücke vor."
+            }
+        },
+        "90014": {
+            "name": "Heiße Verfolgungsjagd",
+            "front": {
+                "flavor_text": "Schnapp dir deinen Gewinn und verschwinde!",
+                "text": "Jeder <t>Krimineller</t>-Gegner erhält Jäger und bekommt +1 Ausdauer.\n<b>Erzwungen</b> - Sobald ein Ermittler aufgibt: Platziere alle Ressourcen jenes Ermittlers auf dieser Szene.\n<b>Ermittlungsziel</b> - Sammle so viele Ressourcen, wie du kannst, und verschwinde von hier. Sobald jeder unbesiegte Ermittler aufgegeben hat, rücke vor."
+            }
+        },
+        "90015": {
+            "front": {
+                "subtitle": "O'Bannions Vollstreckerin",
+                "text": "<b>Erzwungen</b> - Nachdem dich <name> in einen Kampf verwickelt hat: Du verlierst 1 Ressource für je 5 Ressourcen, die du hast.\n<b>Erzwungen</b> - Nachdem ein Ermittler an <name>s Ort 1 oder mehr Ressourcen erhalten hat: <name> wird spielbereit gemacht, verwickelt jenen Ermittler in einen Kampf und greift an.",
+                "traits": "Humanoid. Krimineller. Elite."
+            }
+        },
+        "90016": {
+            "name": "Türsteher des Clover Clubs",
+            "front": {
+                "text": "Solange <name> mit dir in einen Kampf verwickelt ist, bekommt er +1 Kampf und +1 Entkommen für je 5 Ressourcen, die du hast.\n<action> Gib 3 Ressourcen aus: <b>Verhandlung.</b> Lege eine [intellect]-Probe (2) ab. Falls die Probe gelingt, löse dich von <name> und erschöpfe ihn. Er wird in der nächsten Unterhaltsphase nicht spielbereit gemacht.",
+                "traits": "Humanoid. Krimineller."
+            }
+        },
+        "90017": {
+            "front": {
+                "flavor_text": "\"Magie liegt mir im Blut.\nStrömt durch meine Adern.\nPumpt durch mein Herz.\"",
+                "subtitle": "Die Kellnerin",
+                "text": "Als zusätzliche Kosten, um ein <t>Zauber</t>-Ereignis zu spielen, darfst du 1 Schaden nehmen. Falls du dies tust, senke die Kosten jenes Ereignisses um 2 und du darfst jenes Ereignis zurück in dein Deck mischen, anstatt es abzulegen.\n<elder_sign>-Effekt: +1. Du darfst 1 Schaden heilen.",
+                "traits": "Zauberer."
+            }
+        },
+        "90018": {
+            "name": "Erbstück aus Hyperborea",
+            "front": {
+                "subtitle": "Artefakt aus einem anderen Leben",
+                "text": "Nur für das Deck von Agnes Baker. Weiterentwickelt.\nNur Schaden und/oder Horror von Spielerkarteneffekten kann <name> zugewiesen werden.\n<reaction> Nachdem du eine <t>Zauber</t>-Karte gespielt hast: Ziehe 1 Karte.",
+                "traits": "Ggenstand. Relikt."
+            }
+        },
+        "90019": {
+            "name": "Dunkle Erinnerungen",
+            "front": {
+                "text": "Weiterentwickelt.\nPlatziere 1 Verderben auf die aktuelle Agenda. Durch diesen Effekt kann die aktuelle Agenda vorrücken.\n<b>Erzwungen</b> - Falls sich <name> am Ende deines Zuges auf deiner Hand befindet: Enthülle diese Karte und nimm 2 Horror.",
+                "traits": "Zauber."
+            }
+        },
+        "90020": {
+            "name": "Böses Blut",
+            "front": {
+                "text": "Einfach / Normal\n<skull>: -X. X ist die Anzahl an Erinnerungen, die Agnes Baker gesammelt hat.\n<cultist>: -2. Mache Elspeth Baudin spielbereit und handle ihr Schlüsselwort Patrouille ab.\n<tablet>: -3. Falls die Probe misslingt und sich eine Erinnerung an Elspeth Baudins Ort befindet, platziere diesen Marker auf jenem Ort.\n<elder_thing>: -6. Agnes Baker darf bis zu 3 Schaden nehmen, um deinen Fertigkeitswert für jeden genommenen Schaden um 2 zu erhöhen."
+            }
+        },
+        "90021": {
+            "name": "Das Blut Hyperboreas",
+            "front": {
+                "text": "<b>Erzwungen</b> - Falls Elspeth Baudin am Ende der Gegnerphase spielbereit ist und sich eine Erinnerung an ihrem Ort befindet: Enthülle einen zufälligen Marker aus dem Chaosbeutel und platziere ihn auf jenem Ort.\n<b>Erzwungen</b> - Falls sich 1 oder mehr Chaosmarker auf einem Ort ohne Erinnerungen befinden: Schicke sie zurück in den Chaosbeutel.\n<b>Erzwungen</b> - Falls sich auf einem Ort mit einer Erinnerung Chaosmarker befinden, die zusammengezählt einen Wert von mindestens 6 ergeben („+/-” werden ignoriert und jeder <auto_fail>- und <elder_sign>-Marker wird als -6 behandelt): Schicke sie zurück in den Chaosbeutel und Elspeth Baudin sammelt jene Erinnerung."
+            }
+        },
+        "90022": {
+            "name": "Reise in die Vergangenheit",
+            "front": {
+                "flavor_text": "Du musst die verlorenen Erinnerungen an dein früheres wiedererlangen, bevor es Elspeth tut!",
+                "text": "<free> Die Ermittler an Agnes Bakers Ort geben als Gruppe 2 [per_investigator] Hinweise aus: Agnes Baker sammelt die Erinnerung an ihrem Ort.\n<b>Erzwungen</b> - Falls Agnes Baker besiegt wird, <b>(→A2)</b>.\n<b>Ermittlungsziel</b> - Sammle mehr Erinnerungen als Elspeth. Falls alle 9 Erinnerungen gesammelt wurden <i>(egal von welcher Seite)</i>, rücke vor."
+            }
+        },
+        "90023": {
+            "front": {
+                "subtitle": "Zauberin aus Hyperborea",
+                "text": "Alarmiert. Patrouille (nächstgelegener Ort mit mindestens 1 Erinnerung). Zurückschlagen.\n<name> kann nicht automatisch entkommen werden und sie bekommt -1 Kampf und -1 Entkommen für jede Erinnerung, die sie gesammelt hat.\n<b>Erzwungen</b> - Sobald <name> besiegt werden würde: Heile stattdessen allen Schaden von ihr, drehe die Karte um und handle den Effekt auf der anderen Seite ab.",
+                "traits": "Humanoid. Zauberer. Elite."
+            }
+        },
+        "90024": {
+            "front": {
+                "flavor_text": "\"Wenn ich im Dreck herumstochere, Sheriff, dann nur, weil hier so viel Dreck zu finden ist.\"",
+                "subtitle": "Der Bundesagent",
+                "text": "Wähle beim Deckbau 3 verschiedene Direktive-Vorteils karten und füge sie deinem Deck hinzu.\n<free>: Drehe eine Direktive-Vorteilskarte auf ihre verdeckte Seite um <i>(ignoriere dabei ihr Schlüsselwort Dauerhaft)</i>. (Nur ein Mal pro Spiel.)\n<elder_sign>-Effekt: +2. Wähle eine Direktive-Vorteilskarte. Du darfst ihre Vorschrift-Fähigkeit in dieser Runde ignorieren.",
+                "traits": "Behörde. Detective."
+            }
+        },
+        "90025": {
+            "name": "Direktive",
+            "front": {
+                "subtitle": "Mit Bedacht vorgehen",
+                "text": "Nur für das Deck von Roland Banks. Dauerhaft.\n<i>Vorschrift</i> - Du kannst in jeder Runde nicht mehr als 2 Mal kämpfen.\n<free> Während einer Fertigkeitsprobe, bei der du ermittelst, entkommst oder verhandelst, erschöpfe diese <name>: Du bekommst +2 auf den Fertigkeitswert dieser Probe für jeden mit dir in einen Kampf verwickelten Gegner."
+            }
+        },
+        "90026": {
+            "name": "Direktive",
+            "front": {
+                "subtitle": "Den bürokratischen Weg gehen",
+                "text": "Nur für das Deck von Roland Banks. Dauerhaft.\n<i>Vorschrift</i> - Du kannst in jeder Runde nicht mehr als 2 Karten spielen.\n<reaction> Sobald du ein <t>Erkenntnis</t>- oder <t>Taktik</t>-Ereignis spielst, erschöpfe diese <name>: Jenes Ereignis erhält Schnell."
+            }
+        },
+        "90027": {
+            "name": "Direktive",
+            "front": {
+                "subtitle": "Experten zurate ziehen",
+                "text": "Nur für das Deck von Roland Banks. Dauerhaft.\n<i>Vorschrift</i> - Du kannst <t>Verbündeter</t>-Vorteilskarten nicht freiwillig Schaden oder Horror zuweisen.\nDu hast 1 zusätzlichen Verbündeter-Slot."
+            }
+        },
+        "90028": {
+            "name": "Direktive",
+            "front": {
+                "subtitle": "Die Wahrheit herausfinden",
+                "text": "Nur für das Deck von Roland Banks. Dauerhaft.\n<i>Vorschrift</i> - Solange sich ein Hinweis auf deinem Ort befindet kannst du keine Karten zu Fertigkeitsproben beitragen, außer du hast in dieser Runde einen Hinweis entdeckt.\n<reaction> Nachdem du einen Hinweis entdeckt hast und falls sich ein Gegner an deinem Ort befindet, erschöpfe diese <name>: Ziehe 1 Karte."
+            }
+        },
+        "90029": {
+            "name": "Direktive",
+            "front": {
+                "subtitle": "Auf Nummer sicher gehen",
+                "text": "Nur für das Deck von Roland Banks. Dauerhaft.\n<i>Vorschrift</i> - Du kannst dich in jeder Runde nicht mehr als 2 Mal bewegen.\nDu bekommst +3 geistige Gesundheit."
+            }
+        },
+        "90030": {
+            "name": "Rolands 38er Spezial",
+            "front": {
+                "text": "Nur für das Deck von Roland Banks. Weiterentwickelt. Anwendungen (4 Munition).\n<action> Gib 1 Munition aus: <b>Kampf.</b> Du bekommst für diesen Angriff +2 [combat] (stattdessen +4 [combat], falls sich 1 oder mehr Hinweise auf deinem Ort befinden). Dieser Angriff fügt +1 Schaden zu. Falls dieser Angriff einen Gegner besiegt und sich keine Hinweise auf deinem Ort befinden, platziere 1 Munition auf <name>.",
+                "traits": "Gegenstand. Waffe. Feuerwaffe."
+            }
+        },
+        "90031": {
+            "name": "Vertuschen",
+            "front": {
+                "text": "Weiterentwickelt.\n<b>Enthüllung</b> - Bringe <name> mit 4 Hinweisen in deiner Bedrohungszone ins Spiel.\n<reaction> Sobald du 1 oder mehr Hinweise an deinem Ort entdecken würdest: Lege stattdessen genauso viele Hinweise von <name> ab.\n<b>Erzwungen</b> -  Sobald das Spiel endet und falls sich Hinweise auf <name> befinden: Du erleidest 1 seelisches Trauma.",
+                "traits": "Aufgabe."
+            }
+        },
+        "90033a": {
+            "front": {
+                "text": "<for> When a non-weakness <t>Cultist</t> enemy would be defeated: Heal damage from that enemy until it has 1 remaining health, instead.\n<for> If Roland Banks is defeated: Proceed to <b>(→R2)</b>\n<action>: <b>Resign</b>. You don't want to miss your deadline, so you close the case."
+            }
+        },
+        "90034": {
+            "front": {
+                "text": "<for> When a non-weakness <t>Cultist</t> enemy would be defeated: Heal damage from that enemy until it has 1 remaining health, instead.\n<for> If Roland Banks is defeated: Proceed to <b>(→R2)</b>\n<action>: <b>Resign</b>. You don't want to miss your deadline, so you close the case."
+            }
+        },
+        "90035": {
+            "front": {
+                "text": "<free> The investigators spend 1 [per_investigator] clues, as a group: Flip over a facedown conspirator at your location and put it into play engaged with you.\n<free> Spend 1 resource: Exhaust a <t>Cultist</t> enemy engaged with you <i>(it remains engaged)</i>. Only Roland Banks may trigger this ability.]\n<b>Objective</b> - Parley with as many conspirators as you can. If 10 <t>Cultist</t> enemies are in the victory display, advance."
+            }
+        },
+        "90037": {
+            "front": {
+                "flavor_text": "„Die kleinen Dinge sind wichtig. Erwachsene können das nicht verstehen.”",
+                "subtitle": "Das Straßenkind",
+                "text": "Füge Andenken an die Flut deinem Deck hinzu.\n<reaction> Nachdem du erfolgreich einem Nicht-<t>Elite</t>-Gegner entkommen bist: Versiegle entweder 1 <blessing>- oder 1 <curse>-Marker aus dem Chaosbeutel oder beliebig viele <blessing>- oder <curse>-Marker, die während dieser Probe enthüllt worden sind, auf jenem Gegner.\n<elder_sign>-Effekt: +2. Durchsuche den Chaosbeutel nach bis zu 2 <blessing>- und/oder <curse>-Markern und enthülle sie, wobei du ihre Effekte ignorierst.",
+                "traits": "Herumtreiber. Gesegnet. Verflucht."
+            }
+        },
+        "90038": {
+            "name": "Andenken an die Flut",
+            "front": {
+                "text": "Nur für das Deck von Wendy Adams. Dauerhaft.\n<reaction> Sobald ein Gegner spielbereit geamcht oder Verderben auf ihm platziert werden würde, setze einen <blessing>- oder <curse>-Marker frei, der auf jenem Gegner versiegelt ist: Hebe jenen Effekt auf.\n<reaction> Sobald ein Chaosmarker während einer Fertigkeitsprobe, die du durchführst, aus dem Chaosbeutel enthüllt werden würde: Handle stattdessen einen <blessing>- oder <curse>-Marker ab, der auf einem Gegner versiegelt ist."
+            }
+        },
+        "90039": {
+            "name": "Wendys Amulett",
+            "front": {
+                "text": "Nur für das Deck von Wendy Adams. Weiterentwickelt.\nDu darfst ein beliebiges Ereignis in deinem Ablagestapel spielen, als ob es sich auf deiner Hand befände.\n<b>Erzwungen</b> - Nachdem du ein Ereignis gespielt oder aus dem Spiel abgelegt hast: Platziere es unter dein Deck statt auf deinen Ablagestapel.",
+                "traits": "Gegenstand. Relikt."
+            }
+        },
+        "90040": {
+            "name": "Verlassen und einsam",
+            "front": {
+                "flavor_text": "Ich brauche sie nicht. Ich brauche niemanden.",
+                "text": "Weiterentwickelt.\n<b>Enthüllung</b> - Entferne alle Nicht-Schwäche-Karten in deinem Ablagestapel aus dem Spiel. Falls durch diesen Effekt keine Karten entfernt worden sind, mische diese Karte in dein Deck zurück. Nimm ansonsten 3 direkten Horror.",
+                "traits": "Wahnsinn."
+            }
+        },
+        "90041": {
+            "name": "Die Rote Flut",
+            "front": {
+                "text": "Einfach / Normal\n<skull>: -X. X ist die Hälfte der Anzahl <t>Verdächtiger</t>- und <t>Versteck</t>-Karten im Siegpunktestapel (aufgerundet).\n<cultist>: -2. (-4 stattdessen, falls du mit einem <t>Verdächtiger</t>-Gegner verhandelst oder an einem <t>Versteck</t>-Ort ermittelst).\n<tablet>: -3. Falls die Probe gelingt, sieh dir die oberste Karte des Spurendecks an. Du darfst wählen, sie in das Spurendeck zu mischen.\n<elder_thing>: -1. Falls die Probe misslingt, mische die oberste Karte des Begegnungsdecks in das Spurendeck."
+            }
+        },
+        "90042": {
+            "name": "Neu in der Stadt",
+            "front": {
+                "flavor_text": "Als du in Innsmouth ankommst, machst du dich sofort daran, die Einheimischen zu befragen, ob sie deinen Vater gesehen haben, sie den Ort auf dem Foto kennen oder ihnen der Mann mit der Melone begegnet ist.",
+                "text": "<b>Erzwungen</b> - Sobald diese Agenda durch das Erreichen des Verderbensschwellenwertes vorrücken würde: Entferne stattdessen alles Verderben im Spiel und mische einen zufülligen beiseitegelegten <t>Monster</t>-Gegner ins Spurendeck. Falls dann keine <t>Monster</t>-Gegner beiseitegelegt sind, rücke zu Agenda 1b vor."
+            }
+        },
+        "90043": {
+            "name": "Die Spur verliert sich",
+            "front": {
+                "flavor_text": "Je länger du hier bleibst und je mehr Fragen du stellst, desto gefährlicher wird es für dich. Die Einheimischen beäugen dich mit Zorn und Argwohn. Aber es kommt noch schlimmer: Seltsame geflügelte Kreaturen versammeln sich auf den Dächern der Häuser und halten nach Beute Ausschau …",
+                "text": "Wütende Meute kann nicht besiegt werden.\n<reaction> Nachdem Wendy Adams dem Gegner Wütende Meute entkommen ist: Sie darf 1 Hinweis am Ort jenes Gegners entdecken.\nJeder <t>Verdächtiger</t>-Gegner verliert das Schlüsselwort zurückhaltend und kommt mit +1 [per_investigator] Hinweisen ins Spiel.\nJeder <t>Versteck</t>-Ort bekommt +1 [per_investigator] Hinweiswert."
+            }
+        },
+        "90044": {
+            "name": "Die Suche nach Papa",
+            "front": {
+                "flavor_text": "Zu behaupten, dass diese Stadt noch unfreundlicher ist als Arkham, wäre noch eine Untertreibung.",
+                "text": "<t>Verdächtiger</t>- und <t>Versteck</t>-Karten können dem Siegpunktestapel nicht hinzugefügt werden (außer durch Mysteriöses Foto).\n<b>Erzwungen</b> – Falls keine <t>Verdächtiger</t>- oder <t>Versteck</t>-Karten im Spiel sind: Wendy Adams muss Karten oben vom Spurendeck ziehen, bis sie eine <t>Verdächtiger</t>- oder <t>Versteck</t>-Karte zieht.\n<b>Ermittlungsziel</b> – Suche mithilfe von Mysteriöses Foto nach deinem Vater. Je weniger Karten im Spurendeck sind, umso besser. Falls das Spurendeck leer ist, rücke vor."
+            }
+        },
+        "90045a": {
+            "name": "Mysteriöses Foto",
+            "front": {
+                "subtitle": "Alles, was ich noch von ihm habe",
+                "text": "<free> Erschöpfe <name>: Nimm entweder eine Verhandlungs-Aktion auf einem <t>Verdächtiger</t>-Gegner oder drehe <name> um.\n<free> Falls sich ein <t>Verdächtiger</t>-Gegner ohne Hinweise auf sich an deinem Ort befindet, geben Ermittler an deinem Ort als Gruppe 1 [per_investigator] Hinweis aus (falls Agenda 2a aktuell ist, stattdessen 2 [per_investigator] Hinweise): <i>„Haben Sie meinen Vater gesehen?”</i> Füge jenen Gegner dem Siegpunktestapel hinzu.",
+                "traits": "Gegenstand."
+            }
+        },
+        "90046": {
+            "front": {
+                "flavor_text": "\"Komm her, Junge. Wir haben etwas zu erledigen.\"",
+                "subtitle": "Der Herumtreiber",
+                "text": "Du beginnst das Spiel mit Petes Gitarre im Spiel.\n<reaction> Sobald eine Karte, die du besitzt und an eine Szenariokarte angehängt ist, abgelegt werden würde: Füge sie stattdessen deiner Hand hinzu. (Nur ein Mal pro Runde.)\n<elder_sign>-Effekt: +1. Wähle eine Karte, die du besitzt und an eine Szenariokarte angehängt ist. Du darfst jene Karte auf deine Hand zurückschicken.",
+                "traits": "Herumtreiber."
+            }
+        },
+        "90047": {
+            "name": "Petes Gitarre",
+            "front": {
+                "subtitle": "Ist immer noch gut",
+                "text": "Nur für das Deck von \"Ashcan\" Pete. Ersatz.\n<free> Erschöpfe <name>: Wähle einen Nicht-<t>Elite</t>-Gegner an deinem oder an einem verbundenen Ort. Bewege jenen Gegner 1 Mal in die Richtung deiner Wahl. Falls sich dann keine Gegner an deinem Ort befinden, heile entweder 1 Horror oder erhalte 1 Ressource.",
+                "traits": "Gegenstand. Instrument."
+            }
+        },
+        "90048": {
+            "name": " Schwere Zeiten",
+            "front": {
+                "text": "Ersatz.\n<b>Enthüllung</b> - Bringe<name> in deiner Bedrohungszone ins Spiel.\n<b>Erzwungen</b> - Nachdem du 1 oder mehr Karten gezogen hast: Wähle so viele Karten von deiner Hand und lege sie ab.\n<action><action>: Lege<name> ab.",
+                "traits": "Notlage."
+            }
+        },
+        "90049": {
+            "front": {
+                "flavor_text": "\"Ich weiß, wie ich die Toten tanzen lassen kann.\"",
+                "subtitle": "Der Musiker",
+                "text": "<reaction> Nachdem du während einer Fertigkeitsprobe, die du durchführst 1 oder mehr <skull>- oder <curse>-Marker enthüllt hast: Fülle 1 Ladung auf einer Vorteilskarte auf, die du kontrollierst. (Nur ein Mal pro Runde.)\n<elder_sign>-Effekt: +2. Du darfst diesen Marker stattdessen als <skull>- oder <curse>-Marker behandeln.",
+                "traits": "Performer. Verflucht."
+            }
+        },
+        "90050": {
+            "name": "Jims Trompete",
+            "front": {
+                "subtitle": " Die Toten sprechen",
+                "text": "Nur für das Deck von Jim Culver. Weiterentwickelt.\n<reaction> Sobald ein <skull>- oder <curse>-Marker während deiner Fertigkeitsprobe enthüllt wird, erschöpfe <name>: Heile 1 Horror von jedem Ermittler und jeder <t>Verbündeter</t>-Vorteilskarte an deinem oder einem verbundenen Ort.",
+                "traits": "Gegenstand. Instrument. Relikt."
+            }
+        },
+        "90051": {
+            "name": " Letzte Rhapsodie",
+            "front": {
+                "flavor_text": "Wenn die Toten davon zu reden beginnen, was ihnen Angst macht, ist es an der Zeit, ihnen gut zuzuhören.",
+                "text": "Weiterentwickelt.\n<b>Enthüllung</b> - Enthülle 5 Chaosmarker aus dem Chaosbeutel. Für jedes enthüllte Nicht-<elder_sign>, Nicht-<blessing>-Symbol nimm 1 Schaden und 1 Horror.",
+                "traits": "Endzeit."
+            }
+        },
+        "90052": {
+            "name": "Das Jenseits",
+            "front": {
+                "subtitle": "Trostloses Totenreich",
+                "text": "Nur für das Deck von Jim Culver. Dauerhaft.\nJeder Geist, der an <name> angehängt ist, verliert alle aufgedruckten Merkmale und erhält das Merkmal <t>Geist</t>. Sobald Schaden/Horror auf einem angehängten Geist platziert werden würde, muss er stattdessen auf Jim Culver platziert werden.\n<b>Erzwungen</b> – Sobald dein Zug beginnt: Hänge die oberste Karte des Geisterdecks als Geist an <name> an. Falls 4 oder mehr Geister angehängt sind, drehe diese Karte um und handle ihren Text ab.",
+                "traits": "Heiligtum. Geisterhaft."
+            }
+        },
+        "90053": {
+            "name": "Rachsüchtiger Schatten",
+            "front": {
+                "text": "Jäger. <b>Beute</b> – Nur Jim Culver.\nDu darfst gegen diesen Gegner kämpfen oder versuchen, ihm zu entkommen, solange er an Das Jenseits angehängt ist (als ob er mit dir in einen Kampf verwickelt wäre). Falls die Probe gelingt, lege ihn ab. Falls die Probe misslingt, erscheint er mit dir in einen Kampf verwickelt.\n<b>Erzwungen</b> – Sobald du einen Geist mit dem Erzwungen-Effekt auf Das Jenseits daran anhängst: <name> greift dich an <i>(auch wenn er nicht an deinem Ort ist)</i>.",
+                "traits": "Monster. Spuk."
+            }
+        },
+        "90059": {
+            "front": {
+                "flavor_text": "\"Sein Werk ist noch nicht vollendet.\"",
+                "subtitle": "Die Köchin",
+                "text": "<reaction> Nachdem du einem Gegner 1 oder mehr Schaden zugefügt hast: Füge dem Chaosbeutel 1 <blessing>-Marker hinzu. (Nur ein Mal pro Phase.)\n<free> Bevor du während eines Angriffs Chaosmarker enthüllst, entferne 3 <blessing>-Marker aus dem Chaosbeutel: Dieser Angriff fügt +1 Schaden zu. (Nur ein Mal pro Runde.)\n<elder_sign>-Effekt: +1 für jeden <blessing>-Marker im Chaosbeutel.",
+                "traits": "Glaubender. Jäger."
+            }
+        },
+        "90060": {
+            "name": "Zoeys Kreuz",
+            "front": {
+                "subtitle": " Symbol des Glaubens",
+                "text": "Nur für das Deck von Zoey Samaras. Weiterentwickelt.\n<reaction> Nachdem du einen Gegner in einen Kampf verwickelt hast, erschöpfe <name> und gib 1 Ressource aus: Füge jenem Gegner 1 Schaden zu.\n<free> Entferne 2 <blessing>-Marker aus dem Chaosbeutel: Verwickle einen Gegner an deinem Ort in einen Kampf.",
+                "traits": "Gegenstand. Glücksbringer."
+            }
+        },
+        "90061": {
+            "name": "Zerschmettere die Gottlosen",
+            "front": {
+                "text": "Weiterentwickelt. Der Gegner mit dieser Verstärkung bekommt +2 Kampf und +2 Ausdauer.\n<b>Enthüllung</b> - Lege Karten oben vom Begegnungsdeck ab, bis ein Gegner abgelegt worden ist. Hänge <name> an jenen Gegner an und lasse ihn an dem Ort erscheinen, der am weitesten von dir entfernt ist.\n<b>Erzwungen</b> - Sobald das Spiel endet, falls der Gegner mit dieser Verstärkung im Spiel ist: Du erleidest 1 seelisches Trauma.",
+                "traits": "Aufgabe."
+            }
+        },
+        "90071": {
+            "front": {
+                "text": "<action> Spend X clues: Reveal the top X cards of the exploration deck. Draw 1 of the revealed cards and check your supplies. If you have chalk, you may choose 1 additional card and draw it. Shuffle the remaining cards into the exploration deck."
+            }
+        },
+        "90086": {
+            "front": {
+                "text": "Advanced.\n<rev> Attach <name> to the location farthest from you. Attached location gets +2 shroud.\n<action><action>: <b>Investigate</b>. If you succeed, instead of discovering clues, discard <name>.\n<for> When the game ends, if <name> is in play: You suffer 1 mental trauma."
+            }
+        },
+        "90087": {
+            "front": {
+                "subtitle": "Die Schauspielerin",
+                "text": "Du beginnst das Spiel in der neutralen Rolle.\nDu kannst nur neutrale Karten oder Karten deiner aktuellen Rolle spielen oder zu Proben beitragen.\n<b>Erzwungen</b> – Wenn dein Zug beginnt: Wechsle deine Rolle (<guardian>, <seeker>, <rogue>, <mystic>, <survivor> oder Neutral).\n<elder_sign>-Effekt: +2. Du darfst deine Rolle wechseln."
+            }
+        },
+        "90088": {
+            "name": "Hauptdarstellerin (Heldin)",
+            "front": {
+                "flavor_text": "„Ich habe keine Lust mehr, auf meine Chance zu warten.“",
+                "text": "Nur für das Deck von Lola Hayes. Ersatz.\nSchnell. Spiele diese Karte nur in deinem Zug.\nSpiele eine Karte aus deiner Hand, unabhängig von deiner aktuellen Rolle <i>(bezahle ihre Kosten)</i>. Wenn diese Karte eine Wächter-Karte (<guardian>) war, darfst du entweder 1 Karte ziehen oder sofort eine Kampf-Aktion nehmen.",
+                "traits": "Taktik. Improvisiert."
+            }
+        },
+        "90089": {
+            "name": "Hauptdarstellerin (Mentorin)",
+            "front": {
+                "flavor_text": "„Ich habe auf der Bühne ein oder zwei Dinge gelernt.“",
+                "text": "Nur für das Deck von Lola Hayes. Ersatz.\nSchnell. Spiele diese Karte nur in deinem Zug.\nSpiele eine Karte aus deiner Hand, unabhängig von deiner aktuellen Rolle <i>(bezahle ihre Kosten)</i>. Wenn diese Karte eine Sucher-Karte (<seeker>) war, darfst du entweder 1 Karte ziehen oder sofort eine Ermitteln-Aktion nehmen.",
+                "traits": "Erkenntnis. Improvisiert."
+            }
+        },
+        "90090": {
+            "name": "Hauptdarstellerin (Femme Fatale)",
+            "front": {
+                "flavor_text": "„Vertrau mir, Liebling, ich habe das Zeug zur Hauptrolle.“",
+                "text": "Nur für das Deck von Lola Hayes. Ersatz.\nSchnell. Spiele diese Karte nur in deinem Zug.\nSpiele eine Karte aus deiner Hand, unabhängig von deiner aktuellen Rolle <i>(bezahle ihre Kosten)</i>. Wenn diese Karte eine Schurke-Karte (<rogue>) war, darfst du entweder 1 Karte ziehen oder sofort eine Entkommen-Aktion nehmen.",
+                "traits": "Trick. Improvisiert."
+            }
+        },
+        "90091": {
+            "name": "Hauptdarstellerin (Zauberin)",
+            "front": {
+                "flavor_text": "„Der Trick ist es, ihnen nur das zu zeigen, was sie sehen sollen.“",
+                "text": "Nur für das Deck von Lola Hayes. Ersatz.\nSchnell. Spiele diese Karte nur in deinem Zug.\nSpiele eine Karte aus deiner Hand, unabhängig von deiner aktuellen Rolle <i>(bezahle ihre Kosten)</i>. Wenn diese Karte eine Mystiker-Karte (<mystic>) war, darfst du entweder 1 Karte ziehen oder 1 Verderben von einer Spielerkarte an deinem Ort entfernen.",
+                "traits": "Ritual. Improvisiert."
+            }
+        },
+        "90092": {
+            "name": "Hauptdarstellerin (Final Girl)",
+            "front": {
+                "flavor_text": "„Komm schon, Lola, halte bis zum Ende durch.“",
+                "text": "Nur für das Deck von Lola Hayes. Ersatz.\nSchnell. Spiele diese Karte nur in deinem Zug.\nSpiele eine Karte aus deiner Hand, unabhängig von deiner aktuellen Rolle <i>(bezahle ihre Kosten)</i>. Wenn diese Karte eine Überlebender-Karte (<survivor>) war, darfst du entweder 1 Karte ziehen oder 1 Schaden/Horror heilen.",
+                "traits": "Geist. Improvisiert."
+            }
+        },
+        "90093": {
+            "front": {
+                "subtitle": "Besessener Produzent",
+                "text": "Nur für das Deck von Lola Hayes. Ersatz. Wagnis.\nSolange <name> auf deiner Hand ist, kannst du weder deine Rolle wechseln noch Karten spielen, die zu einer anderen Rolle gehören.\nSolange <name> im Spiel ist, musst du als zusätzliche Kosten, um deine Rolle zu wechseln, 1 Horror nehmen.",
+                "traits": "Humanoid. Kultist."
+            }
+        },
+        "90094": {
+            "name": "Fesselnde Zugabe",
+            "front": {
+                "text": "Einfach / Normal\n<skull>: -X. X ist die Anzahl an Maßnahmen.\n<cultist>: -2. Bei Misserfolg musst du entweder 1 Hinweis ausgeben oder 1 Schaden nehmen.\n<tablet>: -3 (-5 stattdessen, falls sich 3 oder mehr Klassen unter den Karten befinden, die du kontrollierst).\n<elder_thing>: -2. Befindet sich der Unheilvolle Solist an deinem Ort, enthülle einen weiteren Marker."
+            }
+        },
+        "90095": {
+            "name": "Die Heimsuchung des Ward-Theaters",
+            "front": {
+                "flavor_text": "Das Theater ist geschlossen und still, so wie es seit jenen Tagen während der schattenhaften Inszenierung von Der König in Gelb gewesen ist. Als du die Umgebung auf dich wirken lässt, hörst du es erneut – die gespenstische Violine. Jemand ist hier, und er hält die Erinnerung an jene Aufführung lebendig.",
+                "text": "<free> Während du dich am Ort des Unheilvollen Solisten befindest, lege 1 Karte jeder Klasse ([Wächter], [Sucher], [Schurke], [Mystiker] und [Überlebender]) von deiner Hand ab: <b>Verhandeln.</b> Weiche dem Unheilvollen Solisten automatisch aus. Behandle das Textfeld des Unheilvollen Solisten bis zum Ende der Runde als leer (außer für <t>Merkmale</t>)."
+            }
+        },
+        "90096": {
+            "name": "Losreißen von der Vergangenheit",
+            "front": {
+                "flavor_text": "Der Solist steht auf der Bühne, seine langen, schlaksigen Arme mit mechanischer Präzision bewegend, während er die Violine spielt. Sein Gesicht ist in Schatten gehüllt, aber sein Lied verfolgt dich durch das gesamte Theater.",
+                "text": "<free> Ermittler am selben <t>Privat</t>-Ort geben 1 [pro_Ermittler] Hinweis als Gruppe aus: <b>Verhandeln.</b> Decke die obersten 3 Karten des Requisiten-Ablagestapels auf und wähle einen Ermittler, der 1 davon zieht. Mische die verbleibenden Karten zusammen und lege sie unter den Requisiten-Ablagestapel.\n<b>Ziel</b> – Wenn sich der Unheilvolle Solist im Siegpunktestapel befindet, rücke vor."
+            }
+        },
+        "90097": {
+            "name": "Unheilvoller Solist",
+            "front": {
+                "subtitle": "Minnesänger von Carcosa",
+                "text": "Alarmiert. Zurückhaltend. Schwer zu fassen. Jäger.\nAls zusätzliche Kosten, um eine Nicht-Neutrale Karte am Ort des Unheilvollen Solisten auszuspielen, musst du 1 Horror nehmen.\n<b>Erzwungen<\b> – Wenn die Gegnerphase endet und der Unheilvolle Solist bereit ist: Jeder Ermittler am Ort des Unheilvollen Solisten und an jedem verbundenen Ort nimmt 1 direkten Horror."
+            }
+        }
+    },
+    "encounter_sets": {},
+    "guides": {},
+    "parent": "Parallel1.json",
+    "project": {
+        "meta": {
+            "language": "de"
+        }
+    },
+    "type": "modification"
+}

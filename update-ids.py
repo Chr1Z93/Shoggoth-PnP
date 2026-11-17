@@ -1,3 +1,5 @@
+# Helper script that was used to turn all the UUIDs back into Arkham IDs
+
 import json
 from pathlib import Path
 import requests

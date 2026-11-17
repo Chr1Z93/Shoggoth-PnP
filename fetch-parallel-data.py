@@ -5,7 +5,7 @@ import sys
 import uuid
 
 # Config
-LOCALE = "en"
+LOCALE = "de"
 OUTPUT_FILE = "FetchResult.json"
 
 # Constants
@@ -50,16 +50,19 @@ REPLACEMENT_MAP = {
 
 # Mapping of pack codes to collection icon names
 COLLECTION_ICON_OVERRIDES = {
-    "har": "harvey",
-    "nat": "nathaniel",
-    "jac": "jacqueline",
-    "ste": "stella",
-    "win": "winifred",
-    "tom": "tommy",
-    "mar": "marie",
-    "and": "andre",
-    "mig": "miguel",
-    "car": "caroyln",
+    "rod": "read_or_die",
+    "rtr": "read_tide_rising",
+    "btb": "by_the_book",
+    "aon": "all_or_nothing",
+    "bad": "bad_blood",
+    "otr": "on_the_road_again",
+    "ltr": "laid_to_rest",
+    "ptr": "path_of_the_righteous",
+    "rop": "relics_of_the_past",
+    "hfa": "hunting_for_answers",
+    "pap": "pistols_and_pearls",
+    "aof": "aura_of_faith",
+    "enc": "enthralling_encore",
 }
 
 
@@ -232,7 +235,7 @@ def build_shoggoth_card(item, pack_data):
 
     shoggoth_card = {
         "name": name,
-        "id": f"{item['id'][:-3]}-t",
+        "id": f"{item['id']}",
         "front": front,
     }
 
@@ -253,11 +256,16 @@ def build_project():
 
     for card_id in range(FIRST_PARALLEL_ID, LAST_PARALLEL_ID + 1):
         print(f"  Processing card {card_id}...")
-        card = card_data.get(card_id)
+        card = card_data.get(str(card_id))
 
         if card is None:
-            print(f"    Skipping: Card data wasn't found")
-            continue
+            card = card_data.get(str(card_id) + "a")
+
+            if card is None:
+                print(f"    Skipping: Card data wasn't found")
+                continue
+
+            print(f"    Info: Fetching data for {str(card_id) + "a"} instead")
 
         if "duplicate_of_code" in card:
             print(f"    Skipping: Card is a duplicate")
@@ -281,7 +289,7 @@ def build_project():
     if LOCALE == "en":
         project = {
             "name": name,
-            "code": f"TAB{CHAPTER}",
+            "code": f"PP{CHAPTER}",
             "icon": "",
             "id": str(uuid.uuid4()),
             "cards": shoggoth_cards,
@@ -306,7 +314,7 @@ def build_project():
     script_path = Path(__file__).parent.resolve()
     output_file = script_path / OUTPUT_FILE
     output_file.write_text(
-        json.dumps(project, indent=4, ensure_ascii=True) + "\n",
+        json.dumps(project, indent=4, ensure_ascii=False) + "\n",
         encoding="utf-8",
     )
 

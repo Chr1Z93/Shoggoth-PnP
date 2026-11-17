@@ -1,0 +1,346 @@
+{
+    "id": "678a6ea4-3202-4350-aeb1-ec1724725f95",
+    "cards": {
+        "90001": {
+            "front": {
+                "flavor_text": "\"Nawet gdy zamknę książkę, nie uda mi się zapomnieć, co w niej przeczytałam\".",
+                "subtitle": "Bibliotekarka",
+                "text": "Dostajesz +1 [willpower] i do poczytalności za każdy atut z cechą <t>Księga</t>, który kontrolujesz.\n<free>: Rozpatrz (pojedynczo) zdolność <action> z każdego kontrolowanego przez ciebie atutu z cechą <t>Księga</t>, ignorując ich koszt <action>. (Limit raz na grę).\nEfekt<elder_sign>: +1. Możesz cofnąć na twoją rękę atut z cechą <t>Księga</t> z twojego stosu kart odrzuconych."
+            }
+        },
+        "90002": {
+            "name": "Torebka Daisy",
+            "front": {
+                "text": "Tylko talia Daisy Walker. Zaawansowane.\nMasz 2 dodatkowe strefy rąk, w których możesz przechowywać jedynie karty atutów z cechą <t>Księga</t>.\n<reaction> Kiedy podczas twojej tury zagrywasz atut z cechą <t>Księga</t>, wyczerp Torebkę Daisy: dany atut zyskuje słowo kluczowe Szybka.",
+                "traits": "Przedmiot."
+            }
+        },
+        "90003": {
+            "name": "Necronomicon",
+            "front": {
+                "subtitle": "Przekład Johna Dee",
+                "text": "Zaawansowane.\n<b>Odkrycie</b> - Umieść <name> w grze, na twoim obszarze zagrożenia, i umieść na nim 3 żetony przerażenia. Nie może on opuścić gry, dopóki znajduje się na nim 1 lub więcej żetonów przerażenia.\nTraktuj każdy odkryty przez ciebie <elder_sign> na żetonie chaosu jako <cultist>, <tablet> i <elder_thing>.\n<action>: Porusz na Daisy Walker 1 żeton przerażenia z <name>u. Następnie odrzuć <name>, jeśli nie ma na nim żadnych żetonów przerażenia.",
+                "traits": "Przedmiot. Księga."
+            }
+        },
+        "90004": {
+            "name": "Przeczytaj lub zgiń",
+            "front": {
+                "text": "Łatwy / Standardowy\n<skull>: -X. X to liczba atutów z cechą <t>Księga</t>, które kontroluje Daisy Walker.\n<cultist>: Odkryj nowy żeton. Jeśli test zakończy się porażką, odrzuć 2 karty z wierzchu twojej talii.\n<tablet>: -2. Jeśli jest to atak lub próba wymknięcia się przeciwko Przywoływaczowi umarłych i nie zakończy się sukcesem o przynajmniej 2, Przywoływacz umarłych atakuje cię.\n<elder_thing>: -3. Jeśli test zakończy się porażką, Daisy Walker otrzymuje 1 punkt przerażenia."
+            }
+        },
+        "90005": {
+            "name": "Śmiertelne śledztwo",
+            "front": {
+                "flavor_text": "Czymkolwiek jest istota uwolniona po otwarciu Necronomiconu, roztacza morderczy cień na terenie całego kampusu. Musicie ją zatrzymać, nim stanie się zbyt potężna.",
+                "text": "Dr Henry Armitage nie zajmuje strefy sprzymierzeńca i zyskuje: „Masz 2 dodatkowe strefy rąk, w których możesz przechowywać jedynie karty atutów z cechą <t>Księga</t>”.\n„Jazz” Mulligan zyskuje: „<action>: Porusz się do lokalizacji z cechą <t>Miskatonic</t> oddalonej o maksymalnie 3 połączenia”."
+            }
+        },
+        "90006": {
+            "name": "Szybkie czytanie",
+            "front": {
+                "flavor_text": "Sposób na wypędzenie tej istoty musi być opisany w którejś z licznych ksiąg na terenie kampusu...",
+                "text": "Zignoruj wszystkie <b>Cele</b> na lokalizacjach.\n<free> Jeśli jesteś Daisy Walker, badacze w twojej lokalizacji wydają 1 [per_investigator] żetonów wskazówek: wtasuj do twojej talii 1 zakrytą kartę gracza znajdującą się pod tą lokalizacją.\n<b>Cel</b> - Znajdź sposób na wypędzenie Przywoływacza umarłych, nim będzie za późno."
+            }
+        },
+        "90007": {
+            "name": "Przywoływacz umarłych",
+            "front": {
+                "subtitle": "Istota z tajemnej księgi",
+                "text": "Łowca.\n<b>Polowanie</b> — Tylko Daisy Walker.\n<b>Wymuszony</b> — Kiedy <name> miałby zostać pokonany: zamiast tego całkowicie go wylecz, wyczerp i porusz do Biblioteki Orne’a.\n<action> Jeśli jesteś Daisy Walker i kontrolujesz przynajmniej 4 niebędące osłabieniem atuty z cechą <t>Księga</t>: <b>Pertraktacje.</b> Wykonaj test [willpower] (18). en test dostaje –2 do trudności za każdy kontrolowany przez ciebie atut z cechą <t>Księga</t>. Jeśli test zakończył się sukcesem, spowoduj postęp aktu.",
+                "traits": "Potwór. Echo duszy. Elitarny."
+            }
+        },
+        "90008": {
+            "name": "\"Ślizg\" O'Toole",
+            "front": {
+                "subtitle": "Były skazaniec",
+                "text": "<free> Wydaj do 3 żetonów zasobów: wykonaj test umiejętności o podstawowej wartości 3, którego poziom trudności jest równy liczbie właśnie wydanych żetonów zasobów. Jeśli test zakończy się sukcesem, zyskaj 2 razy tyle żetonów zasobów, ile wydałeś. Do tego testu można przeznaczyć tylko symbole umiejętności [agility] lub [wild]. (Limit raz na rundę.)\nEfekt <elder_sign>: +1. Wybierz znajdującą się na twoim stosie kart odrzuconych kartę o poziomie 2 lub niższym i dodaj ją na twoją rękę.",
+                "traits": "Przestępca."
+            }
+        },
+        "90009": {
+            "name": "Zbieg",
+            "front": {
+                "text": "Tylko talia \"Ślizga\" O'Toole. Zaawansowane.\nSzybka. Zagraj podczas dowolnego okna <free>.\nDo końca rundy nie-<t>Elitarni</t> wrogowie nie mogą cię atakować. Na koniec rundy możesz uwolnić się ze zwarcia z każdym wrogiem, który jest z tobą w zwarciu, i poruszyć się do lokalizacji oddalonej o maksymalnie 2 połączenia.",
+                "traits": "Taktyka."
+            }
+        },
+        "90010": {
+            "name": "Szpitalne długi",
+            "front": {
+                "text": "Zaawansowane. <b>Odkrycie</b> - Umieść <name> w grze, na twoim obszarze zagrożenia.\n<free>: Porusz na <name> 1 żeton zasobu z twojej puli zasobów. (Limit trzy razy na rundę.)\n<b>Wymuszony</b> - Kiedy gra się kończy, jeśli na Szpitalnych długach znajduje się mniej niż 9 żetonów zasobów: otrzymujesz za ten scenariusz 2 punkty doświadczenia mniej.",
+                "traits": "Zadanie."
+            }
+        },
+        "90011": {
+            "name": "Wszystko albo nic",
+            "front": {
+                "text": "Łatwy / Standardowy\n<skull>: -1 za każdy posiadany żeton wskazówki.\n<cultist>: -2 (zamiast tego –4, jeśli posiadasz 10 lub więcej żetonów zasobów).\n<tablet>: -2. Jeśli test zakończy się porażką, tracisz 3 żetony zasobów.\n<elder_thing>: -3. Jeśli test zakończy się porażką, \"Ślizg\" O'Toole otrzymuje 1 punkt przerażenia."
+            }
+        },
+        "90012": {
+            "name": "Oczy naokoło",
+            "front": {
+                "flavor_text": "Kasyno Clover Club jest zawsze pełne gangsterów i hazardzistów z przeróżnych środowisk. Wygranie konkretnej sumki bez wzbudzania podejrzeń może być trudniejsze, niż zakładałeś.",
+                "text": "<action> Jeżeli jesteś w Sali gier karcianych w Clover Club, wydaj dowolną liczbę żetonów wskazówek: spieniężasz swoje sztony. Zyskaj 5 żetonów zasobów za każdy właśnie wydany żeton wskazówki.\n<b>Wymuszony</b> - Jeśli \"Ślizg\" O'Toole został pokonany: <b>(→Z2)</b>"
+            }
+        },
+        "90013": {
+            "name": "Karty na stół",
+            "front": {
+                "flavor_text": "Nie chcesz żadnych problemów, więc lepiej nie rzucać się w oczy. Dobrze by było nie stawiać wszystkiego na jedną kartę zbyt szybko, jeśli nie chcesz stąd wylecieć.",
+                "text": "Badacze nie mogą zrezygnować.\nKierownik kasyna Clover Club zyskuje słowo kluczowe Powściągliwy.\n<b>Wymuszony</b> - Po tym, jak zostanie pokonany wróg z cechą <t>Przestępca</t>: umieść 1 żeton zagłady na obecnej tajemnicy.\n<b>Cel</b> - Koniec rundy: jeśli dowolny badacz posiada 15 lub więcej żetonów zasobów, talia postępuje."
+            }
+        },
+        "90014": {
+            "name": "Na celowniku",
+            "front": {
+                "flavor_text": "Zgarnij wygraną i w nogi!",
+                "text": "Każdy wróg z cechą <t>Przestępca</t> zyskuje słowo kluczowe Łowca oraz dostaje +1 do wytrzymałości.\n<b>Wymuszony</b> - Kiedy dowolny badacz zrezygnuje: Umieść wszystkie żetony zasobów danego badacza na tym akcie.\n<b>Cel</b> - Zbierz jak najwięcej żetonów zasobów i ucieknij. Kiedy każdy ocalały badacz zrezygnował, talia postępuje."
+            }
+        },
+        "90015": {
+            "front": {
+                "subtitle": "Cyngiel O'Bannionów",
+                "text": "<b>Wymuszony</b> - Po tym, jak <name> wejdzie z tobą w zwarcie: tracisz 1 żeton zasobu za każde 5 żetonów zasobów, jakie posiadasz.\n<b>Wymuszony</b> - Po tym, jak podczas fazy badaczy dowolny badacz w lokalizacji <name> zyska 1 lub więcej żetonów zasobów: <name> przygotowuje się, wchodzi w zwarcie z danym badaczem i wykonuje atak.",
+                "traits": "Humanoid. Przestępca. Elitarny."
+            }
+        },
+        "90016": {
+            "name": "Bramkarz Clover Club",
+            "front": {
+                "text": "Dopóki <name> jest z tobą w zwarciu, dostaje +1 do walki oraz +1 do wymykania się za każde 5 żetonów zasobów, jakie posiadasz.\n<action> Wydaj 3 żetony zasobów: <b>Pertraktacje.</b> Wykonaj test [intellect] (2). Jeśli test zakończył się sukcesem, uwolnij się ze zwarcia z Bramkarzem Clover Club i wyczerp go. Nie zostaje on przygotowany podczas następnej fazy utrzymania.",
+                "traits": "Humanoid. Przestępca."
+            }
+        },
+        "90017": {
+            "front": {
+                "flavor_text": "„Magię mam we krwi.\nKrąży w moich żyłach.\nPulsuje w moim sercu”.",
+                "subtitle": "Kelnerka",
+                "text": "Jako dodatkowy koszt zagrania wydarzenia z cechą <t>Zaklęcie</t>, możesz zdecydować się otrzymać 1 obrażenie. Jeśli to zrobiłeś, obniż koszt zagrania tego wydarzenia o 2 i możesz wtasować to wydarzenie z powrotem do swojej talii, zamiast je odrzucać.\nEfekt <elder_sign>: +1. Możesz wyleczyć 1 obrażenie.",
+                "traits": "Czarnoksiężnik."
+            }
+        },
+        "90018": {
+            "name": "Dziedzictwo z Hiperborei",
+            "front": {
+                "subtitle": "Artefakt z poprzedniego życia",
+                "text": "Tylko talia Agnes Baker. Zaawansowany.\nTylko obrażenia i/lub punkty przerażenia otrzymywane z efektów kart gracza mogą być przydzielane do Dziedzictwa z Hiperborei.\n<reaction> Po tym, jak zagrasz kartę z cechą <t>Zaklęcie</t>: dobierz 1 kartę.",
+                "traits": "Przedmiot. Relikwia"
+            }
+        },
+        "90019": {
+            "name": "Mroczne wspomnienie",
+            "front": {
+                "text": "Zaawansowane.\nUmieść 1 żeton zagłady na obecnej tajemnicy. Ten efekt może spowodować postęp aktualnej tajemnicy.\n<b>Wymuszony</b> - Jeśli na koniec twojej tury masz na ręce <name>: odkrywasz je i otrzymujesz 2 punkty przerażenia.",
+                "traits": "Zaklęcie."
+            }
+        },
+        "90020": {
+            "name": "Zła krew",
+            "front": {
+                "text": "Łatwy / Standardowy\n<skull>: -X. X to liczba wspomnień zebranych przez Agnes Baker.\n<cultist>: -2. Przygotuj Elspeth Baudin i rozpatrz jej słowo kluczowe Wędrujący.\n<tablet>: -3. Jeżeli test zakończył się niepowodzeniem i na lokalizacji Elspeth Baudin znajduje się wspomnienie, umieść ten żeton chaosu na tej lokalizacji.\n<elder_thing>: -6. Agnes Baker może otrzymać do 3 obrażeń aby zwiększyć o 2 wartość twojej umiejętności do tego testu za każde otrzymane w ten sposób obrażenie."
+            }
+        },
+        "90021": {
+            "name": "Krew Hiperborei",
+            "front": {
+                "text": "<b>Wymuszony</b> - Na końcu fazy wrogów, jeśli Elspeth Baudin jest przygotowana i na jej lokalizacji znajduje się wspomnienie: odkryj losowy żeton chaosu z worka chaosu i umieść go na tej lokalizacji.\n<b>Wymuszony</b> - Jeśli na lokalizacji bez wspomnienia znajduje się 1 lub więcej żetonów chaosu: zwróć dane żetony chaosu do worka chaosu.\n<b>Wymuszony</b> - Jeśli na lokalizacji ze wspomnieniem znajdują się żetony chaosu o łącznej wartości 6 lub więcej (zignoruj +/- i traktuj każdy z żetonów <auto_fail> i <elder_sign> jako -6): zwróć dane żetony chaosu do worka chaosu i Elspeth Baudin zbiera to wspomnienie."
+            }
+        },
+        "90022": {
+            "name": "Wspomnienia dawnych dziejów",
+            "front": {
+                "flavor_text": "Musisz odzyskać zagubione wspomnienia minionego życia, nim wpadną w ręce Elspeth!",
+                "text": "<free> Badacze w lokalizacji z Agnes Baker wydają, jako grupa 2 [per_investigator] żetony wskazówek: Agnes Baker zbiera wspomnienie z jej lokalizacji.\n<b>Wymuszony</b> - Jeśli Agnes Baker została pokonana, przejdź do <b>(→Z2)</b>.\n<b>Cel</b> - Zbierz więcej wspomnień niż Elspeth. Jeżeli wszystkie 9 wspomnień zostało zebranych <i>(łącznie przez badaczy i Elspeth)</i>, talia postępuje."
+            }
+        },
+        "90023": {
+            "front": {
+                "subtitle": "Czarownica z Hiperborei",
+                "text": "Czujny. Wędrujący (najbliższa lokalizacja z co najmniej 1 wspomnieniem). Mściwy.\n<name> nie można się automatycznie wymykać i otrzymuje do –1 walki i –1 do wymykania się za każde zebrane przez nią wspomnienie.\n<b>Wymuszony</b> - Kiedy <name> miała by zostać pokonana: zamiast tego wylecz z niej wszystkie obrażenia, odwróć ją i rozpatrz tekst na odwrocie.",
+                "traits": "Humanoid. Czarnoksiężnik. Elitarny."
+            }
+        },
+        "90024": {
+            "front": {
+                "flavor_text": "„Jeśli wywołam kłopoty Szeryfie, to będą kłopoty bo je wywołałem”.",
+                "subtitle": "Agent federalny",
+                "text": "W czasie tworzenia talii, wybierz 3 różne atuty o nazwie Wytyczna i dodaj je do swojej talii.\n<free>: Odwróć atut o nazwie Wytyczna na zakrytą stronę <i>(ignorując jego słowo kluczowe Trwały)</i>. (Limit raz na grę).\nEfekt <elder_sign>: +2. Wybierz atut o nazwie Wytyczna. W tej rundzie możesz zignorować jego zdolność <i>Przepis</i>.",
+                "traits": "Agencja. Detektyw."
+            }
+        },
+        "90025": {
+            "name": "Wytyczna",
+            "front": {
+                "subtitle": "Należyta staranność",
+                "text": "Tylko talia Rolanda Banksa. Trwały.\n<i>Przepis</i> - Nie możesz wykonywać akcji walki więcej niż 2 razy w każdej rundzie.\n<free> Podczas badania, wymykania się lub pertraktacji, wyczerp tą Wytyczną: Do tego testu umiejętności dostajesz +2 do wartości twojej umiejętności za każdego wroga będącego z tobą w zwarciu."
+            }
+        },
+        "90026": {
+            "name": "Wytyczna",
+            "front": {
+                "subtitle": "Biurokracja",
+                "text": "Tylko talia Rolanda Banksa. Trwały.\n<i>Przepis</i> - Nie możesz zagrać więcej niż 2 kart w każdej rundzie.\n<reaction> Kiedy zagrywasz wydarzenie z cechą <t>Informacja</t> lub <t>Taktyka</t>, wyczerp tą Wytyczną: To wydarzenie zyskuje słowo kluczowe Szybka."
+            }
+        },
+        "90027": {
+            "name": "Wytyczna",
+            "front": {
+                "subtitle": "Ekspercka konsultacja",
+                "text": "Tylko talia Rolanda Banksa. Trwały.\n<i>Przepis</i> - Nie możesz dobrowolnie przydzielać obrażeń ani punktów przerażenia atutom z cechą <t>Sprzymierzeniec</t>.\nMasz 1 dodatkową strefę sprzymierzeńca."
+            }
+        },
+        "90028": {
+            "name": "Wytyczna",
+            "front": {
+                "subtitle": "Poszukiwanie prawdy",
+                "text": "Tylko talia Rolanda Banksa. Trwały.\n<i>Przepis</i> - Jeżeli w twojej lokalizacji znajduje się 1 lub więcej żetonów wskazówek, nie możesz przeznaczać kart do testów umiejętności, jeśli w tej rundzie nie odkryłeś żetonu wskazówki.\n<reaction> Po tym jak odkryjesz żeton wskazówki, jeżeli w twojej lokalizacji znajduje się wróg, wyczerp tą Wytyczną: Dobierz 1 kartę."
+            }
+        },
+        "90029": {
+            "name": "Wytyczna",
+            "front": {
+                "subtitle": "Całkowita pewność",
+                "text": "Tylko talia Rolanda Banksa. Trwały.\n<i>Przepis</i> - Nie możesz poruszyć się więcej niż 2 razy w każdej rundzie.\nDostajesz +3 punkty poczytalności."
+            }
+        },
+        "90030": {
+            "name": "Specjalna .38 Rolanda",
+            "front": {
+                "text": "Tylko talia Rolanda Banksa. Zaawansowana.\nZużywalny (4 naboje).\n<action> Wydaj 1 nabój: <b>Walka.</b> Do tego ataku dostajesz +2 [combat] (zamiast tego +4 [combat], jeśli w twojej lokalizacji znajduje się 1 lub więcej żetonów wskazówek). Ten atak zadaje +1 obrażenie. Jeżeli ten atak pokona wroga i w twojej lokalizacji nie ma żetonów wskazówek, umieść 1 nabój na Specjalnej .38 Rolanda.",
+                "traits": "Przedmiot. Broń. Palna."
+            }
+        },
+        "90031": {
+            "name": "Zacieranie śladów",
+            "front": {
+                "text": "Zaawansowana.\n<b>Odkrycie</b> - Umieść <name> w grze, na twoim obszarze zagrożenia, z 4 żetonami wskazówek.\n<reaction> Kiedy miałbyś odkryć 1 lub więcej żetonów wskazówek w twojej lokalizacji: zamiast tego odrzuć taką samą liczbę żetonów wskazówek z Zacierania śladów.\n<b>Wymuszony</b> - Kiedy gra się kończy, jeśli na Zacieraniu śladów znajdują się jakiekolwiek żetony wskazówek: otrzymujesz 1 punkt traumy psychicznej.",
+                "traits": "Zadanie."
+            }
+        },
+        "90032": {
+            "name": "W majestacie prawa",
+            "front": {
+                "text": "Łatwy / Standardowy\n<skull>: -X. X to liczba wrogów z cechą <t>Kultysta</t> w puli zwycięstwa (maksymalnie 5).\n<cultist>: -2. Jeśli jesteś w zwarciu z wrogiem z cechą <t>Kultysta</t>, odkryj dodatkowy żeton chaosu.\n<tablet>: -3. Przygotuj każdego wroga z cechą <t>Kultysta</t> z którym jesteś w zwarciu.\n<elder_thing>: -4. Jeśli test zakończył się niepowodzeniem, Roland Banks otrzymuje 1 obrażenie."
+            }
+        },
+        "90033a": {
+            "name": "Tajny spisek",
+            "front": {
+                "flavor_text": "Pan Grey jest potężnym graczem z licznymi koneksjami. Zapuszkowanie go nie będzie łatwym zadaniem.",
+                "text": "<b>Wymuszony</b> - Kiedy niebędący osłabieniem wróg z cechą <t>Kultysta</t> miałby zostać pokonany: wylecz z niego wszystkie obrażenia do momentu aż zostanie mu 1 wytrzymałości.\n<b>Wymuszony</b> - Jeśli Roland Banks zostanie pokonany: przejdź do <b>(→Z2)</b>\n<action>: <b>Rezygnacja.</b> Nie chcesz przekroczyć wyznaczonego terminu, więc decydujesz się zamknąć sprawę."
+            }
+        },
+        "90034": {
+            "name": "Czas Ci się kończy",
+            "front": {
+                "flavor_text": "Twoi zwierzchnicy naciskają, byś odpuścił tę sprawę. Bez wątpienia Pan Grey maczał w tym palce. Na domiar złego jego spece od brudnej roboty robią co mogą, aby po cichu, lecz trwale usunąć cię z tej układanki.",
+                "text": "<b>Wymuszony</b> - Kiedy niebędący osłabieniem wróg z cechą <t>Kultysta</t> miałby zostać pokonany: Wylecz z niego wszystkie obrażenia do momentu aż zostanie mu 1 wytrzymałości.\n<b>Wymuszony</b> - Jeśli Roland Banks zostanie pokonany: Przejdź do <b>(→Z2)</b>\n<action>: <b>Rezygnacja.</b> Nie chcesz przekroczyć wyznaczonego terminu, więc decydujesz się zamknąć sprawę."
+            }
+        },
+        "90035": {
+            "name": "Dorwać spiskowców",
+            "front": {
+                "flavor_text": "Przyskrzynienie odpowiedzialnych za ofiary może się udać tylko przy wsparciu twardych dowodów i w majestacie prawa. To musi być czysta robota.",
+                "text": "<free> Wydaj, jako grupa, 1 [per_investigator] żetony wskazówek: Odwróć zakrytego spiskowca w twojej lokalizacji i umieść go w grze w zwarciu z tobą.\n<free> Wydaj 1 żeton zasobu: Wyczerp wroga z cechą <t>Kultysta</t> z którym jesteś w zwarciu <i>(nadal pozostaje w zwarciu)</i>. Tylko Roland Banks może aktywować tę zdolność.\n<b>Cel</b> - Pertraktuj z jak największą liczbą spiskowców, z jaką zdołasz. Jeżeli 10 wrogów z cechą <t>Kultysta</t> znajduje się w puli zwycięstwa, talia postępuje."
+            }
+        },
+        "90036": {
+            "name": "Posterunek Policji w Arkham",
+            "front": {
+                "text": "<name> jest połączony z Rivertown, Downtown, Easttown i odwrotnie.\n<free>: Porusz się do sąsiedniej lokalizacji.\n<free> Wybierz niebędącego osłabieniem wroga z cechą <t>Kultysta</t> w tej lokalizacji i wydaj liczbę wskazówek odpowiadającą jego pozostałej wytrzymałości: <b>Pertraktacje.</b> Dodaj tego wroga do puli zwycięstwa."
+            }
+        },
+        "90037": {
+            "front": {
+                "flavor_text": "„Każdy drobiazg ma znaczenie.\nDorośli tego nie rozumieją”.",
+                "subtitle": "Łobuz",
+                "text": "Dodaj Wspomnienie pływów do twojej talii.\n<reaction> Po tym, jak z sukcesem wymkniesz się nie-<t>Elitarnemu</t> wrogowi: zapieczętuj na tym wrogu 1 żeton <blessing> lub <curse> z worka chaosu albo dowolny żeton <blessing> lub <curse> odkryty z worka chaosu podczas tego testu.\nEfekt <elder_sign>: +2. Przeszukaj worek chaosu w poszukiwaniu do 2 żetonów <blessing> i/lub <curse> i odkryj je, ignorując ich efekty.",
+                "traits": "Tułacz. Błogosławiony. Przeklęty."
+            }
+        },
+        "90038": {
+            "name": "Wspomnienie pływów",
+            "front": {
+                "text": "Tylko talia Wendy Adams. Trwały.\n<reaction> Kiedy wróg miałby zostać przygotowany lub miałby na nim zostać umieszczony żeton zagłady, uwolnij zapieczętowany na danym wrogu żeton <blessing> lub <curse>: anuluj dany efekt.\n<reaction> Podczas wykonywanego przez ciebie testu umiejętności, kiedy żeton chaosu miałby zostać odkryty z worka chaosu: rozpatrz zamiast tego zapieczętowany na wrogu <blessing> lub <curse>.",
+                "traits": "Przedmiot. Amulet."
+            }
+        },
+        "90039": {
+            "name": "Amulet Wendy",
+            "front": {
+                "text": "Tylko talia Wendy Adams. Zaawansowana.\nMożesz zagrać dowolną kartę wydarzenia z twojego stosu kart odrzuconych, tak jakby znajdowała się na twojej ręce.\n<b>Wymuszony</b> - Po tym, jak zagrasz kartę wydarzenia, lub usuniesz kartę wydarzenia z gry: umieść ją na spodzie twojej talii zamiast na stosie kart odrzuconych.",
+                "traits": "Przedmiot. Relikwia."
+            }
+        },
+        "90040": {
+            "name": "Porzucenie i samotność",
+            "front": {
+                "flavor_text": "Nie potrzebuję ich. Nie potrzebuję nikogo.",
+                "text": "Zaawansowana.\n<b>Odkrycie</b> - Usuń z gry wszystkie niebędące osłabieniami karty z twojego stosu kart odrzuconych. Jeżeli żadne karty nie zostały usunięte w wyniku tego efektu, wtasuj tę kartę z powrotem do twojej talii. W przeciwnym razie otrzymaj 3 bezpośrednie punkty przerażenia.",
+                "traits": "Szaleństwo."
+            }
+        },
+        "90041": {
+            "name": "Czerwony przypływ",
+            "front": {
+                "text": "Łatwy / Standardowy\n<skull>: –X. X to połowa liczby kart z cechą <t>Podejrzany</t> i <t>Kryjówka</t> w puli zwycięstwa (zaokrąglij w górę).\n<cultist>: -2. (zamiast tego –4, jeżeli pertraktujesz z wrogiem z cechą <t>Podejrzany</t> lub badasz lokalizację z cechą <t>Kryjówka</t>).\n<tablet>: -3. Jeżeli test zakończył się sukcesem, podejrzyj wierzchnią kartę z talii tropów. Jeśli chcesz, możesz przetasować talię tropów.\n<elder_thing>: -1. Jeżeli test zakończył się porażką, wtasuj wierzchnią kartę z talii spotkań do talii tropów."
+            }
+        },
+        "90042": {
+            "name": "Nowa w mieście",
+            "front": {
+                "flavor_text": "Po przybyciu do Innsmouth bezzwłocznie zaczynasz wypytywać miejscowych o to, czy widzieli twojego tatę, czy znają miejsce ze zdjęcia oraz o mężczyznę w meloniku.",
+                "text": "<b>Wymuszony</b> - Kiedy ta tajemnica miałaby postąpić w wyniku osiągnięcia progu zagłady: zamiast tego usuń wszystkie znajdujące się w grze żetony zagłady i wtasuj losowego odłożonego na bok wroga z cechą <t>Potwór</t> do talii tropów. Następnie, jeżeli nie ma już żadnych odłożonych na bok wrogów z cechą <t>Potwór</t>, spowoduj postęp do Tajemnicy 1b."
+            }
+        },
+        "90043": {
+            "name": "Trop stygnie",
+            "front": {
+                "flavor_text": "Im dłużej kręcisz się w pobliżu i zadajesz niewygodne pytania, tym bardziej ryzykujesz. Miejscowi patrzą na ciebie z otwartą wrogością i podejrzliwością, a co gorsza na pobliskich dachach dostrzegłaś dziwne uskrzydlone istoty, najwyraźniej chcące na kogoś zapolować...",
+                "text": "Wściekły tłum nie może zostać pokonany.\n<reaction> Po tym, jak Wendy Adams z sukcesem wymknie się Wściekłemu tłumowi: może odkryć 1 wskazówkę w jego lokalizacji.\nKażdy wróg z cechą <t>Podejrzany</t> traci słowo kluczowe Powściągliwy i wchodzi do gry z +1 [per_investigator] żetonów wskazówek.\nKażda lokalizacja z cechą <t>Kryjówka</t> otrzymuje +1 [per_investigator] wartości wskazówek."
+            }
+        },
+        "90044": {
+            "name": "W poszukiwaniu taty",
+            "front": {
+                "flavor_text": "Powiedzieć, że to miasteczko jest mniej przyjazne niż Arkham, to nic nie powiedzieć.",
+                "text": "Karty z cechą <t>Podejrzany</t> i <t>Kryjówka</t> nie mogą być dodane do puli zwycięstwa inaczej, niż poprzez zdolność karty Tajemnicza fotografia.\n<b>Wymuszony</b> –  Jeżeli w grze nie ma żadnej karty z cechą <t>Podejrzany</t> lub <t>Kryjówka</t>: Wendy Adams musi dobierać karty z wierzchu talii tropów, dopóki nie dobierze karty z cechą <t>Podejrzany</t> lub <t>Kryjówka</t>.\n<b>Cel</b> – Poszukaj swojego taty korzystając z Tajemniczej fotografii. Im mniej kart pozostanie w talii tropów, tym lepiej. Jeżeli talia tropów jest pusta, talia postępuje."
+            }
+        },
+        "90045a": {
+            "name": "Tajemnicza fotografia",
+            "front": {
+                "subtitle": "Wszystko, co mi po nim zostało",
+                "text": "<free> Wyczerp Tajemniczą fotografię: wykonaj akcję pertraktacji z wrogiem z cechą <t>Podejrzany</t> albo odwróć Tajemniczą fotografię.\n<free> Jeżeli w twojej lokalizacji znajduje się wróg z cechą <t>Podejrzany</t> na którym nie znajdują się żadne żetony wskazówek, badacze w twojej lokalizacji mogą wydać, jako grupa, 1 [per_investigator] żetonów wskazówek (zamiast tego 2 [per_investigator] żetonów wskazówek, jeżeli trwa Tajemnica 2): <i>„Czy widziałeś mojego tatę?”</i> – dodaj danego wroga do puli zwycięstwa.",
+                "traits": "Przedmiot."
+            }
+        },
+        "90071": {
+            "front": {
+                "text": "<action> Spend X clues: Reveal the top X cards of the exploration deck. Draw 1 of the revealed cards and check your supplies. If you have chalk, you may choose 1 additional card and draw it. Shuffle the remaining cards into the exploration deck."
+            }
+        },
+        "90086": {
+            "front": {
+                "text": "Advanced.\n<rev> Attach <name> to the location farthest from you. Attached location gets +2 shroud.\n<action><action>: <b>Investigate</b>. If you succeed, instead of discovering clues, discard <name>.\n<for> When the game ends, if <name> is in play: You suffer 1 mental trauma."
+            }
+        },
+        "90093": {
+            "front": {
+                "text": "Lola Hayes deck only. Replacement. Peril. Hidden.\nWhile <name> is in your hand, you cannot switch roles or play cards belonging to another role.\nWhile <name> is in play, as an additional cost for you to switch your role, you must take 1 horror."
+            }
+        }
+    },
+    "encounter_sets": {},
+    "guides": {},
+    "parent": "Parallel1.json",
+    "project": {
+        "meta": {
+            "language": "pl"
+        }
+    },
+    "type": "modification"
+}
