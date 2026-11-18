@@ -1,0 +1,2288 @@
+{
+    "name": "Parallel1",
+    "id": "f23dde82-9abb-48a3-868c-8e0d7033fdea",
+    "code": "PP1",
+    "icon": "",
+    "meta": {
+        "dirty": [],
+        "language": "en"
+    },
+    "cards": [
+        {
+            "name": "Daisy Walker",
+            "id": "90001",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "agility": "2",
+                "classes": [
+                    "seeker"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/read_or_die.svg\">",
+                "collection_number": "1",
+                "combat": "2",
+                "flavor_text": "\"I can shut the book, but I can never unread its words.\"",
+                "health": "5",
+                "illustrator": "Illus. Magali Villeneuve",
+                "intellect": "5",
+                "sanity": "7",
+                "subtitle": "The Librarian",
+                "text": "You get +1 [willpower] and +1 sanity for each <t>Tome</t> asset you control.\n<free>: One at a time, resolve an <action> ability on each <t>Tome</t> asset you control, ignoring their <action> cost. (Limit once per game.)\n<elder_sign> effect: +1. You may return a <t>Tome</t> asset from your discard pile to your hand.",
+                "traits": "Miskatonic.",
+                "type": "investigator",
+                "willpower": "1"
+            },
+            "back": {
+                "flavor_text": "As a respected librarian at Miskatonic University, Daisy had always felt that books were the most important thing in her life. She explored in fiction what she abhorred in life: horror, violence, fear. Then, she stumbled across the John Dee translation of the Necronomicon. It was blasphemous, unholy, and too awful to be read. But given her studies in obscure and occult subjects, Daisy knew there was more truth than fiction within the book's pages. She began to wonder what other secrets the restricted collection of the Orne Library held...",
+                "text": "<b>Deck size</b>: 30.\n<b>Deckbuilding Options</b>: [[Tome]] cards level 0-5, Seeker cards ([seeker]) level 0-3, Neutral cards level 0-5, up to five other level 0 Guardian and/or Mystic cards ([guardian] and/or [mystic]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Daisy’s Tote Bag, The Necronomicon <i>(John Dee Translation)</i>, 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Daisy's Tote Bag",
+            "id": "90002",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/read_or_die.svg\">",
+                "collection_number": "2",
+                "cost": "2",
+                "icons": "WIQQ",
+                "illustrator": "Illus. Dani Hartel",
+                "level": "None",
+                "text": "Daisy Walker deck only. Advanced.\nYou have 2 additional hand slots, which can only be used to hold <t>Tome</t> assets.\n<reaction> When you play a <t>Tome</t> asset during your turn, exhaust <name>: That asset gains fast.",
+                "traits": "Item.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "The Necronomicon",
+            "id": "90003",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/read_or_die.svg\">",
+                "collection_number": "3",
+                "cost": "<dash>",
+                "illustrator": "Illus. Jessie Calderon",
+                "level": "None",
+                "slots": [
+                    "hand"
+                ],
+                "subtitle": "John Dee Translation",
+                "text": "Advanced.\n<rev> Put this card into play in your threat area, with 3 horror on it. It cannot leave play while it has 1 or more horror on it.\nWhile it is in play, treat each <elder_sign> you reveal on a chaos token as a <cultist>, <tablet>, and <elder_thing> <i>(resolve all three)</i>.\n<action>: Move 1 horror from this card to Daisy Walker. Then, if <name> has no horror on it, discard it.",
+                "traits": "Item. Tome.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Read or Die",
+            "id": "90004",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/read_or_die.svg\">",
+                "collection_number": "4",
+                "text": "Easy / Standard\n<skull>: -X. X is the number of <t>Tome</t> assets Daisy Walker controls.\n<cultist>: Reveal another token. If you fail, discard the top 2 cards of your deck.\n<tablet>: -2. If this is an attack or evasion attempt against Namer of the Dead and you do not succeed by at least 2, it attacks you.\n<elder_thing>: -3. If you fail, Daisy Walker takes 1 horror.",
+                "traits": "",
+                "type": "scenario"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Mortal Inquiry",
+            "id": "90005",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/read_or_die.svg\">",
+                "collection_number": "5",
+                "flavor_text": "Whatever entity has been unleashed from within the Necronomicon, it is spreading across the campus like a deadly shadow. You must put a stop to it before it grows too powerful to be contained.",
+                "illustrator": "Illus. Yoann Boissonnet",
+                "text": "Dr. Henry Armitage does not take up an ally slot and gains: \"You have 2 additional hand slots, which can only be used to hold <t>Tome</t> assets.\"\n\"Jazz\" Mulligan gains: \"<action>: Move to a <t>Miskatonic</t> location up to 3 connections away.\"",
+                "traits": "",
+                "type": "agenda"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Speed Reading",
+            "id": "90006",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/read_or_die.svg\">",
+                "collection_number": "6",
+                "flavor_text": "The way to seal this being away must be recorded in one of the many tomes around campus...",
+                "illustrator": "Illus. Tomasz Jedruszek",
+                "text": "Ignore all <b>Objectives</b> on locations.\n<free> If you are Daisy Walker, investigators at your location spend 1 [per_investigator] clues: Shuffle 1 facedown player card beneath this location into your deck.\n<b>Objective</b> - Find a way to banish the Namer of the Dead before it is too late.",
+                "traits": "",
+                "type": "act"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Namer of the Dead",
+            "id": "90007",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/read_or_die.svg\">",
+                "collection_number": "7",
+                "health": "3",
+                "illustrator": "Illus. Winona Nelson",
+                "sanity": "<dash>",
+                "subtitle": "Presence Within the Grimoire",
+                "text": "Hunter.\n<b>Prey</b> - Daisy Walker only.\n<for> When <name> would be defeated: Instead, fully heal it, exhaust it, and move it to Orne Library.\n<action> If you are Daisy Walker and you control at least 4 non-weakness <t>Tome</t> assets: <b>Parley.</b> Test [willpower] (18). This test gets -2 difficulty for each <t>Tome</t> asset you control. If you succeed, advance the act.",
+                "traits": "Monster. Geist. Elite.",
+                "type": "enemy"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "\"Skids\" O'Toole",
+            "id": "90008",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "agility": "4",
+                "classes": [
+                    "rogue"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/all_or_nothing.svg\">",
+                "collection_number": "8",
+                "combat": "3",
+                "health": "8",
+                "illustrator": "Illus. Magali Villeneuve",
+                "intellect": "3",
+                "sanity": "6",
+                "subtitle": "The Ex-Con",
+                "text": "<free> Spend up to 3 resources: Test a base skill value of 3 against a difficulty equal to the amount of resources just spent. If you succeed, gain twice the number of spent resources. Only [agility] and [wild] skill icons may be committed to this test. (Limit once per round.)\n<elder_sign> effect: +1. Choose a level 2 or less card in your discard pile. Add the chosen card to your hand.",
+                "traits": "Criminal.",
+                "type": "investigator",
+                "willpower": "2"
+            },
+            "back": {
+                "flavor_text": "Skids hadn't planned on a life of crime. But sometimes doing the right thing means getting your hands dirty. His cellmate, Brad Hollins, would rant and rave about the \"Old Ones\". Skids didn't give it much thought until the night he woke to the sight of his cellmate bursting into flames. When Skids was finally released, he returned to Arkham, looking for answers.",
+                "text": "<b>Deck size</b>: 25.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, [[Fortune]] cards level 0-3, [[Gambit]] cards level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): On the Lam, Hospital Debts, 1 random basic weakness.\n<b>Additional Options</b>: When you upgrade a [[Fortune]] or [[Gambit]] card, you may instead pay the full experience cost of the higher level version and leave the lower level version in your deck (it does not count towards your deck size or the number of copies of that card in your deck).",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "On the Lam",
+            "id": "90009",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/all_or_nothing.svg\">",
+                "collection_number": "9",
+                "cost": "0",
+                "icons": "IAQQ",
+                "illustrator": "Illus. John Pacer",
+                "level": "None",
+                "text": "\"Skids\" O'Toole deck only. Advanced.\nFast. Play during any <free> window.\nUntil the end of the round, non-<t>Elite</t> enemies cannot attack you. At the end of the round, you may disengage from each engaged enemy and move up to 2 locations away.",
+                "traits": "Tactic.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Hospital Debts",
+            "id": "90010",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/all_or_nothing.svg\">",
+                "collection_number": "10",
+                "illustrator": "Illus. Adam Lane",
+                "text": "Advanced. <rev> Put <name> into play in your threat area.\n<free>: Move 1 resource from your resource pool to <name>. (Limit three times per round.)\n<for> When the game ends, if <name> has fewer than 9 resources on it: You earn 2 fewer experience for this scenario.",
+                "traits": "Task.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "All or Nothing",
+            "id": "90011",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/all_or_nothing.svg\">",
+                "collection_number": "11",
+                "text": "Easy / Standard\n<skull>: -1 for each clue you have.\n<cultist>: -2 (-4 instead if you have 10 or more resources).\n<tablet>: -2. If you fail, lose 3 resources.\n<elder_thing>: -3. If you fail, \"Skids\" O'Toole takes 1 horror.",
+                "traits": "",
+                "type": "scenario"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Eyes All Around You",
+            "id": "90012",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/all_or_nothing.svg\">",
+                "collection_number": "12",
+                "flavor_text": "The Clover Club is filled with mobsters and gamblers from all walks of life. Winning big without causing alarm may not be as easy as you thought.",
+                "illustrator": "Illus. Matthew Cowdery",
+                "text": "<action> If you are in the Clover Club Cardroom, spend any number of clues: You cash in your chips. Gain 5 resources for each clue just spent.\n<for> If \"Skids\" O'Toole is defeated: <b>(→R2)</b>",
+                "traits": "",
+                "type": "agenda"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Playing Cards",
+            "id": "90013",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/all_or_nothing.svg\">",
+                "collection_number": "13",
+                "flavor_text": "You don't want trouble, so it's best not to cause it. Try not to go all in too soon, or you'll likely take the bounce.",
+                "illustrator": "Illus. Chris Peuler",
+                "text": "Investigators cannot resign.\nClover Club Pit Boss gains aloof.\n<for> After a <t>Criminal</t> enemy is defeated: Place 1 doom on the agenda.\n<b>Objective</b> - At the end of the round: If an investigator has 15 or more resources, advance.",
+                "traits": "",
+                "type": "act"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Hot on Your Tail",
+            "id": "90014",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/all_or_nothing.svg\">",
+                "collection_number": "14",
+                "flavor_text": "Collect your winnings and escape!",
+                "illustrator": "Illus. Chris Peuler",
+                "text": "Each <t>Criminal</t> enemy gains hunter and gets +1 health.\n<for> When an investigator resigns: Place each of that investigator's resources on this act.\n<b>Objective</b> - Collect as many resources as you can and get out. When each undefeated investigator has resigned, advance.",
+                "traits": "",
+                "type": "act"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Siobhan Riley",
+            "id": "90015",
+            "amount": 2,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/all_or_nothing.svg\">",
+                "collection_number": "15",
+                "health": "6",
+                "illustrator": "Illus. Drazenka Kimpel",
+                "sanity": "<dash>",
+                "subtitle": "O'Bannion Enforcer",
+                "text": "<for> After <name> engages you: For every 5 resources you have, lose 1 resource.\n<for> After an investigator at <name>'s location gains 1 or more resources during the investigation phase: <name> readies, engages that investigator, and makes an attack.",
+                "traits": "Humanoid. Criminal. Elite.",
+                "type": "enemy"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Clover Club Bouncer",
+            "id": "90016",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/all_or_nothing.svg\">",
+                "collection_number": "16",
+                "health": "3",
+                "illustrator": "Illus. Patrick McEvoy",
+                "sanity": "<dash>",
+                "text": "When <name> is engaged with you, it gets +1 fight and +1 evade for every 5 resources you have.\n<action> Spend 3 resources: <b>Parley.</b> Test [intellect] (2). If you succeed, disengage from <name> and exhaust it. It does not ready during the next upkeep phase.",
+                "traits": "Humanoid. Criminal.",
+                "type": "enemy"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Agnes Baker",
+            "id": "90017",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "agility": "3",
+                "classes": [
+                    "mystic"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/bad_blood.svg\">",
+                "collection_number": "17",
+                "combat": "2",
+                "flavor_text": "\"The magic is in my blood.\nCoursing through my veins.\nPumping through my heart.\"",
+                "health": "8",
+                "illustrator": "Illus. Magali Villeneuve",
+                "intellect": "2",
+                "sanity": "6",
+                "subtitle": "The Waitress",
+                "text": "As an additional cost to play a <t>Spell</t> event, you may take 1 damage. If you do, reduce the cost to play that event by 2, and you may shuffle that event back into your deck instead of discarding it.\n<elder_sign> effect: +1. You may heal 1 damage.",
+                "traits": "Sorcerer.",
+                "type": "investigator",
+                "willpower": "5"
+            },
+            "back": {
+                "flavor_text": "<name> may be just an unassuming waitress in this life, but in a previous life, she had been a powerful witch. It began when she found a strange artifact - a key of some kind - in a dusty collection of family belongings in her attic. When she touched it, the memories came flooding back, along with one word: \"Hyperborea.\"",
+                "text": "<b>Deck size</b>: 25.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-5, [[Spell]] cards level 0-3, [[Occult]] cards level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Heirloom of Hyperborea, Dark Memory, 1 random basic weakness.\n<b>Additional Options</b>: When you upgrade a [[Spell]] card, you may instead pay the full experience cost of the higher level version and leave the lower level version in your deck (it does not count towards your deck size or the number of copies of that card in your deck).",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Heirloom of Hyperborea",
+            "id": "90018",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/bad_blood.svg\">",
+                "collection_number": "18",
+                "cost": "3",
+                "health": "3",
+                "icons": "WCQQ",
+                "illustrator": "Illus. Dani Hartel",
+                "level": "None",
+                "sanity": "3",
+                "slots": [
+                    "accessory"
+                ],
+                "subtitle": "Artifact from Another Life",
+                "text": "Agnes Baker deck only. Advanced.\nOnly damage and/or horror from player card effects can be assigned to <name>.\n<reaction> After you play a <t>Spell</t> card: Draw 1 card.",
+                "traits": "Item. Relic.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Dark Memory",
+            "id": "90019",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/bad_blood.svg\">",
+                "collection_number": "19",
+                "cost": "4",
+                "illustrator": "Illus. Falk",
+                "level": "None",
+                "text": "Advanced.\nPlace 1 doom on the current agenda. This effect can cause the current agenda to advance.\n<for> If <name> is in your hand at the end of your turn, reveal it and take 2 horror.",
+                "traits": "Spell.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Bad Blood",
+            "id": "90020",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/bad_blood.svg\">",
+                "collection_number": "20",
+                "text": "Easy / Standard\n<skull>: -X. X is the number of memories Agnes Baker has collected.\n<cultist>: -2. Ready Elspeth Baudin and resolve her patrol keyword.\n<tablet>: -3. If you fail and there is a memory at Elspeth Baudin's location, place this token on that location.\n<elder_thing>: -6. Agnes Baker may take up to 3 damage to increase your skill value by 2 for each damage taken.",
+                "traits": "",
+                "type": "scenario"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Hyperborean Blood",
+            "id": "90021",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/bad_blood.svg\">",
+                "collection_number": "21",
+                "illustrator": "Illus. Sebastian Rodriguez",
+                "text": "<for> At the end of the enemy phase, if Elspeth Baudin is ready and there is a memory at her location: Reveal a random token from the chaos bag and place it on that location.\n<for> If there are 1 or more chaos tokens on a location without a memory: Return them to the chaos bag.\n<for> If there are chaos tokens on a location with a memory that have a combined value of 6 or more (ignoring +/- and treating each <auto_fail> and <elder_sign> as a -6): Return them to the chaos bag, and Elspeth Baudin collects that memory.",
+                "traits": "",
+                "type": "agenda"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "A Walk Down Memory Lane",
+            "id": "90022",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/bad_blood.svg\">",
+                "collection_number": "22",
+                "flavor_text": "You must recover the lost memories of your previous life before Elspeth does!",
+                "illustrator": "Illus. Joshua Cairós",
+                "text": "<free> Investigators at Agnes Baker's location spend 2 [per_investigator] clues, as a group: Agnes Baker collects the memory at her location.\n<for> If Agnes Baker is defeated, proceed to <b>(→R2)</b>.\n<b>Objective</b> - Collect more memories than Elspeth. If all 9 memories have been collected <i>(by either party)</i>, advance.",
+                "traits": "",
+                "type": "act"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Elspeth Baudin",
+            "id": "90023",
+            "amount": 2,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/bad_blood.svg\">",
+                "collection_number": "23",
+                "health": "4",
+                "illustrator": "Illus. Dani Hartel",
+                "sanity": "<dash>",
+                "subtitle": "Hyperborean Sorceress",
+                "text": "Alert. Patrol (nearest location with at least 1 memory). Retaliate.\n<name> cannot be automatically evaded and gets -1 fight and -1 evade for each memory she has collected.\n<for> When <name> would be defeated: Instead, heal all damage from her, flip her over, and resolve the text on her other side.",
+                "traits": "Humanoid. Sorcerer. Elite.",
+                "type": "enemy"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Roland Banks",
+            "id": "90024",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "agility": "2",
+                "classes": [
+                    "guardian"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/by_the_book.svg\">",
+                "collection_number": "24",
+                "combat": "4",
+                "flavor_text": "\"If I stir up trouble, Sheriff, it will be because there's trouble to stir up.\"",
+                "health": "9",
+                "illustrator": "Illus. Magali Villeneuve",
+                "intellect": "3",
+                "sanity": "5",
+                "subtitle": "The Fed",
+                "text": "At deck creation, choose 3 different Directive assets to add to your deck.\n<free>: Flip a Directive asset facedown <i>(ignoring its permanent keyword)</i>. (Limit once per game.)\n<elder_sign> effect: +2. Choose a Directive asset. You may ignore its regulation ability this round.",
+                "traits": "Agency. Detective.",
+                "type": "investigator",
+                "willpower": "3"
+            },
+            "back": {
+                "flavor_text": "Roland had always taken comfort in procedure and rules. As an agent in the Bureau, he was relieved to have guidelines to follow in any given situation. But lately, his Federal Agent's Handbook had been entirely unhelpful given the cases he'd been assigned. Try as he might, Roland could find no mention of what to do when confronted with strange creatures, gates through time and space, or magic spells. If he hadn't seen it with his own eyes, he would never have believed it... and there's no way his superiors would understand.",
+                "text": "<b>Deck size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, [[Insight]] cards level 0-3, [[Tactic]] cards level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Roland's .38 Special, Cover Up, 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 5 additional experience (does not affect the number of weakneses you must take in Standalone Mode).",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Directive",
+            "id": "90025",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/by_the_book.svg\">",
+                "collection_number": "25",
+                "cost": "<dash>",
+                "illustrator": "Illus. Adam Lane",
+                "level": "None",
+                "subtitle": "Due Diligence",
+                "text": "Roland Banks deck only. Permanent.\n<i>Regulation</i> - You cannot fight more than twice each round.\n<free> During a skill test while investigating, evading, or parleying, exhaust this <name>: You get +2 skill value for this test for each enemy engaged with you.",
+                "traits": "",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Directive",
+            "id": "90026",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/by_the_book.svg\">",
+                "collection_number": "26",
+                "cost": "<dash>",
+                "illustrator": "Illus. Adam Lane",
+                "level": "None",
+                "subtitle": "Red Tape",
+                "text": "Roland Banks deck only. Permanent.\n<i>Regulation</i> - You cannot play more than 2 cards each round.\n<reaction> When you play an <t>Insight</t> or <t>Tactic</t> event, exhaust this <name>: That event gains fast.",
+                "traits": "",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Directive",
+            "id": "90027",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/by_the_book.svg\">",
+                "collection_number": "27",
+                "cost": "<dash>",
+                "illustrator": "Illus. Adam Lane",
+                "level": "None",
+                "subtitle": "Consult Experts",
+                "text": "Roland Banks deck only. Permanent.\n<i>Regulation</i> - You cannot voluntarily assign damage or horror to <t>Ally</t> assets.\nYou have 1 additional ally slot.",
+                "traits": "",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Directive",
+            "id": "90028",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/by_the_book.svg\">",
+                "collection_number": "28",
+                "cost": "<dash>",
+                "illustrator": "Illus. Adam Lane",
+                "level": "None",
+                "subtitle": "Seek the Truth",
+                "text": "Roland Banks deck only. Permanent.\n<i>Regulation</i> - When your location has 1 or more clues, you cannot commit cards to skill tests unless you have discovered a clue this round.\n<reaction> After you discover a clue, if an enemy is at your location, exhaust this <name>: Draw 1 card.",
+                "traits": "",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Directive",
+            "id": "90029",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/by_the_book.svg\">",
+                "collection_number": "29",
+                "cost": "<dash>",
+                "illustrator": "Illus. Adam Lane",
+                "level": "None",
+                "subtitle": "Leave No Doubt",
+                "text": "Roland Banks deck only. Permanent.\n<i>Regulation</i> - You cannot move more than twice each round.\nYou get +3 sanity.",
+                "traits": "",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Roland's .38 Special",
+            "id": "90030",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/by_the_book.svg\">",
+                "collection_number": "30",
+                "cost": "3",
+                "icons": "ICAQ",
+                "illustrator": "Illus. Tiziano Baracchi",
+                "level": "None",
+                "slots": [
+                    "hand"
+                ],
+                "text": "Roland Banks deck only. Advanced. Uses (4 ammo).\n<action> Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack (if there are 1 or more clues on your location, you get +4 [combat], instead). This attack deals +1 damage. If this attack defeats an enemy and there are no clues on your location, place 1 ammo on <name>",
+                "traits": "Item. Weapon. Firearm.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Cover Up",
+            "id": "90031",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/by_the_book.svg\">",
+                "collection_number": "31",
+                "illustrator": "Illus. Marcin Jakubowski",
+                "text": "Advanced.\n<rev> Put <name> into play in your threat area, with 4 clues on it.\n<reaction> When you would discover 1 or more clues at your location: Discard that many clues from <name> instead.\n<for> When the game ends, if there are any clues on <name>: You suffer 1 mental trauma.",
+                "traits": "Task.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "By the Book",
+            "id": "90032",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/by_the_book.svg\">",
+                "collection_number": "32",
+                "text": "Easy / Standard\n<skull>: -X. X is the number of <t>Cultist</t> enemies in the victory display, to a maximum of 5.\n<cultist>: -2. If a <t>Cultist</t> enemy is engaged with you, reveal an additional chaos token.\n<tablet>: -3. Ready each <t>Cultist</t> enemy engaged with you.\n<elder_thing>: -4. If you fail, Roland Banks takes 1 damage.",
+                "traits": "",
+                "type": "scenario"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "A Covert Conspiracy",
+            "id": "90033a",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/by_the_book.svg\">",
+                "collection_number": "33",
+                "flavor_text": "Mr. Grey is a powerful man with a lot of friends. Getting him behind bars is going to be tricky.",
+                "illustrator": "Illus. Sasha Jones",
+                "text": "<for> When a non-weakness <t>Cultist</t> enemy would be defeated: Heal damage from that enemy until it has 1 remaining health, instead.\n<for> If Roland Banks is defeated: Proceed to <b>(→R2)</b>\n<action>: <b>Resign.</b> You don't want to miss your deadline, so you close the case.",
+                "traits": "",
+                "type": "agenda"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Your Deadline Nears",
+            "id": "90034",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/by_the_book.svg\">",
+                "collection_number": "34",
+                "flavor_text": "Your superiors are pressuring you to drop your investigation. Mr. Grey's influence, no doubt. Meanwhile, he and his lackies are doing everything in their power to quietly remove you from the equation, once and for all.",
+                "illustrator": "Illus. Sasha Jones",
+                "text": "<for> When a non-weakness <t>Cultist</t> enemy would be defeated: Heal damage from that enemy until it has 1 remaining health, instead.\n<for> If Roland Banks is defeated: Proceed to <b>(→R2)</b>\n<action>: <b>Resign.</b> You don't want to miss your deadline, so you close the case.",
+                "traits": "",
+                "type": "agenda"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Capture the Conspirators",
+            "id": "90035",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/by_the_book.svg\">",
+                "collection_number": "35",
+                "flavor_text": "Taking down the culprits behind the sacrifices can only be done with proof, in a court of law. You'll have to do this fair and square.",
+                "illustrator": "Illus. Romana Kendelic",
+                "text": "<free> The investigators spend 1 [per_investigator] clues, as a group: Flip over a facedown conspirator at your location and put it into play engaged with you.\n<free> Spend 1 resource: Exhaust a <t>Cultist</t> enemy engaged with you <i>(it remains engaged)</i>. Only Roland Banks may trigger this ability.\n<b>Objective</b> - Parley with as many conspirators as you can. If 10 <t>Cultist</t> enemies are in the victory display, advance.",
+                "traits": "",
+                "type": "act"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Arkham Police Station",
+            "id": "90036",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/by_the_book.svg\">",
+                "collection_number": "36",
+                "illustrator": "Illus. Yoann Boissonnet",
+                "text": "<name> is connected to Rivertown, Downtown, and Easttown, and vice versa.\n<free>: Move to a connecting location.\n<free> Choose a non-weakness <t>Cultist</t> enemy at this location and spend clues equal to its remaining health: <b>Parley.</b> Add that enemy to the victory display.",
+                "traits": "Arkham.",
+                "type": "location"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Wendy Adams",
+            "id": "90037",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "agility": "4",
+                "classes": [
+                    "survivor"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/read_tide_rising.svg\">",
+                "collection_number": "37",
+                "combat": "1",
+                "flavor_text": "\"The little things are important. Grown-ups don't see that.\"",
+                "health": "7",
+                "illustrator": "Illus. Jacob Murray",
+                "intellect": "3",
+                "sanity": "7",
+                "subtitle": "The Urchin",
+                "text": "Add Tidal Memento to your deck.\n<reaction> After you successfully evade a non-<t>Elite</t> enemy: Seal either 1 <blessing> or <curse> token from the chaos bag, or any <blessing> or <curse> tokens revealed from the chaos bag during this test, on that enemy.\n<elder_sign> effect: +2. Search the chaos bag for up to 2 <blessing> and/or <curse> tokens and reveal them, ignoring their effects.",
+                "traits": "Drifter. Blessed. Cursed.",
+                "type": "investigator",
+                "willpower": "4"
+            },
+            "back": {
+                "flavor_text": "Mama used to let Wendy play with her necklace when she was small. Mama would tell her stories, and Wendy would spin the necklace and watch as it glittered. Then, word came that her father had been lost at sea, and Mama started acting strange, drawing unusual symbols in chalk all over the house. They took Mama to the asylum, and Wendy went to the orphanage. Before they took her away, Mama gave her the necklace, to \"protect her.\" Wendy stayed in the orphanage for several years before running away, deciding that she could take better care of herself on her own.",
+                "text": "<b>Deck Size</b>: 30.\n<b>[[Trait]] Choice</b>: At deck creation, choose [[Blessed]] or [[Cursed]], or choose both and gain +5 Deck Size.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-5, Neutral cards level 0-5, cards of your chosen trait(s) 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Wendy's Amulet, Abandoned and Alone, 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Tidal Memento",
+            "id": "90038",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/read_tide_rising.svg\">",
+                "collection_number": "38",
+                "cost": "<dash>",
+                "illustrator": "Illus. Richard Jossy",
+                "level": "None",
+                "text": "Wendy Adams deck only. Permanent.\n<reaction> When an enemy would ready or doom would be placed on it, release a <blessing> or <curse> token sealed on that enemy: Cancel that effect.\n<reaction> During a skill test you are performing, when a chaos token would be revealed from the chaos bag: Resolve a <blessing> or <curse> token sealed on an enemy instead.",
+                "traits": "Item. Charm.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Wendy's Amulet",
+            "id": "90039",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/read_tide_rising.svg\">",
+                "collection_number": "39",
+                "cost": "2",
+                "icons": "WQQ",
+                "illustrator": "Illus. Linda Tso",
+                "level": "None",
+                "slots": [
+                    "accessory"
+                ],
+                "text": "Wendy Adams deck only. Advanced.\nYou may play any event in your discard pile as if it were in your hand.\n<for> After you play an event or discard an event from play: Place it on the bottom of your deck instead of in your discard pile.",
+                "traits": "Item. Relic.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Abandoned and Alone",
+            "id": "90040",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/read_tide_rising.svg\">",
+                "collection_number": "40",
+                "flavor_text": "I don't need them. I don't need anyone.",
+                "illustrator": "Illus. Ben Zweifel",
+                "text": "Advanced.\n<rev> Remove all non-weakness cards in your discard pile from the game. If no cards were removed by this effect, shuffle this card back into your deck. Otherwise, take 3 direct horror.",
+                "traits": "Madness.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Red Tide Rising",
+            "id": "90041",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/read_tide_rising.svg\">",
+                "collection_number": "41",
+                "text": "Easy / Standard\n<skull>: -X. X is half the number of <t>Suspect</t> and <t>Hideout</t> cards in the victory display (rounded up).\n<cultist>: -2. (-4 instead if you are parleying with a <t>Suspect</t> enemy or investigating a <t>Hideout</t> location).\n<tablet>: -3. If you succeed, look at the top card of the Leads deck. You may choose to shuffle the Leads deck.\n<elder_thing>: -1. If you fail, shuffle the top card of the encounter deck into the Leads deck.",
+                "traits": "",
+                "type": "scenario"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "The New Girl",
+            "id": "90042",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/read_tide_rising.svg\">",
+                "collection_number": "42",
+                "flavor_text": "You arrive in Innsmouth and immediately set to work asking the townspeople if they’ve seen your Dad, the place in the photograph, or the man in the derby who dropped off the photo.",
+                "illustrator": "Illus. Cyril van der Haegen",
+                "text": "<for> When this agenda would advance by reaching its doom threshold: Instead, remove all doom in play and shuffle a random set-aside <t>Monster</t> enemy into the Leads deck. Then, if there are no set-aside <t>Monster</t> enemies, advance to agenda 1b.",
+                "traits": "",
+                "type": "agenda"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Trail Goes Cold",
+            "id": "90043",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/read_tide_rising.svg\">",
+                "collection_number": "43",
+                "flavor_text": "The longer you stick around and the more questions you ask, the more danger seeks you out. The locals eye you with anger and suspicion, and worse: strange winged creatures prowl about the rooftops, searching for prey...",
+                "illustrator": "Illus. Cyril van der Haegen",
+                "text": "Angry Mob cannot be defeated.\n<reaction> After Wendy Adams evades Angry Mob: She may discover 1 clue from its location.\nEach <t>Suspect</t> enemy loses aloof and enters play with +1 [per_investigator] clues.\nEach <t>Hideout</t> location gets +1 [per_investigator] clue value.",
+                "traits": "",
+                "type": "agenda"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Searching for Dad",
+            "id": "90044",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/read_tide_rising.svg\">",
+                "collection_number": "44",
+                "flavor_text": "To say that this town is less friendly than even Arkham would be an understatement.",
+                "illustrator": "Illus. Tomasz Jedruszek",
+                "text": "<t>Suspect</t> and <t>Hideout</t> cards cannot be added to the victory display except using Mysterious Photo.\n<b>Forced</b> – If there are no <t>Suspect</t> or <t>Hideout</t> cards in play: Wendy Adams must draw cards from the top of the Leads deck until she draws a <t>Suspect</t> or <t>Hideout</t> card.\n<b>Objective</b> – Search for Dad using Mysterious Photo. The fewer cards that remain in the Leads deck, the better. If it is empty, advance.",
+                "traits": "",
+                "type": "act"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Mysterious Photo",
+            "id": "90045a",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/read_tide_rising.svg\">",
+                "collection_number": "45",
+                "cost": "<dash>",
+                "illustrator": "Illus. Grzegorz Bobrowski",
+                "level": "None",
+                "subtitle": "All I Have Left of Him",
+                "text": "<free> Exhaust <name>: Either take a parley action on a <t>Suspect</t> enemy or flip <name> over.\n<free> If there is a <t>Suspect</t> enemy with no clues on it at your location, investigators at your location spend 1 [per_investigator] clues, as a group (2 [per_investigator] clues instead if it is agenda 2): <i>“Have you seen my dad?”</i> Add that enemy to the victory display.",
+                "traits": "Item.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "\"Ashcan\" Pete",
+            "id": "90046",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "agility": "3",
+                "classes": [
+                    "survivor"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/on_the_road_again.svg\">",
+                "collection_number": "46",
+                "combat": "3",
+                "flavor_text": "\"C'mere, boy... We got work to do.\"",
+                "health": "7",
+                "illustrator": "Illus. Jake Murray",
+                "intellect": "2",
+                "sanity": "7",
+                "subtitle": "The Drifter",
+                "text": "You begin the game with Pete's Guitar in play.\n<reaction> When a card you own that is attached to a scenario card would be discarded: Add it to your hand instead. (Limit once per round.)\n<elder_sign> effect: +1. Choose a card you own attached to a scenario card. You may return the chosen card to your hand.",
+                "traits": "Drifter.",
+                "type": "investigator",
+                "willpower": "4"
+            },
+            "back": {
+                "flavor_text": "At night, <name> sleeps wherever his travels take him: in a field, on a train, or maybe, if he’s lucky, in a barn. He bunks with his loyal hound dog, Duke, on one side and his beat-up guitar on the other. And sometimes when Pete sleeps, he dreams. He dreams of haunted, tortured places and of horrible creatures. When he wakes up, he knows that someone needs his help, because his dreams are true. He could not say how long he has been on the road, living by his wits, but he can say for certain no place is too far to go to help someone in need. And as long as Pete can help people, he is not likely to stop wandering any time soon.",
+                "text": "<b>Deck size</b>: 30.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-3, [[Improvised]] and [[Tactic]] cards level 0-4, Neutral cards level 0-5, up to 5 other Guardian cards ([guardian]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Duke, Wracked by Nightmares, 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Pete's Guitar",
+            "id": "90047",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/on_the_road_again.svg\">",
+                "collection_number": "47",
+                "cost": "2",
+                "illustrator": "Illus. Jake Murray",
+                "level": "None",
+                "subtitle": "Still Holdin' Up",
+                "text": "\"Ashcan\" Pete deck only. Replacement.\n<free> Exhaust <name>: Choose a non-<t>Elite</t> enemy at your location or a connecting location. Move that enemy once in a direction of your choice. Then, if there are no enemies at your location, either heal 1 horror or gain 1 resource.",
+                "traits": "Item. Instrument.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Hard Times",
+            "id": "90048",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/on_the_road_again.svg\">",
+                "collection_number": "48",
+                "illustrator": "Illus. Antonio Maínez",
+                "text": "Replacement.\n<rev> Put <name> into play in your threat area.\n<for> After you draw 1 or more cards: Choose and discard that many cards from hand.\n<action><action>: Discard <name>.",
+                "traits": "Hardship.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Jim Culver",
+            "id": "90049",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "agility": "2",
+                "classes": [
+                    "mystic"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/laid_to_rest.svg\">",
+                "collection_number": "49",
+                "combat": "3",
+                "flavor_text": "“I know I can make the dead dance.”",
+                "health": "7",
+                "illustrator": "Illus. Magali Villeneuve",
+                "intellect": "3",
+                "sanity": "8",
+                "subtitle": "The Musician",
+                "text": "<reaction> After you reveal 1 or more <skull> or <curse> tokens during a skill test you are performing: Replenish 1 charge on an asset you control. (Limit once per round.)\n<elder_sign> effect: +2. You may treat this token as if it were a <skull> or <curse> token instead.",
+                "traits": "Performer. Cursed.",
+                "type": "investigator",
+                "willpower": "4"
+            },
+            "back": {
+                "flavor_text": "Jazz has been nothing but trouble for Jim since the day he picked up his daddy’s trumpet. But the dead sure love it when he plays, so Jim has no intention of stopping.",
+                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-3, [[Spell]] and [[Cursed]] cards level 0-4, Neutral cards level 0-5, up to five other Survivor cards ([survivor]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Jim's Trumpet, Final Rhapsody, The Beyond, 1 random basic weakness.\n<b>Spirit Deck Size</b>: 10.\n<b>Spirit Deckbuilding Options</b>: 9 different [[Ally]] assets from any class level 0–2, Vengeful Shade.\n<b>Spirit Deck Instructions</b>: Shuffle the “spirit deck” separately from your deck and place it next to The Beyond asset, facedown. This deck may be upgraded separately using your unspent experience.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Jim's Trumpet",
+            "id": "90050",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/laid_to_rest.svg\">",
+                "collection_number": "50",
+                "cost": "2",
+                "icons": "WWQQ",
+                "illustrator": "Illus. John Pacer",
+                "level": "None",
+                "slots": [
+                    "hand"
+                ],
+                "subtitle": "The Dead Speak",
+                "text": "Jim Culver deck only. Advanced.\n<reaction> When a <skull> or <curse> token is revealed during a skill test you are performing, exhaust <name>: Heal 1 horror from each investigator and <t>Ally</t> asset at your location or a connecting location.",
+                "traits": "Item. Instrument. Relic.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Final Rhapsody",
+            "id": "90051",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/laid_to_rest.svg\">",
+                "collection_number": "51",
+                "flavor_text": "When the dead start talking about what scares them, that's when it's time to listen.",
+                "illustrator": "Illus. Preston Stone",
+                "text": "Advanced.\n<rev> Reveal 5 chaos tokens from the chaos bag. For each non-<elder_sign>, non-<blessing> symbol token revealed, take 1 damage and 1 horror.",
+                "traits": "Endtimes.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "The Beyond",
+            "id": "90052",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/laid_to_rest.svg\">",
+                "collection_number": "52",
+                "cost": "<dash>",
+                "illustrator": "Illus. Stephen Somers",
+                "level": "None",
+                "subtitle": "Bleak Netherworld",
+                "text": "Jim Culver deck only. Permanent.\nEach attached spirit loses all printed traits and gains the <t>Geist</t> trait. When damage/horror would be placed on an attached spirit, it must be placed on Jim Culver, instead.\n<b>Forced</b> – When your turn begins: Attach the top card of the spirit deck to <name>, as a spirit. If 4 or more spirits are attached, flip this card and resolve its text.",
+                "traits": "Sanctum. Spectral.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Vengeful Shade",
+            "id": "90053",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/laid_to_rest.svg\">",
+                "collection_number": "53",
+                "health": "2",
+                "illustrator": "Illus. Andreas Zafiratos",
+                "sanity": "<dash>",
+                "text": "Hunter. <b>Prey</b> – Jim Culver only.\nYou may fight or evade this enemy while it is attached to The Beyond (as if it were engaged with you). If you succeed, discard it. If you fail, spawn it engaged with you.\n<b>Forced</b> – When you attach a spirit to The Beyond via its forced effect: <name> attacks you <i>(even if it is not at your location)</i>.",
+                "traits": "Monster. Geist.",
+                "type": "enemy"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Laid to Rest",
+            "id": "90054",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/laid_to_rest.svg\">",
+                "collection_number": "54",
+                "text": "Easy / Standard\n<skull>: -X. X is 1 more than the number of copies of Unfinished Business in the victory display.\n<cultist>: -X. X is the number of cards attached to The Beyond.\n<tablet>: -X. X is the number of <t>Spectral</t> locations in play.\n<elder_thing>: -2. If there is a <t>Geist</t> enemy at your location, reveal another token.",
+                "traits": "",
+                "type": "scenario"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Gathering Mists",
+            "id": "90055",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/laid_to_rest.svg\">",
+                "collection_number": "55",
+                "flavor_text": "Hangman’s Hill is crawling with specters.",
+                "illustrator": "Illus. Lenka Šimečková",
+                "text": "<b>Forced</b> – When the enemy phase begins: Deal 1 damage to Jean Devereux for each ready Ravenous Spirit at his location.\n<b>Forced</b> – If Jim Culver is defeated: Advance the act.\n<action> Spend 2 [per_investigator] clues, as a group: <b>Parley.</b> You banish a spirit. Discard the top card of the Spirit deck. <i>(Hint: Draw Heretics out of the Beyond and summon them with Jean’s help!)</i>",
+                "traits": "",
+                "type": "agenda"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Laid to Rest",
+            "id": "90056",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/laid_to_rest.svg\">",
+                "collection_number": "56",
+                "flavor_text": "If you help these ghosts, they'll help you.",
+                "illustrator": "Illus. Alexander Tooth",
+                "text": "<free> Either exhaust Jim’s Trumpet, or spend 1 [per_investigator] clues, as a group: Choose an enemy to move once toward Jim Culver’s location.\n<free> Spend 1 [per_investigator] clues, as a group: Flip your location. (Group limit once per round per location.)\n<b>Objective</b> – If there are 4 copies of Unfinished Business in the victory display, advance.",
+                "traits": "",
+                "type": "act"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Jean Devereux",
+            "id": "90057a",
+            "amount": 2,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/laid_to_rest.svg\">",
+                "collection_number": "57",
+                "health": "3",
+                "illustrator": "Illus. Anthony Devine",
+                "sanity": "<dash>",
+                "subtitle": "Seeking Closure",
+                "text": "Aloof. Patrol (Nearest location with a Ravenous Spirit enemy beneath it). Cannot be engaged.\n<action> Draw a facedown card beneath <name>’s location and choose a Heretic attached to The Beyond: <b>Parley.</b> Jim Culver draws the chosen Heretic, flips it, and resolves its text.\n<b>Forced</b> – When <name> would be defeated: Instead, heal all damage from him and flip him.",
+                "traits": "Humanoid. Sorcerer. Elite.",
+                "type": "enemy"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Ravenous Spirit",
+            "id": "90058",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/laid_to_rest.svg\">",
+                "collection_number": "58",
+                "health": "4",
+                "illustrator": "Illus. Crystal Sullivan ",
+                "sanity": "<dash>",
+                "subtitle": "Possessed",
+                "text": "Aloof. Patrol (Jean Devereux’s location). Retaliate.\n<name> gets +2 [per_investigator] health.\n<b>Forced</b> – When this enemy enters a location: Flip that location to its <t>Spectral</t> side. One at a time, each investigator at that location resolves each haunted ability on it.",
+                "traits": "Monster. Geist. Spectral. Elite.",
+                "type": "enemy"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Zoey Samaras",
+            "id": "90059",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "agility": "2",
+                "classes": [
+                    "guardian"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/path_of_the_righteous.svg\">",
+                "collection_number": "59",
+                "combat": "4",
+                "flavor_text": "\"His work is not yet done.\"",
+                "health": "8",
+                "illustrator": "Illus. Magali Villeneuve",
+                "intellect": "2",
+                "sanity": "6",
+                "subtitle": "The Chef",
+                "text": "<reaction> After you deal 1 or more damage to an enemy: Add 1 <blessing> token to the chaos bag. (Limit once per phase.)\n<free> Before you reveal chaos tokens during an attack, remove 3 <blessing> tokens from the chaos bag: This attack deals +1 damage. (Limit once per round.)\n<elder_sign> effect: +1 for each <blessing> token in the chaos bag.",
+                "traits": "Believer. Hunter.",
+                "type": "investigator",
+                "willpower": "4"
+            },
+            "back": {
+                "flavor_text": "Zoey had known that she was special ever since God spoke to her one night when she was six years old... the night that terrible fire took away her parents. He told her that He had chosen her from among all the people of the world to be His agent. She would protect the innocent and punish the wicked. Since then, He comes to her in times of trouble, offering guidance and comfort. Zoey now travels from city to city, taking work as a chef to support herself. When she isn’t working, she stalks the night, guided by the Lord’s voice. Wherever she finds wickedness, she strikes it down without remorse or hesitation.",
+                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, [[Blessed]] and [[Charm]] cards level 0-4, Neutral cards level 0-5, up to five other Mystic cards ([mystic]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Zoey's Cross, Smite the Wicked, 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Zoey's Cross",
+            "id": "90060",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/path_of_the_righteous.svg\">",
+                "collection_number": "60",
+                "cost": "1",
+                "icons": "CCQ",
+                "illustrator": "Illus. Preston Stone",
+                "level": "None",
+                "slots": [
+                    "accessory"
+                ],
+                "subtitle": "Symbol of Righteousness",
+                "text": "Zoey Samaras deck only. Advanced.\n<reaction> After you engage an enemy, exhaust Zoey’s Cross and spend 1 resource: Deal 1 damage to that enemy.\n<free> Remove 2 <blessing> tokens from the chaos bag: Engage an enemy at your location.",
+                "traits": "Item. Charm.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Smite the Wicked",
+            "id": "90061",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/path_of_the_righteous.svg\">",
+                "collection_number": "61",
+                "illustrator": "Illus. Preston Stone",
+                "text": "Advanced. Attached enemy gets +2 fight and +2 health.\n<rev> Discard cards from the top of the encounter deck until an enemy is discarded. Attach <name> to that enemy and spawn it at the location farthest from you.\n<for> When the game ends, if attached enemy is in play: Zoey Samaras suffers 1 mental trauma.",
+                "traits": "Task.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Monterey Jack",
+            "id": "90062",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "agility": "5",
+                "classes": [
+                    "rogue"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_number": "62",
+                "combat": "2",
+                "flavor_text": "\"You call this archaeology?\"",
+                "health": "8",
+                "illustrator": "Illus. Tony Foti",
+                "intellect": "4",
+                "sanity": "6",
+                "subtitle": "The Archaeologist",
+                "text": "<reaction> After you discover the last clue at your location: Search the top X cards of your deck for a <t>Charm</t> or <t>Relic</t> asset and play it, reducing its cost by X. X is the printed shroud of your location. Shuffle your deck. (Limit once per round.)\n<elder_sign> effect: +1. Gain 1 resource for each <t>Charm</t> asset and each <t>Relic</t> asset you control.",
+                "traits": "Wayfarer.",
+                "type": "investigator",
+                "willpower": "1"
+            },
+            "back": {
+                "flavor_text": "Young Jack traveled the world with his father’s archaeological expeditions. Now a globe-trotting treasure hunter and an accomplished archaeologist in his own right, “Monterey” follows in his father’s footsteps, securing the treasures of ancient civilizations and lost cultures. But after discovering a silver pendant with a familiar symbol on it, Monterey must explore his own past. Years ago, his father was found murdered with the very same sigil carved onto his forehead. The image has haunted Monterey’s dreams ever since. But he’s getting close. He won’t stop until he solves the mystery of his father’s murder... no matter what it takes.",
+                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, [[Charm]] and [[Relic]] cards level 0-4, Neutral cards level 0-5, up to 5 other Seeker cards ([seeker]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Trusty Bullwhip, Buried Secrets, 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Trusty Bullwhip",
+            "id": "90063",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_number": "63",
+                "cost": "1",
+                "icons": "IAAQ",
+                "illustrator": "Illus. Duallbrush",
+                "level": "None",
+                "slots": [
+                    "hand"
+                ],
+                "text": "Fast. Monterey Jack deck only. Advanced.\n<action>: <b>Fight.</b> This attack uses [agility] instead of [combat]. You get +2 skill value for this attack. If this attack succeeds, you may exhaust <name> to deal +1 damage for this attack and automatically evade the attacked enemy.",
+                "traits": "Item. Weapon. Melee.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Buried Secrets",
+            "id": "90064",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_number": "64",
+                "illustrator": "Illus. Raymond Bonilla",
+                "text": "Advanced.\n<rev> Put <name> into play in your threat area.\nIf your location can be investigated, you cannot move except by scenario card effects.\n<action><action>: <b>Investigate.</b> If you succeed, instead of discovering clues, discard <name>.",
+                "traits": "Mystery.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Relics of the Past",
+            "id": "90065",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_number": "65",
+                "text": "Easy / Standard\n<skull>: -X. X is the number of locations with 1 or more doom on them.\n<cultist>: -1. If you are poisoned, reveal another token.\n<tablet>: -3. If you fail, place 1 doom on your location.\n<elder_thing>: -3. If you fail, the nearest ready unengaged <t>Serpent</t> enemy moves once toward your location.",
+                "traits": "",
+                "type": "scenario"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Something Else Stirs...",
+            "id": "90066a",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_number": "66",
+                "flavor_text": "You've made your way to the Eztli ruins in search of ancient artifacts.",
+                "illustrator": "Illus. Logan Feliciano",
+                "text": "*This agenda gets +1 [per_investigator] doom threshold.\n<for> When this agenda advances: Do not remove doom from locations in play.\n<for> When an investigator is defeated: That investigator shuffles each <t>Ancient</t> story asset they control into the exploration deck.",
+                "traits": "",
+                "type": "agenda"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Guardian of the Relics",
+            "id": "90067",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_number": "67",
+                "flavor_text": "From the darkness of the tunnel before you, the creature lumbers forward with a reptilian hiss.",
+                "illustrator": "Illus. Logan Feliciano",
+                "text": "*This agenda gets +1 [per_investigator] doom threshold.\n<for> When an investigator is defeated: That investigator shuffles each <t>Ancient</t> story asset they control into the exploration deck.",
+                "traits": "",
+                "type": "agenda"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Crumbling Ruin",
+            "id": "90068",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_number": "68",
+                "flavor_text": "As you traverse the tight corridors of the ruin, you feel a deep rumbling beneath your feet.",
+                "illustrator": "Illus. Vlad Ricean",
+                "text": "<action>  If there are no clues on your location: <b>Explore</b>. Draw the top card of the exploration deck. If it is a connecting location, put it into play and move to it.\n<b>Objective</b> - When each surviving investigator is at Inner Chamber, they may spend the requisite number of clues, as a group, to advance.",
+                "traits": "",
+                "type": "act"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Find the Way Out!",
+            "id": "90069",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_number": "69",
+                "illustrator": "Illus. Vlad Ricean",
+                "text": "<action>  If there are no clues on your location: <b>Explore</b>. Draw the top card of the exploration deck. If it is a connecting location, put it into play and move to it.\n<b>Objective</b> - Get out with as many <t>Ancient</t> relics as you can! If each surviving investigator has resigned, advance.",
+                "traits": "",
+                "type": "act"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Secret Passage",
+            "id": "90070",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_number": "70",
+                "illustrator": "Illus. Andreas Rocha",
+                "text": "<rev> If <name> is connected to your location, put it and the set-aside Inner Chamber into play. Otherwise, shuffle it into the exploration deck.\n<for> After you enter <name>: Check your supplies. If you have the compass, discover 1 clue from <name>.",
+                "traits": "Ancient. Ruins.",
+                "type": "location"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Inner Chamber",
+            "id": "90071",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_number": "71",
+                "illustrator": "Illus. Andreas Zafiratos",
+                "text": "<action> Spend X clues: Reveal the top X cards of the exploration deck. Draw 1 non-location card revealed in this way and check your supplies. If you have chalk, you may choose 1 additional non-location card revealed and draw it. Shuffle the remaining cards into the exploration deck.",
+                "traits": "Forgotten. Ruins.",
+                "type": "location"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Ancient Hall",
+            "id": "90072",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_number": "72",
+                "flavor_text": "The crumbling hall dares you to venture deeper.",
+                "illustrator": "Illus. Jose Vega",
+                "text": "<for> After doom is placed on <name>: Shuffle the top card of the encounter deck into the exploration deck. Any investigator at <name> may spend 3 resources to cancel this effect.",
+                "traits": "Ancient. Ruins.",
+                "type": "location"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Jade Crocodile",
+            "id": "90073",
+            "amount": 2,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_number": "73",
+                "cost": "<dash>",
+                "illustrator": "Illus. Rob Laskey",
+                "level": "None",
+                "subtitle": "Effigy of the Guardian",
+                "text": "<rev> Put <name> into play under your control. You must either place 1 doom on your location, or take 2 damage.\n<for> When you resign: Add <name> to the victory display.",
+                "traits": "Item. Relic. Ancient.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Obsidian Jaguar",
+            "id": "90074",
+            "amount": 2,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_number": "74",
+                "cost": "<dash>",
+                "illustrator": "Illus. Rob Laskey",
+                "level": "None",
+                "subtitle": "Effigy of the Huntress",
+                "text": "<rev> Put <name> into play under your control. You must either place 1 doom on your location, or the nearest enemy attacks you.\n<for> When you resign: Add <name> to the victory display.",
+                "traits": "Item. Relic. Ancient.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Citrine Snake",
+            "id": "90075",
+            "amount": 2,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_number": "75",
+                "cost": "<dash>",
+                "illustrator": "Illus. Rob Laskey",
+                "level": "None",
+                "subtitle": "Effigy of the Child",
+                "text": "<rev> Put <name> into play under your control. If you are poisoned, take 1 direct damage. If you are not poisoned, put a set-aside Poisoned weakness into play in your threat area.\n<for> When you resign: Add <name> to the victory display.",
+                "traits": "Item. Relic. Ancient.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Turquoise Eagle",
+            "id": "90076",
+            "amount": 2,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_number": "76",
+                "cost": "<dash>",
+                "illustrator": "Illus. Rob Laskey",
+                "level": "None",
+                "subtitle": "Effigy of the Watcher",
+                "text": "<rev> Put <name> into play under your control. You must either place 1 doom on your location, or take 2 horror.\n<for> When you resign: Add <name> to the victory display.",
+                "traits": "Item. Relic. Ancient.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Vengeant Past",
+            "id": "90077",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_number": "77",
+                "illustrator": "Illus. Rob Laskey",
+                "text": "Peril.\n<rev> For each <t>Ancient</t> story asset controlled by an investigator, you must either <i>(choose one)</i>:\n- Deal 1 damage or horror to that asset's controller.\n- Shuffle that asset into the exploration deck.\nAfter this effect resolves, shuffle <name> into the exploration deck.",
+                "traits": "Power.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Rex Murphy",
+            "id": "90078",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "agility": "3",
+                "classes": [
+                    "seeker"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/hunting_for_answers.svg\">",
+                "collection_number": "78",
+                "combat": "2",
+                "flavor_text": "\"Oh, come on, not <u>again</u>!\"",
+                "health": "6",
+                "illustrator": "Illus. Cristi Balanescu",
+                "intellect": "4",
+                "sanity": "9",
+                "subtitle": "The Reporter",
+                "text": "<reaction> When you would either place 1 of your clues on your location, or add 2 <curse> tokens to the chaos bag: Do the other instead. (This can still satisfy the cost of an ability.)\n<elder_sign> effect: +2 for each <curse> token revealed during this test. Draw 1 card for each <curse> token revealed during this test.",
+                "traits": "Reporter. Cursed.",
+                "type": "investigator",
+                "willpower": "3"
+            },
+            "back": {
+                "flavor_text": "When disaster strikes, <name> is usually on hand, suffering the consequences. After spending a day with Rex, even the most hardened skeptic will concede that the man is cursed. Anytime he had a lead on a good story, something would go wrong, like that business in Innsmouth with the photographs that blew out to sea. His terrible fortune has more than once exposed him to gruesome beasts and occult conspiracies. To survive, Rex has developed an inquisitive mind, keeping one step ahead of the next disaster.",
+                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-3, [[Cursed]] and [[Gambit]] cards level 0-4, Neutral cards level 0-5, up to five other Rogue cards ([rogue]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Search for the Truth, Rex's Curse, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No [[Fortune]] or [[Blessed]] cards (unless they are also [[Cursed]]).",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Search for the Truth",
+            "id": "90079",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/hunting_for_answers.svg\">",
+                "collection_number": "79",
+                "cost": "1",
+                "icons": "IIQ",
+                "illustrator": "Illus. Torstein Nordstrand",
+                "level": "None",
+                "text": "Rex Murphy deck only. Advanced.\nFor each clue on Rex Murphy (to a maximum of 5) you may either:\n- Draw 1 card.\n- Place that clue on your location and return any card from your discard pile to your hand.",
+                "traits": "Insight.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Rex's Curse",
+            "id": "90080",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/hunting_for_answers.svg\">",
+                "collection_number": "80",
+                "illustrator": "Illus. Falk",
+                "text": "Advanced.\n<rev> Put <name> into play in your threat area.\n<for> When you would succeed at a skill test: Reveal an additional chaos token. If this effect causes you to fail the test, shuffle <name> into your deck. (Limit once per test.)",
+                "traits": "Curse.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Father Mateo",
+            "id": "90081",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "agility": "3",
+                "classes": [
+                    "mystic"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/aura_of_faith.svg\">",
+                "collection_number": "81",
+                "combat": "2",
+                "health": "6",
+                "illustrator": "Illus. Magali Villeneuve",
+                "intellect": "3",
+                "sanity": "8",
+                "subtitle": "The Priest",
+                "text": "<free> During your turn: Seal a <blessing> token on an investigator at your location with no <blessing> token sealed on them. (Limit once per round.)\n<reaction> When an investigator would reveal a chaos token: Resolve the <blessing> token sealed on them instead. Release that token.\n<elder_sign> effect: +1. Resolve <name>'s <free> ability, ignoring its limit.",
+                "traits": "Believer. Warden.",
+                "type": "investigator",
+                "willpower": "4"
+            },
+            "back": {
+                "flavor_text": "Mateo Castile's life has not been easy since he became a priest. Recent decades in Mexico have been wracked with instability and conflict. <name> struggled to balance his faith with the pragmatic concerns of preaching when the law told him he must not. But this is not what has assaulted Mateo's faith at its core. The nearby murders and kidnappings were not politically motivated, as he had suspected. A gruesome and horrid cult thrives at the heart of the brewing war. How, Mateo wonders, could a kind and loving God allow what he saw that night to exist?",
+                "text": "<b>Deck Size:</b> 30.\n<b>Deckbuilding Options:</b> Mystic cards ([mystic]) level 0-3, [[Blessed]] cards level 0-5, Neutral cards level 0-5, up to 5 other cards with \"seal\" level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): The Codex of Ages, Serpents of Yig, 1 random basic weakness.\n",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "The Codex of Ages",
+            "id": "90082",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/aura_of_faith.svg\">",
+                "collection_number": "82",
+                "cost": "2",
+                "icons": "WIQ",
+                "illustrator": "Illus. Andreia Ugrai",
+                "level": "None",
+                "slots": [
+                    "hand"
+                ],
+                "subtitle": "finis omnium nunc est",
+                "text": "Father Mateo deck only. Advanced. Seal (<elder_sign> or up to 3 <blessing>).\nYou get +1 to each of your skills while there is a token sealed here.\n<reaction> When an investigator at your location would reveal a chaos token from the chaos bag: That investigator resolves a token sealed here instead, then releases that token. (Limit once per test.)",
+                "traits": "Item. Relic. Tome. Blessed.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Serpents of Yig",
+            "id": "90083",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/aura_of_faith.svg\">",
+                "collection_number": "83",
+                "health": "4",
+                "illustrator": "Illus. Matthew Cowdery",
+                "sanity": "<dash>",
+                "text": "Advanced. <b>Prey</b> - Father Mateo only. Hunter.\n<rev> Search the chaos bag and all play areas for the <elder_sign> token and each <blessing> token and seal them on <name>.",
+                "traits": "Humanoid. Monster. Serpent.",
+                "type": "enemy"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Jenny Barnes",
+            "id": "90084",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "agility": "3",
+                "classes": [
+                    "rogue"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/pistols_and_pearls.svg\">",
+                "collection_number": "84",
+                "combat": "3",
+                "flavor_text": "\"Oh honey, I'm making this up as I go along.\"",
+                "health": "8",
+                "illustrator": "Illus. Tony Foti",
+                "intellect": "3",
+                "sanity": "7",
+                "subtitle": "The Dilettante",
+                "text": "<reaction> After your turn begins: Play a <t>Talent</t> asset, reducing its cost by 1.\n<free> Discard a <t>Talent</t> asset you control: Gain resources equal to that asset's printed cost. (Limit 5 resources per round.)\n<elder_sign> effect: +0. If you succeed, gain 3 resources.",
+                "traits": "Drifter. Socialite.",
+                "type": "investigator",
+                "willpower": "3"
+            },
+            "back": {
+                "flavor_text": "<name> has spent the majority of her young life in pursuit of creature comforts, fine dining, and the latest fashions. That all changed when she received a letter from her sister, Isabelle. In this letter, Isabelle confessed that mysterious forces were aligning against her and that she feared she may fall victim to some paranormal threat. It was the last letter Jenny received from her beloved sister. Jenny has since returned to the States to track down and investigate all occult occurrences she can find. Hardly a wilting flower, she has proven herself a crack shot as well as a fearless and clever investigator of the unknown. Until Isabelle's disappearance is explained, Jenny will never relent in her search.",
+                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, Neutral cards level 0-5, up to 10 other non-permanent [[Talent]] cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Jenny's Twin .45s, Searching for Izzie, 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Jenny's Twin .45s",
+            "id": "90085",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/pistols_and_pearls.svg\">",
+                "collection_number": "85",
+                "cost": "-2",
+                "icons": "AQQ",
+                "illustrator": "Illus. John Pacer",
+                "level": "None",
+                "slots": [
+                    "hand x2"
+                ],
+                "subtitle": "A Perfect Fit",
+                "text": "Jenny Barnes deck only. Advanced. Uses (X ammo).\n<action> Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack. This attack deals +1 damage.\n<reaction> After you defeat an enemy using the above ability, exhaust <name>: Gain resources equal to that enemy's printed health.",
+                "traits": "Item. Weapon. Firearm.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Searching for Izzie",
+            "id": "90086",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/pistols_and_pearls.svg\">",
+                "collection_number": "86",
+                "illustrator": "Illus. Jeff Lee Johnson",
+                "text": "Advanced.\n<rev> Attach <name> to the location farthest from you. Attached location gets +2 shroud.\n<action><action>: <b>Investigate.</b> If you succeed, instead of discovering clues, discard <name>.\n<for> When the game ends, if <name> is in play: You suffer 1 mental trauma.",
+                "traits": "Task.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Lola Hayes",
+            "id": "90087",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "agility": "3",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_number": "87",
+                "combat": "3",
+                "health": "6",
+                "illustrator": "Illus. Magali Villeneuve",
+                "intellect": "3",
+                "sanity": "6",
+                "subtitle": "The Actress",
+                "text": "You begin the game in the Neutral role.\nYou can only play or commit Neutral cards or cards of your current role.\n<for> When your turn begins: Switch your role (<guardian>, <seeker>, <rogue>, <mystic>, <survivor>, or Neutral).\n<elder_sign> effect: +2. You may switch roles.",
+                "traits": "Performer.",
+                "type": "investigator",
+                "willpower": "3"
+            },
+            "back": {
+                "flavor_text": "Lola had assumed that her days of performing <i>The King in Yellow</i> were behind her. Recently, however, she has heard a lone violin play the haunting melody from the show's last production. The music creeps into her mind in moments of silence and solitude, and she's compelled to visit the Ward Theatre one last time.",
+                "text": "<b>Deck size</b>: 40.\n<b>Class Choices</b>: At deck creation, choose 2 classes ([guardian], [seeker], [rogue], [mystic], or [survivor]).\n<b>Deckbuilding Options</b>: Neutral cards level 0-5, cards from your chosen classes level 0-4, cards from other classes level 0-1.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 2 copies of Improvisation, 2 copies of Crisis of Identity, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include at least 6 cards from each class ([guardian], [seeker], [rogue], [mystic], and [survivor]).",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Leading Lady (Heroine)",
+            "id": "90088",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_number": "88",
+                "cost": "1",
+                "flavor_text": "\"I'm done waiting in the wings.\"",
+                "icons": "CQ",
+                "illustrator": "Illus. Borja Pindado",
+                "level": "None",
+                "text": "Lola Hayes deck only. Replacement.\nFast. Play only during your turn.\nPlay a card from your hand, regardless of your current role <i>(paying its cost)</i>. If that card was a Guardian (<guardian>) card, you may either draw 1 card or immediately take a fight action.",
+                "traits": "Tactic. Improvised.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Leading Lady (Mentor)",
+            "id": "90089",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_number": "89",
+                "cost": "1",
+                "flavor_text": "\"I've learned a thing or two on stage.\"",
+                "icons": "IQ",
+                "illustrator": "Illus. Borja Pindado",
+                "level": "None",
+                "text": "Lola Hayes deck only. Replacement.\nFast. Play only during your turn.\nPlay a card from your hand, regardless of your current role <i>(paying its cost)</i>. If that card was a Seeker (<seeker>) card, you may either draw 1 card or immediately take an investigate action.",
+                "traits": "Insight. Improvised.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Leading Lady (Femme Fatale)",
+            "id": "90090",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_number": "90",
+                "cost": "1",
+                "flavor_text": "\"Trust me, honey, I'm lead material.\"",
+                "icons": "AQ",
+                "illustrator": "Illus. Borja Pindado",
+                "level": "None",
+                "text": "Lola Hayes deck only. Replacement.\nFast. Play only during your turn.\nPlay a card from your hand, regardless of your current role <i>(paying its cost)</i>. If that card was a Rogue (<rogue>) card, you may either draw 1 card or immediately take an evade action.",
+                "traits": "Trick. Improvised.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Leading Lady (Enchantress)",
+            "id": "90091",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_number": "91",
+                "cost": "1",
+                "flavor_text": "\"The trick is to only show them what you want them to see.\"",
+                "icons": "WQ",
+                "illustrator": "Illus. Borja Pindado",
+                "level": "None",
+                "text": "Lola Hayes deck only. Replacement.\nFast. Play only during your turn.\nPlay a card from your hand, regardless of your current role <i>(paying its cost)</i>. If that card was a Mystic (<mystic>) card, you may either draw 1 card or remove 1 doom from a player card at your location.",
+                "traits": "Ritual. Improvised.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Leading Lady (Final Girl)",
+            "id": "90092",
+            "amount": 1,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_number": "92",
+                "cost": "1",
+                "flavor_text": "\"Come on, Lola, just make it to the final bow.\"",
+                "icons": "QQ",
+                "illustrator": "Illus. Borja Pindado",
+                "level": "None",
+                "text": "Lola Hayes deck only. Replacement.\nFast. Play only during your turn.\nPlay a card from your hand, regardless of your current role <i>(paying its cost)</i>. If that card was a Survivor (<survivor>) card, you may either draw 1 card or heal 1 damage/horror.",
+                "traits": "Spirit. Improvised.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Samuel Blake",
+            "id": "90093",
+            "amount": 1,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_number": "93",
+                "cost": "3",
+                "health": "3",
+                "illustrator": "Illus. Walter Velez",
+                "level": "None",
+                "sanity": "<dash>",
+                "slots": [
+                    "ally"
+                ],
+                "subtitle": "Obsessive Producer",
+                "text": "Lola Hayes deck only. Replacement. Peril.\nWhile <name> is in your hand, you cannot switch roles or play cards belonging to another role.\nWhile <name> is in play, as an additional cost for you to switch your role, you must take 1 horror.",
+                "traits": "Humanoid. Cultist.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Enthralling Encore",
+            "id": "90094",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_number": "94",
+                "text": "Easy / Standard\n<skull>: -X. X is the number of measures.\n<cultist>: -2. If you fail, you must either spend 1 clue or take 1 damage.\n<tablet>: -3 (-5 instead if there are 3 or more classes among cards you control).\n<elder_thing>: -2. If Sinister Soloist is at your location, reveal another token.",
+                "traits": "",
+                "type": "scenario"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "The Haunting of the Ward Theatre",
+            "id": "90095",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_number": "95",
+                "flavor_text": "The theatre is closed and quiet, as it has been since those days during the phantom production of <i>The King in Yellow</i>. As you take in your surroundings, you hear it again - the haunting violin. Someone is here, and they are keeping the memory of that production alive.",
+                "illustrator": "Illus. Federico Piatti",
+                "text": "<free> While at Sinister Soloist's location, discard 1 card of each class from your hand (<guardian>, <seeker>, <rogue>, <mystic>, and <survivor>): <b>Parley.</b> Automatically evade Sinister Soloist. Treat Sinister Soloist's text box as if it were blank (except for <t>Traits</t>) for the remainder of the round.",
+                "traits": "",
+                "type": "agenda"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Break Free from the Past",
+            "id": "90096",
+            "amount": 2,
+            "front": {
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_number": "96",
+                "flavor_text": "The soloist stands on stage, their gangly arms moving with mechanical precision as they play the violin. Their face is shrouded in shadow, but their song follows you throughout the theatre.",
+                "illustrator": "Illus. JB Casacop",
+                "text": "<free> Investigators at the same <t>Private</t> location spend 1 [per_investigator] clues, as a group: <b>Parley.</b> Reveal the top 3 cards of the Props deck and choose an investigator to draw 1 of them. Shuffle the remaining cards together and place them on the bottom of the Props deck.\n<b>Objective</b> - When Sinister Soloist is in the victory display, advance.",
+                "traits": "",
+                "type": "act"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Sinister Soloist",
+            "id": "90097",
+            "amount": 2,
+            "front": {
+                "name": "<unique><name>",
+                "copyright": "©  202? FFG",
+                "classes": [
+                    "mythos"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_number": "97",
+                "health": "6",
+                "illustrator": "Illus. Tomasz Jedruszek",
+                "sanity": "<dash>",
+                "subtitle": "Minstrel of Carcosa",
+                "text": "Alert. Aloof. Elusive. Hunter.\nAs an additional cost to play a non-Neutral card at <name>'s location, you must take 1 horror.\n<for> When the enemy phase ends, if <name> is ready: Each investigator at <name>'s location and each connecting location takes 1 direct horror.",
+                "traits": "Monster. Elite.",
+                "type": "enemy"
+            },
+            "back": {
+                "type": "player"
+            }
+        }
+    ],
+    "encounter_sets": []
+}

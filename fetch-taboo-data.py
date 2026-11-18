@@ -6,11 +6,10 @@ import uuid
 
 # Config
 TABOO_ID = 10  # FAQ 2.5 is 10
-LOCALE = "en"
+LOCALE = "es"
 OUTPUT_FILE = "FetchResult.json"
 
 # Constants
-MY_NAMESPACE = uuid.UUID("6ac6322a-82b1-4ef9-bb5f-8fa035179cc1")
 CHAPTER = 1 if TABOO_ID < 11 else 2
 
 # API URLs
@@ -330,7 +329,7 @@ def build_shoggoth_card(item, pack_data):
 
     shoggoth_card = {
         "name": name,
-        "id": str(uuid.uuid5(MY_NAMESPACE, item["id"][:-3])),
+        "id": f"{item['id'][:-3]}-t",
         "front": front,
     }
 
