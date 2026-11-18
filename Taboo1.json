@@ -2885,17 +2885,10 @@
             ]
         }
     ],
+    "guides": [],
     "translations": {
         "de": "Taboo1_de.json",
         "es": "Taboo1_es.json",
         "pl": "Taboo1_pl.json"
-    },
-    "guides": [
-        {
-            "id": "2f770b3e-4f3e-4ffe-aa27-bc1f6c553495",
-            "name": "ASdfASd",
-            "sections": [],
-            "front_page": "C:/Users/krawc/Desktop/SCEDPL/RepoSCED/Shoggoth-PnP/img/03153.jpg"
-        }
-    ]
+    }
 }
