@@ -1176,14 +1176,14 @@
             "encounter_set": "e03c7398-40d4-4cd2-890c-3315ad1747b7"
         },
         {
-            "name": "\"Ashcan\" Pete",
-            "id": "90046",
+            "name": "PA - \"Ashcan\" Pete",
+            "id": "02005-p",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}/\"Ashcan\" Pete"
             },
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<unique>\"Ashcan\" Pete",
                 "copyright": "©  2023 FFG",
                 "agility": "3",
                 "classes": [
@@ -1232,14 +1232,13 @@
                 ],
                 "flavor_text": "At night, <name> sleeps wherever his travels take him: in a field, on a train, or maybe, if he’s lucky, in a barn. He bunks with his loyal hound dog, Duke, on one side and his beat-up guitar on the other. And sometimes when Pete sleeps, he dreams. He dreams of haunted, tortured places and of horrible creatures. When he wakes up, he knows that someone needs his help, because his dreams are true. He could not say how long he has been on the road, living by his wits, but he can say for certain no place is too far to go to help someone in need. And as long as Pete can help people, he is not likely to stop wandering any time soon.",
                 "illustration": "./img/on_the_road_again/Pete.png",
-                "illustration_pan_x": 50.0,
+                "illustration_pan_x": 35.0,
                 "illustration_pan_y": 70.0,
                 "illustration_rotation": "-10",
                 "illustration_scale": 0.65,
                 "text": "<b>Deck Size:</b> 30\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-3, [[Improvised]] and [[Tactic]] cards level 0-4, Neutral cards level 0-5, up to 5 other Guardian cards ([guardian]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Duke, Wracked by Nightmares, 1 random basic weakness.",
                 "type": "investigator_back"
-            },
-            "encounter_set": "555c3925-5d98-4b5d-8720-1082773dad87"
+            }
         },
         {
             "name": "Pete's Guitar",
@@ -1293,9 +1292,6 @@
                 "encounter_icon": " ",
                 "encounter_overlay": null,
                 "illustration": "./img/on_the_road_again/hard.png",
-                "illustration_pan_x": 101.0,
-                "illustration_pan_y": 59.0,
-                "illustration_scale": 1.8,
                 "illustrator": "Illus. Antonio Maínez",
                 "text": "Replacement.\n<rev> Put <name> into play in your threat area.\n<for> After you draw 1 or more cards: Choose and discard that many cards from hand.\n<action><action>: Discard <name>.",
                 "traits": "Hardship.",
@@ -1307,14 +1303,14 @@
             "encounter_set": "555c3925-5d98-4b5d-8720-1082773dad87"
         },
         {
-            "name": "Jim Culver",
-            "id": "90049",
+            "name": "Jim Culver (Parallel)",
+            "id": "02004-p",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}/Jim Culver"
             },
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<unique>Jim Culver",
                 "copyright": "©  2023 FFG",
                 "agility": "2",
                 "classes": [
@@ -1377,8 +1373,7 @@
                 "illustration_scale": 0.8,
                 "text": "<b>Deck Size:</b> 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-3, [[Spell]] and [[Cursed]] cards level 0-4, Neutral cards level 0-5, up to five other Survivor cards ([survivor]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Jim's Trumpet, Final Rhapsody, The Beyond, 1 random basic weakness.\n<b>Spirit Deck Size</b>: 10.\n<b>Spirit Deckbuilding Options</b>: 9 different [[Ally]] assets from any class level 0–2, Vengeful Shade.\n<b>Spirit Deck Instructions</b> Shuffle the “spirit deck” separately from your deck and place it next to The Beyond asset, facedown. This deck may be upgraded separately using your unspent experience.",
                 "type": "investigator_back"
-            },
-            "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
+            }
         },
         {
             "name": "Jim's Trumpet",
@@ -1506,10 +1501,10 @@
                 "evade": "5",
                 "health": "2",
                 "horror": "2",
-                "illustration": "./img/laid_to_rest/shade.png",
-                "illustration_pan_x": 59.0,
-                "illustration_pan_y": 1100.0,
-                "illustration_scale": 2.0,
+                "illustration": "./img/laid_to_rest/shade2.png",
+                "illustration_pan_x": -148.0,
+                "illustration_pan_y": 980.0,
+                "illustration_scale": 1.23,
                 "illustrator": "Illus. Andreas Zafiratos",
                 "sanity": "<dash>",
                 "text": "Hunter. <b>Prey</b> – Jim Culver only.\nYou may fight or evade this enemy while it is attached to The Beyond (as if it were engaged with you). If you succeed, discard it. If you fail, spawn it engaged with you.\n<b>Forced</b> – When you attach a spirit to The Beyond via its forced effect: <name> attacks you <i>(even if it is not at your location)</i>.",
@@ -1776,23 +1771,31 @@
         },
         {
             "name": "Zoey Samaras",
-            "id": "90059",
+            "id": "02001-p",
             "meta": {
                 "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
             },
             "amount": 1,
             "front": {
                 "name": "<unique><name>",
-                "copyright": "©  202? FFG",
+                "copyright": "©  2023 FFG",
                 "agility": "2",
                 "classes": [
-                    "guardian"
+                    "parallel_guardian"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/path_of_the_righteous.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\".\\icons\\parallel.png\">",
                 "collection_number": "59",
                 "combat": "4",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "flavor_text": "\"His work is not yet done.\"",
                 "health": "8",
+                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/path_of_the_righteous/Zoey.png",
+                "illustration_fade_mode": "distance",
+                "illustration_pan_x": -187.0,
+                "illustration_pan_y": 284.0,
+                "illustration_scale": 1.0,
+                "illustration_shape": "./img/path_of_the_righteous/mask.png",
                 "illustrator": "Illus. Magali Villeneuve",
                 "intellect": "2",
                 "sanity": "6",
@@ -2835,6 +2838,136 @@
                 "type": "player"
             },
             "encounter_set": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e"
+        },
+        {
+            "name": "PF - \"Ashcan\" Pete",
+            "id": "02005-pf",
+            "meta": {
+                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}/\"Ashcan\" Pete"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>\"Ashcan\" Pete",
+                "copyright": "©  2023 FFG",
+                "agility": "3",
+                "classes": [
+                    "parallel_survivor"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
+                "collection_number": "46",
+                "collection_total": " ",
+                "combat": "3",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "\"C'mere, boy... We got work to do.\"",
+                "health": "7",
+                "illustration": "./img/on_the_road_again/Pete2.png",
+                "illustration_fade_mode": "distance",
+                "illustration_pan_x": -7.0,
+                "illustration_pan_y": 305.0,
+                "illustration_scale": 1.12,
+                "illustration_shape": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/on_the_road_again/mask.png",
+                "illustrator": "Illus. Jake Murray",
+                "intellect": "2",
+                "sanity": "7",
+                "subtitle": "The Drifter",
+                "text": "You begin the game with Pete's Guitar in play.\n<reaction> When a card you own that is attached to a scenario card would be discarded: Add it to your hand instead. (Limit once per round.)\n<elder_sign> effect: +1. Choose a card you own attached to a scenario card. You may return the chosen card to your hand.",
+                "traits": "Drifter.",
+                "type": "investigator",
+                "willpower": "4"
+            },
+            "back": {
+                "classes": [
+                    "survivor"
+                ],
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Deckbuilding Options</b>:",
+                        "Survivor cards ([survivor]) level 0-3, [[Improvised]] and [[Tactic]] cards level 0-4, Neutral cards level 0-5, up to 5 other Guardian cards ([guardian]) level 0."
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "Duke, Wracked by Nightmares, 1 random basic weakness."
+                    ]
+                ],
+                "flavor_text": "At night, <name> sleeps wherever his travels take him: in a field, on a train, or maybe, if he’s lucky, in a barn. He bunks with his loyal hound dog, Duke, on one side and his beat-up guitar on the other. And sometimes when Pete sleeps, he dreams. He dreams of haunted, tortured places and of horrible creatures. When he wakes up, he knows that someone needs his help, because his dreams are true. He could not say how long he has been on the road, living by his wits, but he can say for certain no place is too far to go to help someone in need. And as long as Pete can help people, he is not likely to stop wandering any time soon.",
+                "illustration": "./img/on_the_road_again/Pete.png",
+                "illustration_pan_x": 35.0,
+                "illustration_pan_y": 70.0,
+                "illustration_rotation": "-10",
+                "illustration_scale": 0.65,
+                "text": "<b>Deck Size:</b> 30\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-3, [[Improvised]] and [[Tactic]] cards level 0-4, Neutral cards level 0-5, up to 5 other Guardian cards ([guardian]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Duke, Wracked by Nightmares, 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "PB - \"Ashcan\" Pete",
+            "id": "02005-pb",
+            "meta": {
+                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}/\"Ashcan\" Pete"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>\"Ashcan\" Pete",
+                "copyright": "©  2016 FFG",
+                "agility": "3",
+                "classes": [
+                    "survivor"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
+                "collection_number": "5",
+                "collection_total": " ",
+                "combat": "2",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "\"C'mere, boy... We got work to do.\"",
+                "health": "6",
+                "illustration": "./img/on_the_road_again/Pete2.png",
+                "illustration_fade_mode": "distance",
+                "illustration_pan_x": -7.0,
+                "illustration_pan_y": 305.0,
+                "illustration_scale": 1.12,
+                "illustration_shape": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/on_the_road_again/mask.png",
+                "illustrator": "Illus. Jake Murray",
+                "intellect": "2",
+                "sanity": "5",
+                "subtitle": "The Drifter",
+                "text": "You begin the game with Pete's Guitar in play.\n<reaction> When a card you own that is attached to a scenario card would be discarded: Add it to your hand instead. (Limit once per round.)\n<elder_sign> effect: +1. Choose a card you own attached to a scenario card. You may return the chosen card to your hand.",
+                "traits": "Drifter.",
+                "type": "investigator",
+                "willpower": "4"
+            },
+            "back": {
+                "classes": [
+                    "parallel_survivor"
+                ],
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Deckbuilding Options</b>:",
+                        "Survivor cards ([survivor]) level 0-3, [[Improvised]] and [[Tactic]] cards level 0-4, Neutral cards level 0-5, up to 5 other Guardian cards ([guardian]) level 0."
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "Duke, Wracked by Nightmares, 1 random basic weakness."
+                    ]
+                ],
+                "flavor_text": "At night, <name> sleeps wherever his travels take him: in a field, on a train, or maybe, if he’s lucky, in a barn. He bunks with his loyal hound dog, Duke, on one side and his beat-up guitar on the other. And sometimes when Pete sleeps, he dreams. He dreams of haunted, tortured places and of horrible creatures. When he wakes up, he knows that someone needs his help, because his dreams are true. He could not say how long he has been on the road, living by his wits, but he can say for certain no place is too far to go to help someone in need. And as long as Pete can help people, he is not likely to stop wandering any time soon.",
+                "illustration": "./img/on_the_road_again/Pete.png",
+                "illustration_pan_x": 35.0,
+                "illustration_pan_y": 70.0,
+                "illustration_rotation": "-10",
+                "illustration_scale": 0.65,
+                "text": "<b>Deck Size:</b> 30\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-3, [[Improvised]] and [[Tactic]] cards level 0-4, Neutral cards level 0-5, up to 5 other Guardian cards ([guardian]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Duke, Wracked by Nightmares, 1 random basic weakness.",
+                "type": "investigator_back"
+            }
         }
     ],
     "encounter_sets": [
@@ -2896,6 +3029,7 @@
         {
             "name": "On the Road Again",
             "id": "555c3925-5d98-4b5d-8720-1082773dad87",
+            "code": "road",
             "icon": "./icons/parallel.png",
             "meta": {
                 "tts": {}
