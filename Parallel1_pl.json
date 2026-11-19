@@ -1,6 +1,35 @@
 {
     "id": "678a6ea4-3202-4350-aeb1-ec1724725f95",
     "cards": {
+        "02001-p": {
+            "name": "Zoey Samaras (Równoległa)",
+            "front": {
+                "name": "<unique>Zoey Samaras",
+                "flavor_text": "„Jego praca jeszcze się nie skończyła.” ",
+                "subtitle": "Szef kuchni",
+                "text": "<reaction> Po tym, jak zadasz wrogowi<br>1 lub więcej obrażeń: dodaj 1 żeton <blessing> do worka chaosu. (Limit raz na fazę).\n<free> Przed odkryciem żetonu chaosu podczas ataku, usuń<br>3 żetony <blessing> z worka chaosu: ten atak zadaje +1 obrażenie. (Limit raz na rundę).\nEfekt <elder_sign>: +1 za każdy żeton w worku chaosu.",
+                "traits": "Wyznawca. Łowca."
+            },
+            "back": {
+                "name": "<unique>Zoey Samaras",
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "Karty Strażnika (<guardian>)<br>o poziomie 0–3, karty z cechą [[Błogosławiony]] i [[Amulet]] o poziomie 0–4, karty neutralne o poziomie 0–5, <br>do 5 innych kart Mistyka (<mystic>) o poziomie 0."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
+                        "Krzyż Zoey, Ukarać niegodziwców, 1 losowe podstawowe osłabienie."
+                    ]
+                ],
+                "flavor_text": "Zoey wiedziała, że jest wyjątkowa. Wiedziała to od chwili, gdy Bóg przemówił do niej pamiętnej nocy, kiedy miała zaledwie sześć lat… nocy, kiedy straszliwy pożar odebrał jej rodziców. Powiedział jej wtedy, że wybrał ją spośród wszystkich ludzi na świecie, aby została Jego posłańcem. Będzie bronić niewinnych i karać niegodziwców. Od tamtej pory On przemawia do niej w ciężkich chwilach, przynosząc radę i wsparcie. Zoey podróżuje od miasta do miasta, zatrudniając się jako szef kuchni, aby zarobić na życie. Kiedy nie pracuje, nocami skrada się w ciemnościach, prowadzona głosem Pana. Jeśli natrafi na niegodziwość, niszczy ją bez wahania i wyrzutów sumienia.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: Karty Strażnika (<guardian>)<br>o poziomie 0–3, karty z cechą [[Błogosławiony]] i [[Amulet]] o poziomie 0–4, karty neutralne o poziomie 0–5, <br>do 5 innych kart Mistyka (<mystic>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Krzyż Zoey, Ukarać niegodziwców, 1 losowe podstawowe osłabienie."
+            }
+        },
         "02004-p": {
             "name": "Jim Culver (Równoległy)",
             "front": {
@@ -695,6 +724,21 @@
                 "subtitle": "Szef kuchni",
                 "text": "<reaction> Po tym, jak zadasz wrogowi<br>1 lub więcej obrażeń: dodaj<br>1 żeton <blessing> do worka chaosu. (Limit raz na fazę). \n<free> Przed odkryciem żetonu chaosu podczas ataku, usuń<br>3 żetony <blessing> z worka chaosu: ten atak zadaje +1 obrażenie. (Limit raz na rundę).\nEfekt <elder_sign>: +1 za każdy żeton <blessing><br>w worku chaosu. ",
                 "traits": "Wyznawca. Łowca."
+            }
+        },
+        "90060": {
+            "name": "Krzyż Zoey",
+            "front": {
+                "subtitle": "Symbol praworządności",
+                "text": "Tylko talia Zoey Samaras. Zaawansowane.\n<reaction>  Po tym, jak wejdziesz w zwarcie z wrogiem, wyczerp Krzyż Zoey i wydaj 1 żeton zasobu:<br>zadaj 1 obrażenie danemu wrogowi.\n<free>  Usuń 2 żetony <blessing> z worka chaosu: wejdź<br>w zwarcie z wrogiem w twojej lokalizacji.",
+                "traits": "Przedmiot. Amulet."
+            }
+        },
+        "90061": {
+            "name": "Ukarać niegodziwców",
+            "front": {
+                "text": "Zaawansowana. Wróg, do którego dołączono tę kartę, dostaje +2 do walki i +2 do wytrzymałości.\n<b>Odkrycie</b> – Odrzucaj karty z wierzchu talii spotkań, dopóki nie odrzucisz wroga. Dołącz Ukarać niegodziwców do danego wroga i rozstaw go w lokalizacji znajdującej się najdalej od ciebie.\n<b>Wymuszony</b> – Kiedy gra się kończy, jeśli potwór, do którego dołączono tę kartę, znajduje się w grze: Zoey Samaras otrzymuje 1 punkt traumy psychicznej.",
+                "traits": "Zadanie."
             }
         },
         "90071": {

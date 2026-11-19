@@ -1779,7 +1779,7 @@
             "name": "Zoey Samaras",
             "id": "02001-p",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}"
             },
             "amount": 1,
             "front": {
@@ -1791,6 +1791,7 @@
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\".\\icons\\parallel.png\">",
                 "collection_number": "59",
+                "collection_total": null,
                 "combat": "4",
                 "encounter_icon": " ",
                 "encounter_overlay": null,
@@ -1812,7 +1813,13 @@
                 "willpower": "4"
             },
             "back": {
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "flavor_text": "Zoey had known that she was special ever since God spoke to her one night when she was six years old... the night that terrible fire took away her parents. He told her that He had chosen her from among all the people of the world to be His agent. She would protect the innocent and punish the wicked. Since then, He comes to her in times of trouble, offering guidance and comfort. Zoey now travels from city to city, taking work as a chef to support herself. When she isn’t working, she stalks the night, guided by the Lord’s voice. Wherever she finds wickedness, she strikes it down without remorse or hesitation.",
+                "illustration_pan_x": -22.0,
+                "illustration_pan_y": 109.0,
+                "illustration_rotation": "0",
+                "illustration_scale": 0.597,
                 "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, [[Blessed]] and [[Charm]] cards level 0-4, Neutral cards level 0-5, up to five other Mystic cards ([mystic]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Zoey's Cross, Smite the Wicked, 1 random basic weakness.",
                 "type": "investigator_back"
             },
@@ -1827,14 +1834,21 @@
             "amount": 1,
             "front": {
                 "name": "<unique><name>",
-                "copyright": "©  202? FFG",
+                "copyright": "©  2023 FFG",
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/path_of_the_righteous.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\".\\icons\\parallel.png\">",
                 "collection_number": "60",
+                "collection_total": " ",
                 "cost": "1",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "icons": "CCQ",
+                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/path_of_the_righteous/cross.png",
+                "illustration_pan_x": 91.0,
+                "illustration_pan_y": 110.0,
+                "illustration_scale": 1.95,
                 "illustrator": "Illus. Preston Stone",
                 "level": "None",
                 "slots": [
@@ -1858,12 +1872,19 @@
             },
             "amount": 1,
             "front": {
-                "copyright": "©  202? FFG",
+                "copyright": "©  2023 FFG",
                 "classes": [
                     "weakness"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/path_of_the_righteous.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\".\\icons\\parallel.png\">",
                 "collection_number": "61",
+                "collection_total": " ",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/path_of_the_righteous/smite.jpg",
+                "illustration_pan_x": 87.0,
+                "illustration_pan_y": -11.0,
+                "illustration_scale": 0.609,
                 "illustrator": "Illus. Preston Stone",
                 "text": "Advanced. Attached enemy gets +2 fight and +2 health.\n<rev> Discard cards from the top of the encounter deck until an enemy is discarded. Attach <name> to that enemy and spawn it at the location farthest from you.\n<for> When the game ends, if attached enemy is in play: Zoey Samaras suffers 1 mental trauma.",
                 "traits": "Task.",
