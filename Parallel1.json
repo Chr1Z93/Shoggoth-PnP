@@ -1179,7 +1179,7 @@
             "name": "PA - \"Ashcan\" Pete",
             "id": "02005-p",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}/\"Ashcan\" Pete"
+                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}"
             },
             "amount": 1,
             "front": {
@@ -1216,6 +1216,8 @@
                 "classes": [
                     "parallel_survivor"
                 ],
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "entries": [
                     [
                         "<b>Deck Size:</b>",
@@ -1238,7 +1240,8 @@
                 "illustration_scale": 0.65,
                 "text": "<b>Deck Size:</b> 30\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-3, [[Improvised]] and [[Tactic]] cards level 0-4, Neutral cards level 0-5, up to 5 other Guardian cards ([guardian]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Duke, Wracked by Nightmares, 1 random basic weakness.",
                 "type": "investigator_back"
-            }
+            },
+            "encounter_set": "555c3925-5d98-4b5d-8720-1082773dad87"
         },
         {
             "name": "Pete's Guitar",
@@ -1306,7 +1309,7 @@
             "name": "Jim Culver (Parallel)",
             "id": "02004-p",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}/Jim Culver"
+                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}"
             },
             "amount": 1,
             "front": {
@@ -1339,6 +1342,8 @@
                 "willpower": "4"
             },
             "back": {
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "entries": [
                     [
                         "<b>Deck Size:</b>",
@@ -1373,7 +1378,8 @@
                 "illustration_scale": 0.8,
                 "text": "<b>Deck Size:</b> 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-3, [[Spell]] and [[Cursed]] cards level 0-4, Neutral cards level 0-5, up to five other Survivor cards ([survivor]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Jim's Trumpet, Final Rhapsody, The Beyond, 1 random basic weakness.\n<b>Spirit Deck Size</b>: 10.\n<b>Spirit Deckbuilding Options</b>: 9 different [[Ally]] assets from any class level 0–2, Vengeful Shade.\n<b>Spirit Deck Instructions</b> Shuffle the “spirit deck” separately from your deck and place it next to The Beyond asset, facedown. This deck may be upgraded separately using your unspent experience.",
                 "type": "investigator_back"
-            }
+            },
+            "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
         },
         {
             "name": "Jim's Trumpet",
@@ -2843,7 +2849,7 @@
             "name": "PF - \"Ashcan\" Pete",
             "id": "02005-pf",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}/\"Ashcan\" Pete"
+                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}"
             },
             "amount": 1,
             "front": {
@@ -2880,6 +2886,8 @@
                 "classes": [
                     "survivor"
                 ],
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "entries": [
                     [
                         "<b>Deck Size:</b>",
@@ -2902,13 +2910,14 @@
                 "illustration_scale": 0.65,
                 "text": "<b>Deck Size:</b> 30\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-3, [[Improvised]] and [[Tactic]] cards level 0-4, Neutral cards level 0-5, up to 5 other Guardian cards ([guardian]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Duke, Wracked by Nightmares, 1 random basic weakness.",
                 "type": "investigator_back"
-            }
+            },
+            "encounter_set": "555c3925-5d98-4b5d-8720-1082773dad87"
         },
         {
             "name": "PB - \"Ashcan\" Pete",
             "id": "02005-pb",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}/\"Ashcan\" Pete"
+                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}"
             },
             "amount": 1,
             "front": {
@@ -2945,6 +2954,8 @@
                 "classes": [
                     "parallel_survivor"
                 ],
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "entries": [
                     [
                         "<b>Deck Size:</b>",
@@ -2967,7 +2978,8 @@
                 "illustration_scale": 0.65,
                 "text": "<b>Deck Size:</b> 30\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-3, [[Improvised]] and [[Tactic]] cards level 0-4, Neutral cards level 0-5, up to 5 other Guardian cards ([guardian]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Duke, Wracked by Nightmares, 1 random basic weakness.",
                 "type": "investigator_back"
-            }
+            },
+            "encounter_set": "555c3925-5d98-4b5d-8720-1082773dad87"
         }
     ],
     "encounter_sets": [

@@ -6,7 +6,7 @@
             "front": {
                 "flavor_text": "„Wiem, że mogę sprawić, że umarli zatańczą.”",
                 "subtitle": "Muzyk",
-                "text": "<reaction> Po tym, jak podczas wykonywanego przez ciebie testu umiejętności odkryjesz 1 lub więcej żetonów <skull> lub <curse>: uzupełnij<br>1 ładunek na atucie, który kontrolujesz. (Limit raz na rundę).\n<size 62>Efekt <elder_sign>: +2. Możesz potraktować ten żeton, jakby był żetonem <skull> lub <curse>.</size>",
+                "text": "<reaction> Po tym, jak podczas wykonywanego przez ciebie testu umiejętności odkryjesz<br>1 lub więcej żetonów <skull> lub <curse>: uzupełnij 1 ładunek na atucie, który kontrolujesz. (Limit raz na rundę).\n<size 62>Efekt <elder_sign>: +2. Możesz potraktować ten żeton, jakby był żetonem <skull> lub <curse>.</size>",
                 "traits": "Artysta. Przeklęty."
             },
             "back": {
@@ -33,7 +33,7 @@
                     ],
                     [
                         "<b>Opcje tworzenia talii duchów</b>:",
-                        "9 różnych atutów z cechą [[Sprzymierzeniec]] z dowolnej klasy o poziomie 0-2, Mściwy cień."
+                        "9 różnych atutów<br>z cechą [[Sprzymierzeniec]] z dowolnej klasy o poziomie 0-2, Mściwy cień."
                     ],
                     [
                         "<b>Instrukcje talii duchów</b>:",
@@ -42,7 +42,7 @@
                 ],
                 "flavor_text": "Od dnia, w którym sięgnął po trąbkę ojca, jazz był dla Jima tylko utrapieniem. Ale umarli naprawdę to lubią, gdy on gra, więc Jim nie ma zamiaru przestać.",
                 "subtitle": "Muzyk",
-                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: Karty Mistyka (<mystic>)<br>o poziomie 0-3, karty z cechą [[Zaklęcie]] i [[Przeklęty]]<br>o poziomie 0-4, karty neutralne o poziomie 0-5,<br>do 5 innych kart Ocalałego (<survivor>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Trąbka Jima, Ostateczna rapsodia, Zaświaty,<br>1 losowe podstawowe osłabienie.\n<b>Rozmiar talii duchów</b>: 10.\n<b>Opcje tworzenia talii duchów</b>: 9 różnych atutów z cechą [[Sprzymierzeniec]] z dowolnej klasy o poziomie 0-2, Mściwy cień.\n<b>Instrukcje talii duchów</b>: Potasuj „talię duchów” osobno od reszty talii i umieść ją zakrytą obok atutu Zaświaty. Ta talia może być ulepszana niezależnie przy użyciu niewydanych punktów doświadczenia."
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: Karty Mistyka (<mystic>)<br>o poziomie 0-3, karty z cechą [[Zaklęcie]] i [[Przeklęty]]<br>o poziomie 0-4, karty neutralne o poziomie 0-5,<br>do 5 innych kart Ocalałego (<survivor>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Trąbka Jima, Ostateczna rapsodia, Zaświaty,<br>1 losowe podstawowe osłabienie.\n<b>Rozmiar talii duchów</b>: 10.\n<b>Opcje tworzenia talii duchów</b>: 9 różnych atutów<br>z cechą [[Sprzymierzeniec]] z dowolnej klasy o poziomie 0-2, Mściwy cień.\n<b>Instrukcje talii duchów</b>: Potasuj „talię duchów” osobno od reszty talii i umieść ją zakrytą obok atutu Zaświaty. Ta talia może być ulepszana niezależnie przy użyciu niewydanych punktów doświadczenia."
             }
         },
         "02005-p": {
