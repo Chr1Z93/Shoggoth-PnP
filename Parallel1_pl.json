@@ -6,6 +6,7 @@
             "front": {
                 "name": "<unique>Zoey Samaras",
                 "flavor_text": "„Jego praca jeszcze się nie skończyła.” ",
+                "illustration": "./img/path_of_the_righteous/Zoey.png",
                 "subtitle": "Szef kuchni",
                 "text": "<reaction> Po tym, jak zadasz wrogowi<br>1 lub więcej obrażeń: dodaj 1 żeton <blessing> do worka chaosu. (Limit raz na fazę).\n<free> Przed odkryciem żetonu chaosu podczas ataku, usuń<br>3 żetony <blessing> z worka chaosu: ten atak zadaje +1 obrażenie. (Limit raz na rundę).\nEfekt <elder_sign>: +1 za każdy żeton w worku chaosu.",
                 "traits": "Wyznawca. Łowca."
@@ -785,7 +786,7 @@
     "guides": {
         "ef53bd88-0232-4cef-aa4b-c26560f8a120": {
             "name": "Pochowany",
-            "front_page": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/laid_to_rest/Cover PL.jpg",
+            "front_page": "./img/laid_to_rest/Cover PL.jpg",
             "sections": [
                 {
                     "name": "Cover",

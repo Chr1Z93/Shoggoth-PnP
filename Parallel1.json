@@ -1797,7 +1797,7 @@
                 "encounter_overlay": null,
                 "flavor_text": "\"His work is not yet done.\"",
                 "health": "8",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/path_of_the_righteous/Zoey.png",
+                "illustration": "./img/path_of_the_righteous/Zoey.png",
                 "illustration_fade_mode": "distance",
                 "illustration_pan_x": -187.0,
                 "illustration_pan_y": 284.0,
