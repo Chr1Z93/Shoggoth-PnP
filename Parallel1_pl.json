@@ -18,7 +18,7 @@
                     ],
                     [
                         "<b>Opcje tworzenia talii</b>:",
-                        "Karty Strażnika (<guardian>)<br>o poziomie 0–3, karty z cechą [[Błogosławiony]] i [[Amulet]] o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Mistyka (<mystic>) o poziomie 0."
+                        "karty Strażnika (<guardian>)<br>o poziomie 0–3, karty z cechą [[Błogosławiony]] i [[Amulet]] o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Mistyka (<mystic>) o poziomie 0."
                     ],
                     [
                         "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
@@ -26,7 +26,7 @@
                     ]
                 ],
                 "flavor_text": "Zoey wiedziała, że jest wyjątkowa. Wiedziała to od chwili, gdy Bóg przemówił do niej pamiętnej nocy, kiedy miała zaledwie sześć lat… nocy, kiedy straszliwy pożar odebrał jej rodziców. Powiedział jej wtedy, że wybrał ją spośród wszystkich ludzi na świecie, aby została Jego posłańcem. Będzie bronić niewinnych i karać niegodziwców. Od tamtej pory On przemawia do niej w ciężkich chwilach, przynosząc radę i wsparcie. Zoey podróżuje od miasta do miasta, zatrudniając się jako szef kuchni, aby zarobić na życie. Kiedy nie pracuje, nocami skrada się w ciemnościach, prowadzona głosem Pana. Jeśli natrafi na niegodziwość, niszczy ją bez wahania i wyrzutów sumienia.",
-                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: Karty Strażnika (<guardian>)<br>o poziomie 0–3, karty z cechą [[Błogosławiony]] i [[Amulet]] o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Mistyka (<mystic>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Krzyż Zoey, Ukarać niegodziwców, 1 losowe podstawowe osłabienie."
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Strażnika (<guardian>)<br>o poziomie 0–3, karty z cechą [[Błogosławiony]] i [[Amulet]] o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Mistyka (<mystic>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Krzyż Zoey, Ukarać niegodziwców, 1 losowe podstawowe osłabienie."
             }
         },
         "02001-pb": {
@@ -49,7 +49,7 @@
                     ],
                     [
                         "<b>Opcje tworzenia talii</b>:",
-                        "Karty Strażnika (<guardian>)<br>o poziomie 0–3, karty z cechą [[Błogosławiony]] i [[Amulet]] o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Mistyka (<mystic>) o poziomie 0."
+                        "karty Strażnika (<guardian>)<br>o poziomie 0–3, karty z cechą [[Błogosławiony]] i [[Amulet]] o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Mistyka (<mystic>) o poziomie 0."
                     ],
                     [
                         "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
@@ -57,7 +57,7 @@
                     ]
                 ],
                 "flavor_text": "Zoey wiedziała, że jest wyjątkowa. Wiedziała to od chwili, gdy Bóg przemówił do niej pamiętnej nocy, kiedy miała zaledwie sześć lat… nocy, kiedy straszliwy pożar odebrał jej rodziców. Powiedział jej wtedy, że wybrał ją spośród wszystkich ludzi na świecie, aby została Jego posłańcem. Będzie bronić niewinnych i karać niegodziwców. Od tamtej pory On przemawia do niej w ciężkich chwilach, przynosząc radę i wsparcie. Zoey podróżuje od miasta do miasta, zatrudniając się jako szef kuchni, aby zarobić na życie. Kiedy nie pracuje, nocami skrada się w ciemnościach, prowadzona głosem Pana. Jeśli natrafi na niegodziwość, niszczy ją bez wahania i wyrzutów sumienia.",
-                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: Karty Strażnika (<guardian>)<br>o poziomie 0–3, karty z cechą [[Błogosławiony]] i [[Amulet]] o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Mistyka (<mystic>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Krzyż Zoey, Ukarać niegodziwców, 1 losowe podstawowe osłabienie."
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Strażnika (<guardian>)<br>o poziomie 0–3, karty z cechą [[Błogosławiony]] i [[Amulet]] o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Mistyka (<mystic>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Krzyż Zoey, Ukarać niegodziwców, 1 losowe podstawowe osłabienie."
             }
         },
         "02001-pf": {
@@ -77,7 +77,7 @@
                     ],
                     [
                         "<b>Opcje tworzenia talii</b>:",
-                        "Karty Strażnika (<guardian>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Poszukiwacza, Łotra, Mistyka i/lub Ocalałego)."
+                        "karty Strażnika (<guardian>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Poszukiwacza, Łotra, Mistyka i/lub Ocalałego)."
                     ],
                     [
                         "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
@@ -85,7 +85,7 @@
                     ]
                 ],
                 "flavor_text": "Zoey wiedziała, że jest wyjątkowa. Wiedziała to od chwili, gdy Bóg przemówił do niej pamiętnej nocy, kiedy miała zaledwie sześć lat… nocy, kiedy straszliwy pożar odebrał jej rodziców. Powiedział jej wtedy, że wybrał ją spośród wszystkich ludzi na świecie, aby została Jego posłańcem. Będzie bronić niewinnych i karać niegodziwców. Od tamtej pory On przemawia do niej w ciężkich chwilach, przynosząc radę i wsparcie. Zoey podróżuje od miasta do miasta, zatrudniając się jako szef kuchni, aby zarobić na życie. Kiedy nie pracuje, nocami skrada się w ciemnościach, prowadzona głosem Pana. Jeśli natrafi na niegodziwość, niszczy ją bez wahania i wyrzutów sumienia.",
-                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: Karty Strażnika (<guardian>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Poszukiwacza, Łotra, Mistyka i/lub Ocalałego).\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Krzyż Zoey, Ukarać niegodziwców, 1 losowe podstawowe osłabienie."
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Strażnika (<guardian>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Poszukiwacza, Łotra, Mistyka i/lub Ocalałego).\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Krzyż Zoey, Ukarać niegodziwców, 1 losowe podstawowe osłabienie."
             }
         },
         "02004-p": {
@@ -111,7 +111,7 @@
                     ],
                     [
                         "<b>Opcje tworzenia talii</b>:",
-                        "Karty Mistyka (<mystic>)<br>o poziomie 0–3, karty z cechą [[Zaklęcie]] i [[Przeklęty]]<br>o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Ocalałego (<survivor>) o poziomie 0."
+                        "karty Mistyka (<mystic>)<br>o poziomie 0–3, karty z cechą [[Zaklęcie]] i [[Przeklęty]]<br>o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Ocalałego (<survivor>) o poziomie 0."
                     ],
                     [
                         "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
@@ -132,7 +132,7 @@
                 ],
                 "flavor_text": "Od dnia, w którym sięgnął po trąbkę ojca, jazz był dla Jima tylko utrapieniem. Ale umarli naprawdę to lubią, gdy on gra, więc Jim nie ma zamiaru przestać.",
                 "subtitle": "Muzyk",
-                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: Karty Mistyka (<mystic>)<br>o poziomie 0–3, karty z cechą [[Zaklęcie]] i [[Przeklęty]]<br>o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Ocalałego (<survivor>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Trąbka Jima, Ostateczna rapsodia, Zaświaty,<br>1 losowe podstawowe osłabienie.\n<b>Rozmiar talii duchów</b>: 10.\n<b>Opcje tworzenia talii duchów</b>: 9 różnych atutów<br>z cechą [[Sprzymierzeniec]] z dowolnej klasy o poziomie 0–2, Mściwy cień.\n<b>Instrukcje talii duchów</b>: Potasuj „talię duchów” osobno od reszty talii i umieść ją zakrytą obok atutu Zaświaty. Ta talia może być ulepszana niezależnie przy użyciu niewydanych punktów doświadczenia."
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Mistyka (<mystic>)<br>o poziomie 0–3, karty z cechą [[Zaklęcie]] i [[Przeklęty]]<br>o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Ocalałego (<survivor>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Trąbka Jima, Ostateczna rapsodia, Zaświaty,<br>1 losowe podstawowe osłabienie.\n<b>Rozmiar talii duchów</b>: 10.\n<b>Opcje tworzenia talii duchów</b>: 9 różnych atutów<br>z cechą [[Sprzymierzeniec]] z dowolnej klasy o poziomie 0–2, Mściwy cień.\n<b>Instrukcje talii duchów</b>: Potasuj „talię duchów” osobno od reszty talii i umieść ją zakrytą obok atutu Zaświaty. Ta talia może być ulepszana niezależnie przy użyciu niewydanych punktów doświadczenia."
             }
         },
         "02004-pb": {
@@ -151,7 +151,7 @@
                     ],
                     [
                         "<b>Opcje tworzenia talii</b>:",
-                        "Karty Mistyka (<mystic>)<br>o poziomie 0–3, karty z cechą [[Zaklęcie]] i [[Przeklęty]]<br>o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Ocalałego (<survivor>) o poziomie 0."
+                        "karty Mistyka (<mystic>)<br>o poziomie 0–3, karty z cechą [[Zaklęcie]] i [[Przeklęty]]<br>o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Ocalałego (<survivor>) o poziomie 0."
                     ],
                     [
                         "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
@@ -172,7 +172,7 @@
                 ],
                 "flavor_text": "Od dnia, w którym sięgnął po trąbkę ojca, jazz był dla Jima tylko utrapieniem. Ale umarli naprawdę to lubią, gdy on gra, więc Jim nie ma zamiaru przestać.",
                 "subtitle": "Muzyk",
-                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: Karty Mistyka (<mystic>)<br>o poziomie 0–3, karty z cechą [[Zaklęcie]] i [[Przeklęty]]<br>o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Ocalałego (<survivor>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Trąbka Jima, Ostateczna rapsodia, Zaświaty,<br>1 losowe podstawowe osłabienie.\n<b>Rozmiar talii duchów</b>: 10.\n<b>Opcje tworzenia talii duchów</b>: 9 różnych atutów<br>z cechą [[Sprzymierzeniec]] z dowolnej klasy o poziomie 0–2, Mściwy cień.\n<b>Instrukcje talii duchów</b>: Potasuj „talię duchów” osobno od reszty talii i umieść ją zakrytą obok atutu Zaświaty. Ta talia może być ulepszana niezależnie przy użyciu niewydanych punktów doświadczenia."
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Mistyka (<mystic>)<br>o poziomie 0–3, karty z cechą [[Zaklęcie]] i [[Przeklęty]]<br>o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Ocalałego (<survivor>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Trąbka Jima, Ostateczna rapsodia, Zaświaty,<br>1 losowe podstawowe osłabienie.\n<b>Rozmiar talii duchów</b>: 10.\n<b>Opcje tworzenia talii duchów</b>: 9 różnych atutów<br>z cechą [[Sprzymierzeniec]] z dowolnej klasy o poziomie 0–2, Mściwy cień.\n<b>Instrukcje talii duchów</b>: Potasuj „talię duchów” osobno od reszty talii i umieść ją zakrytą obok atutu Zaświaty. Ta talia może być ulepszana niezależnie przy użyciu niewydanych punktów doświadczenia."
             }
         },
         "02004-pf": {
@@ -194,7 +194,7 @@
                     ],
                     [
                         "<b>Opcje tworzenia talii</b>:",
-                        "Karty Mistyka (<mystic>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Strażnika, Poszukiwacza, Łotra i/lub Ocalałego)."
+                        "karty Mistyka (<mystic>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Strażnika, Poszukiwacza, Łotra i/lub Ocalałego)."
                     ],
                     [
                         "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
@@ -202,7 +202,7 @@
                     ]
                 ],
                 "flavor_text": "Od dnia, w którym sięgnął po trąbkę ojca, jazz był dla Jima tylko utrapieniem. Instrument po wewnętrznej stronie miał jakiś napis, w którym było coś dziwnego i nieziemskiego, ale dźwięki były gładkie i czarne jak dobra kawa. Dzięki tej trąbce zagrał wiele koncertów. Dobra passa skończyła się jednak, kiedy wdowa Jenkins wstała na własnym pogrzebie, żeby zatańczyć do muzyki Jima. Po czymś takim ciężko znaleźć później pracę. Od tamtej pory Jim wie znacznie więcej na temat jazzu – i na temat tego, o czym rozmawiają cmentarne ghoule w zimne jesienne noce. Ostatnio mówią o Końcu, jakby chodziło o koniec wszelkiego istnienia. Ostateczna rapsodia. Jimowi nieszczególnie podoba się ten pomysł.",
-                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: Karty Mistyka (<mystic>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Strażnika, Poszukiwacza, Łotra i/lub Ocalałego).\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Trąbka Jima, Ostateczna rapsodia, 1 losowe podstawowe osłabienie."
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Mistyka (<mystic>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Strażnika, Poszukiwacza, Łotra i/lub Ocalałego).\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Trąbka Jima, Ostateczna rapsodia, 1 losowe podstawowe osłabienie."
             }
         },
         "02005-p": {
@@ -224,7 +224,7 @@
                     ],
                     [
                         "<b>Opcje tworzenia talii</b>:",
-                        "Karty Ocalałego (<survivor>)<br>o poziomie 0–3, karty z cechą [[Improwizowany]]<br> i [[Taktyka]] o poziomie 0–4, karty neutralne o poziomie 0–5, do 5 innych kart Strażnika (<guardian>) o poziomie 0."
+                        "karty Ocalałego (<survivor>)<br>o poziomie 0–3, karty z cechą [[Improwizowany]]<br> i [[Taktyka]] o poziomie 0–4, karty neutralne o poziomie 0–5, do 5 innych kart Strażnika (<guardian>) o poziomie 0."
                     ],
                     [
                         "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
@@ -232,7 +232,7 @@
                     ]
                 ],
                 "flavor_text": "Nocami Pete „Włóczęga” sypia tam, gdzie akurat zaprowadzą go nogi: w polu, w pociągu, a jeśli się mu poszczęści, w jakiejś stodole. Śpi ze swoim wiernym psem, Diukiem, z jednej strony i sfatygowaną gitarą z drugiej. Czasem nawiedzają go sny. Śni o nawiedzonych, udręczonych miejscach i straszliwych istotach. Kiedy się budzi, wie doskonale, że ktoś potrzebuje jego pomocy, ponieważ wszystkie jego sny się sprawdzają. Nie pamięta już, jak długo tuła się po drogach, zarabiając na życie sprytem, i wie jedynie, że żadne miejsce nie jest na tyle daleko, aby nie mógł komuś pomóc. Dopóki Pete jest w stanie pomagać ludziom, nie zamierza przerwać swojej wędrówki.",
-                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: Karty Ocalałego (<survivor>)<br>o poziomie 0–3, karty z cechą [[Improwizowany]]<br> i [[Taktyka]] o poziomie 0–4, karty neutralne o poziomie 0–5, do 5 innych kart Strażnika (<guardian>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Diuk, Dręczony przez koszmary, 1 losowe podstawowe osłabienie."
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Ocalałego (<survivor>)<br>o poziomie 0–3, karty z cechą [[Improwizowany]]<br> i [[Taktyka]] o poziomie 0–4, karty neutralne o poziomie 0–5, do 5 innych kart Strażnika (<guardian>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Diuk, Dręczony przez koszmary, 1 losowe podstawowe osłabienie."
             }
         },
         "02005-pb": {
@@ -254,7 +254,7 @@
                     ],
                     [
                         "<b>Opcje tworzenia talii</b>:",
-                        "Karty Ocalałego (<survivor>)<br>o poziomie 0–3, karty z cechą [[Improwizowany]]<br> i [[Taktyka]] o poziomie 0–4, karty neutralne o poziomie 0–5, do 5 innych kart Strażnika (<guardian>) o poziomie 0."
+                        "karty Ocalałego (<survivor>)<br>o poziomie 0–3, karty z cechą [[Improwizowany]]<br> i [[Taktyka]] o poziomie 0–4, karty neutralne o poziomie 0–5, do 5 innych kart Strażnika (<guardian>) o poziomie 0."
                     ],
                     [
                         "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
@@ -263,7 +263,7 @@
                 ],
                 "flavor_text": "Nocami Pete „Włóczęga” sypia tam, gdzie akurat zaprowadzą go nogi: w polu, w pociągu, a jeśli się mu poszczęści, w jakiejś stodole. Śpi ze swoim wiernym psem, Diukiem, z jednej strony i sfatygowaną gitarą z drugiej. Czasem nawiedzają go sny. Śni o nawiedzonych, udręczonych miejscach i straszliwych istotach. Kiedy się budzi, wie doskonale, że ktoś potrzebuje jego pomocy, ponieważ wszystkie jego sny się sprawdzają. Nie pamięta już, jak długo tuła się po drogach, zarabiając na życie sprytem, i wie jedynie, że żadne miejsce nie jest na tyle daleko, aby nie mógł komuś pomóc. Dopóki Pete jest w stanie pomagać ludziom, nie zamierza przerwać swojej wędrówki.",
                 "subtitle": "Tułacz",
-                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: Karty Ocalałego (<survivor>)<br>o poziomie 0–3, karty z cechą [[Improwizowany]]<br> i [[Taktyka]] o poziomie 0–4, karty neutralne o poziomie 0–5, do 5 innych kart Strażnika (<guardian>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Diuk, Dręczony przez koszmary, 1 losowe podstawowe osłabienie."
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Ocalałego (<survivor>)<br>o poziomie 0–3, karty z cechą [[Improwizowany]]<br> i [[Taktyka]] o poziomie 0–4, karty neutralne o poziomie 0–5, do 5 innych kart Strażnika (<guardian>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Diuk, Dręczony przez koszmary, 1 losowe podstawowe osłabienie."
             }
         },
         "02005-pf": {
@@ -285,7 +285,7 @@
                     ],
                     [
                         "<b>Opcje tworzenia talii</b>:",
-                        "Karty Ocalałego (<survivor>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Strażnika, Poszukiwacza, Łotra i/lub Mistyka)."
+                        "karty Ocalałego (<survivor>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Strażnika, Poszukiwacza, Łotra i/lub Mistyka)."
                     ],
                     [
                         "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
@@ -293,7 +293,7 @@
                     ]
                 ],
                 "flavor_text": "Nocami Pete „Włóczęga” sypia tam, gdzie akurat zaprowadzą go nogi: w polu, w pociągu, a jeśli się mu poszczęści, w jakiejś stodole. Śpi ze swoim wiernym psem, Diukiem, z jednej strony i sfatygowaną gitarą z drugiej. Czasem nawiedzają go sny. Śni o nawiedzonych, udręczonych miejscach i straszliwych istotach. Kiedy się budzi, wie doskonale, że ktoś potrzebuje jego pomocy, ponieważ wszystkie jego sny się sprawdzają. Nie pamięta już, jak długo tuła się po drogach, zarabiając na życie sprytem, i wie jedynie, że żadne miejsce nie jest na tyle daleko, aby nie mógł komuś pomóc. Dopóki Pete jest w stanie pomagać ludziom, nie zamierza przerwać swojej wędrówki.",
-                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: Karty Ocalałego (<survivor>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Strażnika, Poszukiwacza, Łotra i/lub Mistyka).\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Diuk, Dręczony przez koszmary, 1 losowe podstawowe osłabienie."
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Ocalałego (<survivor>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Strażnika, Poszukiwacza, Łotra i/lub Mistyka).\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Diuk, Dręczony przez koszmary, 1 losowe podstawowe osłabienie."
             }
         },
         "08007-p": {
@@ -656,7 +656,7 @@
                     ],
                     [
                         "<b>Opcje tworzenia talii</b>:",
-                        "Karty Ocalałego (<survivor>)<br>o poziomie 0–3, karty z cechą [[improwizowany]]<br>i [[Taktyka]] o poziomie 0–4, karty neutralne o poziomie 0–5, do 5 innych kart Strażnika (<guardian>) o poziomie 0."
+                        "karty Ocalałego (<survivor>)<br>o poziomie 0–3, karty z cechą [[improwizowany]]<br>i [[Taktyka]] o poziomie 0–4, karty neutralne o poziomie 0–5, do 5 innych kart Strażnika (<guardian>) o poziomie 0."
                     ],
                     [
                         "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
@@ -664,7 +664,7 @@
                     ]
                 ],
                 "flavor_text": "Nocami Pete „Włóczęga” sypia tam, gdzie akurat zaprowadzą go nogi: w polu, w pociągu, a jeśli się mu poszczęści, w jakiejś stodole. Śpi ze swoim wiernym psem, Diukiem, z jednej strony i sfatygowaną gitarą z drugiej. Czasem nawiedzają go sny. Śni o nawiedzonych, udręczonych miejscach i straszliwych istotach. Kiedy się budzi, wie doskonale, że ktoś potrzebuje jego pomocy, ponieważ wszystkie jego sny się sprawdzają. Nie pamięta już, jak długo tuła się po drogach, zarabiając na życie sprytem, i wie jedynie, że żadne miejsce nie jest na tyle daleko, aby nie mógł komuś pomóc. Dopóki Pete jest w stanie pomagać ludziom, nie zamierza przerwać swojej wędrówki.",
-                "text": "<b>Rozmiar talii:</b> 30\n<b>Opcje tworzenia talii</b>: Karty Ocalałego (<survivor>)\no poziomie 0–3, karty z cechą [[improwizowany]]\ni [[Taktyka]] o poziomie 0–4, karty neutralne o poziomie 0–5, do 5 innych kart Strażnika (<guardian>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Diuk, Dręczony przez koszmary, 1 losowe podstawowe osłabienie."
+                "text": "<b>Rozmiar talii:</b> 30\n<b>Opcje tworzenia talii</b>: karty Ocalałego (<survivor>)\no poziomie 0–3, karty z cechą [[improwizowany]]\ni [[Taktyka]] o poziomie 0–4, karty neutralne o poziomie 0–5, do 5 innych kart Strażnika (<guardian>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Diuk, Dręczony przez koszmary, 1 losowe podstawowe osłabienie."
             }
         },
         "90047": {
@@ -704,7 +704,7 @@
                     ],
                     [
                         "<b>Opcje tworzenia talii:</b>:",
-                        "Karty Mistyka (<mystic>)<br>o poziomie 0–3, karty z cechą [[Zaklęcie]] i [[Przeklęty]]<br>o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Ocalałego (<survivor>) o poziomie 0."
+                        "karty Mistyka (<mystic>)<br>o poziomie 0–3, karty z cechą [[Zaklęcie]] i [[Przeklęty]]<br>o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Ocalałego (<survivor>) o poziomie 0."
                     ],
                     [
                         "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
@@ -724,7 +724,7 @@
                     ]
                 ],
                 "flavor_text": "Od dnia, w którym sięgnął po trąbkę ojca, jazz był dla Jima tylko utrapieniem. Ale umarli naprawdę to lubią, gdy on gra, więc Jim nie ma zamiaru przestać.",
-                "text": "<b>Rozmiar talii:</b> 30.\n<b>Opcje tworzenia talii:</b> Karty Mistyka (<mystic>)<br>o poziomie 0–3, karty z cechą [[Zaklęcie]] i [[Przeklęty]]<br>o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Ocalałego (<survivor>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Trąbka Jima, Ostateczna rapsodia, Zaświaty,<br>1 losowe podstawowe osłabienie.\n<b>Rozmiar talii duchów:</b> 10.\n<b>Opcje tworzenia talii duchów:</b> 9 różnych atutów<br>z cechą [[Sprzymierzeniec]] z dowolnej klasy o poziomie 0–2, Mściwy cień.\n<b>Instrukcje talii duchów:</b> Potasuj „talię duchów” osobno od reszty talii i umieść ją zakrytą obok atutu Zaświaty. Ta talia może być ulepszana niezależnie przy użyciu niewydanych punktów doświadczenia."
+                "text": "<b>Rozmiar talii:</b> 30.\n<b>Opcje tworzenia talii:</b> karty Mistyka (<mystic>)<br>o poziomie 0–3, karty z cechą [[Zaklęcie]] i [[Przeklęty]]<br>o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Ocalałego (<survivor>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Trąbka Jima, Ostateczna rapsodia, Zaświaty,<br>1 losowe podstawowe osłabienie.\n<b>Rozmiar talii duchów:</b> 10.\n<b>Opcje tworzenia talii duchów:</b> 9 różnych atutów<br>z cechą [[Sprzymierzeniec]] z dowolnej klasy o poziomie 0–2, Mściwy cień.\n<b>Instrukcje talii duchów:</b> Potasuj „talię duchów” osobno od reszty talii i umieść ją zakrytą obok atutu Zaświaty. Ta talia może być ulepszana niezależnie przy użyciu niewydanych punktów doświadczenia."
             }
         },
         "90050": {
@@ -747,7 +747,7 @@
             "name": "Zaświaty",
             "front": {
                 "subtitle": "Ponury świat otchłani",
-                "text": "Tylko talia Jima Culvera. Trwały. \nKażdy dołączony duch traci wszystkie wydrukowane cechy i zyskuje cechę [[Echo duszy]]. Kiedy obrażenia/punkty przerażenia miałyby zostać umieszczone na dołączonym duchu, zamiast tego muszą zostać umieszczonena Jimie Culverze. \n<b>Wymuszony</b> -- Początek twojej tury: dołącz wierzchnią kartę z talii duchów do Zaświatów jako ducha. Jeśli 4 lub więcej duchów jest dołączonych do tej karty, odwróć tę kartę i rozpatrz tekst na drugiej stronie.",
+                "text": "Tylko talia Jima Culvera. Trwały. \nKażdy dołączony duch traci wszystkie wydrukowane cechy i zyskuje cechę [[Echo duszy]]. Kiedy obrażenia/punkty przerażenia miałyby zostać umieszczone na dołączonym duchu, zamiast tego muszą zostać umieszczone na Jimie Culverze. \n<b>Wymuszony</b> -- Początek twojej tury: dołącz wierzchnią kartę z talii duchów do Zaświatów jako ducha. Jeśli 4 lub więcej duchów jest dołączonych do tej karty, odwróć tę kartę i rozpatrz tekst na drugiej stronie.",
                 "traits": "<size 62>Sanktuarium. Widmowy."
             },
             "back": {
@@ -923,6 +923,7 @@
             }
         },
         "90065": {
+            "name": "65.Relikty przeszłości",
             "front": {
                 "name": "<dbl>Relikty przeszłości</dbl>",
                 "entries": [
@@ -987,13 +988,13 @@
             "name": "Coś jeszcze się szykuje...",
             "front": {
                 "name": "Coś jeszcze się szykuje...",
-                "flavor_text": "Udałeś się do ruin Eztli w poszukiwaniu starożytnych artefaktów. ",
-                "text": "*Ta tajemnica zyskuje +1<per_large> do progu zagłady.\n<b>Wymuszony</b> – Kiedy ta tajemnica postępuje: nie usuwaj żetonów<br>zagłady z żadnej lokalizacji w grze.\n<b>Wymuszony</b> – Kiedy badacz zostanie pokonany: dany badacz wtasowuje każdy atut fabularny z cechą [[Starożytna]], który kontroluje do talii eksploracji. "
+                "flavor_text": "Udałeś się do ruin Eztli w poszukiwaniu starożytnych artefaktów.",
+                "text": "*Ta tajemnica dostaje +1<per_large> do progu zagłady.\n<b>Wymuszony</b> – Kiedy ta tajemnica postępuje: nie usuwaj żetonów<br>zagłady z żadnej lokalizacji w grze.\n<b>Wymuszony</b> – Kiedy badacz zostanie pokonany: dany badacz wtasowuje każdy atut fabularny z cechą [[Starożytna]], który kontroluje, do talii eksploracji. "
             },
             "back": {
                 "name": "Mieszkaniec otchłani",
                 "subtitle": "Strażnik przeszłości",
-                "text": "<size 64>Łowca. Mściwy. <b>Rozstawienie</b> – W zwarciu z Monterey Jackiem.</size>\n Mieszkaniec otchłani dostaje +1<per_large> do wytrzymałości i +1 do walki za każdy punkt zemsty w puli zwycięstwa (maksymalnie +3 do walki).\n<b>Wymuszony</b> – Po tym, jak Mieszkaniec otchłani zada ci obrażenia, sprawdź twój ekwipunek: jeśli nie posiadasz torby, wtasuj każdy atut z cechą [[Starożytna]], który kontrolujesz do talii eksploracji.",
+                "text": "Łowca. Mściwy. \n<b>Rozstawienie</b> – W zwarciu z Monterey Jackiem.\nMieszkaniec otchłani dostaje +1<per_large> do wytrzymałości i +1 do walki za każdy punkt zemsty w puli zwycięstwa (maksymalnie +3 do walki).\n<b>Wymuszony</b> – Po tym, jak Mieszkaniec otchłani zada ci obrażenia, sprawdź twój ekwipunek: jeśli nie posiadasz torby, wtasuj każdy atut z cechą [[Starożytna]], który kontrolujesz do talii eksploracji.",
                 "traits": "Stworzenie. Elitarny.",
                 "victory": "Zwycięstwo 1."
             }
@@ -1002,7 +1003,7 @@
             "name": "Strażnik reliktów",
             "front": {
                 "name": "Strażnik reliktów",
-                "flavor_text": "Z ciemności tunelu przed tobą z gadzim sykiem wyłania się istota. Wymuszony – Kiedy badacz zostaje pokonany: Ten badacz wtasowuje każdy atut fabularny z cechą Starożytna, który kontroluje do talii eksploracji. ",
+                "flavor_text": "Z ciemności tunelu przed tobą z gadzim sykiem wyłania się istota. ",
                 "text": "*Ta tajemnica dostaje +1<per_large> do progu zagłady.\n<b>Wymuszony</b> – Kiedy badacz zostanie pokonany: dany badacz wtasowuje każdy atut fabularny z cechą [[Starożytna]], który kontroluje do talii eksploracji. "
             },
             "back": {
@@ -1010,9 +1011,105 @@
                 "text": "<blockquote>Ciągłe syczenie odbija się echem po ruinach. Węże i wężoludzie zbliżają się do ciebie z wyszczerzonymi kłami i uniesionymi ostrzami. Zagłębianie się w te ruiny okazało się zbyt niebezpieczne, aby kontynuować. Rzucasz w prześladowców kilka odzyskanych przedmiotów, a następnie odwracasz się i uciekasz drogą, którą przyszedłeś. Przynajmniej myślisz, że tędy przyszedłeś…</blockquote>\nKażdy badacz, który nie został wyeliminowany, zostaje pokonany i otrzymuje 1 punkt traumy fizycznej. "
             }
         },
-        "90071": {
+        "90068": {
+            "name": "Rozpadająca się ruina",
             "front": {
-                "text": "<action> Spend X clues: Reveal the top X cards of the exploration deck. Draw 1 of the revealed cards and check your supplies. If you have chalk, you may choose 1 additional card and draw it. Shuffle the remaining cards into the exploration deck."
+                "name": "Rozpadająca się ruina",
+                "flavor_text": "Przemierzając ciasne korytarze ruin, czujesz głębokie dudnienie pod stopami.\n",
+                "text": "<action> Jeśli na twojej lokalizacji nie ma żadnych wskazówek: <b>Eksploracja.</b> Dobierz wierzchnią kartę z talii eksploracji. Jeśli jest to połączona lokalizacja, umieść ją w grze i porusz się na nią.\n<b>Cel</b> – Kiedy każdy ocalały badacz znajduje się w Wewnętrznej komnacie, badacze mogą, jako grupa, wydać wymaganą liczbę wskazówek, aby spowodować postęp talii."
+            },
+            "back": {
+                "name": "Uwięzieni w grobowcach",
+                "text": "<blockquote>Ostrożnie wkraczasz do wewnętrznej komnaty, pomieszczenia zamkniętego na niezliczone wieki. Kiedy rozglądasz się po różnych oznaczeniach pokrywających podłogę i ściany, słyszysz za sobą zgrzyt kamienia o kamień. Odwracasz się i widzisz, jak tajne przejście się zamyka. Z hukiem zatrzaskuje się, pozostawiając na swoim miejscu jedynie nieoznakowaną ścianę. Jesteś uwięziony!</blockquote>\nPorusz każdego niebędącego w zwarciu [[Elitarnego]] wroga bezpośrednio do Wewnętrznej komnaty.\nWtasuj do talii eksploracji każdą z następujących kart: każdy odłożony na bok atut fabularny z cechą [[Starożytna]], odłożoną na bok kartę podstępu Mściwa przeszłość, każdą jednostronną lokalizację w grze oraz 1 kopię odłożonego na bok wroga Pomiot Yiga za każdy punkt zemsty w puli zwycięstwa.\nUmieść 1 <per_large> wskazówek na każdej odkrytej lokalizacji (do jej wartości wskazówek)."
+            }
+        },
+        "90069": {
+            "name": "Znajdź wyjście!",
+            "front": {
+                "name": "Znajdź wyjście!",
+                "text": "<action> Jeśli na twojej lokalizacji nie ma żadnych wskazówek: <b>Eksploracja.</b> Dobierz wierzchnią kartę z talii eksploracji. Jeśli jest to połączona lokalizacja, umieść ją w grze i porusz się na nią.\n<b>Cel</b> – Wydostań się z jak największą liczbą reliktów z cechą [[Starożytna]]! Jeśli każdy ocalały badacz zrezygnował, talia postępuje."
+            },
+            "back": {
+                "name": "Nareszcie ucieczka",
+                "text": "<blockquote>Nareszcie znalazłeś drogę powrotną do wejścia grobowca<br>i pozostawiłeś stworzenia w ciemności za tobą.</blockquote>\n<b>(→Z1)</b>"
+            }
+        },
+        "90070": {
+            "name": "70. Tajne przejście",
+            "front": {
+                "name": "Tajne przejście",
+                "text": "<b>Odkrycie</b> – Jeśli Tajne przejście jest połączone z twoją lokalizacją, umieść je i odłożoną na bok Wewnętrzną komnatę w grze. W przeciwnym razie wtasuj je do talii eksploracji.\n<b>Wymuszony</b> – Po tym, jak wejdziesz do Tajnego przejścia: sprawdź twój ekwipunek. Jeśli posiadasz kompas, odkryj 1 wskazówkę z Tajnego przejścia.",
+                "traits": "Starożytna. Ruiny.",
+                "victory": "Zwycięstwo 1."
+            }
+        },
+        "90071": {
+            "name": "71. Wewnętrzna komnata",
+            "front": {
+                "name": "Wewnętrzna komnata",
+                "text": "<action> Wydaj X wskazówek: Odkryj<br>X wierzchnich kart z talii eksploracji. Dobierz<br> 1 odkrytą kartę nie-lokalizację i sprawdź twój ekwipunek. Jeśli posiadasz kredę, możesz wybrać<br>1 dodatkową odkrytą kartę nie-lokalizację i dobrać ją. Wtasuj pozostałe karty z powrotem do talii eksploracji.",
+                "traits": "Zapomniany. Ruiny."
+            },
+            "back": {
+                "name": "Wewnętrzna komnata",
+                "flavor_text": "Posadzka tej centralnej komnaty jest misternie rzeźbiona i dziwnie świeci. Ściany i podłoga pokryte są śladami dawnych zmagań."
+            }
+        },
+        "90072": {
+            "name": "72. Pradawny korytarz",
+            "front": {
+                "name": "Pradawny korytarz",
+                "flavor_text": "Rozpadający się korytarz zachęca cię do zapuszczenia się głębiej.",
+                "text": "<b>Wymuszony</b> – Po tym, jak na Pradawnym korytarzu zostanie umieszczony żeton zagłady: wtasuj wierzchnią kartę talii spotkań do talii eksploracji. Dowolny badacz znajdujący się w Pradawnym korytarzu może wydać 3 zasoby, aby anulować ten efekt.",
+                "traits": "Starożytna. Ruiny."
+            }
+        },
+        "90073": {
+            "name": "73. Jadeitowy krokodyl",
+            "front": {
+                "name": "<unique>Jadeitowy krokodyl",
+                "subtitle": "Wizerunek strażnika",
+                "text": "<b>Odkrycie</b> – Umieść Jadeitowego krokodyla w grze, pod twoją kontrolą. Musisz albo umieścić 1 żeton zagłady na twojej lokalizacji, albo otrzymać 2 obrażenia.\n<b>Wymuszony</b> – Kiedy rezygnujesz: dodaj Jadeitowego krokodyla do puli zwycięstwa.",
+                "traits": "Przedmiot. Relikwia. Starożytna.",
+                "victory": "Zwycięstwo 1."
+            }
+        },
+        "90074": {
+            "name": "74. Obsydianowy jaguar",
+            "front": {
+                "name": "<unique>Obsydianowy jaguar",
+                "subtitle": "Wizerunek łowczyni",
+                "text": "<b>Odkrycie</b> – Umieść Obsydianowego jaguara w grze, pod twoją kontrolą. Musisz albo umieścić 1 żeton zagłady na twojej lokalizacji, albo najbliższy wróg atakuje cię.\n<b>Wymuszony</b> – Kiedy rezygnujesz: dodaj Obsydianowego jaguara do puli zwycięstwa.",
+                "traits": "Przedmiot. Relikwia. Starożytna.",
+                "victory": "Zwycięstwo 1."
+            }
+        },
+        "90075": {
+            "name": "75. Cytrynowy wąż",
+            "front": {
+                "name": "<unique>Cytrynowy wąż",
+                "subtitle": "Wizerunek dziecka",
+                "text": "<b>Odkrycie</b> – Umieść Cytrynowego węża w grze, pod twoją kontrolą. Jeśli jesteś zatruty, otrzymujesz 1 bezpośrednie obrażenie. Jeśli nie jesteś zatruty, umieść odłożone na bok osłabienie Zatrucie w grze, w twoim obszarze zagrożenia.\n<b>Wymuszony</b> – Kiedy rezygnujesz: dodaj Cytrynowego węża do puli zwycięstwa.",
+                "traits": "Przedmiot. Relikwia. Starożytna.",
+                "victory": "Zwycięstwo 1."
+            }
+        },
+        "90076": {
+            "name": "76. Turkusowy orzeł",
+            "front": {
+                "name": "<unique>Turkusowy orzeł",
+                "subtitle": "Wizerunek obserwatora",
+                "text": "<b>Odkrycie</b> – Umieść Turkusowego orła w grze, pod twoją kontrolą. Musisz albo umieścić 1 żeton zagłady na twojej lokalizacji, albo otrzymać 2 punkty przerażenia.\n<b>Wymuszony</b> – Kiedy rezygnujesz: dodaj Turkusowego<br>orła do puli zwycięstwa.",
+                "traits": "Przedmiot. Relikwia. Starożytna.",
+                "victory": "Zwycięstwo 1."
+            }
+        },
+        "90077": {
+            "name": "77. Mściwa przeszłość",
+            "front": {
+                "name": "Mściwa przeszłość",
+                "text": "Zagrożenie.\n<b>Odkrycie</b> – Za każdy atut fabularny z cechą [[Starożytna]] kontrolowany przez badacza, musisz <i>(wybierz jedno)</i>:\n- Zadaj 1 obrażenie lub 1 punkt przerażenia badaczowi kontrolującemu dany atut.\n- Wtasuj dany atut do talii eksploracji.\nPo tym, jak ten efekt zostanie rozpatrzony, wtasuj Mściwą przeszłość do talii eksploracji.",
+                "traits": "Moc."
             }
         },
         "90086": {
@@ -1067,14 +1164,14 @@
                 {
                     "name": "Intro",
                     "id": "5cbc1715",
-                    "markdown": "<div style = \"position: fixed; top: -28mm; text-align: center; width: 100%;\">\n  <h1 style = \"font-size: 26px; color: white!important; border: none; margin-bottom: 2mm\">POCHOWANY<br>\n     <div style = \"margin-top: 13px;\">\n        <span style = \"font-size: 15px; font-family: arnopro-bold; letter-spacing: 2px;\">SCENARIUSZ WYZWANIE</span>\n     </div>\n  </h1>\n</div>\n\n<style>\n  p {\n    text-align: left;\n    font-size: 11.5px;\n  }\n\n  @page {\n     margin-left: 15mm;\n     margin-right: 15mm;\n  }\n\n  .chapter {\n    column-gap: 4mm;\n  }\n\n  @page :nth(2) {\n    margin-top: 68mm;\n  }\n</style>\n\n*Relikty przeszłości* to scenariusz wyzwanie do gry karcianej *Horror w Arkham*, zaprojektowany specjalnie dla Monterey Jacka. Scenariusz ten może być rozgrywany pojedynczo w trybie samodzielnej rozgrywki lub jako historia poboczna w trakcie dowolnej kampanii. **Aby rozegrać ten scenariusz, wymagany jest *Horror w Arkham: Zestaw podstawowy*\noraz rozszerzenie *Zapomniana era*.**\n\n<div style = \"margin-top: -3px\"></div>\n<h3 style = \"font-size: 15px;\"> Badacze z równoległego świata</h3>\n\nBadacze z równoległego świata to dostępne do samodzielnego wydruku nowe, alternatywne wersje istniejących już badaczy z gry karcianej *Horror w Arkham*. Badaczami tymi, wraz z ich zaawansowanymi kartami osobistymi, można normalnie rozegrać każdy scenariusz i kampanię.\n\n- Podczas tworzenia talii Monterey Jacka możesz zdecydować, z którego awersu i którego rewersu oryginalnej lub alternatywnej wersji jej karty badacza chcesz korzystać. Każda wersja ma swoje wady i zalety. Możesz wybrać dowolną stronę każdej wersji. Oznacza to, że możesz używać obu stron oryginalnej wersji, obu stron alternatywnej wersji, oryginalnego awersu i alternatywnego rewersu albo alternatywnego awersu i oryginalnego rewersu.\n- Niezależnie od tego, jakiej konfiguracji badacza używasz, możesz też ulepszyć karty osobiste Jacka do ich nowych zaawansowanych wersji (zastępując nimi oryginały). Można je rozpoznać po słowie kluczowym Zaawansowana. Tworzą one zestaw i nie należy ich rozdzielać – jeśli zdecydujesz się ulepszyć Wierny bat, musisz ulepszyć także Pogrzebane sekrety. Ulepszenie tych kart nie kosztuje żadnych punktów doświadczenia i można to zrobić w dowolnym momencie kampanii. Jednak jeśli karty zostaną ulepszone do ich zaawansowanej wersji, nie można już tego cofnąć (chyba że gra ci na to pozwoli).\n\n<div style = \"margin-top: -3px\"></div>\n<h3 style = \"font-size: 15px;\">Scenariusze wyzwania</h3>\n\nScenariusze wyzwania to specjalne scenariusze print-and-play, które wykorzystują istniejące produkty z serii *Horror w Arkham: Gra karciana* w połączeniu z nowymi kartami do samodzielnego wydruku. Scenariusze te są zaprojektowane w oparciu o pewne konkretne wymagania, aby to doświadczenie stanowiło dla graczy swego rodzaju łamigłówkę.\n\nScenariusz wyzwania *Relikty przeszłości* koncentruje się wokół badacza Monterey Jacka i dlatego posiada następujące wymagania:\n\n- Podczas rozgrywania scenariusza Jim Culver musi zostać wybrany jako jeden z badaczy.\n\n<div style = \"margin-top: -3px\"></div>\n<h3 style = \"font-size: 15px;\">Tryb samodzielnej rozgrywki</h3>\nPodczas rozgrywania tego scenariusza w trybie samodzielnej rozgrywki należy postępować według instrukcji zawartych w sekcji „Tryb samodzielnej rozgrywki” Kompletnej księgi zasad. Dodatkowe zasady jego przygotowania znajdują się poniżej. W przypadku rozgrywania scenariusza *Relikty przeszłości* w trybie samodzielnej rozgrywki do wyboru są cztery poziomy trudności. Worek chaosu należy przygotować z następujących żetonów:\n\n- **Łatwy:** +1, +1, 0, 0, 0, --1, --1, --2, --3, <skull>, <skull>, <cultist>, <tablet>, <elder_thing>, <auto_fail>, <elder_sign>.\n- **Standardowy:** +1, 0, 0, 0, --1, --2, --2, --3, --5, <skull>, <skull>, <cultist>, <tablet>, <elder_thing>, <auto_fail>, <elder_sign>.\n- **Trudny:** +1, 0, 0, --1, --2, --3, --3, --4, --6, <skull>, <skull>, <cultist>, <tablet>, <elder_thing>, <auto_fail>, <elder_sign>.\n- **Ekspercki:** 0, --1, --2, --2, --3, --3, --4, --4, --6, --8, <skull>, <skull>, <cultist>, <tablet>,<elder_thing>,<auto_fail>,<elder_sign>.\n\n<div style = \"break-after: column\"></div>\n\n<h3 style = \"font-size: 16px;\">Historia poboczna (tryb kampanii)</h3>\nHistoria poboczna to scenariusz, który może zostać rozegrany pomiędzy dowolnymi dwoma scenariuszami każdej kampanii gry karcianej *Horror w Arkham*. Rozegranie historii pobocznej kosztuje każdego badacza w kampanii odpowiednią liczbę punktów doświadczenia. Otrzymane podczas historii pobocznej osłabienia, traumy, punkty doświadczenia i nagrody badacze zachowują do końca trwania kampanii. Każdą historię poboczną można rozegrać tylko raz w trakcie danej kampanii.\n\nW przypadku rozgrywania tego scenariusza podczas kampanii należy przygotować grę tak, jakby był to kolejny scenariusz kampanii – z tym samym workiem chaosu, otrzymanymi wcześniej osłabieniami, traumami i atutami fabularnymi.\n \n**Badacze mogą rozegrać *Relikty przeszłości* jako historię poboczną tylko wtedy, gdy w kampanii bierze udział Monterey Jack. Rozegranie historii pobocznej *Relikty przeszłości* kosztuje Monterey Jacka 3 punkty doświadczenia, a każdego innego badacza 1 punkt doświadczenia.**\n\n<h3 style = \"color:#2c6560\">Eksploracja</h3>\n- Niektóre zdolności w tym scenariuszu zostały oznaczone jako akcja **Eksploracji**. Takie zdolności zazwyczaj pozwalają graczom odnaleźć nowe lokacje, które mogą umieścić w grze, i są inicjowane poprzez akcję „aktywacji”.\n- Podczas rozpatrywania zdolności **Eksploracji** z tego scenariusza stosuj zasady przedstawione na 2 stronie w księdze kampanii do *Zapomnianej Ery*, z następującymi wyjątkami:\n:::indent\n:::bullet\n- Jeśli wróg został dobrany z talii eksploracji to jest rozpatrywany normalnie. Jeśli zostanie odrzucony umieść go w stosie kart odrzuconych talii spotkań, tak jak zazwyczaj. Jest to uznawane jako „nieudana” eksploracja.   \n- Jeśli atut fabularny zostanie dobrany z talii eksploracji, rozpatrz jego efekt odkrycia. Jest to uznawane jako „udana” eksploracja.\n:::\n:::\n\n<h3 style = \"font-size: 16px;\">Symbol rozszerzenia</h3>\nKarty z serii „Badacze z równoległego świata” można rozpoznać dzięki następującemu symbolowi poprzedzającemu kolekcjonerski numer karty:\n\n<img src = \"{./icons/parallel.png}\" style = \"position: fixed; height: 7%; width: auto; margin-top: 5px; margin-left: 145px;\">\n\n<div style = \"margin-top: 80px\"></div>\n<h2>Scenariusz wyzwanie: Relikty przeszłości</h2>\n<i>Aby lepiej zrozumieć naszą przyszłość, musimy najpierw zrozumieć naszą przeszłość. Nie minęło dużo czasu, zanim do waszych uszu dotarły raporty o nieudanej wyprawie Uniwersytetu Miskatonic do dżungli Meksyku. Historie o piramidach schodkowych, mitycznych ludziach-wężach i nieziemskich artefaktach w miejscach wcześniej uważanych za niezamieszkane wzbudziły twoje zainteresowanie. Spakowanie walizek i zaplanowanie wyjazdu w celu samodzielnego zbadania sprawy nie zajęło ci dużo czasu. Ekspedycja Uniwersytetu Miskatonic dotarła do ruin, ale nie osiągnęła żadnego postępu. Twoje serce bije szybciej, gdy zaczynasz zastanawiać się, jakie inne zapomniane skarby leżą nieodkryte w sercu grobowca.</i>\n:::right\nPrzejdź do **Przygotowania**.\n::: \n\n[pagebreak]\n",
+                    "markdown": "<div style = \"position: fixed; top: -28mm; text-align: center; width: 100%;\">\n  <h1 style = \"font-size: 26px; color: white!important; border: none; margin-bottom: 2mm\">RELIKTY PRZESZŁOŚCI<br>\n     <div style = \"margin-top: 13px;\">\n        <span style = \"font-size: 15px; font-family: arnopro-bold; letter-spacing: 2px;\">SCENARIUSZ WYZWANIE</span>\n     </div>\n  </h1>\n</div>\n\n<style>\n  p {\n    text-align: left;\n    font-size: 11.5px;\n  }\n\n  @page {\n     margin-left: 15mm;\n     margin-right: 15mm;\n  }\n\n  .chapter {\n    column-gap: 4mm;\n  }\n\n  @page :nth(2) {\n    margin-top: 68mm;\n  }\n</style>\n\n*Relikty przeszłości* to scenariusz wyzwanie do gry karcianej *Horror w Arkham*, zaprojektowany specjalnie dla Montereya Jacka. Scenariusz ten może być rozgrywany pojedynczo w trybie samodzielnej rozgrywki lub jako historia poboczna w trakcie dowolnej kampanii. **Aby rozegrać ten scenariusz, wymagany jest *Horror w Arkham: Zestaw podstawowy*\noraz rozszerzenie *Zapomniana era*.**\n\n<div style = \"margin-top: -3px\"></div>\n<h3 style = \"font-size: 15px;\"> Badacze z równoległego świata</h3>\n\nBadacze z równoległego świata to dostępne do samodzielnego wydruku nowe, alternatywne wersje istniejących już badaczy z gry karcianej *Horror w Arkham*. Badaczami tymi, wraz z ich zaawansowanymi kartami osobistymi, można normalnie rozegrać każdy scenariusz i kampanię.\n\n- Podczas tworzenia talii Montereya Jacka możesz zdecydować, z którego awersu i którego rewersu oryginalnej lub alternatywnej wersji jego karty badacza chcesz korzystać. Każda wersja ma swoje wady i zalety. Możesz wybrać dowolną stronę każdej wersji. Oznacza to, że możesz używać obu stron oryginalnej wersji, obu stron alternatywnej wersji, oryginalnego awersu i alternatywnego rewersu albo alternatywnego awersu i oryginalnego rewersu.\n- Niezależnie od tego, jakiej konfiguracji badacza używasz, możesz też ulepszyć karty osobiste Jacka do ich nowych zaawansowanych wersji (zastępując nimi oryginały). Można je rozpoznać po słowie kluczowym Zaawansowana. Tworzą one zestaw i nie należy ich rozdzielać – jeśli zdecydujesz się ulepszyć Wierny bat, musisz ulepszyć także Pogrzebane sekrety. Ulepszenie tych kart nie kosztuje żadnych punktów doświadczenia i można to zrobić w dowolnym momencie kampanii. Jednak jeśli karty zostaną ulepszone do ich zaawansowanej wersji, nie można już tego cofnąć (chyba że gra ci na to pozwoli).\n\n<div style = \"margin-top: -3px\"></div>\n<h3 style = \"font-size: 15px;\">Scenariusze wyzwania</h3>\n\nScenariusze wyzwania to specjalne scenariusze print-and-play, które wykorzystują istniejące produkty z serii *Horror w Arkham: Gra karciana* w połączeniu z nowymi kartami do samodzielnego wydruku. Scenariusze te są zaprojektowane w oparciu o pewne konkretne wymagania, aby to doświadczenie stanowiło dla graczy swego rodzaju łamigłówkę.\n\nScenariusz wyzwania *Relikty przeszłości* koncentruje się wokół badacza Montereya Jacka i dlatego posiada następujące wymagania:\n\n- Podczas rozgrywania scenariusza Monterey Jack musi zostać wybrany jako jeden z badaczy.\n\n<div style = \"margin-top: -3px\"></div>\n<h3 style = \"font-size: 15px;\">Tryb samodzielnej rozgrywki</h3>\nPodczas rozgrywania tego scenariusza w trybie samodzielnej rozgrywki należy postępować według instrukcji zawartych w sekcji „Tryb samodzielnej rozgrywki” Kompletnej księgi zasad. Dodatkowe zasady jego przygotowania znajdują się poniżej. W przypadku rozgrywania scenariusza *Relikty przeszłości* w trybie samodzielnej rozgrywki do wyboru są cztery poziomy trudności. Worek chaosu należy przygotować z następujących żetonów:\n\n- **Łatwy:** +1, +1, 0, 0, 0, --1, --1, --2, --3, <skull>, <skull>, <cultist>, <tablet>, <elder_thing>, <auto_fail>, <elder_sign>.\n- **Standardowy:** +1, 0, 0, 0, --1, --2, --2, --3, --5, <skull>, <skull>, <cultist>, <tablet>, <elder_thing>, <auto_fail>, <elder_sign>.\n- **Trudny:** +1, 0, 0, --1, --2, --3, --3, --4, --6, <skull>, <skull>, <cultist>, <tablet>, <elder_thing>, <auto_fail>, <elder_sign>.\n- **Ekspercki:** 0, --1, --2, --2, --3, --3, --4, --4, --6, --8, <skull>, <skull>, <cultist>, <tablet>,<elder_thing>,<auto_fail>,<elder_sign>.\n\n<div style = \"break-after: column\"></div>\n\n<h3 style = \"font-size: 16px;\">Historia poboczna (tryb kampanii)</h3>\nHistoria poboczna to scenariusz, który może zostać rozegrany pomiędzy dowolnymi dwoma scenariuszami każdej kampanii gry karcianej *Horror w Arkham*. Rozegranie historii pobocznej kosztuje każdego badacza w kampanii odpowiednią liczbę punktów doświadczenia. Otrzymane podczas historii pobocznej osłabienia, traumy, punkty doświadczenia i nagrody badacze zachowują do końca trwania kampanii. Każdą historię poboczną można rozegrać tylko raz w trakcie danej kampanii.\n\nW przypadku rozgrywania tego scenariusza podczas kampanii należy przygotować grę tak, jakby był to kolejny scenariusz kampanii – z tym samym workiem chaosu, otrzymanymi wcześniej osłabieniami, traumami i atutami fabularnymi.\n \n**Badacze mogą rozegrać *Relikty przeszłości* jako historię poboczną tylko wtedy, gdy w kampanii bierze udział Monterey Jack. Rozegranie historii pobocznej *Relikty przeszłości* kosztuje Montereya Jacka 3 punkty doświadczenia, a każdego innego badacza 1 punkt doświadczenia.**\n\n<h3 style = \"color:#2c6560\">Eksploracja</h3>\n- Niektóre zdolności w tym scenariuszu zostały oznaczone jako akcja **Eksploracji**. Takie zdolności zazwyczaj pozwalają graczom odnaleźć nowe lokalizacje, które mogą umieścić w grze, i są inicjowane poprzez akcję „aktywacji”.\n- Podczas rozpatrywania zdolności **Eksploracji** z tego scenariusza stosuj zasady przedstawione na 2 stronie w księdze kampanii do *Zapomnianej ery*, z następującymi wyjątkami:\n:::indent\n:::bullet\n- Jeśli wróg został dobrany z talii eksploracji, to jest rozpatrywany normalnie. Jeśli zostanie odrzucony, umieść go na stosie kart odrzuconych talii spotkań, tak jak zazwyczaj. Jest to uznawane jako „nieudana” eksploracja.   \n- Jeśli atut fabularny zostanie dobrany z talii eksploracji, rozpatrz jego efekt odkrycia. Jest to uznawane jako „udana” eksploracja.\n:::\n:::\n\n<h3 style = \"font-size: 16px;\">Symbol rozszerzenia</h3>\nKarty z serii „Badacze z równoległego świata” można rozpoznać dzięki następującemu symbolowi poprzedzającemu kolekcjonerski numer karty:\n\n<img src = \"{./icons/parallel.png}\" style = \"position: fixed; height: 7%; width: auto; margin-top: 5px; margin-left: 145px;\">\n\n<div style = \"margin-top: 80px\"></div>\n<h2>Scenariusz wyzwanie: Relikty przeszłości</h2>\n<i>Aby lepiej zrozumieć naszą przyszłość, musimy najpierw zrozumieć naszą przeszłość. Nie minęło dużo czasu, zanim do twoich uszu dotarły raporty o nieudanej wyprawie Uniwersytetu Miskatonic do dżungli Meksyku. Historie o piramidach schodkowych, mitycznych ludziach-wężach i nieziemskich artefaktach w miejscach wcześniej uważanych za niezamieszkane wzbudziły twoje zainteresowanie. Spakowanie walizek i zaplanowanie wyjazdu w celu samodzielnego zbadania sprawy nie zajęło ci dużo czasu. Ekspedycja Uniwersytetu Miskatonic dotarła do ruin, ale nie osiągnęła żadnego postępu. Twoje serce bije szybciej, gdy zaczynasz zastanawiać się, jakie inne zapomniane skarby leżą nieodkryte w sercu grobowca.</i>\n:::right\nPrzejdź do **Przygotowania**.\n::: \n\n[pagebreak]\n",
                     "type": "intro"
                 },
                 {
                     "name": "Scenario",
                     "id": "d75731f5",
                     "encounter_set_id": "217ea032-41fb-40ee-94e2-e25d8c590897",
-                    "markdown": "<h3 style = \"color:#2c6560\">Ekwipunek</h3>\n<div style=\"margin-top: 7px\"></div>\n\n- *Relikty przeszłości* używa listy ekwipunku unikalnej dla tego scenariusza. Żaden element ekwipunku nie ma sam z siebie efektu w grze, ale niektóre efekty kart mogą się do niego odnosić. Każdy z badaczy może wybrać jeden z elementów ekwipunku z poniższej listy w celu zabrania na wyprawę (jeśli jest tylko jeden badacz, to zamiast tego może wybrać 2 elementy ekwipunku).\n- Jeśli *Relikty przeszłości* są rozgrywane jako historia poboczna w kampanii, to elementy ekwipunku z *Reliktów przeszłości* nie są przenoszone na następne scenariusze.\n- Dodatkowo, jeśli *Relikty przeszłości* są rozgrywane jako historia poboczna w kampanii *Zapomniana Era*, jakiekolwiek elementy ekwipunku używane w tej kampanii nie są dostępne podczas rozgrywania *Reliktów przeszłości*.\n- Dostępny ekwipunek:\n:::indent\n:::bullet\n- **Kreda**: do pisania na twardych, kamiennych powierzchniach.\n- **Kompas**: może pomóc utrzymać orientację.\n- **Dziennik**: aby zachować zapis wydarzeń z wyprawy.\n- **Torba**: bezpieczne miejsce do przechowywania wszystkiego, co znajdziesz w grobowcu.\n- **Pochodnie**: mogą oświetlić ciemne miejsca lub nieść ogień. \n:::\n:::\n<h3 style = \"font-size: 15px;\">Przygotowanie scenariusza</h3>\n<div style=\"margin-top: 7px\"></div>\n\n- Zbierz wszystkie karty z następujących zestawów spotkań: *Relikty przeszłości*, *Zguba Eztli*, *Agenci Yiga*, *Śmiertelne pułapki*, *Zapomniane ruiny*, *Trucizna*, *Węże*, *Jad Yiga*, *Przejmujący chłód*, *Zamknięte drzwi* i *Maski północy*. Każdy z tych zestawów, z wyjątkiem *Reliktów przeszłości*, można znaleźć w rozszerzeniu kampanijnym *Zapomniana Era* lub w Zestawie podstawowym. Zestawy te są oznaczone następującymi symbolami: \n\n<div style=\"width: 95%; margin-left: 15px; margin-bottom: 10px;\">\n  <div style=\"display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; margin-left: 30px; margin-right: 30px;\">\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/relics_of_the_past.svg}\" alt=\"Ikona 1\" style=\"height: 20px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/the_doom_of_eztli.svg}\" alt=\"Ikona 2\" style=\"height: 30px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/agents_of_yig.svg}\" alt=\"Ikona 3\" style=\"height: 25px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/deadly_traps.svg}\" alt=\"Ikona 4\" style=\"height: 28px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/forgotten_ruins.svg}\" alt=\"Ikona 5\" style=\"height: 27px; max-width: 100%;\"></div>\n  </div>\n  <div style=\"display: flex; justify-content: space-between; align-items: center;\">\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/poison.svg}\" alt=\"Ikona 6\" style=\"height: 30px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/serpents.svg}\" alt=\"Ikona 7\" style=\"height: 30px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/yigs_venom.svg}\" alt=\"Ikona 8\" style=\"height: 30px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/chilling_cold.svg}\" alt=\"Ikona 9\" style=\"height: 27px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/locked_doors.svg}\" alt=\"Ikona 10\" style=\"height: 28px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/midnight_masks.svg}\" alt=\"Ikona 11\" style=\"height: 29px; max-width: 100%;\"></div>\n  </div>\n</div>\n:::indent\nPodczas przygotowywania zestawu spotkań Maski północy należy zebrać tylko 5 kart podstępu (2x Fałszywy trop, 3x Prześladujący cień). Nie należy zbierać kart lokalizacji,  aktów, tajemnic i kart pomocy scenariusza z tego zestawu.\n:::\n\n- Usuń z gry oryginalną kartę pomocy scenariusza, akty i tajemnice z zestawu spotkań *Zguba Eztli*. Użyj nowej karty pomocy scenariusza, aktów i tajemnic z pobranego zestawu spotkań *Relikty przeszłości* podczas przygotowania scenariusza.\n\n- Usuń z gry następujące karty z zestawu spotkań *Zguba Eztli*: atut Relikt wieczności, wroga Waluzjańskiego herolda oraz lokalizacje Tajne przejście, Pradawny korytarz i Komnatę czasu. Nie są one używane w tym scenariuszu wyzwaniu.\n\n- Stwórz talię eksploracji. W tym celu należy potasować 5 jednostronnych lokalizacji razem z: jedną kopią podstępów Głęboka ciemność i Ostatni błąd oraz trzema kopiami Grzechotnika bananowego.\n\n:::indent\n:::bullet\n- Jeśli rozgrywasz ten scenariusz na poziomie Trudnym bądź Eksperckim, wtasuj również jedną kopię Zamkniętych drzwi oraz jedną kopię Pogrzebanego.   \n:::\n:::\n\n- Odłóż na bok, poza grę, następujące karty: postęp Mściwa przeszłość, lokalizację Wewnętrzna komnata, trzech wrogów Pomiot Yiga, każdy z czterech atutów fabularnych z cechą [[Starożytna]] i każdą kopię osłabienia Zatrucie.\n\n- Umieść Wejście w grze.\n:::indent\n:::bullet\n- Każdy badacz zaczyna grę na Wejściu.     \n:::\n:::\n\n- Pozostałe karty spotkań należy potasować w celu utworzenia talii spotkań. \n- Gracze są teraz gotowi do rozpoczęcia gry. \n\n<div style = \"break-after: column\"></div>\n\n<div style=\"margin-top: 25px\"></div>\n\n:::resolution\n## NIE CZYTAJCIE TEGO FRAGMENTU<br><div style=\"font-size:17px;\"> przed zakończeniem scenariusza\n<div style=\"margin-top: 5px\"></div>\n\n**Nie udało się osiągnąć żadnego zakończenia (każdy badacz zrezygnował lub został pokonany):** Przejdź do **Zakończenia 2**.\n\n**Zakończenie 1:** <i>Wraz ze smagnięciem bata przelatujesz nad ostatnią szczeliną, a szybki przewrót pozwala ci przemknąć pod opadającymi kamiennymi drzwiami, zanim zamkną się za tobą. Wstajesz, spoglądasz na dżunglę przed tobą i ponownie oddychasz wilgotnym powietrzem. Sprawdzając po raz ostatni swój sprzęt, widzisz, że do twojej torby trafił pokryty łuskami, wężowy pasażer na gapę. Łapiesz go za głowę, delikatnie rzucasz w trawę i patrzysz, jak oddala się z sykiem.\n\nMusisz zadowolić się tym, czego się nauczyłeś i co znalazłeś w Ruinach Eztli. Czas zostawić dżunglę za sobą.</i>\n \n- Monterey Jack zdobywa punkty doświadczenia równe łącznej wartości „Zwycięstwo X” wszystkich kart z cechą [[Starożytna]] w puli zwycięstwa.\n- Każdy inny badacz zdobywa punkty doświadczenia równe łącznej wartości „Zwycięstwo X” wszystkich kart wrogów i kart lokalizacji w puli zwycięstwa.\n:::indent\n:::bullet\n- Sprawdź ekwipunek każdego z badaczy, który zrezygnował. Jeśli badacz z dziennikiem zrezygnował, każdy badacz otrzymuje 1 dodatkowy punkt doświadczenia.\n:::\n:::\n- Monterey Jack może ulepszyć Wierny bat do wersji zaawansowanej lub obniżyć wersję zaawansowaną Pogrzebanych sekretów do wersji oryginalnej.\n\n**Zakończenie 2:** <i>Pędzisz zrujnowanym korytarzem, a syk ścigających wężowych potworów odbija się echem od kamienia za tobą. Twoja ścieżka prowadzi cię do głębokiej otchłani i stajesz przed wyborem: spróbować przekroczyć przepaść lub odwrócić się, by stawić czoła prześladowcom. Sięgasz do paska i wyjmujesz bicz, decydując się użyć go do przekroczenia przepaści. Uderzasz batem w odsłonięty korzeń drzewa pod sufitem i skaczesz.\n\nZ rozdzierającym serce trzaskiem korzeń pęka pod twoim ciężarem i spadasz w przepaść. Podczas upadku odbijasz się od ostrych skał, ostatecznie lądując w płytkim strumieniu na dnie. Plujesz krwią, a potem podnosisz wzrok i widzisz oczy wężowych ludzi wpatrujących się w ciebie z wysoka, zanim ci cofną się tą samą drogą, którą przyszli.\n\nZ trudem wstajesz i patrzysz na strumień u swoich stóp. Potykasz się, podążając jego ścieżką, mając nadzieję, że w końcu cię wyprowadzi na zewnątrz.</i>\n\n- Każdy badacz zdobywa punkty doświadczenia równe łącznej wartości „Zwycięstwo X” wszystkich kart w puli zwycięstwa.\n- Monterey Jack musi ulepszyć Pogrzebane sekrety do wersji zaawansowanej albo obniżyć wersję zaawansowaną Wiernego bata do wersji oryginalnej.\n:::\n\n\n<div style = \"text-align: center; font-size: 8px; margin-top: 20px;\">\n  Zezwolenie na kopiowanie wyłącznie do użytku osobistego.<br>\n  © 2024 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, logo FFG, Living Card Game, LCG i logo LCG to ® Fantasy Flight Games. Siedziba Fantasy Flight Games mieści się pod adresem 1995 West County Road B2, Roseville, Minnesota, 55113, USA, 651-639-1905. Rzeczywiste komponenty mogą różnić się od przedstawionych..\n</div>\n",
+                    "markdown": "<h3 style = \"color:#2c6560\">Ekwipunek</h3>\n<div style=\"margin-top: 7px\"></div>\n\n- *Relikty przeszłości* używają listy ekwipunku unikatowej dla tego scenariusza. Żaden element ekwipunku nie ma sam z siebie efektu w grze, ale niektóre efekty kart mogą się do niego odnosić. Każdy z badaczy może wybrać jeden z elementów ekwipunku z poniższej listy w celu zabrania na wyprawę (jeśli jest tylko jeden badacz, to zamiast tego może wybrać 2 elementy ekwipunku).\n- Jeśli *Relikty przeszłości* są rozgrywane jako historia poboczna w kampanii, to elementy ekwipunku z *Reliktów przeszłości* nie są przenoszone na następne scenariusze.\n- Dodatkowo, jeśli *Relikty przeszłości* są rozgrywane jako historia poboczna w kampanii *Zapomniana Era*, jakiekolwiek elementy ekwipunku używane w tej kampanii nie są dostępne podczas rozgrywania *Reliktów przeszłości*.\n- Dostępny ekwipunek:\n:::indent\n:::bullet\n- **Kreda**: do pisania na twardych, kamiennych powierzchniach.\n- **Kompas**: może pomóc utrzymać orientację.\n- **Dziennik**: aby zachować zapis wydarzeń z wyprawy.\n- **Torba**: bezpieczne miejsce do przechowywania wszystkiego, co znajdziesz w grobowcu.\n- **Pochodnie**: mogą oświetlić ciemne miejsca lub nieść ogień. \n:::\n:::\n<h3 style = \"font-size: 15px;\">Przygotowanie scenariusza</h3>\n<div style=\"margin-top: 7px\"></div>\n\n- Zbierz wszystkie karty z następujących zestawów spotkań: *Relikty przeszłości*, *Zguba Eztli*, *Agenci Yiga*, *Śmiertelne pułapki*, *Zapomniane ruiny*, *Trucizna*, *Węże*, *Jad Yiga*, *Przejmujący chłód*, *Zamknięte drzwi* i *Maski północy*. Każdy z tych zestawów, z wyjątkiem *Reliktów przeszłości*, można znaleźć w rozszerzeniu kampanijnym *Zapomniana Era* lub w Zestawie podstawowym. Zestawy te są oznaczone następującymi symbolami: \n\n<div style=\"width: 95%; margin-left: 15px; margin-bottom: 10px;\">\n  <div style=\"display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; margin-left: 30px; margin-right: 30px;\">\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/relics_of_the_past.svg}\" alt=\"Ikona 1\" style=\"height: 20px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/the_doom_of_eztli.svg}\" alt=\"Ikona 2\" style=\"height: 30px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/agents_of_yig.svg}\" alt=\"Ikona 3\" style=\"height: 25px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/deadly_traps.svg}\" alt=\"Ikona 4\" style=\"height: 28px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/forgotten_ruins.svg}\" alt=\"Ikona 5\" style=\"height: 27px; max-width: 100%;\"></div>\n  </div>\n  <div style=\"display: flex; justify-content: space-between; align-items: center;\">\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/poison.svg}\" alt=\"Ikona 6\" style=\"height: 30px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/serpents.svg}\" alt=\"Ikona 7\" style=\"height: 30px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/yigs_venom.svg}\" alt=\"Ikona 8\" style=\"height: 30px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/chilling_cold.svg}\" alt=\"Ikona 9\" style=\"height: 27px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/locked_doors.svg}\" alt=\"Ikona 10\" style=\"height: 28px; max-width: 100%;\"></div>\n    <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/midnight_masks.svg}\" alt=\"Ikona 11\" style=\"height: 29px; max-width: 100%;\"></div>\n  </div>\n</div>\n:::indent\nPodczas przygotowywania zestawu spotkań Maski północy należy zebrać tylko 5 kart podstępu (2x Fałszywy trop, 3x Prześladujący cień). Nie należy zbierać kart lokalizacji, aktów, tajemnic i kart pomocy scenariusza z tego zestawu.\n:::\n\n- Usuń z gry oryginalną kartę pomocy scenariusza, akty i tajemnice z zestawu spotkań *Zguba Eztli*. Użyj nowej karty pomocy scenariusza, aktów i tajemnic z pobranego zestawu spotkań *Relikty przeszłości* podczas przygotowania scenariusza.\n\n- Usuń z gry następujące karty z zestawu spotkań *Zguba Eztli*: atut Relikt wieczności, wroga Waluzjański herold oraz lokalizacje Tajne przejście, Pradawny korytarz i Komnata czasu. Nie są one używane w tym scenariuszu wyzwaniu.\n\n- Stwórz talię eksploracji. W tym celu należy potasować 5 jednostronnych lokalizacji razem z: jedną kopią podstępów Głęboka ciemność i Ostatni błąd oraz trzema kopiami wroga Grzechotnik bananowy.\n\n:::indent\n:::bullet\n- Jeśli rozgrywasz ten scenariusz na poziomie Trudnym bądź Eksperckim, wtasuj również jedną kopię podstępu Zamknięte drzwi oraz jedną kopię podstępu Pogrzebany.   \n:::\n:::\n\n- Odłóż na bok, poza grę, następujące karty: podstęp Mściwa przeszłość, lokalizację Wewnętrzna komnata, trzech wrogów Pomiot Yiga, każdy z czterech atutów fabularnych z cechą [[Starożytna]] i każdą kopię osłabienia Zatrucie.\n\n- Umieść Wejście w grze.\n:::indent\n:::bullet\n- Każdy badacz zaczyna grę na Wejściu.     \n:::\n:::\n\n- Pozostałe karty spotkań należy potasować w celu utworzenia talii spotkań. \n- Gracze są teraz gotowi do rozpoczęcia gry. \n\n<div style = \"break-after: column\"></div>\n\n<div style=\"margin-top: 25px\"></div>\n\n:::resolution\n## NIE CZYTAJCIE TEGO FRAGMENTU<br><div style=\"font-size:17px;\"> przed zakończeniem scenariusza\n<div style=\"margin-top: 5px\"></div>\n\n**Nie udało się osiągnąć żadnego zakończenia (każdy badacz zrezygnował lub został pokonany):** Przejdź do **Zakończenia 2**.\n\n**Zakończenie 1:** <i>Wraz ze smagnięciem bata przelatujesz nad ostatnią szczeliną, a szybki przewrót pozwala ci przemknąć pod opadającymi kamiennymi drzwiami, zanim zamkną się za tobą. Wstajesz, spoglądasz na dżunglę przed tobą i ponownie oddychasz wilgotnym powietrzem. Sprawdzając po raz ostatni swój sprzęt, widzisz, że do twojej torby trafił pokryty łuskami, wężowy pasażer na gapę. Łapiesz go za głowę, delikatnie rzucasz w trawę i patrzysz, jak oddala się z sykiem.\n\nMusisz zadowolić się tym, czego się nauczyłeś i co znalazłeś w ruinach Eztli. Czas zostawić dżunglę za sobą.</i>\n \n- Monterey Jack zdobywa punkty doświadczenia równe łącznej wartości „Zwycięstwo X” wszystkich kart z cechą [[Starożytna]] w puli zwycięstwa.\n- Każdy inny badacz zdobywa punkty doświadczenia równe łącznej wartości „Zwycięstwo X” wszystkich kart wrogów i kart lokalizacji w puli zwycięstwa.\n:::indent\n:::bullet\n- Sprawdź ekwipunek każdego z badaczy, który zrezygnował. Jeśli badacz z dziennikiem zrezygnował, każdy badacz otrzymuje 1 dodatkowy punkt doświadczenia.\n:::\n:::\n- Monterey Jack może ulepszyć Wierny bat do wersji zaawansowanej lub obniżyć wersję zaawansowaną Pogrzebanych sekretów do wersji oryginalnej.\n\n**Zakończenie 2:** <i>Pędzisz zrujnowanym korytarzem, a syk ścigających wężowych potworów odbija się echem od kamienia za tobą. Twoja ścieżka prowadzi cię do głębokiej otchłani i stajesz przed wyborem: spróbować przekroczyć przepaść lub odwrócić się, by stawić czoła prześladowcom. Sięgasz do paska i wyjmujesz bat, decydując się użyć go do przekroczenia przepaści. Uderzasz batem w odsłonięty korzeń drzewa pod sufitem i skaczesz.\n\nZ rozdzierającym serce trzaskiem korzeń pęka pod twoim ciężarem i spadasz w przepaść. Podczas upadku odbijasz się od ostrych skał, ostatecznie lądując w płytkim strumieniu na dnie. Plujesz krwią, a potem podnosisz wzrok i widzisz oczy wężowych ludzi wpatrujących się w ciebie z wysoka, zanim cofną się tą samą drogą, którą przyszli.\n\nZ trudem wstajesz i patrzysz na strumień u swoich stóp. Potykasz się, podążając jego ścieżką, mając nadzieję, że w końcu cię wyprowadzi na zewnątrz.</i>\n\n- Każdy badacz zdobywa punkty doświadczenia równe łącznej wartości „Zwycięstwo X” wszystkich kart w puli zwycięstwa.\n- Monterey Jack musi ulepszyć Pogrzebane sekrety do wersji zaawansowanej albo obniżyć wersję zaawansowaną Wiernego bata do wersji oryginalnej.\n:::\n\n\n<div style = \"text-align: center; font-size: 8px; margin-top: 20px;\">\n  Zezwolenie na kopiowanie wyłącznie do użytku osobistego.<br>\n  © 2024 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, logo FFG, Living Card Game, LCG i logo LCG to ® Fantasy Flight Games. Siedziba Fantasy Flight Games mieści się pod adresem 1995 West County Road B2, Roseville, Minnesota, 55113, USA, 651-639-1905. Rzeczywiste komponenty mogą różnić się od przedstawionych.\n</div>\n",
                     "type": "scenario"
                 }
             ]

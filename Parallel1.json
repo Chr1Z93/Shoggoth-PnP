@@ -1778,9 +1778,7 @@
         {
             "name": "Zoey Samaras (Parallel)",
             "id": "02001-p",
-            "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}"
-            },
+            "meta": {},
             "amount": 1,
             "front": {
                 "name": "<unique>Zoey Samaras",
@@ -1823,14 +1821,12 @@
                 "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, [[Blessed]] and [[Charm]] cards level 0-4, Neutral cards level 0-5, up to five other Mystic cards ([mystic]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Zoey's Cross, Smite the Wicked, 1 random basic weakness.",
                 "type": "investigator_back"
             },
-            "encounter_set": "2995f081-5ace-43e1-a764-18f475649397"
+            "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
         },
         {
             "name": "Zoey's Cross",
             "id": "90060",
-            "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
-            },
+            "meta": {},
             "amount": 1,
             "front": {
                 "name": "<unique><name>",
@@ -1862,14 +1858,12 @@
             "back": {
                 "type": "player"
             },
-            "encounter_set": "2995f081-5ace-43e1-a764-18f475649397"
+            "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
         },
         {
             "name": "Smite the Wicked",
             "id": "90061",
-            "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
-            },
+            "meta": {},
             "amount": 1,
             "front": {
                 "copyright": "©  2023 FFG",
@@ -1893,7 +1887,7 @@
             "back": {
                 "type": "player"
             },
-            "encounter_set": "2995f081-5ace-43e1-a764-18f475649397"
+            "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
         },
         {
             "name": "62.Monterey Jack (Parallel)",
@@ -2017,7 +2011,7 @@
             "name": "65.Relics of the Past",
             "id": "90065",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "name": "<dbl>Relics of the Past</dbl>",
                 "copyright": "©  2024 FFG",
@@ -2098,7 +2092,7 @@
             "name": "Something Else Stirs...",
             "id": "90066a",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "name": "Something Else Stirs...",
                 "copyright": "©  2024 FFG",
@@ -2151,7 +2145,7 @@
             "name": "Guardian of the Relics",
             "id": "90067",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "copyright": "©  2024 FFG",
                 "classes": [
@@ -2183,26 +2177,31 @@
             "name": "Crumbling Ruin",
             "id": "90068",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
-                "copyright": "©  202? FFG",
+                "name": "Crumbling Ruin",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "mythos"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "clues": "4<per>",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "68",
+                "collection_total": "4/13",
                 "flavor_text": "As you traverse the tight corridors of the ruin, you feel a deep rumbling beneath your feet.",
                 "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/relics_of_the_past/act2.png",
                 "illustration_pan_x": -72.0,
                 "illustration_pan_y": -64.0,
                 "illustration_scale": 2.0,
                 "illustrator": "Illus. Vlad Ricean",
+                "index": "1a",
                 "text": "<action>  If there are no clues on your location: <b>Explore</b>. Draw the top card of the exploration deck. If it is a connecting location, put it into play and move to it.\n<b>Objective</b> - When each surviving investigator is at Inner Chamber, they may spend the requisite number of clues, as a group, to advance.",
                 "traits": "",
                 "type": "act"
             },
             "back": {
-                "type": "player"
+                "index": "1b",
+                "type": "act_back"
             },
             "encounter_set": "217ea032-41fb-40ee-94e2-e25d8c590897"
         },
@@ -2210,226 +2209,332 @@
             "name": "Find the Way Out!",
             "id": "90069",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
-                "copyright": "©  202? FFG",
+                "name": "Find the Way Out!",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "mythos"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "69",
+                "collection_total": "5/13",
                 "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/relics_of_the_past/act2.png",
                 "illustration_pan_x": -72.0,
                 "illustration_pan_y": -64.0,
                 "illustration_scale": 2.0,
                 "illustrator": "Illus. Vlad Ricean",
+                "index": "2a",
                 "text": "<action>  If there are no clues on your location: <b>Explore</b>. Draw the top card of the exploration deck. If it is a connecting location, put it into play and move to it.\n<b>Objective</b> - Get out with as many <t>Ancient</t> relics as you can! If each surviving investigator has resigned, advance.",
                 "traits": "",
                 "type": "act"
             },
             "back": {
-                "type": "player"
+                "name": "Escape at Last",
+                "index": "2b",
+                "text": "<blockquote>At long last, you have found your way back to the entrance of the tomb and have left the creatures in the darkness behind you.</blockquote>\n<b>(→R1)</b>",
+                "type": "act_back"
             },
             "encounter_set": "217ea032-41fb-40ee-94e2-e25d8c590897"
         },
         {
-            "name": "Secret Passage",
+            "name": "70. Secret Passage",
             "id": "90070",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
-                "copyright": "©  202? FFG",
+                "name": "Secret Passage",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "mythos"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "clues": "1<per>",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "70",
+                "collection_total": "6/13",
+                "connection": "slash",
+                "connections": [
+                    "diamond",
+                    "triangle",
+                    "hourglass"
+                ],
+                "illustration": "./img/relics_of_the_past/passage.png",
+                "illustration_pan_x": -43.0,
+                "illustration_pan_y": 103.0,
+                "illustration_scale": 2.0,
                 "illustrator": "Illus. Andreas Rocha",
+                "shroud": "5",
                 "text": "<rev> If <name> is connected to your location, put it and the set-aside Inner Chamber into play. Otherwise, shuffle it into the exploration deck.\n<for> After you enter <name>: Check your supplies. If you have the compass, discover 1 clue from <name>.",
+                "text_region": {
+                    "height": 487,
+                    "inherit": true
+                },
                 "traits": "Ancient. Ruins.",
-                "type": "location"
+                "type": "location",
+                "victory": "Victory 1."
             },
             "back": {
-                "type": "player"
+                "type": "encounter"
             },
             "encounter_set": "217ea032-41fb-40ee-94e2-e25d8c590897"
         },
         {
-            "name": "Inner Chamber",
+            "name": "71. Inner Chamber",
             "id": "90071",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
-                "copyright": "©  202? FFG",
+                "name": "Inner Chamber",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "mythos"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "clues": "2<per>",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "71",
+                "collection_total": "7/11",
+                "connection": "hourglass",
+                "connections": [
+                    "slash"
+                ],
+                "illustration": "./img/relics_of_the_past/chamber.png",
+                "illustration_pan_x": -68.0,
+                "illustration_pan_y": 71.0,
+                "illustration_scale": 2.05,
                 "illustrator": "Illus. Andreas Zafiratos",
+                "shroud": "4",
                 "text": "<action> Spend X clues: Reveal the top X cards of the exploration deck. Draw 1 non-location card revealed in this way and check your supplies. If you have chalk, you may choose 1 additional non-location card revealed and draw it. Shuffle the remaining cards into the exploration deck.",
                 "traits": "Forgotten. Ruins.",
                 "type": "location"
             },
             "back": {
-                "type": "player"
+                "name": "Inner Chamber",
+                "copyright": "©  2024 FFG",
+                "flavor_text": "The floor of this central chamber is intricately carved and glows strangely. The walls and floor are scuffed with signs of some past struggle.",
+                "illustration": "./img/relics_of_the_past/chamber.png",
+                "illustration_pan_x": -68.0,
+                "illustration_pan_y": 71.0,
+                "illustration_scale": 2.05,
+                "illustrator": "Illus. Andreas Zafiratos",
+                "type": "location_back"
             },
             "encounter_set": "217ea032-41fb-40ee-94e2-e25d8c590897"
         },
         {
-            "name": "Ancient Hall",
+            "name": "72. Ancient Hall",
             "id": "90072",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
-                "copyright": "©  202? FFG",
+                "name": "Ancient Hall",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "mythos"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "clues": "2<per>",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "72",
+                "collection_total": "8/13",
+                "connection": "square",
+                "connections": [
+                    "circle",
+                    "star",
+                    "diamond"
+                ],
                 "flavor_text": "The crumbling hall dares you to venture deeper.",
+                "illustration": "./img/relics_of_the_past/hall.png",
+                "illustration_pan_x": -64.0,
+                "illustration_pan_y": 83.0,
+                "illustration_scale": 2.02,
                 "illustrator": "Illus. Jose Vega",
+                "shroud": "3",
                 "text": "<for> After doom is placed on <name>: Shuffle the top card of the encounter deck into the exploration deck. Any investigator at <name> may spend 3 resources to cancel this effect.",
                 "traits": "Ancient. Ruins.",
                 "type": "location"
             },
             "back": {
-                "type": "player"
+                "type": "encounter"
             },
             "encounter_set": "217ea032-41fb-40ee-94e2-e25d8c590897"
         },
         {
-            "name": "Jade Crocodile",
+            "name": "73. Jade Crocodile",
             "id": "90073",
             "meta": {
                 "folder": "{campaign_cards}/{encounter_set}/{story}/Story Assets"
             },
-            "amount": 2,
+            "amount": 1,
             "front": {
-                "name": "<unique><name>",
-                "copyright": "©  202? FFG",
+                "name": "<unique>Jade Crocodile",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "73",
-                "cost": "<dash>",
+                "collection_total": "9/13",
+                "cost": "---",
+                "illustration": "./img/relics_of_the_past/smol-croc.jpg",
+                "illustration_pan_x": 114.0,
+                "illustration_pan_y": -33.0,
+                "illustration_scale": 1.5,
                 "illustrator": "Illus. Rob Laskey",
                 "level": "None",
                 "subtitle": "Effigy of the Guardian",
                 "text": "<rev> Put <name> into play under your control. You must either place 1 doom on your location, or take 2 damage.\n<for> When you resign: Add <name> to the victory display.",
+                "text_region": {
+                    "height": 420,
+                    "inherit": true
+                },
                 "traits": "Item. Relic. Ancient.",
-                "type": "asset"
+                "type": "asset",
+                "victory": "Victory 1."
             },
             "back": {
-                "type": "player"
+                "type": "encounter"
             },
             "encounter_set": "217ea032-41fb-40ee-94e2-e25d8c590897"
         },
         {
-            "name": "Obsidian Jaguar",
+            "name": "74. Obsidian Jaguar",
             "id": "90074",
             "meta": {
                 "folder": "{campaign_cards}/{encounter_set}/{story}/Story Assets"
             },
-            "amount": 2,
+            "amount": 1,
             "front": {
-                "name": "<unique><name>",
-                "copyright": "©  202? FFG",
+                "name": "<unique>Obsidian Jaguar",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "74",
-                "cost": "<dash>",
+                "collection_total": "10/13",
+                "cost": "---",
+                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/relics_of_the_past/kitteh.jpg",
+                "illustration_pan_x": 119.0,
+                "illustration_pan_y": 85.0,
+                "illustration_scale": 1.5,
                 "illustrator": "Illus. Rob Laskey",
                 "level": "None",
                 "subtitle": "Effigy of the Huntress",
                 "text": "<rev> Put <name> into play under your control. You must either place 1 doom on your location, or the nearest enemy attacks you.\n<for> When you resign: Add <name> to the victory display.",
+                "text_region": {
+                    "height": 420,
+                    "inherit": true
+                },
                 "traits": "Item. Relic. Ancient.",
-                "type": "asset"
+                "type": "asset",
+                "victory": "Victory 1."
             },
             "back": {
-                "type": "player"
+                "type": "encounter"
             },
             "encounter_set": "217ea032-41fb-40ee-94e2-e25d8c590897"
         },
         {
-            "name": "Citrine Snake",
+            "name": "75. Citrine Snake",
             "id": "90075",
             "meta": {
                 "folder": "{campaign_cards}/{encounter_set}/{story}/Story Assets"
             },
-            "amount": 2,
+            "amount": 1,
             "front": {
-                "name": "<unique><name>",
-                "copyright": "©  202? FFG",
+                "name": "<unique>Citrine Snake",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "75",
-                "cost": "<dash>",
+                "collection_total": "11/13",
+                "cost": "---",
+                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/relics_of_the_past/snek.jpg",
+                "illustration_pan_x": 52.0,
+                "illustration_pan_y": -50.0,
+                "illustration_scale": 2.3,
                 "illustrator": "Illus. Rob Laskey",
                 "level": "None",
                 "subtitle": "Effigy of the Child",
                 "text": "<rev> Put <name> into play under your control. If you are poisoned, take 1 direct damage. If you are not poisoned, put a set-aside Poisoned weakness into play in your threat area.\n<for> When you resign: Add <name> to the victory display.",
+                "text_region": {
+                    "height": 420,
+                    "inherit": true
+                },
                 "traits": "Item. Relic. Ancient.",
-                "type": "asset"
+                "type": "asset",
+                "victory": "Victory 1."
             },
             "back": {
-                "type": "player"
+                "type": "encounter"
             },
             "encounter_set": "217ea032-41fb-40ee-94e2-e25d8c590897"
         },
         {
-            "name": "Turquoise Eagle",
+            "name": "76. Turquoise Eagle",
             "id": "90076",
             "meta": {
                 "folder": "{campaign_cards}/{encounter_set}/{story}/Story Assets"
             },
-            "amount": 2,
+            "amount": 1,
             "front": {
-                "name": "<unique><name>",
-                "copyright": "©  202? FFG",
+                "name": "<unique>Turquoise Eagle",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "76",
-                "cost": "<dash>",
+                "collection_total": "12/13",
+                "cost": "---",
+                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/relics_of_the_past/birb.jpg",
+                "illustration_mirror": true,
+                "illustration_pan_x": 81.0,
+                "illustration_pan_y": 94.0,
+                "illustration_scale": 1.6,
                 "illustrator": "Illus. Rob Laskey",
                 "level": "None",
                 "subtitle": "Effigy of the Watcher",
                 "text": "<rev> Put <name> into play under your control. You must either place 1 doom on your location, or take 2 horror.\n<for> When you resign: Add <name> to the victory display.",
+                "text_region": {
+                    "height": 420,
+                    "inherit": true
+                },
                 "traits": "Item. Relic. Ancient.",
-                "type": "asset"
+                "type": "asset",
+                "victory": "Victory 1."
             },
             "back": {
-                "type": "player"
+                "type": "encounter"
             },
             "encounter_set": "217ea032-41fb-40ee-94e2-e25d8c590897"
         },
         {
-            "name": "Vengeant Past",
+            "name": "77. Vengeant Past",
             "id": "90077",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
-                "copyright": "©  202? FFG",
+                "name": "Vengeant Past",
+                "copyright": "©  2025 FFG",
                 "classes": [
                     "mythos"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/relics_of_the_past.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "77",
+                "collection_total": "13/13",
+                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/relics_of_the_past/past2.png",
+                "illustration_pan_x": -62.0,
+                "illustration_pan_y": -220.0,
+                "illustration_scale": 1.68,
                 "illustrator": "Illus. Rob Laskey",
                 "text": "Peril.\n<rev> For each <t>Ancient</t> story asset controlled by an investigator, you must either <i>(choose one)</i>:\n- Deal 1 damage or horror to that asset's controller.\n- Shuffle that asset into the exploration deck.\nAfter this effect resolves, shuffle <name> into the exploration deck.",
                 "traits": "Power.",
                 "type": "treachery"
             },
             "back": {
-                "type": "player"
+                "type": "encounter"
             },
             "encounter_set": "217ea032-41fb-40ee-94e2-e25d8c590897"
         },
@@ -3298,9 +3403,7 @@
         {
             "name": "Zoey Samaras (Parallel front)",
             "id": "02001-pf",
-            "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}"
-            },
+            "meta": {},
             "amount": 1,
             "front": {
                 "name": "<unique>Zoey Samaras",
@@ -3346,14 +3449,12 @@
                 "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, [[Blessed]] and [[Charm]] cards level 0-4, Neutral cards level 0-5, up to five other Mystic cards ([mystic]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Zoey's Cross, Smite the Wicked, 1 random basic weakness.",
                 "type": "investigator_back"
             },
-            "encounter_set": "2995f081-5ace-43e1-a764-18f475649397"
+            "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
         },
         {
             "name": "Zoey Samaras (Parallel back)",
             "id": "02001-pb",
-            "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}"
-            },
+            "meta": {},
             "amount": 1,
             "front": {
                 "name": "<unique>Zoey Samaras",
@@ -3396,7 +3497,7 @@
                 "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, [[Blessed]] and [[Charm]] cards level 0-4, Neutral cards level 0-5, up to five other Mystic cards ([mystic]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Zoey's Cross, Smite the Wicked, 1 random basic weakness.",
                 "type": "investigator_back"
             },
-            "encounter_set": "2995f081-5ace-43e1-a764-18f475649397"
+            "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
         }
     ],
     "encounter_sets": [
