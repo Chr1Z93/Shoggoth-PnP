@@ -1217,7 +1217,7 @@
     "guides": {
         "9f6d3e06-c780-4017-aa86-627640d6d0fc": {
             "name": "Relikty przeszłości",
-            "front_page": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/relics_of_the_past/Rotp - Cover PL.jpg",
+            "front_page": "./img/relics_of_the_past/Rotp - Cover PL.jpg",
             "sections": [
                 {
                     "name": "Cover",
