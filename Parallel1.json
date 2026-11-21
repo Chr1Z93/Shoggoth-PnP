@@ -1890,7 +1890,7 @@
             "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
         },
         {
-            "name": "62.Monterey Jack (Parallel)",
+            "name": "62.1 Monterey Jack (Parallel)",
             "id": "08007-p",
             "meta": {
                 "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
@@ -3498,6 +3498,108 @@
                 "type": "investigator_back"
             },
             "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
+        },
+        {
+            "name": "62.2 Monterey Jack (Parallel Back)",
+            "id": "08007-pb",
+            "meta": {
+                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Monterey Jack",
+                "copyright": "©  2024 FFG",
+                "agility": "5",
+                "classes": [
+                    "rogue"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
+                "collection_number": "62",
+                "collection_total": " ",
+                "combat": "2",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "\"You call this archaeology?\"",
+                "health": "8",
+                "illustration": "./img/relics_of_the_past/jack.png",
+                "illustration_fade_mode": "distance",
+                "illustration_shape": "./img/relics_of_the_past/mask.png",
+                "illustrator": "Illus. Tony Foti",
+                "intellect": "4",
+                "sanity": "6",
+                "subtitle": "The Archaeologist",
+                "text": "<reaction> After you discover the last clue at your location: Search the top X cards of your deck for a <t>Charm</t> or <t>Relic</t> asset and play it, reducing its cost by X. X is the printed shroud of your location. Shuffle your deck. (Limit once per round.)\n<elder_sign> effect: +1. Gain 1 resource for each <t>Charm</t> asset and each <t>Relic</t> asset you control.",
+                "traits": "Wayfarer.",
+                "type": "investigator",
+                "willpower": "1"
+            },
+            "back": {
+                "name": "<unique>Monterey Jack",
+                "classes": [
+                    "parallel_rogue"
+                ],
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "Young Jack traveled the world with his father’s archaeological expeditions. Now a globe-trotting treasure hunter and an accomplished archaeologist in his own right, “Monterey” follows in his father’s footsteps, securing the treasures of ancient civilizations and lost cultures. But after discovering a silver pendant with a familiar symbol on it, Monterey must explore his own past. Years ago, his father was found murdered with the very same sigil carved onto his forehead. The image has haunted Monterey’s dreams ever since. But he’s getting close. He won’t stop until he solves the mystery of his father’s murder... no matter what it takes.",
+                "illustration_pan_x": -50.0,
+                "illustration_pan_y": -21.0,
+                "illustration_rotation": "-15",
+                "illustration_scale": 0.64,
+                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, [[Charm]] and [[Relic]] cards level 0-4, Neutral cards level 0-5, up to 5 other Seeker cards ([seeker]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Trusty Bullwhip, Buried Secrets, 1 random basic weakness.",
+                "type": "investigator_back"
+            },
+            "encounter_set": "217ea032-41fb-40ee-94e2-e25d8c590897"
+        },
+        {
+            "name": "62.3 Monterey Jack (Parallel Front)",
+            "id": "08007-pf",
+            "meta": {
+                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Monterey Jack",
+                "copyright": "©  2024 FFG",
+                "agility": "5",
+                "classes": [
+                    "rogue"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
+                "collection_number": "62",
+                "collection_total": " ",
+                "combat": "2",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "\"You call this archaeology?\"",
+                "health": "8",
+                "illustration": "./img/relics_of_the_past/jack.png",
+                "illustration_fade_mode": "distance",
+                "illustration_shape": "./img/relics_of_the_past/mask.png",
+                "illustrator": "Illus. Tony Foti",
+                "intellect": "4",
+                "sanity": "6",
+                "subtitle": "The Archaeologist",
+                "text": "<reaction> After you discover the last clue at your location: Search the top X cards of your deck for a <t>Charm</t> or <t>Relic</t> asset and play it, reducing its cost by X. X is the printed shroud of your location. Shuffle your deck. (Limit once per round.)\n<elder_sign> effect: +1. Gain 1 resource for each <t>Charm</t> asset and each <t>Relic</t> asset you control.",
+                "traits": "Wayfarer.",
+                "type": "investigator",
+                "willpower": "1"
+            },
+            "back": {
+                "name": "<unique>Monterey Jack",
+                "classes": [
+                    "parallel_rogue"
+                ],
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "Young Jack traveled the world with his father’s archaeological expeditions. Now a globe-trotting treasure hunter and an accomplished archaeologist in his own right, “Monterey” follows in his father’s footsteps, securing the treasures of ancient civilizations and lost cultures. But after discovering a silver pendant with a familiar symbol on it, Monterey must explore his own past. Years ago, his father was found murdered with the very same sigil carved onto his forehead. The image has haunted Monterey’s dreams ever since. But he’s getting close. He won’t stop until he solves the mystery of his father’s murder... no matter what it takes.",
+                "illustration_pan_x": -50.0,
+                "illustration_pan_y": -21.0,
+                "illustration_rotation": "-15",
+                "illustration_scale": 0.64,
+                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, [[Charm]] and [[Relic]] cards level 0-4, Neutral cards level 0-5, up to 5 other Seeker cards ([seeker]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Trusty Bullwhip, Buried Secrets, 1 random basic weakness.",
+                "type": "investigator_back"
+            },
+            "encounter_set": "217ea032-41fb-40ee-94e2-e25d8c590897"
         }
     ],
     "encounter_sets": [
