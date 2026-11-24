@@ -1,0 +1,112 @@
+{
+    "id": "cee61cec-10c6-4e38-87a2-46cd881da214",
+    "cards": {
+        "3dbd0462-ac13-4949-afa4-e92f373fbbb1": {
+            "front": {
+                "flavor_text": "Trzymaj się reguł: stawiaj<br>kropkę nad każdym „i”, kreskę<br>na każdym „t”. To zawsze działało. Aż do teraz.",
+                "subtitle": "Agent federalny",
+                "text": "<reaction> Po tym, jak pokonasz<br>wroga: odkryj 1 żeton wskazówki w twojej lokalizacji. (Limit raz na rundę).\nEfekt <elder_sign>: +1 za każdy żeton wskazówki w twojej lokalizacji.",
+                "traits": "Agencja. Detektyw."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Strażnika (<guardian>)<br>o poziomie 0–5, karty Poszukiwacza (<seeker>)<br>o poziomie 0–2, karty neutralne o poziomie 0–5."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do<br>wielkości talii):",
+                        "Specjalna .38 Rolanda, Zacieranie śladów, 1 losowe podstawowe osłabienie."
+                    ]
+                ],
+                "flavor_text": "Procedury i przepisy dawały Rolandowi poczucie wewnętrznego spokoju. Czuł ogromną ulgę, że jako agent Biura zawsze posiadał ścisłe wytyczne, jak postępować w każdej sytuacji. Jednak w ostatnich sprawach, które mu przydzielono, Podręcznik Agenta Federalnego okazał się zupełnie bezużyteczny. Mimo usilnych starań Roland nie znalazł w podręczniku żadnej wzmianki na temat tego, co robić, gdy natrafi się na dziwne stwory, portale czasoprzestrzenne albo magiczne zaklęcia. Gdyby nie zobaczył tego na własne oczy, na pewno nie uwierzyłby w takie rzeczy... i nie ma mowy, żeby jego zwierzchnicy uwierzyli. Roland wiedział, że tym razem musi rozpracować to sam.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Strażnika (<guardian>)<br>o poziomie 0–5, karty Poszukiwacza (<seeker>)<br>o poziomie 0–2, karty neutralne o poziomie 0–5.\n<b>Wymogi tworzenia talii</b> (nie wliczane do<br>wielkości talii): Specjalna .38 Rolanda, Zacieranie śladów, 1 losowe podstawowe osłabienie."
+            }
+        },
+        "98002": {
+            "name": "02. Medalion Zielonego Człowieka",
+            "front": {
+                "name": "Medalion Zielonego Człowieka",
+                "subtitle": "Godzina łowczyni",
+                "text": "Tylko talia Jenny Barnes. Zamiennik.\n<free> Wydaj maksymalnie 3 zasoby i wyczerp Medalion Zielonego Człowieka: umieść te zasoby na nim, jako ofiary.\n<reaction> Kiedy zrezygnujesz lub gra się skończy: za każde 6 ofiar na Medalionie Zielonego Człowieka obniż o 1 koszt w punktach doświadczenia następnej karty, którą kupisz przed następnym scenariuszem.",
+                "traits": "Przedmiot. Relikwia."
+            }
+        },
+        "98003": {
+            "name": "03. Ofiarna bestia",
+            "front": {
+                "name": "Ofiarna bestia",
+                "flavor_text": "Grube kończyny, niczym mokre gałęzie, wyciągały<br>się ku niebu wysoko ponad podestem. Kołysały się,<br>a Jenny nie potrafiła stwierdzić, czy w agonii,<br>czy w uniesieniu. \n– Dave Gross, </i>Hour of the Huntress<i>",
+                "text": "Tylko talia Jenny Barnes. Zamiennik.\n<b>Rozstawienie</b> – Lokalizacja najdalsza od ciebie.\nJenny Barnes nie może zyskiwać zasobów w wyniku efektów kart.",
+                "traits": "Potwór. Mroczne Młode."
+            }
+        },
+        "98005": {
+            "name": "02. Niewyjaśnione tajemnice",
+            "front": {
+                "name": "Niewyjaśnione tajemnice",
+                "illustration_pan_x": 6.0,
+                "illustration_scale": 1.97,
+                "text": "Tylko talia Rolanda Banksa. Zamiennik.\nSzybka. Zagraj tylko podczas twojej tury.\nAlbo umieść 1 wskazówkę <i>(z puli żetonów)</i> na twojej lokalizacji, albo odkryj 1 wskazówkę w twojej lokalizacji. Usuń Niewyjaśnione tajemnice z gry.",
+                "traits": "Informacja."
+            }
+        },
+        "98006": {
+            "name": "03. Lament rozumu",
+            "front": {
+                "name": "Lament rozumu",
+                "flavor_text": "…czy muzyka była częścią snu, czy sen częścią muzyki?<br>– Graeme Davis, </i>The Dirge of Reason<i>",
+                "text": "Tylko talia Rolanda Banksa. Zamiennik.\n<b>Odkrycie</b> – Umieść 2 z twoich wskazówek na twojej lokalizacji. Jeśli nie możesz tego zrobić, umieść wszystkie twoje wskazówki na twojej lokalizacji, otrzymaj 1 punkt przerażenia i wtasuj Lament rozumu z powrotem do twojej talii.",
+                "traits": "Szaleństwo."
+            }
+        },
+        "b36f4676-b051-493f-ab12-0d3f8132ea38": {
+            "front": {
+                "flavor_text": "„Daj spokój z tą »Panną Barnes«.<br>Przyjaciele mówią mi Jenny”.",
+                "illustration_pan_x": 7.0,
+                "subtitle": "Dyletantka",
+                "text": "Podczas każdej fazy<br>utrzymania otrzymujesz 1 dodatkowy żeton zasobu.\nEfekt <elder_sign>: +1 za każdy żeton zasobu, który posiadasz.",
+                "traits": "Tułacz."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "Karty Łotra (<rogue>)<br>o poziomie 0-5, karty neutralne o poziomie 0-5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Poszukiwacza, Łotra, Mistyka i/lub Ocalałego)."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
+                        "Bliźniacze .45 Jenny, Poszukiwanie Izzie,<br>1 losowe podstawowe osłabienie."
+                    ],
+                    [
+                        "",
+                        "a"
+                    ],
+                    [
+                        "",
+                        "a"
+                    ]
+                ],
+                "flavor_text": "Jenny Barnes spędziła większość swojego młodego życia na pogoni za luksusem, znakomitą kuchnią i najnowszą modą. Wszystko zmieniło się, kiedy otrzymała list od swojej siostry, Isabelle. W liście Isabelle pisała, że sprzysięgły się przeciw niej tajemnicze siły i boi się, że może paść ofiarą jakiegoś nadnaturalnego zagrożenia. Był to ostatni list, jaki Jenny otrzymała od ukochanej siostry. Powróciła więc do Stanów, aby zbadać wszelkie okultystyczne zjawiska, jakie tylko zdoła znaleźć. Jenny wielokrotnie udowodniła, że nie jest delikatnym kwiatuszkiem, lecz wyborowym strzelcem oraz sprytnym i nieustraszonym badaczem tajemnic. Dopóki zniknięcie Isabelle się nie wyjaśni, nie zrezygnuje ze swych poszukiwań.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: Karty Łotra (<rogue>)<br>o poziomie 0-5, karty neutralne o poziomie 0-5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Poszukiwacza, Łotra, Mistyka i/lub Ocalałego).\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Bliźniacze .45 Jenny, Poszukiwanie Izzie,<br>1 losowe podstawowe osłabienie."
+            }
+        }
+    },
+    "encounter_sets": {},
+    "guides": {},
+    "parent": "Promo1.json",
+    "project": {
+        "meta": {
+            "language": "pl"
+        }
+    },
+    "type": "modification"
+}

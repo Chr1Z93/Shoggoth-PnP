@@ -1,0 +1,266 @@
+{
+    "name": "Promo Cards Chapter 1",
+    "id": "b855c90e-d488-4f5f-b501-e6f9e40af8c5",
+    "code": "prom1",
+    "icon": "",
+    "meta": {
+        "dirty": []
+    },
+    "cards": [
+        {
+            "name": "Green Man Medallion",
+            "id": "98002",
+            "meta": {
+                "folder": "{player_cards}/01. Hour of the Huntress"
+            },
+            "amount": 2,
+            "front": {
+                "name": "Green Man Medallion",
+                "copyright": "© 2017 FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image src=\"./icons/novella.svg\" color=\"inverted\">",
+                "collection_number": "2",
+                "cost": "1",
+                "icons": "QQ",
+                "illustration": "./img/novellas/medallion.png",
+                "illustration_pan_x": 62.0,
+                "illustration_pan_y": 57.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. David Griffith",
+                "level": "None",
+                "slots": [
+                    "accessory"
+                ],
+                "subtitle": "Hour of the Huntress",
+                "text": "Jenny Barnes deck only. Replacement.\n<free> Spend up to 3 resources and exhaust Green Man Medallion: Place those resources on it, as offerings.\n<reaction> When you resign or the game ends: For every 6 offerings on Green Man Medallion, reduce the experience cost of the next card you purchase before the next scenario by 1.",
+                "traits": "Item. Relic.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Sacrificial Beast",
+            "id": "98003",
+            "meta": {
+                "folder": "{player_cards}/01. Hour of the Huntress"
+            },
+            "amount": 3,
+            "front": {
+                "copyright": "© 2017 FFG",
+                "attack": "4",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image src=\"./icons/novella.svg\" color=\"inverted\">",
+                "collection_number": "3",
+                "damage": "1",
+                "evade": "2",
+                "flavor_text": "Thick limbs like wet branches yearned skyward, high above the platform. They swayed, whether in agony or exaltation Jenny could not tell. - Dave Gross, </i>Hour of the Huntress",
+                "health": "3",
+                "horror": "1",
+                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/novellas/beast.png",
+                "illustration_pan_x": 13.0,
+                "illustration_pan_y": 80.0,
+                "illustrator": "Illus.  Tiffany Turrill",
+                "text": "Jenny Barnes deck only. Replacement.\n<b>Spawn</b> - Location farthest from you.\nJenny Barnes cannot gain resources via card effects.",
+                "traits": "Monster. Dark Young.",
+                "type": "enemy"
+            },
+            "back": {
+                "type": "encounter"
+            }
+        },
+        {
+            "name": "01. Jenny Barnes",
+            "id": "b36f4676-b051-493f-ab12-0d3f8132ea38",
+            "meta": {
+                "folder": "{player_cards}/01. Hour of the Huntress"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Jenny Barnes",
+                "copyright": "©  2017 FFG",
+                "agility": "3",
+                "classes": [
+                    "rogue"
+                ],
+                "collection_icon": "<image src=\"./icons/novella.svg\" color=\"inverted\">",
+                "collection_number": "1",
+                "collection_total": " ",
+                "combat": "3",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "\"No more 'Miss Barnes' from you. My friends call me Jenny.\"",
+                "health": "8",
+                "illustration": "./img/novellas/jenny.png",
+                "illustration_pan_x": 80.0,
+                "illustration_pan_y": 92.0,
+                "illustration_scale": 2.0,
+                "illustration_shape_overflow": true,
+                "illustrator": "Illus. Tony Foti",
+                "intellect": "3",
+                "sanity": "7",
+                "subtitle": "The Dilettante",
+                "text": "You collect 1 additional<br>resource during each upkeep phase.\n<elder_sign> effect: +1 for each resource you have.",
+                "traits": "Drifter.",
+                "type": "investigator",
+                "willpower": "3"
+            },
+            "back": {
+                "name": "<unique>Jenny Barnes",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        "a"
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        "a"
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "a"
+                    ],
+                    [
+                        "<b>Deckbuilding Restrictions:</b>",
+                        "a"
+                    ]
+                ],
+                "flavor_text": "<name> has spent the majority of her young life in pursuit of creature comforts, fine dining, and the latest fashions. That all changed when she received a letter from her sister, Isabelle. In this letter, Isabelle confessed that mysterious forces were aligning against her and that she feared she may fall victim to some paranormal threat. It was the last letter Jenny received from her beloved sister. Jenny has since returned to the States to track down and investigate all occult occurrences she can find. Hardly a wilting flower, she has proven herself a crack shot as well as a fearless and clever investigator of the unknown. Until Isabelle's disappearance is explained, Jenny will never relent in her search.",
+                "illustration": "./img/novellas/jennysmol.webp",
+                "illustration_pan_x": -96.0,
+                "illustration_pan_y": -330.0,
+                "illustration_scale": 1.687,
+                "text": "<b>Deck Size:</b> 30\n<b>Secondary Class Choice:</b> a\n<b>Deckbuilding Options:</b> a\n<b>Deckbuilding Requirements</b> (do not count toward deck size): a\n<b>Deckbuilding Restrictions:</b> a",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "01. Roland Banks",
+            "id": "3dbd0462-ac13-4949-afa4-e92f373fbbb1",
+            "meta": {
+                "folder": "{player_cards}/02. The Dirge of Reason"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Roland Banks",
+                "copyright": "©  2017 FFG",
+                "agility": "2",
+                "classes": [
+                    "guardian"
+                ],
+                "collection_icon": "<image src=\"./icons/novella.svg\" color=\"inverted\">",
+                "collection_number": "4",
+                "combat": "4",
+                "flavor_text": "Everything by the book: every \"i\" dotted, every \"t\" crossed. It had worked, until now.",
+                "health": "9",
+                "illustration": "./img/novellas/roland.png",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 85.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Brian Valenzuela",
+                "intellect": "3",
+                "name_unique": "<unique>",
+                "sanity": "5",
+                "subtitle": "The Fed",
+                "text": "<reaction> After you defeat an enemy: Discover 1 clue at your location. (Limit once per round.)\n<elder_sign> effect: +1 for each clue on your location.",
+                "traits": "Agency. Detective.",
+                "type": "investigator",
+                "willpower": "3"
+            },
+            "back": {
+                "name": "<unique>Roland Banks",
+                "classes": [
+                    "guardian"
+                ],
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30."
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        "Guardian cards (<guardian>) level 0-5, Seeker cards (<seeker>) level 0-2, Neutral cards level 0-5."
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "Roland's .38 Special, Cover Up, 1 random basic weakness."
+                    ]
+                ],
+                "flavor_text": "Roland had always taken comfort in procedure and rules. As an agent in the Bureau, he was relieved to have guidelines to follow in any given situation. But lately, his Federal Agent's Handbook had been entirely unhelpful given the cases he'd been assigned. Try as he might, Roland could find no mention of what to do when confronted with strange creatures, gates through time and space, or magic spells. If he hadn't seen it with his own eyes, he would never have believed it... and there's no way his superiors would understand. Roland knew he would have to handle this one himself.",
+                "illustration": "./img/novellas/roland.png",
+                "illustration_pan_x": -232.0,
+                "illustration_pan_y": -170.0,
+                "illustration_rotation": "-10",
+                "illustration_scale": 1.68,
+                "text": "<b>Deck Size:</b> 30.\n<b>Deckbuilding Options:</b> Guardian cards (<guardian>) level 0-5, Seeker cards (<seeker>) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Roland's .38 Special, Cover Up, 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "02. Mysteries Remain",
+            "id": "98005",
+            "meta": {
+                "folder": "{player_cards}/02. The Dirge of Reason"
+            },
+            "front": {
+                "name": "Mysteries Remain",
+                "copyright": "©  2017 FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "5",
+                "cost": "0",
+                "icons": "ICQ",
+                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/novellas/mysteries.png",
+                "illustrator": "Illus. Anthony Devine",
+                "text": "Roland Banks deck only. Replacement.\nFast. Play only during your turn.\nEither place 1 clue <i>(from the token bank</i>) on your location, or discover 1 clue at your location. Remove Mysteries Remain from the game.\n",
+                "traits": "Insight.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "03. The Dirge of Reason",
+            "id": "98006",
+            "meta": {
+                "folder": "{player_cards}/02. The Dirge of Reason"
+            },
+            "front": {
+                "name": "The Dirge of Reason",
+                "copyright": "©  2017 FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "6",
+                "flavor_text": "...was the music a part of the dream, or the dream a part of<br>the music? - Graeme Davis, The Dirge of Reason",
+                "illustration": "./img/novellas/dirge.jpg",
+                "illustration_pan_x": 121.0,
+                "illustration_pan_y": -76.0,
+                "illustration_scale": 0.425,
+                "illustrator": "Illus.  Shane Pierce",
+                "text": "Roland Banks deck only. Replacement.\n<b>Revelation</b> - Place 2 of your clues on your location. If you cannot, place all of your clues on your location, take 1 horror, and shuffle The Dirge of Reason back into your deck.",
+                "traits": "Madness.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
+        }
+    ],
+    "encounter_sets": []
+}
