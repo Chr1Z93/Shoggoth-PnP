@@ -1176,10 +1176,10 @@
             "encounter_set": "e03c7398-40d4-4cd2-890c-3315ad1747b7"
         },
         {
-            "name": "PA - \"Ashcan\" Pete",
+            "name": "46. \"Ashcan\" Pete (Parallel)",
             "id": "02005-p",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}"
+                "folder": "{player_cards}/06. On the road again"
             },
             "amount": 1,
             "front": {
@@ -1202,7 +1202,7 @@
                 "illustration_pan_x": -7.0,
                 "illustration_pan_y": 305.0,
                 "illustration_scale": 1.12,
-                "illustration_shape": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/on_the_road_again/mask.png",
+                "illustration_shape": "./img/on_the_road_again/mask.png",
                 "illustrator": "Illus. Jake Murray",
                 "intellect": "2",
                 "sanity": "7",
@@ -1240,17 +1240,17 @@
                 "illustration_scale": 0.65,
                 "text": "<b>Deck Size:</b> 30\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-3, [[Improvised]] and [[Tactic]] cards level 0-4, Neutral cards level 0-5, up to 5 other Guardian cards ([guardian]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Duke, Wracked by Nightmares, 1 random basic weakness.",
                 "type": "investigator_back"
-            },
-            "encounter_set": "555c3925-5d98-4b5d-8720-1082773dad87"
+            }
         },
         {
-            "name": "Pete's Guitar",
+            "name": "47. Pete's Guitar",
             "id": "90047",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/06. On the road again"
             },
             "amount": 1,
             "front": {
+                "name": "Pete's Guitar",
                 "copyright": "©  2023 FFG",
                 "classes": [
                     "neutral"
@@ -1274,17 +1274,17 @@
             },
             "back": {
                 "type": "player"
-            },
-            "encounter_set": "555c3925-5d98-4b5d-8720-1082773dad87"
+            }
         },
         {
-            "name": "Hard Times",
+            "name": "48. Hard Times",
             "id": "90048",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/06. On the road again"
             },
             "amount": 1,
             "front": {
+                "name": "Hard Times",
                 "copyright": "©  2023 FFG",
                 "classes": [
                     "weakness"
@@ -1302,14 +1302,13 @@
             },
             "back": {
                 "type": "player"
-            },
-            "encounter_set": "555c3925-5d98-4b5d-8720-1082773dad87"
+            }
         },
         {
-            "name": "Jim Culver (Parallel)",
+            "name": "49. Jim Culver (Parallel)",
             "id": "02004-p",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}"
+                "folder": "{player_cards}/07. Laid to rest"
             },
             "amount": 1,
             "front": {
@@ -1327,11 +1326,11 @@
                 "encounter_overlay": null,
                 "flavor_text": "“I know I can make the dead dance.”",
                 "health": "7",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/laid_to_rest/jim.png",
+                "illustration": "./img/laid_to_rest/jim.png",
                 "illustration_pan_x": 75.0,
                 "illustration_pan_y": 130.0,
                 "illustration_scale": 1.27,
-                "illustration_shape": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/laid_to_rest/mask.png",
+                "illustration_shape": "./img/laid_to_rest/mask.png",
                 "illustrator": "Illus. Magali Villeneuve",
                 "intellect": "3",
                 "sanity": "8",
@@ -1371,25 +1370,24 @@
                     ]
                 ],
                 "flavor_text": "Jazz has been nothing but trouble for Jim since the day he picked up his daddy’s trumpet. But the dead sure love it when he plays, so Jim has no intention of stopping.",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/laid_to_rest/jim1.jpg",
+                "illustration": "./img/laid_to_rest/jim1.jpg",
                 "illustration_pan_x": 135.0,
                 "illustration_pan_y": 66.0,
                 "illustration_rotation": "-5",
                 "illustration_scale": 0.8,
                 "text": "<b>Deck Size:</b> 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-3, [[Spell]] and [[Cursed]] cards level 0-4, Neutral cards level 0-5, up to five other Survivor cards ([survivor]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Jim's Trumpet, Final Rhapsody, The Beyond, 1 random basic weakness.\n<b>Spirit Deck Size</b>: 10.\n<b>Spirit Deckbuilding Options</b>: 9 different [[Ally]] assets from any class level 0–2, Vengeful Shade.\n<b>Spirit Deck Instructions</b> Shuffle the “spirit deck” separately from your deck and place it next to The Beyond asset, facedown. This deck may be upgraded separately using your unspent experience.",
                 "type": "investigator_back"
-            },
-            "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
+            }
         },
         {
-            "name": "Jim's Trumpet",
+            "name": "50. Jim's Trumpet",
             "id": "90050",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/07. Laid to rest"
             },
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<unique>Jim's Trumpet",
                 "copyright": "©  2023 FFG",
                 "classes": [
                     "neutral"
@@ -1421,13 +1419,14 @@
             "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
         },
         {
-            "name": "Final Rhapsody",
+            "name": "51. Final Rhapsody",
             "id": "90051",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/07. Laid to rest"
             },
             "amount": 1,
             "front": {
+                "name": "Final Rhapsody",
                 "copyright": "©  2023 FFG",
                 "classes": [
                     "weakness"
@@ -1450,14 +1449,12 @@
             "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
         },
         {
-            "name": "The Beyond",
+            "name": "52. The Beyond",
             "id": "90052",
-            "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
-            },
+            "meta": {},
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
+                "name": "<unique>The Beyond",
                 "copyright": "©  2023 FFG",
                 "classes": [
                     "neutral"
@@ -1490,13 +1487,14 @@
             "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
         },
         {
-            "name": "Vengeful Shade",
+            "name": "53. Vengeful Shade",
             "id": "90053",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{campaign_cards}/{encounter_set}/{story}"
             },
             "amount": 1,
             "front": {
+                "name": "Vengeful Shade",
                 "copyright": "©  2023 FFG",
                 "attack": "5",
                 "classes": [
@@ -1523,11 +1521,12 @@
             "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
         },
         {
-            "name": "Laid to Rest",
+            "name": "54. Laid to Rest",
             "id": "90054",
             "meta": {},
             "amount": 2,
             "front": {
+                "name": "<dbl>Laid to Rest</dbl>",
                 "copyright": "©  203? FFG",
                 "chaos_extra": "Spiritual Disturbances",
                 "chaos_extra_region": {
@@ -1579,6 +1578,7 @@
                 "type": "chaos"
             },
             "back": {
+                "name": "<dbl>Laid to Rest</dbl>",
                 "copyright": "© 2023 FFG",
                 "chaos_extra": "Spiritual Disturbances",
                 "chaos_extra_region": {
@@ -1673,7 +1673,7 @@
                 "collection_number": "56",
                 "collection_total": "3/8",
                 "flavor_text": "If you help these ghosts, they'll help you.",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/laid_to_rest/act2.png",
+                "illustration": "./img/laid_to_rest/act2.png",
                 "illustration_pan_x": 824.0,
                 "illustration_pan_y": -259.0,
                 "illustration_scale": 1.4,
@@ -1707,7 +1707,7 @@
                 "damage": "1",
                 "evade": "3",
                 "health": "3",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/laid_to_rest/jean.png",
+                "illustration": "./img/laid_to_rest/jean.png",
                 "illustration_pan_x": 32.0,
                 "illustration_pan_y": 1141.0,
                 "illustration_scale": 2.125,
@@ -1728,7 +1728,7 @@
                 "evade": "2",
                 "health": "3<per>",
                 "horror": "1",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/laid_to_rest/jean.png",
+                "illustration": "./img/laid_to_rest/jean.png",
                 "illustration_pan_x": 32.0,
                 "illustration_pan_y": 1141.0,
                 "illustration_scale": 2.125,
@@ -1755,7 +1755,7 @@
                 "evade": "4",
                 "health": "4",
                 "horror": "1",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/laid_to_rest/spirit2.png",
+                "illustration": "./img/laid_to_rest/spirit2.png",
                 "illustration_pan_x": -32.0,
                 "illustration_pan_y": 943.0,
                 "illustration_scale": 2.21,
@@ -1778,7 +1778,9 @@
         {
             "name": "Zoey Samaras (Parallel)",
             "id": "02001-p",
-            "meta": {},
+            "meta": {
+                "folder": "{player_cards}/08. Path of the Righteous"
+            },
             "amount": 1,
             "front": {
                 "name": "<unique>Zoey Samaras",
@@ -1820,80 +1822,13 @@
                 "illustration_scale": 0.597,
                 "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, [[Blessed]] and [[Charm]] cards level 0-4, Neutral cards level 0-5, up to five other Mystic cards ([mystic]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Zoey's Cross, Smite the Wicked, 1 random basic weakness.",
                 "type": "investigator_back"
-            },
-            "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
-        },
-        {
-            "name": "Zoey's Cross",
-            "id": "90060",
-            "meta": {},
-            "amount": 1,
-            "front": {
-                "name": "<unique><name>",
-                "copyright": "©  2023 FFG",
-                "classes": [
-                    "neutral"
-                ],
-                "collection_icon": "<image color=\"inverted\" src=\".\\icons\\parallel.png\">",
-                "collection_number": "60",
-                "collection_total": " ",
-                "cost": "1",
-                "encounter_icon": " ",
-                "encounter_overlay": null,
-                "icons": "CCQ",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/path_of_the_righteous/cross.png",
-                "illustration_pan_x": 91.0,
-                "illustration_pan_y": 110.0,
-                "illustration_scale": 1.95,
-                "illustrator": "Illus. Preston Stone",
-                "level": "None",
-                "slots": [
-                    "accessory"
-                ],
-                "subtitle": "Symbol of Righteousness",
-                "text": "Zoey Samaras deck only. Advanced.\n<reaction> After you engage an enemy, exhaust Zoey’s Cross and spend 1 resource: Deal 1 damage to that enemy.\n<free> Remove 2 <blessing> tokens from the chaos bag: Engage an enemy at your location.",
-                "traits": "Item. Charm.",
-                "type": "asset"
-            },
-            "back": {
-                "type": "player"
-            },
-            "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
-        },
-        {
-            "name": "Smite the Wicked",
-            "id": "90061",
-            "meta": {},
-            "amount": 1,
-            "front": {
-                "copyright": "©  2023 FFG",
-                "classes": [
-                    "weakness"
-                ],
-                "collection_icon": "<image color=\"inverted\" src=\".\\icons\\parallel.png\">",
-                "collection_number": "61",
-                "collection_total": " ",
-                "encounter_icon": " ",
-                "encounter_overlay": null,
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/path_of_the_righteous/smite.jpg",
-                "illustration_pan_x": 87.0,
-                "illustration_pan_y": -11.0,
-                "illustration_scale": 0.609,
-                "illustrator": "Illus. Preston Stone",
-                "text": "Advanced. Attached enemy gets +2 fight and +2 health.\n<rev> Discard cards from the top of the encounter deck until an enemy is discarded. Attach <name> to that enemy and spawn it at the location farthest from you.\n<for> When the game ends, if attached enemy is in play: Zoey Samaras suffers 1 mental trauma.",
-                "traits": "Task.",
-                "type": "treachery"
-            },
-            "back": {
-                "type": "player"
-            },
-            "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
+            }
         },
         {
             "name": "62.1 Monterey Jack (Parallel)",
             "id": "08007-p",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/09. Relics of the Past"
             },
             "amount": 1,
             "front": {
@@ -1937,14 +1872,13 @@
                 "illustration_scale": 0.64,
                 "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, [[Charm]] and [[Relic]] cards level 0-4, Neutral cards level 0-5, up to 5 other Seeker cards ([seeker]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Trusty Bullwhip, Buried Secrets, 1 random basic weakness.",
                 "type": "investigator_back"
-            },
-            "encounter_set": "217ea032-41fb-40ee-94e2-e25d8c590897"
+            }
         },
         {
             "name": "63.Trusty Bullwhip",
             "id": "90063",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/09. Relics of the Past"
             },
             "amount": 1,
             "front": {
@@ -1960,7 +1894,7 @@
                 "encounter_icon": " ",
                 "encounter_overlay": null,
                 "icons": "IAAQ",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/relics_of_the_past/whip.png",
+                "illustration": "./img/relics_of_the_past/whip.png",
                 "illustration_pan_x": 108.0,
                 "illustration_pan_y": 144.0,
                 "illustration_scale": 1.9,
@@ -1982,7 +1916,7 @@
             "name": "64.Buried Secrets",
             "id": "90064",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/09. Relics of the Past"
             },
             "amount": 1,
             "front": {
@@ -1996,7 +1930,7 @@
                 "collection_total": " ",
                 "encounter_icon": " ",
                 "encounter_overlay": null,
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/relics_of_the_past/buried.jpg",
+                "illustration": "./img/relics_of_the_past/buried.jpg",
                 "illustrator": "Illus. Raymond Bonilla",
                 "text": "Advanced. <rev> Put <name> into play in your threat area.\nIf your location can be investigated, you cannot move except by scenario card effects.\n<action><action>: <b>Investigate.</b> If you succeed, instead of discovering clues, discard <name>.",
                 "traits": "Mystery.",
@@ -2125,7 +2059,7 @@
                 "evade": "3",
                 "health": "6",
                 "horror": "1",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/relics_of_the_past/croc.jpg",
+                "illustration": "./img/relics_of_the_past/croc.jpg",
                 "illustration_pan_x": -65.0,
                 "illustration_pan_y": 978.0,
                 "illustration_scale": 2.74,
@@ -2189,7 +2123,7 @@
                 "collection_number": "68",
                 "collection_total": "4/13",
                 "flavor_text": "As you traverse the tight corridors of the ruin, you feel a deep rumbling beneath your feet.",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/relics_of_the_past/act2.png",
+                "illustration": "./img/relics_of_the_past/act2.png",
                 "illustration_pan_x": -72.0,
                 "illustration_pan_y": -64.0,
                 "illustration_scale": 2.0,
@@ -2219,7 +2153,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "69",
                 "collection_total": "5/13",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/relics_of_the_past/act2.png",
+                "illustration": "./img/relics_of_the_past/act2.png",
                 "illustration_pan_x": -72.0,
                 "illustration_pan_y": -64.0,
                 "illustration_scale": 2.0,
@@ -2412,7 +2346,7 @@
                 "collection_number": "74",
                 "collection_total": "10/13",
                 "cost": "---",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/relics_of_the_past/kitteh.jpg",
+                "illustration": "./img/relics_of_the_past/kitteh.jpg",
                 "illustration_pan_x": 119.0,
                 "illustration_pan_y": 85.0,
                 "illustration_scale": 1.5,
@@ -2450,7 +2384,7 @@
                 "collection_number": "75",
                 "collection_total": "11/13",
                 "cost": "---",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/relics_of_the_past/snek.jpg",
+                "illustration": "./img/relics_of_the_past/snek.jpg",
                 "illustration_pan_x": 52.0,
                 "illustration_pan_y": -50.0,
                 "illustration_scale": 2.3,
@@ -2488,7 +2422,7 @@
                 "collection_number": "76",
                 "collection_total": "12/13",
                 "cost": "---",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/relics_of_the_past/birb.jpg",
+                "illustration": "./img/relics_of_the_past/birb.jpg",
                 "illustration_mirror": true,
                 "illustration_pan_x": 81.0,
                 "illustration_pan_y": 94.0,
@@ -2524,7 +2458,7 @@
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "77",
                 "collection_total": "13/13",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/relics_of_the_past/past2.png",
+                "illustration": "./img/relics_of_the_past/past2.png",
                 "illustration_pan_x": -62.0,
                 "illustration_pan_y": -220.0,
                 "illustration_scale": 1.68,
@@ -2539,24 +2473,33 @@
             "encounter_set": "217ea032-41fb-40ee-94e2-e25d8c590897"
         },
         {
-            "name": "Rex Murphy",
-            "id": "90078",
+            "name": "78. Rex Murphy (Parallel)",
+            "id": "02002-p",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/10. Hunting for Answers"
             },
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
-                "copyright": "©  202? FFG",
+                "name": "<unique>Rex Murphy",
+                "copyright": "                       ©  2024 FFG",
                 "agility": "3",
                 "classes": [
-                    "seeker"
+                    "parallel_seeker"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/hunting_for_answers.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "78",
+                "collection_total": " ",
                 "combat": "2",
-                "flavor_text": "\"Oh, come on, not <u>again</u>!\"",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "\"Oh, come on, not again!\"",
                 "health": "6",
+                "illustration": "./img/hunting_for_answers/Rex Murphy (ahc02-002) - Cristi Balanescu - brighter.jpg",
+                "illustration_pan_x": -370.0,
+                "illustration_pan_y": 80.0,
+                "illustration_scale": 1.0,
+                "illustration_shape": "./img/hunting_for_answers/mask.png",
+                "illustration_shape_overflow": true,
                 "illustrator": "Illus. Cristi Balanescu",
                 "intellect": "4",
                 "sanity": "9",
@@ -2567,28 +2510,47 @@
                 "willpower": "3"
             },
             "back": {
+                "name": "<unique>Rex Murphy",
+                "classes": [
+                    "parallel_seeker"
+                ],
+                "collection_total": " ",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "flavor_text": "When disaster strikes, <name> is usually on hand, suffering the consequences. After spending a day with Rex, even the most hardened skeptic will concede that the man is cursed. Anytime he had a lead on a good story, something would go wrong, like that business in Innsmouth with the photographs that blew out to sea. His terrible fortune has more than once exposed him to gruesome beasts and occult conspiracies. To survive, Rex has developed an inquisitive mind, keeping one step ahead of the next disaster.",
+                "illustration": "./img/hunting_for_answers/Rex Murphy (ahc02-002) - Cristi Balanescu - brighter.jpg",
+                "illustration_pan_x": -297.0,
+                "illustration_pan_y": -159.0,
+                "illustration_rotation": "-15",
+                "illustration_scale": 0.63,
                 "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-3, [[Cursed]] and [[Gambit]] cards level 0-4, Neutral cards level 0-5, up to five other Rogue cards ([rogue]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Search for the Truth, Rex's Curse, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No [[Fortune]] or [[Blessed]] cards (unless they are also [[Cursed]]).",
                 "type": "investigator_back"
-            },
-            "encounter_set": "5f05f8f2-f2bd-41bf-8d69-1809b125768c"
+            }
         },
         {
-            "name": "Search for the Truth",
+            "name": "79. Search for the Truth",
             "id": "90079",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/10. Hunting for Answers"
             },
             "amount": 1,
             "front": {
-                "copyright": "©  202? FFG",
+                "name": "Search for the Truth",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/hunting_for_answers.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "79",
+                "collection_total": " ",
                 "cost": "1",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "icons": "IIQ",
+                "illustration": "./img/hunting_for_answers/search.jpg",
+                "illustration_pan_x": 48.0,
+                "illustration_pan_y": -77.0,
+                "illustration_scale": 3.228,
                 "illustrator": "Illus. Torstein Nordstrand",
                 "level": "None",
                 "text": "Rex Murphy deck only. Advanced.\nFor each clue on Rex Murphy (to a maximum of 5) you may either:\n- Draw 1 card.\n- Place that clue on your location and return any card from your discard pile to your hand.",
@@ -2601,22 +2563,29 @@
             "encounter_set": "5f05f8f2-f2bd-41bf-8d69-1809b125768c"
         },
         {
-            "name": "Rex's Curse",
+            "name": "80. Rex's Curse",
             "id": "90080",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/10. Hunting for Answers"
             },
             "amount": 1,
             "front": {
-                "copyright": "©  202? FFG",
+                "name": "Rex's Curse",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "weakness"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/hunting_for_answers.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "80",
+                "collection_total": " ",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "illustration": "./img/hunting_for_answers/curse.jpg",
+                "illustration_pan_x": -133.0,
+                "illustration_pan_y": -72.0,
+                "illustration_scale": 0.645,
                 "illustrator": "Illus. Falk",
                 "text": "Advanced.\n<rev> Put <name> into play in your threat area.\n<for> When you would succeed at a skill test: Reveal an additional chaos token. If this effect causes you to fail the test, shuffle <name> into your deck. (Limit once per test.)",
-                "traits": "Curse.",
                 "type": "treachery"
             },
             "back": {
@@ -2625,23 +2594,30 @@
             "encounter_set": "5f05f8f2-f2bd-41bf-8d69-1809b125768c"
         },
         {
-            "name": "Father Mateo",
-            "id": "90081",
+            "name": "81. Father Mateo (Parallel)",
+            "id": "04004-p",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/13. Aura of Faith"
             },
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
-                "copyright": "©  202? FFG",
+                "name": "<unique>Father Mateo",
+                "copyright": "                       ©  2024 FFG",
                 "agility": "3",
                 "classes": [
-                    "mystic"
+                    "parallel_mystic"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/aura_of_faith.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "81",
+                "collection_total": " ",
                 "combat": "2",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "health": "6",
+                "illustration": "./img/aura_of_faith/mateo.png",
+                "illustration_pan_x": 73.0,
+                "illustration_pan_y": 87.0,
+                "illustration_scale": 2.0,
                 "illustrator": "Illus. Magali Villeneuve",
                 "intellect": "3",
                 "sanity": "8",
@@ -2652,29 +2628,47 @@
                 "willpower": "4"
             },
             "back": {
+                "name": "<unique>Father Mateo",
+                "classes": [
+                    "parallel_mystic"
+                ],
+                "collection_total": " ",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "flavor_text": "Mateo Castile's life has not been easy since he became a priest. Recent decades in Mexico have been wracked with instability and conflict. <name> struggled to balance his faith with the pragmatic concerns of preaching when the law told him he must not. But this is not what has assaulted Mateo's faith at its core. The nearby murders and kidnappings were not politically motivated, as he had suspected. A gruesome and horrid cult thrives at the heart of the brewing war. How, Mateo wonders, could a kind and loving God allow what he saw that night to exist?",
+                "illustration": "./img/aura_of_faith/mateosmall.png",
+                "illustration_pan_x": 80.0,
+                "illustration_pan_y": 98.0,
+                "illustration_rotation": "-7",
+                "illustration_scale": 1.181,
                 "text": "<b>Deck Size:</b> 30.\n<b>Deckbuilding Options:</b> Mystic cards ([mystic]) level 0-3, [[Blessed]] cards level 0-5, Neutral cards level 0-5, up to 5 other cards with \"seal\" level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): The Codex of Ages, Serpents of Yig, 1 random basic weakness.\n",
                 "type": "investigator_back"
-            },
-            "encounter_set": "2fa2ac7c-96d0-48eb-9160-dcbe4a49a6e2"
+            }
         },
         {
-            "name": "The Codex of Ages",
+            "name": "82. The Codex of Ages",
             "id": "90082",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/13. Aura of Faith"
             },
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
-                "copyright": "©  202? FFG",
+                "name": "<unique>The Codex of Ages",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/aura_of_faith.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "82",
+                "collection_total": " ",
                 "cost": "2",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "icons": "WIQ",
+                "illustration": "./img/aura_of_faith/codex.png",
+                "illustration_pan_x": 63.0,
+                "illustration_pan_y": 61.0,
+                "illustration_scale": 2.0,
                 "illustrator": "Illus. Andreia Ugrai",
                 "level": "None",
                 "slots": [
@@ -2691,50 +2685,64 @@
             "encounter_set": "2fa2ac7c-96d0-48eb-9160-dcbe4a49a6e2"
         },
         {
-            "name": "Serpents of Yig",
+            "name": "83. Serpents of Yig",
             "id": "90083",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/13. Aura of Faith"
             },
             "amount": 1,
             "front": {
-                "copyright": "©  202? FFG",
+                "name": "Serpents of Yig",
+                "copyright": "©  2024 FFG",
+                "attack": "3",
                 "classes": [
                     "weakness"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/aura_of_faith.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "83",
+                "collection_total": " ",
+                "damage": "1",
+                "encounter_icon": " ",
+                "evade": "3",
                 "health": "4",
+                "horror": "1",
+                "illustration": "./img/aura_of_faith/snek.jpg",
                 "illustrator": "Illus. Matthew Cowdery",
                 "sanity": "<dash>",
-                "text": "Advanced. <b>Prey</b> - Father Mateo only. Hunter.\n<rev> Search the chaos bag and all play areas for the <elder_sign> token and each <blessing> token and seal them on <name>.",
+                "text": "Advanced. <b>Prey</b> - Father Mateo only.\nHunter.\n<rev> Search the chaos bag and all play areas for the <elder_sign> token and each <blessing> token and seal them on Serpents of Yig.",
                 "traits": "Humanoid. Monster. Serpent.",
                 "type": "enemy"
             },
             "back": {
                 "type": "player"
-            },
-            "encounter_set": "2fa2ac7c-96d0-48eb-9160-dcbe4a49a6e2"
+            }
         },
         {
-            "name": "Jenny Barnes",
-            "id": "90084",
+            "name": "84. Jenny Barnes (Parallel)",
+            "id": "02003-p",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/11. Pistols and pearls"
             },
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
-                "copyright": "©  202? FFG",
+                "name": "<unique>Jenny Barnes",
+                "copyright": "©  2024 FFG",
                 "agility": "3",
                 "classes": [
-                    "rogue"
+                    "parallel_rogue"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/pistols_and_pearls.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "84",
+                "collection_total": " ",
                 "combat": "3",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "flavor_text": "\"Oh honey, I'm making this up as I go along.\"",
                 "health": "8",
+                "illustration": "./img/pistols_and_pearls/jenny.png",
+                "illustration_pan_x": 46.0,
+                "illustration_pan_y": 76.0,
+                "illustration_scale": 2.041,
                 "illustrator": "Illus. Tony Foti",
                 "intellect": "3",
                 "sanity": "7",
@@ -2745,33 +2753,46 @@
                 "willpower": "3"
             },
             "back": {
+                "name": "<unique>Jenny Barnes",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "flavor_text": "<name> has spent the majority of her young life in pursuit of creature comforts, fine dining, and the latest fashions. That all changed when she received a letter from her sister, Isabelle. In this letter, Isabelle confessed that mysterious forces were aligning against her and that she feared she may fall victim to some paranormal threat. It was the last letter Jenny received from her beloved sister. Jenny has since returned to the States to track down and investigate all occult occurrences she can find. Hardly a wilting flower, she has proven herself a crack shot as well as a fearless and clever investigator of the unknown. Until Isabelle's disappearance is explained, Jenny will never relent in her search.",
+                "illustration": "./img/pistols_and_pearls/Jennysmall.png",
+                "illustration_pan_x": -15.0,
+                "illustration_pan_y": -21.0,
+                "illustration_rotation": "-16",
+                "illustration_scale": 2.2,
                 "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, Neutral cards level 0-5, up to 10 other non-permanent [[Talent]] cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Jenny's Twin .45s, Searching for Izzie, 1 random basic weakness.",
                 "type": "investigator_back"
-            },
-            "encounter_set": "25262f95-4d9a-4300-8854-a155a5cf803a"
+            }
         },
         {
-            "name": "Jenny's Twin .45s",
+            "name": "85. Jenny's Twin .45s",
             "id": "90085",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/11. Pistols and pearls"
             },
             "amount": 1,
             "front": {
                 "name": "<unique><name>",
-                "copyright": "©  202? FFG",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/pistols_and_pearls.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "85",
-                "cost": "-2",
+                "collection_total": " ",
+                "cost": "X",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "icons": "AQQ",
+                "illustration": "./img/pistols_and_pearls/45s.jpg",
+                "illustration_pan_x": -108.0,
+                "illustration_pan_y": 86.0,
                 "illustrator": "Illus. John Pacer",
                 "level": "None",
                 "slots": [
-                    "hand x2"
+                    "hands"
                 ],
                 "subtitle": "A Perfect Fit",
                 "text": "Jenny Barnes deck only. Advanced. Uses (X ammo).\n<action> Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack. This attack deals +1 damage.\n<reaction> After you defeat an enemy using the above ability, exhaust <name>: Gain resources equal to that enemy's printed health.",
@@ -2784,19 +2805,27 @@
             "encounter_set": "25262f95-4d9a-4300-8854-a155a5cf803a"
         },
         {
-            "name": "Searching for Izzie",
+            "name": "86. Searching for Izzie",
             "id": "90086",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/11. Pistols and pearls"
             },
             "amount": 1,
             "front": {
-                "copyright": "©  202? FFG",
+                "name": "Searching for Izzie",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "weakness"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/pistols_and_pearls.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "86",
+                "collection_total": " ",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "illustration": "./img/pistols_and_pearls/izzy.jpg",
+                "illustration_pan_x": 70.0,
+                "illustration_pan_y": -21.0,
+                "illustration_scale": 0.6,
                 "illustrator": "Illus. Jeff Lee Johnson",
                 "text": "Advanced.\n<rev> Attach <name> to the location farthest from you. Attached location gets +2 shroud.\n<action><action>: <b>Investigate.</b> If you succeed, instead of discovering clues, discard <name>.\n<for> When the game ends, if <name> is in play: You suffer 1 mental trauma.",
                 "traits": "Task.",
@@ -2808,56 +2837,77 @@
             "encounter_set": "25262f95-4d9a-4300-8854-a155a5cf803a"
         },
         {
-            "name": "Lola Hayes",
-            "id": "90087",
+            "name": "87. Lola Hayes (Parallel)",
+            "id": "03006-p",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/12. Enthralling Encore"
             },
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
-                "copyright": "©  202? FFG",
+                "name": "<unique>Lola Hayes",
+                "copyright": "©  2024 FFG",
                 "agility": "3",
                 "classes": [
-                    "neutral"
+                    "parallel_neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "87",
+                "collection_total": " ",
                 "combat": "3",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "health": "6",
+                "illustration": "./img/enthralling_encore/Lola.jpg",
+                "illustration_fade_mode": "distance",
+                "illustration_pan_x": 19.0,
+                "illustration_pan_y": 185.0,
+                "illustration_scale": 0.465,
+                "illustration_shape": "./img/enthralling_encore/Mask.jpg",
+                "illustration_shape_overflow": true,
                 "illustrator": "Illus. Magali Villeneuve",
                 "intellect": "3",
                 "sanity": "6",
                 "subtitle": "The Actress",
-                "text": "You begin the game in the Neutral role.\nYou can only play or commit Neutral cards or cards of your current role.\n<for> When your turn begins: Switch your role (<guardian>, <seeker>, <rogue>, <mystic>, <survivor>, or Neutral).\n<elder_sign> effect: +2. You may switch roles.",
+                "text": "You begin the game in the Neutral role.\nYou can only play or commit Neutral cards or cards of your current role.\n<for> When your turn begins: Switch your role<br>(<guardian>, <seeker>, <rogue>, <mystic>, <survivor>, or Neutral).\n<elder_sign> effect: +2. You may switch roles.",
                 "traits": "Performer.",
                 "type": "investigator",
                 "willpower": "3"
             },
             "back": {
+                "name": "<unique>Lola Hayes",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "flavor_text": "Lola had assumed that her days of performing <i>The King in Yellow</i> were behind her. Recently, however, she has heard a lone violin play the haunting melody from the show's last production. The music creeps into her mind in moments of silence and solitude, and she's compelled to visit the Ward Theatre one last time.",
+                "illustration_pan_x": 107.0,
+                "illustration_pan_y": 83.0,
+                "illustration_rotation": "0",
+                "illustration_scale": 0.273,
                 "text": "<b>Deck size</b>: 40.\n<b>Class Choices</b>: At deck creation, choose 2 classes ([guardian], [seeker], [rogue], [mystic], or [survivor]).\n<b>Deckbuilding Options</b>: Neutral cards level 0-5, cards from your chosen classes level 0-4, cards from other classes level 0-1.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 2 copies of Improvisation, 2 copies of Crisis of Identity, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include at least 6 cards from each class ([guardian], [seeker], [rogue], [mystic], and [survivor]).",
                 "type": "investigator_back"
-            },
-            "encounter_set": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e"
+            }
         },
         {
-            "name": "Leading Lady (Heroine)",
+            "name": "88. Leading Lady (Heroine)",
             "id": "90088",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/12. Enthralling Encore"
             },
             "amount": 1,
             "front": {
-                "copyright": "©  202? FFG",
+                "name": "Leading Lady (Heroine)",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "88",
+                "collection_total": " ",
                 "cost": "1",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "flavor_text": "\"I'm done waiting in the wings.\"",
                 "icons": "CQ",
+                "illustration": "./img/enthralling_encore/LL1b.png",
                 "illustrator": "Illus. Borja Pindado",
                 "level": "None",
                 "text": "Lola Hayes deck only. Replacement.\nFast. Play only during your turn.\nPlay a card from your hand, regardless of your current role <i>(paying its cost)</i>. If that card was a Guardian (<guardian>) card, you may either draw 1 card or immediately take a fight action.",
@@ -2870,22 +2920,27 @@
             "encounter_set": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e"
         },
         {
-            "name": "Leading Lady (Mentor)",
+            "name": "89. Leading Lady (Mentor)",
             "id": "90089",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/12. Enthralling Encore"
             },
             "amount": 1,
             "front": {
-                "copyright": "©  202? FFG",
+                "name": "Leading Lady (Mentor)",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "89",
+                "collection_total": " ",
                 "cost": "1",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "flavor_text": "\"I've learned a thing or two on stage.\"",
                 "icons": "IQ",
+                "illustration": "./img/enthralling_encore/LL2b.png",
                 "illustrator": "Illus. Borja Pindado",
                 "level": "None",
                 "text": "Lola Hayes deck only. Replacement.\nFast. Play only during your turn.\nPlay a card from your hand, regardless of your current role <i>(paying its cost)</i>. If that card was a Seeker (<seeker>) card, you may either draw 1 card or immediately take an investigate action.",
@@ -2898,22 +2953,27 @@
             "encounter_set": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e"
         },
         {
-            "name": "Leading Lady (Femme Fatale)",
+            "name": "90. Leading Lady (Femme Fatale)",
             "id": "90090",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/12. Enthralling Encore"
             },
             "amount": 1,
             "front": {
-                "copyright": "©  202? FFG",
+                "name": "Leading Lady (Femme Fatale)",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "90",
+                "collection_total": " ",
                 "cost": "1",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "flavor_text": "\"Trust me, honey, I'm lead material.\"",
                 "icons": "AQ",
+                "illustration": "./img/enthralling_encore/LL3b.png",
                 "illustrator": "Illus. Borja Pindado",
                 "level": "None",
                 "text": "Lola Hayes deck only. Replacement.\nFast. Play only during your turn.\nPlay a card from your hand, regardless of your current role <i>(paying its cost)</i>. If that card was a Rogue (<rogue>) card, you may either draw 1 card or immediately take an evade action.",
@@ -2926,22 +2986,27 @@
             "encounter_set": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e"
         },
         {
-            "name": "Leading Lady (Enchantress)",
+            "name": "91. Leading Lady (Enchantress)",
             "id": "90091",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/12. Enthralling Encore"
             },
             "amount": 1,
             "front": {
-                "copyright": "©  202? FFG",
+                "name": "Leading Lady (Enchantress)",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "91",
+                "collection_total": " ",
                 "cost": "1",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "flavor_text": "\"The trick is to only show them what you want them to see.\"",
                 "icons": "WQ",
+                "illustration": "./img/enthralling_encore/LL4b.png",
                 "illustrator": "Illus. Borja Pindado",
                 "level": "None",
                 "text": "Lola Hayes deck only. Replacement.\nFast. Play only during your turn.\nPlay a card from your hand, regardless of your current role <i>(paying its cost)</i>. If that card was a Mystic (<mystic>) card, you may either draw 1 card or remove 1 doom from a player card at your location.",
@@ -2954,22 +3019,27 @@
             "encounter_set": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e"
         },
         {
-            "name": "Leading Lady (Final Girl)",
+            "name": "92. Leading Lady (Final Girl)",
             "id": "90092",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/12. Enthralling Encore"
             },
             "amount": 1,
             "front": {
-                "copyright": "©  202? FFG",
+                "name": "Leading Lady (Final Girl)",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "neutral"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "92",
+                "collection_total": " ",
                 "cost": "1",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "flavor_text": "\"Come on, Lola, just make it to the final bow.\"",
                 "icons": "QQ",
+                "illustration": "./img/enthralling_encore/LL5b.png",
                 "illustrator": "Illus. Borja Pindado",
                 "level": "None",
                 "text": "Lola Hayes deck only. Replacement.\nFast. Play only during your turn.\nPlay a card from your hand, regardless of your current role <i>(paying its cost)</i>. If that card was a Survivor (<survivor>) card, you may either draw 1 card or heal 1 damage/horror.",
@@ -2982,22 +3052,29 @@
             "encounter_set": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e"
         },
         {
-            "name": "Samuel Blake",
+            "name": "93. Samuel Blake",
             "id": "90093",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/12. Enthralling Encore"
             },
             "amount": 1,
             "front": {
-                "name": "<unique><name>",
-                "copyright": "©  202? FFG",
+                "name": "<unique>Samuel Blake",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "weakness"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "93",
+                "collection_total": " ",
                 "cost": "3",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
                 "health": "3",
+                "illustration": "./img/enthralling_encore/samuel.jpg",
+                "illustration_pan_x": 55.0,
+                "illustration_pan_y": 321.0,
+                "illustration_scale": 1.04,
                 "illustrator": "Illus. Walter Velez",
                 "level": "None",
                 "sanity": "<dash>",
@@ -3015,23 +3092,109 @@
             "encounter_set": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e"
         },
         {
-            "name": "Enthralling Encore",
+            "name": "94. Enthralling Encore",
             "id": "90094",
             "meta": {},
             "amount": 2,
             "front": {
-                "copyright": "©  202? FFG",
+                "name": "<dbl>Enthralling Encore</dbl>",
+                "copyright": "©  2024 FFG",
+                "chaos_extra": "Measures",
+                "chaos_extra_region": {
+                    "height": 300,
+                    "width": 1150,
+                    "x": 248,
+                    "y": 1600
+                },
+                "chaos_region": {
+                    "height": 940,
+                    "width": 1170,
+                    "x": 248,
+                    "y": 626
+                },
                 "classes": [
                     "mythos"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
-                "collection_number": "94",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
+                "collection_number": "94a",
+                "collection_total": "1/4",
+                "difficulty": "ŁATWY / STANDARDOWY",
+                "entries": [
+                    {
+                        "text": "-X.",
+                        "token": [
+                            "skull"
+                        ]
+                    },
+                    {
+                        "text": "-2.",
+                        "token": [
+                            "cultist"
+                        ]
+                    },
+                    {
+                        "text": "-3.",
+                        "token": [
+                            "tablet"
+                        ]
+                    },
+                    {
+                        "text": "-2.",
+                        "token": [
+                            "elder_thing"
+                        ]
+                    }
+                ],
                 "text": "Easy / Standard\n<skull>: -X. X is the number of measures.\n<cultist>: -2. If you fail, you must either spend 1 clue or take 1 damage.\n<tablet>: -3 (-5 instead if there are 3 or more classes among cards you control).\n<elder_thing>: -2. If Sinister Soloist is at your location, reveal another token.",
                 "traits": "",
-                "type": "scenario"
+                "type": "chaos"
             },
             "back": {
-                "type": "player"
+                "name": "<dbl>Enthralling Encore</dbl>",
+                "copyright": "©  2024 FFG",
+                "chaos_extra": "Measures",
+                "chaos_extra_region": {
+                    "height": 300,
+                    "width": 1150,
+                    "x": 248,
+                    "y": 1600
+                },
+                "chaos_region": {
+                    "height": 940,
+                    "width": 1170,
+                    "x": 248,
+                    "y": 626
+                },
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
+                "collection_number": "94b",
+                "collection_total": "1/4",
+                "entries": [
+                    {
+                        "text": "-X.",
+                        "token": [
+                            "skull"
+                        ]
+                    },
+                    {
+                        "text": "-3.",
+                        "token": [
+                            "cultist"
+                        ]
+                    },
+                    {
+                        "text": "-4.",
+                        "token": [
+                            "tablet"
+                        ]
+                    },
+                    {
+                        "text": "-3.",
+                        "token": [
+                            "elder_thing"
+                        ]
+                    }
+                ],
+                "type": "chaos"
             },
             "encounter_set": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e"
         },
@@ -3041,20 +3204,25 @@
             "meta": {},
             "amount": 2,
             "front": {
-                "copyright": "©  202? FFG",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "mythos"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "95",
+                "collection_total": "2/4",
+                "doom": "4",
                 "flavor_text": "The theatre is closed and quiet, as it has been since those days during the phantom production of <i>The King in Yellow</i>. As you take in your surroundings, you hear it again - the haunting violin. Someone is here, and they are keeping the memory of that production alive.",
+                "illustration": "./img/enthralling_encore/agenda.png",
                 "illustrator": "Illus. Federico Piatti",
+                "index": "1a",
                 "text": "<free> While at Sinister Soloist's location, discard 1 card of each class from your hand (<guardian>, <seeker>, <rogue>, <mystic>, and <survivor>): <b>Parley.</b> Automatically evade Sinister Soloist. Treat Sinister Soloist's text box as if it were blank (except for <t>Traits</t>) for the remainder of the round.",
                 "traits": "",
                 "type": "agenda"
             },
             "back": {
-                "type": "player"
+                "name": "Dirge of Dim Carcosa",
+                "type": "agenda_back"
             },
             "encounter_set": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e"
         },
@@ -3064,20 +3232,27 @@
             "meta": {},
             "amount": 2,
             "front": {
-                "copyright": "©  202? FFG",
+                "copyright": "©  2024 FFG",
                 "classes": [
                     "mythos"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "96",
+                "collection_total": "3/4",
                 "flavor_text": "The soloist stands on stage, their gangly arms moving with mechanical precision as they play the violin. Their face is shrouded in shadow, but their song follows you throughout the theatre.",
+                "illustration": "./img/enthralling_encore/act.png",
+                "illustration_pan_x": 33.0,
+                "illustration_pan_y": 22.0,
                 "illustrator": "Illus. JB Casacop",
+                "index": "1a",
                 "text": "<free> Investigators at the same <t>Private</t> location spend 1 [per_investigator] clues, as a group: <b>Parley.</b> Reveal the top 3 cards of the Props deck and choose an investigator to draw 1 of them. Shuffle the remaining cards together and place them on the bottom of the Props deck.\n<b>Objective</b> - When Sinister Soloist is in the victory display, advance.",
                 "traits": "",
                 "type": "act"
             },
             "back": {
-                "type": "player"
+                "name": "Final Bow",
+                "text": "<blockquote>The soloist crumples before you, collapsing to the floor in a puff of acrid, black smoke and glowing embers, reeking of rosin. Your skin burns and your eyes water, forcing you to turn away. Coughing and waving your arms to clear the air, the smoke eventually dissipates. The soloist is nowhere to be seen. The theatre is quiet once again, as is your mind. Whatever unresolved business this stage held seems to be finished now. You turn and head back to the lobby, ready to put the Ward Theatre behind you for good.</blockquote>\n(→<b>R1</b>)",
+                "type": "act_back"
             },
             "encounter_set": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e"
         },
@@ -3088,30 +3263,43 @@
             "amount": 2,
             "front": {
                 "name": "<unique><name>",
-                "copyright": "©  202? FFG",
+                "copyright": "©  2024 FFG",
+                "attack": "4",
                 "classes": [
                     "mythos"
                 ],
-                "collection_icon": "<image color=\"inverted\" src=\"./icons/enthralling_encore.svg\">",
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "97",
-                "health": "6",
+                "collection_total": "4/4",
+                "damage": "2",
+                "evade": "5",
+                "health": "6<per>",
+                "horror": "2",
+                "illustration": "./img/enthralling_encore/soloist.png",
+                "illustration_pan_x": -300.0,
+                "illustration_pan_y": 1105.0,
                 "illustrator": "Illus. Tomasz Jedruszek",
                 "sanity": "<dash>",
                 "subtitle": "Minstrel of Carcosa",
                 "text": "Alert. Aloof. Elusive. Hunter.\nAs an additional cost to play a non-Neutral card at <name>'s location, you must take 1 horror.\n<for> When the enemy phase ends, if <name> is ready: Each investigator at <name>'s location and each connecting location takes 1 direct horror.",
+                "text_region": {
+                    "height": 518,
+                    "inherit": true
+                },
                 "traits": "Monster. Elite.",
-                "type": "enemy"
+                "type": "enemy",
+                "victory": "Victory 2."
             },
             "back": {
-                "type": "player"
+                "type": "encounter"
             },
             "encounter_set": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e"
         },
         {
-            "name": "PF - \"Ashcan\" Pete",
+            "name": "46. \"Ashcan\" Pete (Parallel front) ",
             "id": "02005-pf",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}"
+                "folder": "{player_cards}/06. On the road again"
             },
             "amount": 1,
             "front": {
@@ -3134,7 +3322,7 @@
                 "illustration_pan_x": -7.0,
                 "illustration_pan_y": 305.0,
                 "illustration_scale": 1.12,
-                "illustration_shape": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/on_the_road_again/mask.png",
+                "illustration_shape": "./img/on_the_road_again/mask.png",
                 "illustrator": "Illus. Jake Murray",
                 "intellect": "2",
                 "sanity": "7",
@@ -3172,14 +3360,13 @@
                 "illustration_scale": 0.65,
                 "text": "<b>Deck Size:</b> 30\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-3, [[Improvised]] and [[Tactic]] cards level 0-4, Neutral cards level 0-5, up to 5 other Guardian cards ([guardian]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Duke, Wracked by Nightmares, 1 random basic weakness.",
                 "type": "investigator_back"
-            },
-            "encounter_set": "555c3925-5d98-4b5d-8720-1082773dad87"
+            }
         },
         {
-            "name": "PB - \"Ashcan\" Pete",
+            "name": "46. \"Ashcan\" Pete (Parallel back)",
             "id": "02005-pb",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}"
+                "folder": "{player_cards}/06. On the road again"
             },
             "amount": 1,
             "front": {
@@ -3202,7 +3389,7 @@
                 "illustration_pan_x": -7.0,
                 "illustration_pan_y": 305.0,
                 "illustration_scale": 1.12,
-                "illustration_shape": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/on_the_road_again/mask.png",
+                "illustration_shape": "./img/on_the_road_again/mask.png",
                 "illustrator": "Illus. Jake Murray",
                 "intellect": "2",
                 "sanity": "5",
@@ -3240,14 +3427,13 @@
                 "illustration_scale": 0.65,
                 "text": "<b>Deck Size:</b> 30\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-3, [[Improvised]] and [[Tactic]] cards level 0-4, Neutral cards level 0-5, up to 5 other Guardian cards ([guardian]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Duke, Wracked by Nightmares, 1 random basic weakness.",
                 "type": "investigator_back"
-            },
-            "encounter_set": "555c3925-5d98-4b5d-8720-1082773dad87"
+            }
         },
         {
-            "name": "Jim Culver (Parallel front)",
+            "name": "49. Jim Culver (Parallel front)",
             "id": "02004-pf",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}"
+                "folder": "{player_cards}/07. Laid to rest"
             },
             "amount": 1,
             "front": {
@@ -3265,11 +3451,11 @@
                 "encounter_overlay": null,
                 "flavor_text": "“I know I can make the dead dance.”",
                 "health": "7",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/laid_to_rest/jim.png",
+                "illustration": "./img/laid_to_rest/jim.png",
                 "illustration_pan_x": 75.0,
                 "illustration_pan_y": 130.0,
                 "illustration_scale": 1.27,
-                "illustration_shape": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/laid_to_rest/mask.png",
+                "illustration_shape": "./img/laid_to_rest/mask.png",
                 "illustrator": "Illus. Magali Villeneuve",
                 "intellect": "3",
                 "sanity": "8",
@@ -3310,7 +3496,7 @@
                     ]
                 ],
                 "flavor_text": "Jazz has been nothing but trouble for Jim since the day he picked up his daddy’s trumpet. But the dead sure love it when he plays, so Jim has no intention of stopping.",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/laid_to_rest/jim1.jpg",
+                "illustration": "./img/laid_to_rest/jim1.jpg",
                 "illustration_pan_x": 135.0,
                 "illustration_pan_y": 66.0,
                 "illustration_rotation": "-5",
@@ -3321,10 +3507,10 @@
             "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
         },
         {
-            "name": "Jim Culver (Parallel back)",
+            "name": "49. Jim Culver (Parallel back)",
             "id": "02004-pb",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}/{class}"
+                "folder": "{player_cards}/07. Laid to rest"
             },
             "amount": 1,
             "front": {
@@ -3342,11 +3528,11 @@
                 "encounter_overlay": null,
                 "flavor_text": "“I know I can make the dead dance.”",
                 "health": "7",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/laid_to_rest/jim.png",
+                "illustration": "./img/laid_to_rest/jim.png",
                 "illustration_pan_x": 75.0,
                 "illustration_pan_y": 130.0,
                 "illustration_scale": 1.27,
-                "illustration_shape": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/laid_to_rest/mask.png",
+                "illustration_shape": "./img/laid_to_rest/mask.png",
                 "illustrator": "Illus. Magali Villeneuve",
                 "intellect": "3",
                 "sanity": "8",
@@ -3390,7 +3576,7 @@
                     ]
                 ],
                 "flavor_text": "Jazz has been nothing but trouble for Jim since the day he picked up his daddy’s trumpet. But the dead sure love it when he plays, so Jim has no intention of stopping.",
-                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/laid_to_rest/jim1.jpg",
+                "illustration": "./img/laid_to_rest/jim1.jpg",
                 "illustration_pan_x": 135.0,
                 "illustration_pan_y": 66.0,
                 "illustration_rotation": "-5",
@@ -3401,109 +3587,10 @@
             "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
         },
         {
-            "name": "Zoey Samaras (Parallel front)",
-            "id": "02001-pf",
-            "meta": {},
-            "amount": 1,
-            "front": {
-                "name": "<unique>Zoey Samaras",
-                "copyright": "©  2023 FFG",
-                "agility": "2",
-                "classes": [
-                    "parallel_guardian"
-                ],
-                "collection_icon": "<image color=\"inverted\" src=\".\\icons\\parallel.png\">",
-                "collection_number": "59",
-                "collection_total": null,
-                "combat": "4",
-                "encounter_icon": " ",
-                "encounter_overlay": null,
-                "flavor_text": "\"His work is not yet done.\"",
-                "health": "8",
-                "illustration": "./img/path_of_the_righteous/Zoey.png",
-                "illustration_fade_mode": "distance",
-                "illustration_pan_x": -187.0,
-                "illustration_pan_y": 284.0,
-                "illustration_scale": 1.0,
-                "illustration_shape": "./img/path_of_the_righteous/mask.png",
-                "illustrator": "Illus. Magali Villeneuve",
-                "intellect": "2",
-                "sanity": "6",
-                "subtitle": "The Chef",
-                "text": "<reaction> After you deal 1 or more damage to an enemy: Add 1 <blessing> token to the chaos bag. (Limit once per phase.)\n<free> Before you reveal chaos tokens during an attack, remove 3 <blessing> tokens from the chaos bag: This attack deals +1 damage. (Limit once per round.)\n<elder_sign> effect: +1 for each <blessing> token in the chaos bag.",
-                "traits": "Believer. Hunter.",
-                "type": "investigator",
-                "willpower": "4"
-            },
-            "back": {
-                "classes": [
-                    "guardian"
-                ],
-                "encounter_icon": " ",
-                "encounter_overlay": null,
-                "flavor_text": "Zoey had known that she was special ever since God spoke to her one night when she was six years old... the night that terrible fire took away her parents. He told her that He had chosen her from among all the people of the world to be His agent. She would protect the innocent and punish the wicked. Since then, He comes to her in times of trouble, offering guidance and comfort. Zoey now travels from city to city, taking work as a chef to support herself. When she isn’t working, she stalks the night, guided by the Lord’s voice. Wherever she finds wickedness, she strikes it down without remorse or hesitation.",
-                "illustration_pan_x": -22.0,
-                "illustration_pan_y": 109.0,
-                "illustration_rotation": "0",
-                "illustration_scale": 0.597,
-                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, [[Blessed]] and [[Charm]] cards level 0-4, Neutral cards level 0-5, up to five other Mystic cards ([mystic]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Zoey's Cross, Smite the Wicked, 1 random basic weakness.",
-                "type": "investigator_back"
-            },
-            "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
-        },
-        {
-            "name": "Zoey Samaras (Parallel back)",
-            "id": "02001-pb",
-            "meta": {},
-            "amount": 1,
-            "front": {
-                "name": "<unique>Zoey Samaras",
-                "copyright": "©  2016 FFG",
-                "agility": "2",
-                "classes": [
-                    "parallel_guardian"
-                ],
-                "collection_icon": "<image color=\"inverted\" src=\".\\icons\\dwl.svg\">",
-                "collection_number": "1",
-                "collection_total": null,
-                "combat": "4",
-                "encounter_icon": " ",
-                "encounter_overlay": null,
-                "flavor_text": "\"His work is not yet done.\"",
-                "health": "9",
-                "illustration": "./img/path_of_the_righteous/Zoey.png",
-                "illustration_fade_mode": "distance",
-                "illustration_pan_x": -187.0,
-                "illustration_pan_y": 284.0,
-                "illustration_scale": 1.0,
-                "illustration_shape": "./img/path_of_the_righteous/mask.png",
-                "illustrator": "Illus. Magali Villeneuve",
-                "intellect": "2",
-                "sanity": "6",
-                "subtitle": "The Chef",
-                "text": "<reaction> After you deal 1 or more damage to an enemy: Add 1 <blessing> token to the chaos bag. (Limit once per phase.)\n<free> Before you reveal chaos tokens during an attack, remove 3 <blessing> tokens from the chaos bag: This attack deals +1 damage. (Limit once per round.)\n<elder_sign> effect: +1 for each <blessing> token in the chaos bag.",
-                "traits": "Believer. Hunter.",
-                "type": "investigator",
-                "willpower": "4"
-            },
-            "back": {
-                "encounter_icon": " ",
-                "encounter_overlay": null,
-                "flavor_text": "Zoey had known that she was special ever since God spoke to her one night when she was six years old... the night that terrible fire took away her parents. He told her that He had chosen her from among all the people of the world to be His agent. She would protect the innocent and punish the wicked. Since then, He comes to her in times of trouble, offering guidance and comfort. Zoey now travels from city to city, taking work as a chef to support herself. When she isn’t working, she stalks the night, guided by the Lord’s voice. Wherever she finds wickedness, she strikes it down without remorse or hesitation.",
-                "illustration_pan_x": -22.0,
-                "illustration_pan_y": 109.0,
-                "illustration_rotation": "0",
-                "illustration_scale": 0.597,
-                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, [[Blessed]] and [[Charm]] cards level 0-4, Neutral cards level 0-5, up to five other Mystic cards ([mystic]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Zoey's Cross, Smite the Wicked, 1 random basic weakness.",
-                "type": "investigator_back"
-            },
-            "encounter_set": "68d68ace-50f4-4cfa-8063-0342e7e71664"
-        },
-        {
             "name": "62.2 Monterey Jack (Parallel Back)",
             "id": "08007-pb",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/09. Relics of the Past"
             },
             "amount": 1,
             "front": {
@@ -3554,7 +3641,7 @@
             "name": "62.3 Monterey Jack (Parallel Front)",
             "id": "08007-pf",
             "meta": {
-                "folder": "{campaign_cards}/{encounter_set}/{player_cards}"
+                "folder": "{player_cards}/09. Relics of the Past"
             },
             "amount": 1,
             "front": {
@@ -3600,6 +3687,430 @@
                 "type": "investigator_back"
             },
             "encounter_set": "217ea032-41fb-40ee-94e2-e25d8c590897"
+        },
+        {
+            "name": "87. Lola Hayes (Parallel back)",
+            "id": "03006-pb",
+            "meta": {
+                "folder": "{player_cards}/12. Enthralling Encore"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Lola Hayes",
+                "copyright": "©  2024 FFG",
+                "agility": "3",
+                "classes": [
+                    "parallel_neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
+                "collection_number": "87",
+                "collection_total": " ",
+                "combat": "3",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "health": "6",
+                "illustration": "./img/enthralling_encore/Lola.jpg",
+                "illustration_fade_mode": "distance",
+                "illustration_pan_x": 19.0,
+                "illustration_pan_y": 185.0,
+                "illustration_scale": 0.465,
+                "illustration_shape": "./img/enthralling_encore/Mask.jpg",
+                "illustration_shape_overflow": true,
+                "illustrator": "Illus. Magali Villeneuve",
+                "intellect": "3",
+                "sanity": "6",
+                "subtitle": "The Actress",
+                "text": "You begin the game in the Neutral role.\nYou can only play or commit Neutral cards or cards of your current role.\n<for> When your turn begins: Switch your role<br>(<guardian>, <seeker>, <rogue>, <mystic>, <survivor>, or Neutral).\n<elder_sign> effect: +2. You may switch roles.",
+                "traits": "Performer.",
+                "type": "investigator",
+                "willpower": "3"
+            },
+            "back": {
+                "name": "<unique>Lola Hayes",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "Lola had assumed that her days of performing <i>The King in Yellow</i> were behind her. Recently, however, she has heard a lone violin play the haunting melody from the show's last production. The music creeps into her mind in moments of silence and solitude, and she's compelled to visit the Ward Theatre one last time.",
+                "illustration_pan_x": 107.0,
+                "illustration_pan_y": 83.0,
+                "illustration_rotation": "0",
+                "illustration_scale": 0.273,
+                "text": "<b>Deck size</b>: 40.\n<b>Class Choices</b>: At deck creation, choose 2 classes ([guardian], [seeker], [rogue], [mystic], or [survivor]).\n<b>Deckbuilding Options</b>: Neutral cards level 0-5, cards from your chosen classes level 0-4, cards from other classes level 0-1.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 2 copies of Improvisation, 2 copies of Crisis of Identity, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include at least 6 cards from each class ([guardian], [seeker], [rogue], [mystic], and [survivor]).",
+                "type": "investigator_back"
+            },
+            "encounter_set": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e"
+        },
+        {
+            "name": "87. Lola Hayes (Parallel front)",
+            "id": "03006-pf",
+            "meta": {
+                "folder": "{player_cards}/12. Enthralling Encore"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Lola Hayes",
+                "copyright": "©  2024 FFG",
+                "agility": "3",
+                "classes": [
+                    "parallel_neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
+                "collection_number": "87",
+                "collection_total": " ",
+                "combat": "3",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "health": "6",
+                "illustration": "./img/enthralling_encore/Lola.jpg",
+                "illustration_fade_mode": "distance",
+                "illustration_pan_x": 19.0,
+                "illustration_pan_y": 185.0,
+                "illustration_scale": 0.465,
+                "illustration_shape": "./img/enthralling_encore/Mask.jpg",
+                "illustration_shape_overflow": true,
+                "illustrator": "Illus. Magali Villeneuve",
+                "intellect": "3",
+                "sanity": "6",
+                "subtitle": "The Actress",
+                "text": "You begin the game in the Neutral role.\nYou can only play or commit Neutral cards or cards of your current role.\n<for> When your turn begins: Switch your role<br>(<guardian>, <seeker>, <rogue>, <mystic>, <survivor>, or Neutral).\n<elder_sign> effect: +2. You may switch roles.",
+                "traits": "Performer.",
+                "type": "investigator",
+                "willpower": "3"
+            },
+            "back": {
+                "name": "<unique>Lola Hayes",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "Lola had assumed that her days of performing <i>The King in Yellow</i> were behind her. Recently, however, she has heard a lone violin play the haunting melody from the show's last production. The music creeps into her mind in moments of silence and solitude, and she's compelled to visit the Ward Theatre one last time.",
+                "illustration_pan_x": 107.0,
+                "illustration_pan_y": 83.0,
+                "illustration_rotation": "0",
+                "illustration_scale": 0.273,
+                "text": "<b>Deck size</b>: 40.\n<b>Class Choices</b>: At deck creation, choose 2 classes ([guardian], [seeker], [rogue], [mystic], or [survivor]).\n<b>Deckbuilding Options</b>: Neutral cards level 0-5, cards from your chosen classes level 0-4, cards from other classes level 0-1.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 2 copies of Improvisation, 2 copies of Crisis of Identity, 1 random basic weakness.\n<b>Additional Requirements</b>: Your deck must include at least 6 cards from each class ([guardian], [seeker], [rogue], [mystic], and [survivor]).",
+                "type": "investigator_back"
+            },
+            "encounter_set": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e"
+        },
+        {
+            "name": "78. Rex Murphy (Parallel back)",
+            "id": "02002-pb",
+            "meta": {
+                "folder": "{player_cards}/10. Hunting for Answers"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Rex Murphy",
+                "copyright": "                       ©  2016 FFG",
+                "agility": "3",
+                "classes": [
+                    "seeker"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
+                "collection_number": "2",
+                "collection_total": " ",
+                "combat": "2",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "\"Oh, come on, not again!\"",
+                "health": "6",
+                "illustration": "./img/hunting_for_answers/Rex Murphy (ahc02-002) - Cristi Balanescu - brighter.jpg",
+                "illustration_pan_x": -370.0,
+                "illustration_pan_y": 80.0,
+                "illustration_scale": 1.0,
+                "illustration_shape": "./img/hunting_for_answers/mask.png",
+                "illustration_shape_overflow": true,
+                "illustrator": "Illus. Cristi Balanescu",
+                "intellect": "4",
+                "sanity": "9",
+                "subtitle": "The Reporter",
+                "text": "<reaction> When you would either place 1 of your clues on your location, or add 2 <curse> tokens to the chaos bag: Do the other instead. (This can still satisfy the cost of an ability.)\n<elder_sign> effect: +2 for each <curse> token revealed during this test. Draw 1 card for each <curse> token revealed during this test.",
+                "traits": "Reporter. Cursed.",
+                "type": "investigator",
+                "willpower": "3"
+            },
+            "back": {
+                "name": "<unique>Rex Murphy",
+                "classes": [
+                    "parallel_seeker"
+                ],
+                "collection_total": " ",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "When disaster strikes, <name> is usually on hand, suffering the consequences. After spending a day with Rex, even the most hardened skeptic will concede that the man is cursed. Anytime he had a lead on a good story, something would go wrong, like that business in Innsmouth with the photographs that blew out to sea. His terrible fortune has more than once exposed him to gruesome beasts and occult conspiracies. To survive, Rex has developed an inquisitive mind, keeping one step ahead of the next disaster.",
+                "illustration": "./img/hunting_for_answers/Rex Murphy (ahc02-002) - Cristi Balanescu - brighter.jpg",
+                "illustration_pan_x": -297.0,
+                "illustration_pan_y": -159.0,
+                "illustration_rotation": "-15",
+                "illustration_scale": 0.63,
+                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-3, [[Cursed]] and [[Gambit]] cards level 0-4, Neutral cards level 0-5, up to five other Rogue cards ([rogue]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Search for the Truth, Rex's Curse, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No [[Fortune]] or [[Blessed]] cards (unless they are also [[Cursed]]).",
+                "type": "investigator_back"
+            },
+            "encounter_set": "5f05f8f2-f2bd-41bf-8d69-1809b125768c"
+        },
+        {
+            "name": "78. Rex Murphy (Parallel front)",
+            "id": "02002-pf",
+            "meta": {
+                "folder": "{player_cards}/10. Hunting for Answers"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Rex Murphy",
+                "copyright": "                       ©  2024 FFG",
+                "agility": "3",
+                "classes": [
+                    "parallel_seeker"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
+                "collection_number": "78",
+                "collection_total": " ",
+                "combat": "2",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "\"Oh, come on, not again!\"",
+                "health": "6",
+                "illustration": "./img/hunting_for_answers/Rex Murphy (ahc02-002) - Cristi Balanescu - brighter.jpg",
+                "illustration_pan_x": -370.0,
+                "illustration_pan_y": 80.0,
+                "illustration_scale": 1.0,
+                "illustration_shape": "./img/hunting_for_answers/mask.png",
+                "illustration_shape_overflow": true,
+                "illustrator": "Illus. Cristi Balanescu",
+                "intellect": "4",
+                "sanity": "9",
+                "subtitle": "The Reporter",
+                "text": "<reaction> When you would either place 1 of your clues on your location, or add 2 <curse> tokens to the chaos bag: Do the other instead. (This can still satisfy the cost of an ability.)\n<elder_sign> effect: +2 for each <curse> token revealed during this test. Draw 1 card for each <curse> token revealed during this test.",
+                "traits": "Reporter. Cursed.",
+                "type": "investigator",
+                "willpower": "3"
+            },
+            "back": {
+                "name": "<unique>Rex Murphy",
+                "classes": [
+                    "seeker"
+                ],
+                "collection_total": " ",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "When disaster strikes, <name> is usually on hand, suffering the consequences. After spending a day with Rex, even the most hardened skeptic will concede that the man is cursed. Anytime he had a lead on a good story, something would go wrong, like that business in Innsmouth with the photographs that blew out to sea. His terrible fortune has more than once exposed him to gruesome beasts and occult conspiracies. To survive, Rex has developed an inquisitive mind, keeping one step ahead of the next disaster.",
+                "illustration": "./img/hunting_for_answers/Rex Murphy (ahc02-002) - Cristi Balanescu - brighter.jpg",
+                "illustration_pan_x": -297.0,
+                "illustration_pan_y": -159.0,
+                "illustration_rotation": "-15",
+                "illustration_scale": 0.63,
+                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-3, [[Cursed]] and [[Gambit]] cards level 0-4, Neutral cards level 0-5, up to five other Rogue cards ([rogue]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Search for the Truth, Rex's Curse, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No [[Fortune]] or [[Blessed]] cards (unless they are also [[Cursed]]).",
+                "type": "investigator_back"
+            },
+            "encounter_set": "5f05f8f2-f2bd-41bf-8d69-1809b125768c"
+        },
+        {
+            "name": "84. Jenny Barnes (Parallel back)",
+            "id": "02003-pb",
+            "meta": {
+                "folder": "{player_cards}/11. Pistols and pearls"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Jenny Barnes",
+                "copyright": "©  2016 FFG",
+                "agility": "3",
+                "classes": [
+                    "rogue"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/dwl.svg\">",
+                "collection_number": "3",
+                "collection_total": " ",
+                "combat": "3",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "\"Oh honey, I'm making this up as I go along.\"",
+                "health": "8",
+                "illustration": "./img/pistols_and_pearls/jennyo.webp",
+                "illustration_pan_x": -42.0,
+                "illustration_pan_y": 213.0,
+                "illustration_scale": 0.7,
+                "illustration_shape": "./img/pistols_and_pearls/masko.png",
+                "illustration_shape_overflow": true,
+                "illustrator": "Illus. Tony Foti",
+                "intellect": "3",
+                "sanity": "7",
+                "subtitle": "The Dilettante",
+                "text": "<reaction> After your turn begins: Play a <t>Talent</t> asset, reducing its cost by 1.\n<free> Discard a <t>Talent</t> asset you control: Gain resources equal to that asset's printed cost. (Limit 5 resources per round.)\n<elder_sign> effect: +0. If you succeed, gain 3 resources.",
+                "traits": "Drifter. Socialite.",
+                "type": "investigator",
+                "willpower": "3"
+            },
+            "back": {
+                "name": "<unique>Jenny Barnes",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "<name> has spent the majority of her young life in pursuit of creature comforts, fine dining, and the latest fashions. That all changed when she received a letter from her sister, Isabelle. In this letter, Isabelle confessed that mysterious forces were aligning against her and that she feared she may fall victim to some paranormal threat. It was the last letter Jenny received from her beloved sister. Jenny has since returned to the States to track down and investigate all occult occurrences she can find. Hardly a wilting flower, she has proven herself a crack shot as well as a fearless and clever investigator of the unknown. Until Isabelle's disappearance is explained, Jenny will never relent in her search.",
+                "illustration": "./img/pistols_and_pearls/Jennysmall.png",
+                "illustration_pan_x": -15.0,
+                "illustration_pan_y": -21.0,
+                "illustration_rotation": "-16",
+                "illustration_scale": 2.2,
+                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, Neutral cards level 0-5, up to 10 other non-permanent [[Talent]] cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Jenny's Twin .45s, Searching for Izzie, 1 random basic weakness.",
+                "type": "investigator_back"
+            },
+            "encounter_set": "25262f95-4d9a-4300-8854-a155a5cf803a"
+        },
+        {
+            "name": "84. Jenny Barnes (Parallel front)",
+            "id": "02003-pf",
+            "meta": {
+                "folder": "{player_cards}/11. Pistols and pearls"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Jenny Barnes",
+                "copyright": "©  2024 FFG",
+                "agility": "3",
+                "classes": [
+                    "parallel_rogue"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
+                "collection_number": "84",
+                "collection_total": " ",
+                "combat": "3",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "\"Oh honey, I'm making this up as I go along.\"",
+                "health": "8",
+                "illustration": "./img/pistols_and_pearls/jenny.png",
+                "illustration_pan_x": 46.0,
+                "illustration_pan_y": 76.0,
+                "illustration_scale": 2.041,
+                "illustrator": "Illus. Tony Foti",
+                "intellect": "3",
+                "sanity": "7",
+                "subtitle": "The Dilettante",
+                "text": "<reaction> After your turn begins: Play a <t>Talent</t> asset, reducing its cost by 1.\n<free> Discard a <t>Talent</t> asset you control: Gain resources equal to that asset's printed cost. (Limit 5 resources per round.)\n<elder_sign> effect: +0. If you succeed, gain 3 resources.",
+                "traits": "Drifter. Socialite.",
+                "type": "investigator",
+                "willpower": "3"
+            },
+            "back": {
+                "name": "<unique>Jenny Barnes",
+                "classes": [
+                    "rogue"
+                ],
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "<name> has spent the majority of her young life in pursuit of creature comforts, fine dining, and the latest fashions. That all changed when she received a letter from her sister, Isabelle. In this letter, Isabelle confessed that mysterious forces were aligning against her and that she feared she may fall victim to some paranormal threat. It was the last letter Jenny received from her beloved sister. Jenny has since returned to the States to track down and investigate all occult occurrences she can find. Hardly a wilting flower, she has proven herself a crack shot as well as a fearless and clever investigator of the unknown. Until Isabelle's disappearance is explained, Jenny will never relent in her search.",
+                "illustration": "./img/pistols_and_pearls/jennyo.webp",
+                "illustration_pan_x": -70.0,
+                "illustration_pan_y": -42.0,
+                "illustration_scale": 0.409,
+                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, Neutral cards level 0-5, up to 10 other non-permanent [[Talent]] cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Jenny's Twin .45s, Searching for Izzie, 1 random basic weakness.",
+                "type": "investigator_back"
+            },
+            "encounter_set": "25262f95-4d9a-4300-8854-a155a5cf803a"
+        },
+        {
+            "name": "81. Father Mateo (Parallel back)",
+            "id": "04004-pb",
+            "meta": {
+                "folder": "{player_cards}/13. Aura of Faith"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Father Mateo",
+                "copyright": "                       ©  2024 FFG",
+                "agility": "3",
+                "classes": [
+                    "parallel_mystic"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
+                "collection_number": "81",
+                "collection_total": " ",
+                "combat": "2",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "health": "6",
+                "illustration": "./img/aura_of_faith/mateo.png",
+                "illustration_pan_x": 73.0,
+                "illustration_pan_y": 87.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Magali Villeneuve",
+                "intellect": "3",
+                "sanity": "8",
+                "subtitle": "The Priest",
+                "text": "<free> During your turn: Seal a <blessing> token on an investigator at your location with no <blessing> token sealed on them. (Limit once per round.)\n<reaction> When an investigator would reveal a chaos token: Resolve the <blessing> token sealed on them instead. Release that token.\n<elder_sign> effect: +1. Resolve <name>'s <free> ability, ignoring its limit.",
+                "traits": "Believer. Warden.",
+                "type": "investigator",
+                "willpower": "4"
+            },
+            "back": {
+                "name": "<unique>Father Mateo",
+                "classes": [
+                    "parallel_mystic"
+                ],
+                "collection_total": " ",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "Mateo Castile's life has not been easy since he became a priest. Recent decades in Mexico have been wracked with instability and conflict. <name> struggled to balance his faith with the pragmatic concerns of preaching when the law told him he must not. But this is not what has assaulted Mateo's faith at its core. The nearby murders and kidnappings were not politically motivated, as he had suspected. A gruesome and horrid cult thrives at the heart of the brewing war. How, Mateo wonders, could a kind and loving God allow what he saw that night to exist?",
+                "illustration": "./img/aura_of_faith/mateosmall.png",
+                "illustration_pan_x": 80.0,
+                "illustration_pan_y": 98.0,
+                "illustration_rotation": "-7",
+                "illustration_scale": 1.181,
+                "text": "<b>Deck Size:</b> 30.\n<b>Deckbuilding Options:</b> Mystic cards ([mystic]) level 0-3, [[Blessed]] cards level 0-5, Neutral cards level 0-5, up to 5 other cards with \"seal\" level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): The Codex of Ages, Serpents of Yig, 1 random basic weakness.\n",
+                "type": "investigator_back"
+            },
+            "encounter_set": "2fa2ac7c-96d0-48eb-9160-dcbe4a49a6e2"
+        },
+        {
+            "name": "81. Father Mateo (Parallel front)",
+            "id": "04004-pf",
+            "meta": {
+                "folder": "{player_cards}/13. Aura of Faith"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Father Mateo",
+                "copyright": "                       ©  2024 FFG",
+                "agility": "3",
+                "classes": [
+                    "parallel_mystic"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
+                "collection_number": "81",
+                "collection_total": " ",
+                "combat": "2",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "health": "6",
+                "illustration": "./img/aura_of_faith/mateo.png",
+                "illustration_pan_x": 73.0,
+                "illustration_pan_y": 87.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Magali Villeneuve",
+                "intellect": "3",
+                "sanity": "8",
+                "subtitle": "The Priest",
+                "text": "<free> During your turn: Seal a <blessing> token on an investigator at your location with no <blessing> token sealed on them. (Limit once per round.)\n<reaction> When an investigator would reveal a chaos token: Resolve the <blessing> token sealed on them instead. Release that token.\n<elder_sign> effect: +1. Resolve <name>'s <free> ability, ignoring its limit.",
+                "traits": "Believer. Warden.",
+                "type": "investigator",
+                "willpower": "4"
+            },
+            "back": {
+                "name": "<unique>Father Mateo",
+                "classes": [
+                    "parallel_mystic"
+                ],
+                "collection_total": " ",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "Mateo Castile's life has not been easy since he became a priest. Recent decades in Mexico have been wracked with instability and conflict. <name> struggled to balance his faith with the pragmatic concerns of preaching when the law told him he must not. But this is not what has assaulted Mateo's faith at its core. The nearby murders and kidnappings were not politically motivated, as he had suspected. A gruesome and horrid cult thrives at the heart of the brewing war. How, Mateo wonders, could a kind and loving God allow what he saw that night to exist?",
+                "illustration": "./img/aura_of_faith/mateosmall.png",
+                "illustration_pan_x": 80.0,
+                "illustration_pan_y": 98.0,
+                "illustration_rotation": "-7",
+                "illustration_scale": 1.181,
+                "text": "<b>Deck Size:</b> 30.\n<b>Deckbuilding Options:</b> Mystic cards ([mystic]) level 0-3, [[Blessed]] cards level 0-5, Neutral cards level 0-5, up to 5 other cards with \"seal\" level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): The Codex of Ages, Serpents of Yig, 1 random basic weakness.\n",
+                "type": "investigator_back"
+            },
+            "encounter_set": "2fa2ac7c-96d0-48eb-9160-dcbe4a49a6e2"
         }
     ],
     "encounter_sets": [
@@ -3659,17 +4170,6 @@
             "order": 5
         },
         {
-            "name": "On the Road Again",
-            "id": "555c3925-5d98-4b5d-8720-1082773dad87",
-            "code": "road",
-            "icon": "./icons/parallel.png",
-            "meta": {
-                "tts": {}
-            },
-            "cards": [],
-            "order": 6
-        },
-        {
             "name": "Laid to Rest",
             "id": "68d68ace-50f4-4cfa-8063-0342e7e71664",
             "code": "laid",
@@ -3691,29 +4191,6 @@
             },
             "cards": [],
             "order": 7
-        },
-        {
-            "name": "Path of the Righteous",
-            "id": "2995f081-5ace-43e1-a764-18f475649397",
-            "code": "path",
-            "icon": "./icons/parallel.png",
-            "meta": {
-                "location_active_layout": "7812ac2a-70e3-4fe8-bf2f-c7fed731448a",
-                "location_layouts": [
-                    {
-                        "name": "Layout 1",
-                        "id": "7812ac2a-70e3-4fe8-bf2f-c7fed731448a",
-                        "fixed_length_arrows": false,
-                        "hide_mode": false,
-                        "nodes": {},
-                        "show_arrows": true,
-                        "snap_enabled": false
-                    }
-                ],
-                "tts": {}
-            },
-            "cards": [],
-            "order": 8
         },
         {
             "name": "Relics of the Past",
@@ -3764,8 +4241,20 @@
             "name": "Enthralling Encore",
             "id": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e",
             "code": "encore",
-            "icon": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/icons/enthralling_encore.svg",
+            "icon": "./icons/enthralling_encore.svg",
             "meta": {
+                "location_active_layout": "a465fe0f-df32-424e-a023-8af622c07256",
+                "location_layouts": [
+                    {
+                        "name": "Layout 1",
+                        "id": "a465fe0f-df32-424e-a023-8af622c07256",
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {},
+                        "show_arrows": true,
+                        "snap_enabled": false
+                    }
+                ],
                 "tts": {}
             },
             "cards": [],
@@ -3818,6 +4307,24 @@
                     "name": "Intro",
                     "id": "5cbc1715",
                     "markdown": "<div style = \"position: fixed; top: -38mm; text-align: center; width: 100%;\">\n  <h1 style = \"font-size: 26px; color: white!important; border: none; margin-bottom: 2mm\">LAID TO REST<br>\n     <div style = \"margin-top: 13px;\">\n        <span style = \"font-size: 15px; font-family: arnopro-bold; letter-spacing: 2px;\">CHALLENGE SCENARIO</span>\n     </div>\n  </h1>\n</div>\n\n:::story\nLaid to rest\n:::\n\n[project:name] is a game for 1-4 investigators and their pets, to undertake a mission to find some missing girls, and maybe avoid getting bit in the process. Thread carefully.\n\n*[project:name]* is a fan made campaign for *Arkham Horror: The Card\nGame* for 1–4 players. *[project:name]* contains [project:number_of_scenarios] scenarios: [project:scenario_names]. Each of these scenarios may also be played on its own in Standalone Mode.\n\n## Contents\n:::toc\n:::\n\n## Expansion Icon\nThe cards in the *[project:name]* campaign expansion can be identified by this symbol before each cards's collector number:\n:::center\n[project:icon]\n:::\n\n## Campaign Setup\nTo set up the [project:name] campaign, perform the following steps in order.\n\n**1\\. Choose investigator(s).**\n\n**2\\. Each player assembles his or her investigator deck.**\n\n**3\\. Choose difficulty level.**\n\n**4\\. Assemble the campaign chaos bag.**\n\n:::indent\n<bullet> **Easy (I want to experience the story):**  \n+1, +1, 0, 0, 0, –1, –1, –1, –2, –2, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Standard (I want a challenge):**  \n+1, 0, 0, –1, –1, –1, –2, –2, –3, –4, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Hard (I want a true nightmare):**  \n0, 0, 0, –1, –1, –2, –2, –3, –3, –4, –5, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Expert (I want Arkham Horror):**  \n0, –1, –1, –2, –2, –3, –3, –4, –4, –5, –6, –8, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>\n:::\n\nYou're ready to begin at the **Prologue**.\n",
+                    "type": "intro"
+                }
+            ]
+        },
+        {
+            "name": "Enthralling Encore",
+            "id": "62018451-ac36-4b94-8748-8d49e34f5ed3",
+            "sections": [
+                {
+                    "name": "Cover",
+                    "id": "5038df9b",
+                    "markdown": "",
+                    "type": "cover"
+                },
+                {
+                    "name": "Intro",
+                    "id": "99998ea4",
+                    "markdown": "# Campaign Tag Line\n:::story\nAwesome quote goes here\n:::right\n\\- Author, book\n:::\n:::\n\n[project:name] is a game for 1-4 investigators and their pets, to undertake a mission to find some missing girls, and maybe avoid getting bit in the process. Thread carefully.\n\n*[project:name]* is a fan made campaign for *Arkham Horror: The Card\nGame* for 1–4 players. *[project:name]* contains [project:number_of_scenarios] scenarios: [project:scenario_names]. Each of these scenarios may also be played on its own in Standalone Mode.\n\n## Contents\n:::toc\n:::\n\n## Expansion Icon\nThe cards in the *[project:name]* campaign expansion can be identified by this symbol before each cards's collector number:\n:::center\n[project:icon]\n:::\n\n## Campaign Setup\nTo set up the [project:name] campaign, perform the following steps in order.\n\n**1\\. Choose investigator(s).**\n\n**2\\. Each player assembles his or her investigator deck.**\n\n**3\\. Choose difficulty level.**\n\n**4\\. Assemble the campaign chaos bag.**\n\n:::indent\n<bullet> **Easy (I want to experience the story):**  \n+1, +1, 0, 0, 0, –1, –1, –1, –2, –2, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Standard (I want a challenge):**  \n+1, 0, 0, –1, –1, –1, –2, –2, –3, –4, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Hard (I want a true nightmare):**  \n0, 0, 0, –1, –1, –2, –2, –3, –3, –4, –5, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Expert (I want Arkham Horror):**  \n0, –1, –1, –2, –2, –3, –3, –4, –4, –5, –6, –8, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>\n:::\n\nYou're ready to begin at the **Prologue**.\n",
                     "type": "intro"
                 }
             ]

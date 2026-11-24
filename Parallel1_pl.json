@@ -32,6 +32,9 @@
         "02001-pb": {
             "name": "Zoey Samaras (Równoległy tył)",
             "front": {
+                "classes": [
+                    "guardian"
+                ],
                 "flavor_text": "„Bóg przemówił. Wypełnię Jego wolę bez wahania”.",
                 "subtitle": "Szef kuchni",
                 "text": "<reaction> Po tym, jak znajdziesz się w zwarciu z dowolnym wrogiem: zyskujesz 1 żeton zasobu.\nEfekt <elder_sign>: +1. Jeśli ten test zakończy się sukcesem podczas ataku, dany atak zadaje<br>+1 obrażenie.",
@@ -88,6 +91,180 @@
                 "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Strażnika (<guardian>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Poszukiwacza, Łotra, Mistyka i/lub Ocalałego).\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Krzyż Zoey, Ukarać niegodziwców, 1 losowe podstawowe osłabienie."
             }
         },
+        "02002-p": {
+            "name": "78. Rex Murphy (Równoległy)",
+            "front": {
+                "flavor_text": "„No nie, tylko nie </i>znowu<i>!”",
+                "subtitle": "Reporter",
+                "text": "<reaction> Kiedy miałbyś umieścić<br>1 z twoich wskazówek na twojej lokalizacji albo dodać 2 żetony <curse> do worka chaosu: zamiast tego zrób to drugie. (Może to nadal spełnić koszt zdolności).\nEfekt <elder_sign>: +2 za każdy żeton <curse> odkryty podczas tego testu. Dobierz 1 kartę za każdy żeton <curse> odkryty podczas tego testu.",
+                "traits": "Reporter. Przeklęty."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Poszukiwacza (<seeker>)<br>o poziomie 0–3, karty z cechą [[Przeklęty]] i [[Gambit]]<br>o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Łotra (<rogue>) o poziomie 0."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości<br>talii):",
+                        "Poszukiwanie prawdy, Klątwa Rexa, 1 losowe podstawowe osłabienie."
+                    ],
+                    [
+                        "<b>Ograniczenia w tworzeniu talii</b>:",
+                        "bez kart z cechą [[Los]] lub [[Błogosławiony]] (chyba że mają również cechę [[Przeklęty]])."
+                    ]
+                ],
+                "flavor_text": "Kiedy przydarza się jakieś nieszczęście, Rex Murphy jest zwykle w pobliżu i odczuwa jego skutki. Nawet najbardziej zatwardziały sceptyk po spędzeniu jednego dnia z Rexem jest gotów przysiąc, że nad facetem wisi jakieś fatum. Za każdym razem, kiedy trafia na ślad ciekawej historii, zawsze coś pójdzie nie tak. Na przykład ta sprawa w Innsmouth, kiedy wiatr porwał mu fotografie do morza. Parszywy los niejednokrotnie sprawiał, że stawał się celem jakichś potwornych bestii albo okultystycznych spisków. Żeby jakoś przeżyć, Rex rozwinął w sobie przenikliwy umysł i zawsze próbuje wyprzedzać o krok każdą katastrofę.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Poszukiwacza (<seeker>)<br>o poziomie 0–3, karty z cechą [[Przeklęty]] i [[Gambit]]<br>o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Łotra (<rogue>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości<br>talii): Poszukiwanie prawdy, Klątwa Rexa, 1 losowe podstawowe osłabienie.\n<b>Ograniczenia w tworzeniu talii</b>: bez kart z cechą [[Los]] lub [[Błogosławiony]] (chyba że mają również cechę [[Przeklęty]])."
+            }
+        },
+        "02002-pb": {
+            "name": "78. Rex Murphy (Równoległy tył)",
+            "front": {
+                "flavor_text": "„Tym razem nic mnie nie powstrzyma przed odkryciem prawdy”.",
+                "subtitle": "Reporter",
+                "text": "<reaction> Po tym, jak podczas<br>badania zakończysz test umiejętności z sukcesem<br>o 2 lub więcej: odkryj 1 żeton wskazówki w twojej lokalizacji.\nEfekt <elder_sign>: +2. Zamiast tego możesz zdecydować, że ten<br>test automatycznie kończy się porażką, aby dobrać 3 karty.",
+                "traits": "Reporter."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Poszukiwacza (<seeker>)<br>o poziomie 0–3, karty z cechą [[Przeklęty]] i [[Gambit]]<br>o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Łotra (<rogue>) o poziomie 0."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości<br>talii):",
+                        "Poszukiwanie prawdy, Klątwa Rexa, 1 losowe podstawowe osłabienie."
+                    ],
+                    [
+                        "<b>Ograniczenia w tworzeniu talii</b>:",
+                        "bez kart z cechą [[Los]] lub [[Błogosławiony]] (chyba że mają również cechę [[Przeklęty]])."
+                    ]
+                ],
+                "flavor_text": "Kiedy przydarza się jakieś nieszczęście, Rex Murphy jest zwykle w pobliżu i odczuwa jego skutki. Nawet najbardziej zatwardziały sceptyk po spędzeniu jednego dnia z Rexem jest gotów przysiąc, że nad facetem wisi jakieś fatum. Za każdym razem, kiedy trafia na ślad ciekawej historii, zawsze coś pójdzie nie tak. Na przykład ta sprawa w Innsmouth, kiedy wiatr porwał mu fotografie do morza. Parszywy los niejednokrotnie sprawiał, że stawał się celem jakichś potwornych bestii albo okultystycznych spisków. Żeby jakoś przeżyć, Rex rozwinął w sobie przenikliwy umysł i zawsze próbuje wyprzedzać o krok każdą katastrofę.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Poszukiwacza (<seeker>)<br>o poziomie 0–3, karty z cechą [[Przeklęty]] i [[Gambit]]<br>o poziomie 0–4, karty neutralne o poziomie 0–5,<br>do 5 innych kart Łotra (<rogue>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości<br>talii): Poszukiwanie prawdy, Klątwa Rexa, 1 losowe podstawowe osłabienie.\n<b>Ograniczenia w tworzeniu talii</b>: bez kart z cechą [[Los]] lub [[Błogosławiony]] (chyba że mają również cechę [[Przeklęty]])."
+            }
+        },
+        "02002-pf": {
+            "name": "78. Rex Murphy (Równoległy przód)",
+            "front": {
+                "flavor_text": "„No nie, tylko nie </i>znowu<i>!”",
+                "subtitle": "Reporter",
+                "text": "<reaction> Kiedy miałbyś umieścić<br>1 z twoich wskazówek na twojej lokalizacji albo dodać 2 żetony <curse> do worka chaosu: zamiast tego zrób to drugie. (Może to nadal spełnić koszt zdolności).\nEfekt <elder_sign>: +2 za każdy żeton <curse> odkryty podczas tego testu. Dobierz 1 kartę za każdy żeton <curse> odkryty podczas tego testu.",
+                "traits": "Reporter. Przeklęty."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Poszukiwacza (<seeker>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Strażnika, Łotra, Mistyka i/lub Ocalałego)."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
+                        "Poszukiwanie prawdy, Klątwa Rexa, 1 losowe podstawowe osłabienie."
+                    ],
+                    [
+                        "<b>Ograniczenia w tworzeniu talii</b>:",
+                        "bez kart z cechą [[Los]]."
+                    ]
+                ],
+                "flavor_text": "Kiedy przydarza się jakieś nieszczęście, Rex Murphy jest zwykle w pobliżu i odczuwa jego skutki. Nawet najbardziej zatwardziały sceptyk po spędzeniu jednego dnia z Rexem jest gotów przysiąc, że nad facetem wisi jakieś fatum. Za każdym razem, kiedy trafia na ślad ciekawej historii, zawsze coś pójdzie nie tak. Na przykład ta sprawa w Innsmouth, kiedy wiatr porwał mu fotografie do morza albo dziwne ślady w Dunwich zmyte przez deszcz, zanim zdążył je pokazać szeryfowi. Parszywy los niejednokrotnie sprawiał, że stawał się celem jakichś potwornych bestii albo okultystycznych spisków. Żeby jakoś przeżyć, Rex rozwinął w sobie przenikliwy umysł i zawsze próbuje wyprzedzać o krok każdą katastrofę.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Poszukiwacza (<seeker>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Strażnika, Łotra, Mistyka i/lub Ocalałego).\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Poszukiwanie prawdy, Klątwa Rexa, 1 losowe podstawowe osłabienie.\n<b>Ograniczenia w tworzeniu talii</b>: bez kart z cechą [[Los]]."
+            }
+        },
+        "02003-p": {
+            "name": "84. Jenny Barnes (Równoległa)",
+            "front": {
+                "flavor_text": "„Och, skarbie, wymyślam to na bieżąco”.",
+                "subtitle": "Dyletantka",
+                "text": "<reaction> Po rozpoczęciu twojej tury: zagraj atut z cechą [[Talent]], obniżając jego koszt o 1.\n<free> Odrzuć kontrolowany przez ciebie atut z cechą [[Talent]]: zyskaj zasoby w liczbie równej wydrukowanemu kosztowi danego atutu. (Limit 5 zasobów na rundę).\nEfekt <elder_sign>: +0. Jeśli test zakończy się sukcesem, zyskaj 3 zasoby.",
+                "traits": "Tułacz. Bywalec."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Łotra (<rogue>)<br>o poziomie 0–3, karty neutralne o poziomie 0–5,<br>do 10 innych kart z cechą [[Talent]] bez słowa kluczowego Trwały o poziomie 0–5."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
+                        "Bliźniacze .45 Jenny, Poszukiwanie Izzie,<br>1 losowe podstawowe osłabienie."
+                    ]
+                ],
+                "flavor_text": "Jenny Barnes spędziła większość swojego młodego życia na pogoni za luksusem, znakomitą kuchnią i najnowszą modą. Wszystko zmieniło się, kiedy otrzymała list od swojej siostry, Isabelle. W liście Isabelle pisała, że sprzysięgły się przeciw niej tajemnicze siły i boi się, że może paść ofiarą jakiegoś nadnaturalnego zagrożenia. Był to ostatni list, jaki Jenny otrzymała od ukochanej siostry. Powróciła więc do Stanów, aby zbadać wszelkie okultystyczne zjawiska, jakie tylko zdoła znaleźć. Jenny wielokrotnie udowodniła, że nie jest delikatnym kwiatuszkiem, lecz wyborowym strzelcem oraz sprytnym i nieustraszonym badaczem tajemnic. Dopóki zniknięcie Isabelle się nie wyjaśni, nie zrezygnuje ze swych poszukiwań.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Łotra (<rogue>)<br>o poziomie 0–3, karty neutralne o poziomie 0–5,<br>do 10 innych kart z cechą [[Talent]] bez słowa kluczowego Trwały o poziomie 0–5.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Bliźniacze .45 Jenny, Poszukiwanie Izzie,<br>1 losowe podstawowe osłabienie."
+            }
+        },
+        "02003-pb": {
+            "name": "84. Jenny Barnes (Równoległy tył)",
+            "front": {
+                "flavor_text": "„Daj spokój z tą »Panną Barnes«.<br>Przyjaciele mówią mi Jenny”.",
+                "subtitle": "Dyletantka",
+                "text": "Podczas każdej fazy utrzymania otrzymujesz 1 dodatkowy żeton zasobu.\nEfekt <elder_sign>: +1 za każdy żeton zasobu, który posiadasz.",
+                "traits": "Tułacz."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Łotra (<rogue>)<br>o poziomie 0–3, karty neutralne o poziomie 0–5,<br>do 10 innych kart z cechą [[Talent]] bez słowa kluczowego Trwały o poziomie 0–5."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
+                        "Bliźniacze .45 Jenny, Poszukiwanie Izzie,<br>1 losowe podstawowe osłabienie."
+                    ]
+                ],
+                "flavor_text": "Jenny Barnes spędziła większość swojego młodego życia na pogoni za luksusem, znakomitą kuchnią i najnowszą modą. Wszystko zmieniło się, kiedy otrzymała list od swojej siostry, Isabelle. W liście Isabelle pisała, że sprzysięgły się przeciw niej tajemnicze siły i boi się, że może paść ofiarą jakiegoś nadnaturalnego zagrożenia. Był to ostatni list, jaki Jenny otrzymała od ukochanej siostry. Powróciła więc do Stanów, aby zbadać wszelkie okultystyczne zjawiska, jakie tylko zdoła znaleźć. Jenny wielokrotnie udowodniła, że nie jest delikatnym kwiatuszkiem, lecz wyborowym strzelcem oraz sprytnym i nieustraszonym badaczem tajemnic. Dopóki zniknięcie Isabelle się nie wyjaśni, nie zrezygnuje ze swych poszukiwań.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Łotra (<rogue>)<br>o poziomie 0–3, karty neutralne o poziomie 0–5,<br>do 10 innych kart z cechą [[Talent]] bez słowa kluczowego Trwały o poziomie 0–5.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Bliźniacze .45 Jenny, Poszukiwanie Izzie,<br>1 losowe podstawowe osłabienie."
+            }
+        },
+        "02003-pf": {
+            "name": "84. Jenny Barnes (Równoległy przód)",
+            "front": {
+                "flavor_text": "„Och, skarbie, wymyślam to na bieżąco”.",
+                "subtitle": "Dyletantka",
+                "text": "<reaction> Po rozpoczęciu twojej tury: zagraj atut z cechą [[Talent]], obniżając jego koszt o 1.\n<free> Odrzuć kontrolowany przez ciebie atut z cechą [[Talent]]: zyskaj zasoby w liczbie równej wydrukowanemu kosztowi danego atutu. (Limit 5 zasobów na rundę).\nEfekt <elder_sign>: +0. Jeśli test zakończy się sukcesem, zyskaj 3 zasoby.",
+                "traits": "Tułacz. Bywalec."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Łotra (<rogue>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Strażnika, Poszukiwacza, Mistyka i/lub Ocalałego)."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
+                        "Bliźniacze .45 Jenny, Poszukiwanie Izzie,<br>1 losowe podstawowe osłabienie."
+                    ]
+                ],
+                "flavor_text": "Jenny Barnes spędziła większość swojego młodego życia na pogoni za luksusem, znakomitą kuchnią i najnowszą modą. Wszystko zmieniło się, kiedy otrzymała list od swojej siostry, Isabelle. W liście Isabelle pisała, że sprzysięgły się przeciw niej tajemnicze siły i boi się, że może paść ofiarą jakiegoś nadnaturalnego zagrożenia. Był to ostatni list, jaki Jenny otrzymała od ukochanej siostry. Powróciła więc do Stanów, aby zbadać wszelkie okultystyczne zjawiska, jakie tylko zdoła znaleźć. Jenny wielokrotnie udowodniła, że nie jest delikatnym kwiatuszkiem, lecz wyborowym strzelcem oraz sprytnym i nieustraszonym badaczem tajemnic. Dopóki zniknięcie Isabelle się nie wyjaśni, nie zrezygnuje ze swych poszukiwań.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Łotra (<rogue>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Strażnika, Poszukiwacza, Mistyka i/lub Ocalałego).\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Bliźniacze .45 Jenny, Poszukiwanie Izzie,<br>1 losowe podstawowe osłabienie."
+            }
+        },
         "02004-p": {
             "name": "Jim Culver (Równoległy)",
             "front": {
@@ -96,7 +273,7 @@
                 ],
                 "flavor_text": "„Wiem, że mogę sprawić, że umarli zatańczą”.",
                 "subtitle": "Muzyk",
-                "text": "<reaction> Po tym, jak podczas wykonywanego przez ciebie testu umiejętności odkryjesz<br>1 lub więcej żetonów <skull> lub <curse>: uzupełnij 1 ładunek na atucie, który kontrolujesz. (Limit raz na rundę).\n<size 62>Efekt <elder_sign>: +2. Możesz potraktować ten żeton, jakby był żetonem <skull> lub <curse>.</size>",
+                "text": "<reaction> Po tym, jak podczas wykonywanego przez ciebie testu umiejętności odkryjesz<br>1 lub więcej żetonów <skull> lub <curse>: uzupełnij 1 ładunek na atucie, który kontrolujesz. (Limit raz na rundę).\n<size 62>Efekt <elder_sign>: +2. Możesz potraktować<br>ten żeton, jakby był żetonem <skull> lub <curse>.</size>",
                 "traits": "Artysta. Przeklęty."
             },
             "back": {
@@ -178,15 +355,15 @@
         "02004-pf": {
             "name": "Jim Culver (Równoległy przód)",
             "front": {
-                "classes": [
-                    "mystic"
-                ],
                 "flavor_text": "„Wiem, że mogę sprawić, że umarli zatańczą”.",
                 "subtitle": "Muzyk",
-                "text": "<reaction> Po tym, jak podczas wykonywanego przez ciebie testu umiejętności odkryjesz<br>1 lub więcej żetonów <skull> lub <curse>: uzupełnij 1 ładunek na atucie, który kontrolujesz. (Limit raz na rundę).\n<size 62>Efekt <elder_sign>: +2. Możesz potraktować ten żeton, jakby był żetonem <skull> lub <curse>.</size>",
+                "text": "<reaction> Po tym, jak podczas wykonywanego przez ciebie testu umiejętności odkryjesz<br>1 lub więcej żetonów <skull> lub <curse>: uzupełnij 1 ładunek na atucie, który kontrolujesz. (Limit raz na rundę).\n<size 62>Efekt <elder_sign>: +2. Możesz potraktować<br>ten żeton, jakby był żetonem <skull> lub <curse>.</size>",
                 "traits": "Artysta. Przeklęty."
             },
             "back": {
+                "classes": [
+                    "mystic"
+                ],
                 "entries": [
                     [
                         "<b>Rozmiar talii</b>:",
@@ -294,6 +471,216 @@
                 ],
                 "flavor_text": "Nocami Pete „Włóczęga” sypia tam, gdzie akurat zaprowadzą go nogi: w polu, w pociągu, a jeśli się mu poszczęści, w jakiejś stodole. Śpi ze swoim wiernym psem, Diukiem, z jednej strony i sfatygowaną gitarą z drugiej. Czasem nawiedzają go sny. Śni o nawiedzonych, udręczonych miejscach i straszliwych istotach. Kiedy się budzi, wie doskonale, że ktoś potrzebuje jego pomocy, ponieważ wszystkie jego sny się sprawdzają. Nie pamięta już, jak długo tuła się po drogach, zarabiając na życie sprytem, i wie jedynie, że żadne miejsce nie jest na tyle daleko, aby nie mógł komuś pomóc. Dopóki Pete jest w stanie pomagać ludziom, nie zamierza przerwać swojej wędrówki.",
                 "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Ocalałego (<survivor>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Strażnika, Poszukiwacza, Łotra i/lub Mistyka).\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Diuk, Dręczony przez koszmary, 1 losowe podstawowe osłabienie."
+            }
+        },
+        "03006-p": {
+            "name": "87. Lola Hayes (Równoległa)",
+            "front": {
+                "name": "<unique><size 95>Lola Hayes",
+                "copyright": "              ©  2024 FFG",
+                "subtitle": "Aktorka",
+                "text": "Rozpoczynasz grę w roli neutralnej.\nMożesz zagrywać lub przeznaczać<br>do testów tylko karty neutralne lub karty należące do twojej obecnej roli.\n<b>Wymuszony</b> – Początek twojej tury: zmień twoją rolę (<guardian>, <seeker>, <rogue>, <mystic>, <survivor> lub neutralna).\nEfekt <elder_sign>: +2. Możesz zmienić rolę.",
+                "traits": "Artysta."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "40."
+                    ],
+                    [
+                        "<b>Wybór klas</b>:",
+                        "podczas tworzenia talii wybierz 2 klasy (<guardian>, <seeker>, <rogue>, <mystic> lub <survivor>)."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty neutralne<br>o poziomie 0–5, karty z wybranych przez ciebie klas o poziomie 0–4, karty z pozostałych klas o poziomie 0–1."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
+                        "2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie."
+                    ],
+                    [
+                        "<b>Dodatkowe wymogi</b>:",
+                        "twoja talia musi zawierać co najmniej 6 kart z każdej klasy (<guardian>, <seeker>, <rogue>, <mystic> i <survivor>)."
+                    ]
+                ],
+                "flavor_text": "Lola była przekonana, że czasy, gdy występowała w</i> Królu w Żółci<i>, ma już za sobą. Niedawno jednak usłyszała samotne skrzypce grające nawiedzającą melodię z ostatniej inscenizacji tego przedstawienia. Muzyka wkrada się do jej umysłu w chwilach ciszy i samotności, a ona czuje nieodpartą potrzebę, by po raz ostatni odwiedzić Teatr Warda.\n  ",
+                "text": "<b>Rozmiar talii</b>: 40.\n<b>Wybór klas</b>: podczas tworzenia talii wybierz 2 klasy (<guardian>, <seeker>, <rogue>, <mystic> lub <survivor>).\n<b>Opcje tworzenia talii</b>: karty neutralne<br>o poziomie 0–5, karty z wybranych przez ciebie klas o poziomie 0–4, karty z pozostałych klas o poziomie 0–1.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): 2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie.\n<b>Dodatkowe wymogi</b>: twoja talia musi zawierać co najmniej 6 kart z każdej klasy (<guardian>, <seeker>, <rogue>, <mystic> i <survivor>)."
+            }
+        },
+        "03006-pb": {
+            "name": "87. Lola Hayes (Równoległy tył)",
+            "front": {
+                "name": "<unique><size 95>Lola Hayes",
+                "copyright": "              ©  2017 FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image src=\"./icons/ptc.svg\" color=\"inverted\">",
+                "collection_number": "6",
+                "flavor_text": "Być może to będzie jej wielki powrót.",
+                "subtitle": "Aktorka",
+                "text": "<b>Wymuszony</b> – Po tym, jak dobierzesz początkowe karty: wybierz rolę (<survivor>, <guardian>, <seeker>, <rogue>, <mystic> lub neutralną).\nMożesz zagrywać, przeznaczać do testów lub aktywować zdolności tylko kart neutralnych lub kart należących do klasy wybranej roli.\n<free>: Zmień twoją rolę. (Limit raz na rundę).\nEfekt <elder_sign>: +2. Możesz zmienić rolę.",
+                "traits": "Artysta."
+            },
+            "back": {
+                "classes": [
+                    "parallel_neutral"
+                ],
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "40."
+                    ],
+                    [
+                        "<b>Wybór klas</b>:",
+                        "podczas tworzenia talii wybierz 2 klasy (<guardian>, <seeker>, <rogue>, <mystic> lub <survivor>)."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty neutralne<br>o poziomie 0–5, karty z wybranych przez ciebie klas o poziomie 0–4, karty z pozostałych klas o poziomie 0–1."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
+                        "2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie."
+                    ],
+                    [
+                        "<b>Dodatkowe wymogi</b>:",
+                        "twoja talia musi zawierać co najmniej 6 kart z każdej klasy (<guardian>, <seeker>, <rogue>, <mystic> i <survivor>)."
+                    ]
+                ],
+                "flavor_text": "Lola była przekonana, że czasy, gdy występowała w</i> Królu w Żółci<i>, ma już za sobą. Niedawno jednak usłyszała samotne skrzypce grające nawiedzającą melodię z ostatniej inscenizacji tego przedstawienia. Muzyka wkrada się do jej umysłu w chwilach ciszy i samotności, a ona czuje nieodpartą potrzebę, by po raz ostatni odwiedzić Teatr Warda.\n  ",
+                "text": "<b>Rozmiar talii</b>: 40.\n<b>Wybór klas</b>: podczas tworzenia talii wybierz 2 klasy (<guardian>, <seeker>, <rogue>, <mystic> lub <survivor>).\n<b>Opcje tworzenia talii</b>: karty neutralne<br>o poziomie 0–5, karty z wybranych przez ciebie klas o poziomie 0–4, karty z pozostałych klas o poziomie 0–1.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): 2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie.\n<b>Dodatkowe wymogi</b>: twoja talia musi zawierać co najmniej 6 kart z każdej klasy (<guardian>, <seeker>, <rogue>, <mystic> i <survivor>)."
+            }
+        },
+        "03006-pf": {
+            "name": "87. Lola Hayes (Równoległy przód)",
+            "front": {
+                "name": "<unique><size 95>Lola Hayes",
+                "copyright": "              ©  2024 FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "subtitle": "Aktorka",
+                "text": "Rozpoczynasz grę w roli neutralnej.\nMożesz zagrywać lub przeznaczać<br>do testów tylko karty neutralne lub karty należące do twojej obecnej roli.\n<b>Wymuszony</b> – Początek twojej tury: zmień twoją rolę (<guardian>, <seeker>, <rogue>, <mystic>, <survivor> lub neutralna).\nEfekt <elder_sign>: +2. Możesz zmienić rolę.",
+                "traits": "Artysta."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "35."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Ocalałego, Strażnika, Poszukiwacza, Łotra i Mistyka<br>(<survivor>, <guardian>, <seeker>, <rogue> i <mystic>) o poziomie 0–3, karty neutralne o poziomie 0–5."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (niewliczane do wielkości talii):",
+                        "2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie."
+                    ],
+                    [
+                        "<b>Dodatkowe wymogi</b>:",
+                        "twoja talia musi zawierać przynajmniej po 7 kart<br>z 3 różnych klas (<survivor>, <guardian>, <seeker>, <rogue> lub <mystic>)."
+                    ]
+                ],
+                "flavor_text": "Lola występowała na scenach całego świata, zawsze grając przy pełnej sali, ale żadna sztuka, w której brała udział, nie była tak niepokojąca ani tak dziwna jak „Król w Żółci”. Nawet podczas prób to przedstawienie sprowadzało nieszczęście i grozę. Kiedy jej koleżankę ze sceny, Miriam, znaleziono martwą w rzece Seine, doszła do wniosku, że to już za wiele, i napisała list do reżysera, oznajmiając, że następny spektakl jest ostatnim, w jakim zamierza wystąpić. Teraz zmierza do Arkham na swoje ostatnie przedstawienie w nadziei, że nareszcie uwolni się od tej koszmarnej sztuki.",
+                "text": "<b>Rozmiar talii</b>: 35.\n<b>Opcje tworzenia talii</b>: karty Ocalałego, Strażnika, Poszukiwacza, Łotra i Mistyka<br>(<survivor>, <guardian>, <seeker>, <rogue> i <mystic>) o poziomie 0–3, karty neutralne o poziomie 0–5.\n<b>Wymogi tworzenia talii</b> (niewliczane do wielkości talii): 2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie.\n<b>Dodatkowe wymogi</b>: twoja talia musi zawierać przynajmniej po 7 kart<br>z 3 różnych klas (<survivor>, <guardian>, <seeker>, <rogue> lub <mystic>)."
+            }
+        },
+        "04004-p": {
+            "name": "81. Ojciec Mateo (Równoległy)",
+            "front": {
+                "name": "<unique>Ojciec Mateo",
+                "subtitle": "Ksiądz",
+                "text": "<free> Podczas twojej tury: zapieczętuj żeton <blessing> na badaczu w twojej lokalizacji, na którym nie ma zapieczętowanego żetonu <blessing>. (Limit raz na rundę).\n<reaction> Kiedy badacz miałby odkryć żeton chaosu: zamiast tego rozpatrz żeton <blessing> zapieczętowany na tym badaczu. Uwolnij ten żeton.\nEfekt <elder_sign>: +1. Rozpatrz zdolność <free> Ojca Mateo, ignorując jej limit.",
+                "traits": "Wyznawca. Stróż."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Mistyka (<mystic>)<br>o poziomie 0–3, karty z cechą [[Błogosławiony]]<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do 5 innych kart ze słowem kluczowym Pieczęć<br> o poziomie 0–5."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
+                        "Kodeks Wieczności, Węże Yiga, 1 losowe podstawowe osłabienie."
+                    ]
+                ],
+                "flavor_text": "Życie Matea Castile nie należało do najłatwiejszych, odkąd został księdzem. Przez ostatnie dziesięciolecia sytuacja w Meksyku była niestabilna. Ojciec Mateo próbował pogodzić swoją wiarę z pragmatycznymi obawami przed represjami, ponieważ państwo zakazywało ewangelizacji. Jednak nie to wystawiło jego wiarę na najcięższą próbę. Okoliczne morderstwa i porwania nie miały charakteru politycznego, jak podejrzewał. W sercu nadciągającej wojny rozkwita koszmarny i odrażający kult. Mateo zastanawia się, jak łaskawy i miłosierny Bóg może pozwalać na istnienie tego, co ujrzał tamtej nocy.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Mistyka (<mystic>)<br>o poziomie 0–3, karty z cechą [[Błogosławiony]]<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do 5 innych kart ze słowem kluczowym Pieczęć<br> o poziomie 0–5.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Kodeks Wieczności, Węże Yiga, 1 losowe podstawowe osłabienie."
+            }
+        },
+        "04004-pb": {
+            "name": "81. Ojciec Mateo (Równoległy tył)",
+            "front": {
+                "name": "<unique>Ojciec Mateo",
+                "copyright": "                       ©  2017 FFG",
+                "classes": [
+                    "mystic"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
+                "collection_number": "4",
+                "subtitle": "Ksiądz",
+                "text": "<reaction> Po tym, jak badacz odkryje żeton chaosu <auto_fail>: anuluj dany żeton<br>i zamiast tego traktuj go jak żeton <elder_sign>. (Limit raz na grę).\nEfekt <elder_sign>: test automatycznie kończy się sukcesem. Po zakończeniu tego testu wybierz jedno:\n- Dobierasz 1 kartę i zyskujesz 1 żeton zasobów.\n- Jeśli trwa twoja tura, możesz w tej turze wykonać dodatkową akcję.",
+                "traits": "Wyznawca. Stróż."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Mistyka (<mystic>)<br>o poziomie 0–3, karty z cechą [[Błogosławiony]]<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do 5 innych kart ze słowem kluczowym Pieczęć<br> o poziomie 0–5."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
+                        "Kodeks Wieczności, Węże Yiga, 1 losowe podstawowe osłabienie."
+                    ]
+                ],
+                "flavor_text": "Życie Matea Castile nie należało do najłatwiejszych, odkąd został księdzem. Przez ostatnie dziesięciolecia sytuacja w Meksyku była niestabilna. Ojciec Mateo próbował pogodzić swoją wiarę z pragmatycznymi obawami przed represjami, ponieważ państwo zakazywało ewangelizacji. Jednak nie to wystawiło jego wiarę na najcięższą próbę. Okoliczne morderstwa i porwania nie miały charakteru politycznego, jak podejrzewał. W sercu nadciągającej wojny rozkwita koszmarny i odrażający kult. Mateo zastanawia się, jak łaskawy i miłosierny Bóg może pozwalać na istnienie tego, co ujrzał tamtej nocy.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Mistyka (<mystic>)<br>o poziomie 0–3, karty z cechą [[Błogosławiony]]<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do 5 innych kart ze słowem kluczowym Pieczęć<br> o poziomie 0–5.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Kodeks Wieczności, Węże Yiga, 1 losowe podstawowe osłabienie."
+            }
+        },
+        "04004-pf": {
+            "name": "81. Ojciec Mateo (Równoległy przód)",
+            "front": {
+                "name": "<unique>Ojciec Mateo",
+                "subtitle": "Ksiądz",
+                "text": "<free> Podczas twojej tury: zapieczętuj żeton <blessing> na badaczu w twojej lokalizacji, na którym nie ma zapieczętowanego żetonu <blessing>. (Limit raz na rundę).\n<reaction> Kiedy badacz miałby odkryć żeton chaosu: zamiast tego rozpatrz żeton <blessing> zapieczętowany na tym badaczu. Uwolnij ten żeton.\nEfekt <elder_sign>: +1. Rozpatrz zdolność <free> Ojca Mateo, ignorując jej limit.",
+                "traits": "Wyznawca. Stróż."
+            },
+            "back": {
+                "classes": [
+                    "mystic"
+                ],
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Mistyka (<mystic>)<br>o poziomie 0–5, karty z cechą [[Błogosławiony]]<br>o poziomie 0–3, karty neutralne o poziomie 0–5."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (niewliczane do wielkości talii):",
+                        "Kodeks Wieczności, Węże Yiga, 1 losowe podstawowe osłabienie."
+                    ],
+                    [
+                        "<b>Bonusowe doświadczenie</b>:",
+                        "rozpoczynasz kampanię<br>z 5 dodatkowymi punktami doświadczenia (w trybie samodzielnej rozgrywki nie wpływa to na liczbę osłabień, które gracz musi wziąć)."
+                    ]
+                ],
+                "flavor_text": "Życie Matea Castile nie należało do najłatwiejszych, odkąd został księdzem. Przez ostatnie dziesięciolecia sytuacja w Meksyku była niestabilna. Ojciec Mateo próbował pogodzić swoją wiarę z pragmatycznymi obawami przed represjami, ponieważ państwo zakazywało ewangelizacji. Jednak nie to wystawiło jego wiarę na najcięższą próbę. Okoliczne morderstwa i porwania nie miały charakteru politycznego, jak podejrzewał. Jakiś koszmarny kult odpowiadał za zgony i żerował na wojennej zawierusze. Mateo zaczął się zastanawiać, jak łaskawy i miłosierny Bóg może pozwalać, aby działy się takie rzeczy?",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Mistyka (<mystic>)<br>o poziomie 0–5, karty z cechą [[Błogosławiony]]<br>o poziomie 0–3, karty neutralne o poziomie 0–5.\n<b>Wymogi tworzenia talii</b> (niewliczane do wielkości talii): Kodeks Wieczności, Węże Yiga, 1 losowe podstawowe osłabienie.\n<b>Bonusowe doświadczenie</b>: rozpoczynasz kampanię<br>z 5 dodatkowymi punktami doświadczenia (w trybie samodzielnej rozgrywki nie wpływa to na liczbę osłabień, które gracz musi wziąć)."
             }
         },
         "08007-p": {
@@ -733,6 +1120,7 @@
         "90047": {
             "name": "Gitara Pete’a",
             "front": {
+                "name": "Gitara Pete'a",
                 "subtitle": "Wciąż się trzyma",
                 "text": "Tylko talia Pete’a „Włóczęgi”. Zamiennik.\n<free> Wyczerp Gitarę Pete’a: wybierz nie-[[Elitarnego]] wroga znajdującego się w twojej lub połączonej lokalizacji. Porusz danego wroga raz w dowolnym kierunku. Następnie, jeśli w twojej lokalizacji nie ma żadnych wrogów, wylecz 1 punkt przerażenia lub zyskaj 1 zasób.",
                 "traits": "Przedmiot. Instrument."
@@ -741,6 +1129,7 @@
         "90048": {
             "name": "Ciężkie czasy",
             "front": {
+                "name": "Ciężkie czasy",
                 "text": "Tylko talia Pete’a „Włóczęgi”. Zamiennik.\n<b>Odkrycie</b> -- Umieść <name> w grze, w twoim obszarze zagrożenia.\n<b>Wymuszony</b> -- Po tym, jak dobierzesz 1 lub więcej kart: wybierz i odrzuć taką samą liczbę kart z twojej ręki.\n<action><action>: Odrzuć <name>.\n",
                 "traits": "Przeciwność."
             }
@@ -809,17 +1198,20 @@
         "90052": {
             "name": "Zaświaty",
             "front": {
+                "name": "<unique>Zaświaty",
                 "subtitle": "Ponury świat otchłani",
                 "text": "Tylko talia Jima Culvera. Trwały. \nKażdy dołączony duch traci wszystkie wydrukowane cechy i zyskuje cechę [[Echo duszy]]. Kiedy obrażenia/punkty przerażenia miałyby zostać umieszczone na dołączonym duchu, zamiast tego muszą zostać umieszczone na Jimie Culverze. \n<b>Wymuszony</b> -- Początek twojej tury: dołącz wierzchnią kartę z talii duchów do Zaświatów jako ducha. Jeśli 4 lub więcej duchów jest dołączonych do tej karty, odwróć tę kartę i rozpatrz tekst na drugiej stronie.",
                 "traits": "<size 62>Sanktuarium. Widmowy."
             },
             "back": {
+                "name": "Zaświaty",
                 "text": "<b>Wymuszony</b> – Po jednym na raz, wybierz każdego ducha nie-osłabienie dołączonego do Zaświatów<br>i odkryj losowy żeton z worka chaosu. Jeśli jest to... \n- ...żeton <elder_sign>: możesz wyleczyć 1 punkt przerażenia lub dołączyć kartę z wierzchu talii duchów do Zaświatów, jako ducha. (<i>Nie odkrywaj żetonów chaosu dla duchów dołączonych po rozpatrzeniu tego efektu</i>).\n- ...żeton <auto_fail>: odrzuć tego ducha. Otrzymujesz 1 bezpośrednie obrażenie lub punkt przerażenia.\n- ...żeton <skull>: odrzuć tego ducha. Wylecz 1 punkt przerażenia.\n- ...żeton <cultist>, <elder_thing>, <tablet> lub <curse>: musisz albo odrzucić tego ducha, albo otrzymujesz 1 bezpośrednie obrażenie.\n- ...dowolny inny żeton: odrzuć tego ducha. \nOdwróć tę kartę z powrotem na stronę atutu.\n<hr>\n<b>Przypomnienie</b>: <i>Duchy dołączone do Zaświatów znajdują się w grze, ale zachowują tylko swoje nazwy<br>i pola tekstowe. Duchy nie zajmują żadnej strefy i nie posiadają wytrzymałości ani poczytalności. Kiedy unikalny duch zostaje dołączony do Zaświatów, każdy inny atut, który dzieli tę samą nazwę i jest już w grze, zostaje odrzucony. Duchy są zawsze odrzucane na <b>spód</b> talii duchów.</i>"
             }
         },
         "90053": {
             "name": "Mściwy cień",
             "front": {
+                "name": "Mściwy cień",
                 "text": "Łowca. <b>Polowanie</b> – Tylko Jim Culver. \nMożesz walczyć lub wymykać się temu wrogowi, kiedy jest dołączony do Zaświatów (tak jakby był z tobą w zwarciu). Jeśli test zakończy się sukcesem, odrzuć go. Jeśli test zakończy się porażką, rozstaw go w zwarciu z tobą. \n<b>Wymuszony</b> – Kiedy dołączysz ducha do Zaświatów przez ich efekt Wymuszony: Mściwy cień atakuje cię <i>(nawet jeśli nie znajduje się w twojej lokalizacji).<br></i>",
                 "traits": "Potwór. Echo duszy."
             }
@@ -828,6 +1220,7 @@
             "name": "Pochowany",
             "amount": 1,
             "front": {
+                "name": "<dbl>Pochowany</dbl>",
                 "copyright": "©  2023 FFG",
                 "chaos_extra": "Duchowe zakłócenia",
                 "difficulty": "ŁATWY / STANDARDOWY",
@@ -859,6 +1252,7 @@
                 ]
             },
             "back": {
+                "name": "<dbl>Pochowany</dbl>",
                 "chaos_extra": "Duchowe zakłócenia",
                 "collection_number": "54b",
                 "difficulty": "TRUDNY / EKSPERCKI",
@@ -970,7 +1364,7 @@
             }
         },
         "90063": {
-            "name": "63.Wierny bat",
+            "name": "63. Wierny bat",
             "front": {
                 "name": "Wierny bat",
                 "text": "Szybka. Tylko talia Montereya Jacka. Zaawansowana.\n<action>: <b>Walka</b> (<agility>). Dostajesz +2 do wartości umiejętności do tego ataku. Jeśli ten atak zakończy się sukcesem, możesz wyczerpać Wierny bat, aby zadać +1 obrażenie do tego ataku<br>i automatycznie wymknąć się atakowanemu wrogowi.<br><br>",
@@ -978,7 +1372,7 @@
             }
         },
         "90064": {
-            "name": "64.Pogrzebane sekrety",
+            "name": "64. Pogrzebane sekrety",
             "front": {
                 "name": "Pogrzebane sekrety",
                 "text": "Zaawansowana. <b>Odkrycie</b> – Umieść Pogrzebane sekrety w grze, w twoim obszarze zagrożenia.\nJeśli twoja lokalizacja może zostać zbadana, nie możesz się<br>poruszyć, chyba że na skutek efektów kart scenariusza.\n<action><action>: <b>Badanie.</b> Jeśli test zakończy się sukcesem, zamiast odkrywać wskazówki, odrzuć Pogrzebane sekrety.<br>",
@@ -1175,14 +1569,204 @@
                 "traits": "Moc."
             }
         },
-        "90086": {
+        "90079": {
+            "name": "79. Poszukiwanie prawdy",
             "front": {
-                "text": "Advanced.\n<rev> Attach <name> to the location farthest from you. Attached location gets +2 shroud.\n<action><action>: <b>Investigate</b>. If you succeed, instead of discovering clues, discard <name>.\n<for> When the game ends, if <name> is in play: You suffer 1 mental trauma."
+                "name": "Poszukiwanie prawdy",
+                "text": "Tylko talia Rexa Murphy’ego. Zaawansowana.\nZa każdą wskazówkę na Rexie Murphym (maksymalnie 5) możesz albo:\n- Dobrać 1 kartę.\n- Umieścić tę wskazówkę na twojej lokalizacji i cofnąć dowolną kartę z twojego stosu kart odrzuconych na twoją rękę.",
+                "traits": "Informacja."
+            }
+        },
+        "90080": {
+            "name": "80. Klątwa",
+            "front": {
+                "name": "Klątwa Rexa",
+                "text": "Zaawansowana.\n<b>Odkrycie</b> – Umieść Klątwę Rexa w grze, w twoim obszarze zagrożenia.\n<b>Wymuszony</b> – Kiedy twój test umiejętności miałby zakończyć się sukcesem: odkryj dodatkowy żeton chaosu. Jeśli ten efekt sprawi, że twój test zakończy się porażką, wtasuj Klątwę Rexa do twojej talii. (Limit raz na test).<br>",
+                "traits": "Klątwa."
+            }
+        },
+        "90082": {
+            "name": "82. Kodeks Wieczności",
+            "front": {
+                "name": "<unique>Kodeks Wieczności",
+                "text": "Tylko talia Ojca Mateo. Zaawansowana. Pieczęć (<elder_sign> lub maksymalnie 3 <blessing>).\nDostajesz +1 do każdej z twoich umiejętności, dopóki znajduje się tu zapieczętowany żeton.\n<reaction> Kiedy badacz w twojej lokalizacji miałby odkryć żeton chaosu<br>z worka chaosu: zamiast tego dany badacz rozpatruje zapieczętowany tu żeton, a następnie go uwalnia. (Limit raz na test).",
+                "traits": "Przedmiot. Relikwia. Księga. Błogosławiony."
+            }
+        },
+        "90083": {
+            "name": "83. Węże Yiga",
+            "front": {
+                "name": "Węże Yiga",
+                "text": "Zaawansowana. <b>Polowanie</b> – Tylko Ojciec Mateo.\nŁowca.\n<b>Odkrycie</b> – Przeszukaj worek chaosu i wszystkie obszary gry w poszukiwaniu żetonu <elder_sign> oraz wszystkich żetonów <blessing> i zapieczętuj je na Wężach Yiga.",
+                "traits": "Humanoid. Potwór. Wężowy."
+            }
+        },
+        "90085": {
+            "name": "85. Bliźniacze .45 Jenny",
+            "front": {
+                "name": "<unique>Bliźniacze .45 Jenny",
+                "subtitle": "Idealnie dopasowane",
+                "text": "Tylko talia Jenny Barnes. Zaawansowana.\nZużywalny (X naboi).\n<action> Wydaj 1 nabój: <b>Walka.</b> Do tego ataku dostajesz +2 <combat>. Ten atak zadaje +1 obrażenie.\n<reaction> Po tym, jak pokonasz wroga za pomocą powyższej zdolności, wyczerp Bliźniacze .45 Jenny: zyskaj zasoby w liczbie równej wydrukowanej wartości wytrzymałości tego wroga.",
+                "traits": "Przedmiot. Broń. Palna."
+            }
+        },
+        "90086": {
+            "name": "86. Poszukiwanie Izzie",
+            "front": {
+                "name": "Poszukiwanie Izzie",
+                "text": "Zaawansowana.\n<b>Odkrycie</b> – Dołącz Poszukiwanie Izzie do lokalizacji znajdującej się najdalej od ciebie. Lokalizacja, do której dołączono tę kartę, dostaje +2 do wartości zasłony.\n<action><action>: <b>Badanie.</b> Jeśli test zakończy się sukcesem, zamiast odkrywać wskazówki, odrzuć Poszukiwanie Izzie.\n<b>Wymuszony</b> – Kiedy gra się kończy, jeśli Poszukiwanie Izzie znajduje się w grze: otrzymujesz 1 punkt traumy psychicznej.<br>",
+                "traits": "Zadanie."
+            }
+        },
+        "90088": {
+            "name": "88. Główna rola (Bohaterka)",
+            "front": {
+                "name": "Główna rola (Bohaterka)",
+                "flavor_text": "„Mam dość czekania za kulisami”.",
+                "text": "Tylko talia Loli Hayes. Zamiennik.\nSzybka. Zagraj tylko podczas twojej tury.\nZagraj kartę z twojej ręki niezależnie od twojej obecnej roli <i>(płacąc jej koszt)</i>. Jeśli była to karta Strażnika (<guardian>), możesz albo dobrać 1 kartę, albo natychmiast wykonać akcję walki.",
+                "traits": "Taktyka. Improwizowany."
+            }
+        },
+        "90089": {
+            "name": "89. Główna rola (Mentorka)",
+            "front": {
+                "name": "Główna rola (Mentorka)",
+                "flavor_text": "„Na scenie nauczyłam się tego i owego”.",
+                "text": "Tylko talia Loli Hayes. Zamiennik.\nSzybka. Zagraj tylko podczas twojej tury.\nZagraj kartę z twojej ręki niezależnie od twojej obecnej roli <i>(płacąc jej koszt)</i>. Jeśli była to karta Poszukiwacza (<seeker>), możesz albo dobrać 1 kartę, albo natychmiast wykonać akcję badania.",
+                "traits": "Informacja. Improwizowany."
+            }
+        },
+        "90090": {
+            "name": "90. Główna rola (Femme fatale)",
+            "front": {
+                "name": "Główna rola (Femme fatale)",
+                "flavor_text": "„Zaufaj mi, kochanie, zostanę gwiazdą”.",
+                "text": "Tylko talia Loli Hayes. Zamiennik.\nSzybka. Zagraj tylko podczas twojej tury.\nZagraj kartę z twojej ręki niezależnie od twojej obecnej roli <i>(płacąc jej koszt)</i>. Jeśli była to karta Łotra (<rogue>), możesz albo dobrać 1 kartę, albo natychmiast wykonać akcję wymykania się.",
+                "traits": "Sztuczka. Improwizowany."
+            }
+        },
+        "90091": {
+            "name": "91. Główna rola (Czarodziejka)",
+            "front": {
+                "name": "Główna rola (Czarodziejka)",
+                "flavor_text": "„Cała sztuka polega na tym, by pokazywać im tylko to, co chcesz, żeby zobaczyli”.",
+                "text": "Tylko talia Loli Hayes. Zamiennik.\nSzybka. Zagraj tylko podczas twojej tury.\nZagraj kartę z twojej ręki niezależnie od twojej obecnej roli <i>(płacąc jej koszt)</i>. Jeśli była to karta Mistyka (<mystic>), możesz albo dobrać 1 kartę, albo usunąć 1 żeton zagłady z karty gracza w twojej lokalizacji.",
+                "traits": "Rytuał. Improwizowany."
+            }
+        },
+        "90092": {
+            "name": "92. Główna rola (Ostatnia ocalała)",
+            "front": {
+                "name": "Główna rola (Ostatnia ocalała)",
+                "flavor_text": "„Dalej, Lola, wytrzymaj do ukłonu\".",
+                "text": "Tylko talia Loli Hayes. Zamiennik.\nSzybka. Zagraj tylko podczas twojej tury.\nZagraj kartę z twojej ręki niezależnie od twojej obecnej roli <i>(płacąc jej koszt)</i>. Jeśli była to karta Ocalałego (<survivor>), możesz albo dobrać 1 kartę, albo wyleczyć 1 obrażenie lub 1 punkt przerażenia.",
+                "traits": "Duch. Improwizowany."
             }
         },
         "90093": {
             "front": {
-                "text": "Lola Hayes deck only. Replacement. Peril. Hidden.\nWhile <name> is in your hand, you cannot switch roles or play cards belonging to another role.\nWhile <name> is in play, as an additional cost for you to switch your role, you must take 1 horror."
+                "subtitle": "Natrętny producent",
+                "text": "Tylko talia Loli Hayes. Zamiennik. Zagrożenie.\nDopóki Samuel Blake jest na twojej ręce, nie możesz zmieniać ról ani zagrywać kart należących do innej roli.\nDopóki Samuel Blake jest w grze, jako dodatkowy koszt zmiany twojej roli musisz otrzymać 1 punkt przerażenia.",
+                "traits": "Humanoid. Kultysta."
+            }
+        },
+        "90094": {
+            "name": "94. Urzekający bis",
+            "front": {
+                "name": "<dbl>Urzekający bis</dbl>",
+                "chaos_extra": "Takty",
+                "entries": [
+                    {
+                        "text": "--X. X to liczba taktów.",
+                        "token": [
+                            "skull"
+                        ]
+                    },
+                    {
+                        "text": "--2. Jeśli test zakończy się porażką, musisz albo wydać 1 wskazówkę, albo otrzymać 1 obrażenie.",
+                        "token": [
+                            "cultist"
+                        ]
+                    },
+                    {
+                        "text": "--3 (zamiast tego --5, jeśli wśród kontrolowanych przez ciebie kart są karty z 3 lub więcej klas).",
+                        "token": [
+                            "tablet"
+                        ]
+                    },
+                    {
+                        "text": "--2. Jeśli Złowrogi solista znajduje się w twojej lokalizacji, odkryj kolejny żeton.",
+                        "token": [
+                            "elder_thing"
+                        ]
+                    }
+                ]
+            },
+            "back": {
+                "name": "<dbl>Urzekający bis</dbl>",
+                "chaos_extra": "Takty",
+                "difficulty": "TRUDNY / EKSPERCKI",
+                "entries": [
+                    {
+                        "text": "--X. X to o 1 więcej niż liczba taktów.",
+                        "token": [
+                            "skull"
+                        ]
+                    },
+                    {
+                        "text": "--3. Jeśli test zakończy się porażką, musisz wydać 1 wskazówkę<br>i otrzymać 1 obrażenie.",
+                        "token": [
+                            "cultist"
+                        ]
+                    },
+                    {
+                        "text": "--4 (zamiast tego --6, jeśli wśród kontrolowanych przez ciebie kart są karty z 3 lub więcej klas).",
+                        "token": [
+                            "tablet"
+                        ]
+                    },
+                    {
+                        "text": "--3. Jeśli Złowrogi solista znajduje się w twojej lokalizacji, zamiast tego test automatycznie kończy się porażką.",
+                        "token": [
+                            "elder_thing"
+                        ]
+                    }
+                ]
+            }
+        },
+        "90095": {
+            "name": "Nawiedzenie Teatru Warda",
+            "front": {
+                "name": "Nawiedzenie Teatru Warda",
+                "flavor_text": "Teatr jest zamknięty i cichy, tak jak od tamtych dni, gdy wystawiano widmową inscenizację</i> Króla w Żółci<i>. Gdy rozglądasz się po otoczeniu, znów to słyszysz – nawiedzające skrzypce. Ktoś tu jest i podtrzymuje pamięć<br>o tamtym przedstawieniu.",
+                "text": "<free> Jeśli znajdujesz się w lokalizacji Złowrogiego solisty, odrzuć z twojej ręki po 1 karcie z każdej klasy (<guardian>, <seeker>, <rogue>, <mystic><br>i <survivor>): <b>Pertraktacje.</b> Automatycznie wymknij się Złowrogiemu soliście. Do końca rundy traktuj pole tekstowe Złowrogiego solisty tak, jakby było puste (z wyjątkiem [[Cech]])."
+            },
+            "back": {
+                "name": "Tren Mgieł Carcosy",
+                "index": "1b",
+                "text": "<blockquote>Solista podąża twoim śladem, zawsze obecny i wciąż grający tę szaleńczą pieśń. Czujesz, jak nuty zakorzeniają się w twoim umyśle, grożąc, że wyrwą cię z teatru i przeniosą do innego świata – takiego, który, jak sądzisz, już kiedyś odwiedziłeś…</blockquote>\nUmieść 1 żeton zasobu na karcie pomocy scenariusza, jako takt. Następnie, jeśli jest tam 5 lub więcej taktów, każdy badacz zostaje pokonany i otrzymuje 1 punkt traumy psychicznej.\nW przeciwnym razie każdy badacz musi wykonać test <willpower> (3). Każdy badacz, którego test zakończy się porażką, otrzymuje 1 punkt przerażenia i odkłada na bok 1 kontrolowany przez siebie atut nie-osłabienie bez słowa kluczowego Trwały. Następnie wtasuj każdy atut odłożony na bok w wyniku tego efektu do talii rekwizytów. Jeśli test każdego badacza zakończy się porażką, usuń 1<per_large> obrażeń ze Złowrogiego solisty.\nUmieszczaj wskazówki na każdej odkrytej lokalizacji, do jej wartości wskazówek.\nWtasuj stos odrzuconych kart spotkań do talii spotkań. Przywróć tę tajemnicę do Tajemnicy 1a."
+            }
+        },
+        "90096": {
+            "name": "Odetnij się od przeszłości",
+            "front": {
+                "name": "Odetnij się od przeszłości",
+                "flavor_text": "Solista stoi na scenie, a jego tyczkowate ramiona poruszają się z mechaniczną precyzją, gdy gra na skrzypcach. Jego twarz spowija cień, lecz jego pieśń podąża za tobą po całym teatrze.",
+                "text": "<free> Badacze znajdujący się w tej samej lokalizacji z cechą [[Prywatna]] wydają, jako grupa, 1<per_large> wskazówek: <b>Pertraktacje.</b> Odkryj 3 wierzchnie karty talii rekwizytów<br>i wybierz badacza, który dobierze 1 z nich. Potasuj pozostałe karty i umieść je na spodzie talii rekwizytów.\n<b>Cel</b> – Jeśli Złowrogi solista znajduje się w puli zwycięstwa, talia postępuje."
+            },
+            "back": {
+                "name": "Ostatni ukłon",
+                "text": "<blockquote>Solista osuwa się przed tobą i pada na podłogę w kłębie gryzącego, czarnego dymu i żarzących się iskier, cuchnąc kalafonią. Skóra cię piecze, a oczy łzawią, zmuszając cię do odwrócenia wzroku. Kaszlesz i machasz rękami, by rozwiać dym, aż w końcu ten się rozprasza. Po soliście nie ma ani śladu. W teatrze znów panuje cisza, podobnie jak w twoim umyśle. Jakiekolwiek niedokończone sprawy wiązały się z tą sceną, wydają się teraz zamknięte. Odwracasz się i wracasz do przedsionka, gotów na dobre zostawić Teatr Warda za sobą.</blockquote>\n<b>(→Z1)</b>"
+            }
+        },
+        "90097": {
+            "name": "97. Złowrogi solista",
+            "front": {
+                "name": "<unique>Złowrogi solista",
+                "subtitle": "Trubadur z Carcosy",
+                "text": "Czujny. Powściągliwy. Nieuchwytny. Łowca.\nJako dodatkowy koszt zagrania nie-neutralnej karty<br>w lokalizacji Złowrogiego solisty musisz otrzymać<br>1 punkt przerażenia.\n<b>Wymuszony</b> – Na koniec fazy wrogów, jeśli Złowrogi solista jest przygotowany: każdy badacz znajdujący się w lokalizacji Złowrogiego solisty lub każdej połączonej lokalizacji otrzymuje 1 bezpośredni punkt przerażenia.",
+                "traits": "Potwór. Elitarny.",
+                "victory": "Zwycięstwo 2."
             }
         }
     },
@@ -1190,8 +1774,14 @@
         "217ea032-41fb-40ee-94e2-e25d8c590897": {
             "name": "Relikty przeszłości"
         },
+        "25262f95-4d9a-4300-8854-a155a5cf803a": {
+            "name": "Pistolety i perły"
+        },
         "2995f081-5ace-43e1-a764-18f475649397": {
             "name": "Ścieżka sprawiedliwych"
+        },
+        "2fa2ac7c-96d0-48eb-9160-dcbe4a49a6e2": {
+            "name": "Aura wiary"
         },
         "555c3925-5d98-4b5d-8720-1082773dad87": {
             "name": "Znów na szlaku",
@@ -1210,11 +1800,49 @@
                 ]
             }
         },
+        "5f05f8f2-f2bd-41bf-8d69-1809b125768c": {
+            "name": "W poszukiwaniu odpowiedzi"
+        },
         "68d68ace-50f4-4cfa-8063-0342e7e71664": {
             "name": "Pochowany"
+        },
+        "b9e82a4e-8c75-4aee-b190-a85f565c3c5e": {
+            "name": "Urzekający bis"
         }
     },
     "guides": {
+        "62018451-ac36-4b94-8748-8d49e34f5ed3": {
+            "name": "Urzekający bis",
+            "front_page": ".\\img\\enthralling_encore\\Cover PL.jpg",
+            "sections": [
+                {
+                    "name": "Cover",
+                    "id": "5038df9b",
+                    "markdown": "",
+                    "type": "cover"
+                },
+                {
+                    "name": "Intro",
+                    "id": "99998ea4",
+                    "markdown": "<div style = \"position: fixed; top: -28mm; text-align: center; width: 100%;\">\n  <h1 style = \"font-size: 26px; color: white!important; border: none; margin-bottom: 2mm\">URZEKAJĄCY BIS<br>\n     <div style = \"margin-top: 13px;\">\n        <span style = \"font-size: 15px; font-family: arnopro-bold; letter-spacing: 2px;\">SCENARIUSZ WYZWANIE</span>\n     </div>\n  </h1>\n</div>\n\n<style>\n  p {\n    text-align: left;\n    font-size: 11.5px;\n  }\n\n  @page {\n     margin-left: 15mm;\n     margin-right: 15mm;\n  }\n\n  .chapter {\n    column-gap: 4mm;\n  }\n\n  @page :nth(2) {\n    margin-top: 68mm;\n  }\n</style>\n\n*Urzekający bis* to specjalny scenariusz wyzwanie do gry karcianej *Horror w Arkham* oraz alternatywna wersja Loli Hayes. Ten scenariusz może być rozgrywany pojedynczo w trybie samodzielnej rozgrywki lub jako historia poboczna w trakcie dowolnej kampanii. **Aby rozegrać ten scenariusz, wymagany jest *Horror w Arkham: Zestaw podstawowy* oraz rozszerzenie kampanijne *Szlak do Carcosy*.**\n\n<h3 style = \"font-size: 15px;\">Badacze z równoległego świata</h3>\n\nBadacze z równoległego świata to dostępne do samodzielnego wydruku nowe, alternatywne wersje istniejących już badaczy z gry karcianej *Horror w Arkham*. Badaczami tymi, wraz z ich zaawansowanymi kartami osobistymi, można normalnie rozegrać każdy scenariusz i kampanię.\n\n- Podczas tworzenia talii Loli Hayes możesz zdecydować, z którego awersu i którego rewersu oryginalnej lub alternatywnej wersji jej karty badacza chcesz korzystać. Każda wersja ma swoje wady i zalety. Możesz wybrać dowolną stronę każdej wersji. Oznacza to, że możesz używać obu stron oryginalnej wersji, obu stron alternatywnej wersji, oryginalnego awersu i alternatywnego rewersu albo alternatywnego awersu i oryginalnego rewersu.\n\n<h3 style = \"font-size: 15px;\">Zamienniki</h3>\n\nKarty osobiste ze słowem kluczowym Zamiennik to opcjonalne zamienniki określonych kart. Podczas tworzenia talii możesz zdecydować się zastąpić konkretne karty wymienione w „Wymogach tworzenia talii” wszystkimi zamiennikami danego badacza. W ten sposób spełniasz Wymogi tworzenia talii. W trakcie kampanii tej decyzji nie można cofnąć.\n\n*Przykład: Marta tworzy talię Loli Hayes. W Wymogach tworzenia talii Loli Hayes wymienione są Improwizacja i Kryzys tożsamości. Marta może zamiast tych czterech kart wybrać wszystkie pięć wersji karty Główna rola oraz Samuela Blake’a.*\n\nMożesz także dodać do talii wszystkie karty wymienione w „Wymogach tworzenia talii” oraz wszystkie zamienniki danego badacza. Zamienniki dodane w ten sposób nie wliczają się do wielkości talii badacza.\n\n*Przykład: Marta tworzy talię Loli Hayes. Zamiast wybierać między zwykłymi kartami osobistymi a zamiennikami kart osobistych, Marta może dodać do talii wszystkie dziesięć kart.*\n\n<h3 style = \"font-size: 15px;\">Scenariusze wyzwania</h3>\n\nScenariusze wyzwania to specjalne scenariusze print-and-play, które wykorzystują istniejące produkty z serii *Horror w Arkham: Gra karciana* w połączeniu z nowymi kartami do samodzielnego wydruku. Scenariusze te są zaprojektowane w oparciu o pewne konkretne wymagania, aby to doświadczenie stanowiło dla graczy swego rodzaju łamigłówkę.\n\nScenariusz wyzwanie *Urzekający bis* posiada następujące wymagania:\n\n- Podczas rozgrywania tego scenariusza musi zostać wybrany co najmniej 1 badacz posiadający wersję z równoległego świata. Należą do nich między innymi: Agnes Baker, Pete „Włóczęga”, Daisy Walker, Ojciec Mateo, Jenny Barnes, Jim Culver, Lola Hayes, Monterey Jack, Rex Murphy, Roland Banks, „Ślizg” O’Toole, Wendy Adams i Zoey Samaras.\n\n<div style = \"break-after: column\"></div>\n\n<h3 style = \"font-size: 15px;\">Tryb samodzielnej rozgrywki</h3>\nPodczas rozgrywania tego scenariusza w trybie samodzielnej rozgrywki należy postępować według instrukcji zawartych w sekcji „Tryb samodzielnej rozgrywki” Kompletnej księgi zasad. Dodatkowe zasady jego przygotowania znajdują się poniżej. W przypadku rozgrywania scenariusza *Urzekający bis* w trybie samodzielnej rozgrywki do wyboru są cztery poziomy trudności. Worek chaosu należy przygotować z następujących żetonów:\n\n- **Łatwy:** +1, +1, 0, 0, 0, --1, --1, --1, --2, --2, <skull>, <skull>, <skull>, <cultist>, <cultist>, <tablet>,<elder_thing>,<auto_fail>,<elder_sign>.\n- **Standardowy:** +1, 0, 0, --1, --1, --1, --2, --2, --3, --4, <skull>, <skull>, <skull>, <cultist>, <cultist>, <tablet>, <elder_thing>, <auto_fail>, <elder_sign>.\n- **Trudny:** 0, 0, 0, --1, --1, --2, --2, --3, --3, --4, --5, <skull>, <skull>, <skull>, <cultist>, <cultist>, <tablet>, <elder_thing>, <auto_fail>, <elder_sign>.\n- **Ekspercki:** 0, --1, --1, --2, --2, --3, --3, --4, --4, --5, --6, --8, <skull>, <skull>, <skull>, <cultist>, <cultist>, <tablet>, <elder_thing>, <auto_fail>, <elder_sign>.\n\n<h3 style = \"font-size: 16px;\">Historia poboczna (tryb kampanii)</h3>\nHistoria poboczna to scenariusz, który może zostać rozegrany pomiędzy dowolnymi dwoma scenariuszami każdej kampanii gry karcianej *Horror w Arkham*. Rozegranie historii pobocznej kosztuje każdego badacza w kampanii odpowiednią liczbę punktów doświadczenia. Otrzymane podczas historii pobocznej osłabienia, traumy, punkty doświadczenia i nagrody badacze zachowują do końca trwania kampanii. Każdą historię poboczną można rozegrać tylko raz w trakcie danej kampanii.\n\nW przypadku rozgrywania tego scenariusza podczas kampanii należy przygotować grę tak, jakby był to kolejny scenariusz kampanii – z tym samym workiem chaosu, otrzymanymi wcześniej osłabieniami, traumami i atutami fabularnymi.\n \n**Rozegranie historii pobocznej *Urzekający bis* kosztuje każdego badacza 2 punkty doświadczenia.**\n\n<h3 style = \"font-size: 16px;\">Symbol rozszerzenia</h3>\nKarty z serii „Badacze z równoległego świata” można rozpoznać dzięki następującemu symbolowi poprzedzającemu kolekcjonerski numer karty:\n\n<img src = \"{./icons/parallel.png}\" style = \"position: fixed; height: 7%; width: auto; margin-top: 5px; margin-left: 145px;\">\n\n<img src = \"{./img/enthralling_encore/lolag.png}\" style = \"height: auto; width: 100%; margin-top: 85px;\">\n",
+                    "type": "intro"
+                },
+                {
+                    "name": "Przygotowanie",
+                    "id": "bfc9ca77",
+                    "encounter_set_id": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e",
+                    "markdown": "<div style = \"margin-top: 80px\"></div>\n<h2>Występujące słowa kluczowe</h2>\n<div style = \"margin-top: 10px\"></div>\n\n<h3 style = \"font-size: 15px;\">Czujny</h3>\nZa każdym razem, gdy podczas próby wymknięcia się wrogowi ze słowem kluczowym Czujny test umiejętności badacza zakończy się porażką, po zastosowaniu wszystkich rezultatów tego testu umiejętności dany wróg wykonuje atak przeciwko wymykającemu się badaczowi. Wróg nie zostaje wyczerpany po wykonaniu ataku wynikającego ze słowa kluczowego Czujny. Ten atak zostaje wykonany bez względu na to, czy wróg jest w zwarciu z wymykającym się badaczem, czy nie.\n\n<h3 style = \"font-size: 15px;\">Nieuchwytny</h3>\nJeśli przygotowany wróg ze słowem kluczowym Nieuchwytny zaatakuje lub zostanie zaatakowany, po rozpatrzeniu tego ataku dany wróg natychmiast uwalnia się ze zwarcia ze wszystkimi badaczami, porusza się do połączonej lokalizacji (w której nie ma żadnego badacza, jeśli to możliwe) i zostaje wyczerpany. Dzieje się tak bez względu na to, czy wróg był w zwarciu z atakującym badaczem, czy nie.\n\n<h3 style = \"font-size: 15px;\">Ukryta</h3>\nKiedy dobierzesz kartę ze słowem kluczowym Ukryta, dodaj ją w tajemnicy do swojej ręki, nie ujawniając tej karty ani jej tekstu pozostałym badaczom. Dopóki ukryty wróg znajduje się na ręce badacza, nie jest on uważany za będącego w zwarciu z danym badaczem ani za znajdującego się w jego obszarze zagrożenia oraz nie atakuje on, chyba że zaznaczono inaczej. Ukryta karta wlicza się do limitu kart na ręce, ale nie można jej odrzucić z ręki w żaden sposób poza tym opisanym na karcie.\n\n<div style = \"margin-top: 7px\"></div>\n<h2>Scenariusz wyzwanie: Urzekający bis</h2>\n*Każdy ma swoją rolę do odegrania w przedstawieniu, jakim jest życie. Nie wiesz, ile czasu minęło, odkąd* Król w Żółci *zawitał do Teatru Warda w Arkham. Od tamtej pory wyrzuciłeś to z pamięci, uznając za niewyjaśnioną i niezwykle wyrazistą halucynację. Ale wtedy to usłyszałeś. Z początku przychodziło do ciebie w snach – nawiedzająca melodia z partytury orkiestrowej tego przedstawienia, teraz wykonywana przez jedne skrzypce. Zaprowadziła cię do tego zakątka Arkham, którego dotąd unikałeś: do Teatru Warda. W Teatrze panuje ciemność<br>i cisza, jeśli nie liczyć tej melodii, którą słyszysz tylko ty…*\n\n:::right\nPrzejdź do **Przygotowania**.\n::: \n\n<div style = \"break-after: column\";></div>\n\n<h3 style = \"font-size: 15px;\">Przygotowanie scenariusza</h3>\n<div style=\"margin-top: 7px\"></div>\n- Zbierz wszystkie karty z następujących zestawów spotkań: *Urzekający bis*, *Po opadnięciu kurtyny*, *Zgnilizna i nieczystości*, *Urojenia*, *Nawiedzenia*, *Ghoule*, *Paniczny strach* i *Szczury*. Każdy z tych zestawów, z wyjątkiem *Urzekającego bisu*, można znaleźć w *Zestawie podstawowym* lub w rozszerzeniu kampanijnym *Szlak do Carcosy*. Zestawy te są oznaczone następującymi symbolami:\n\n<div style=\"display: flex; justify-content: space-between; align-items: center; width: 95%; margin-left: 15px; margin-bottom: 10px\">\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/enthralling_encore.svg}\" alt=\"Ikona 1\" style=\"height: 35px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/curtain_call.svg}\" alt=\"Ikona 2\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/decay_and_filth.svg}\" alt=\"Ikona 3\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/delusions.svg}\" alt=\"Ikona 4\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/hauntings.svg}\" alt=\"Ikona 5\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/ghouls.svg}\" alt=\"Ikona 6\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/striking_fear.svg}\" alt=\"Ikona 7\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/rats.svg}\" alt=\"Ikona 8\" style=\"height: 30px; max-width: 100%;\"></div>\n</div>\n\n- Usuń z gry oryginalną kartę pomocy scenariusza, akty i tajemnice z zestawu spotkań *Po opadnięciu kurtyny*. Użyj nowej karty pomocy scenariusza, aktów i tajemnic z pobranego zestawu spotkań *Urzekający bis* podczas przygotowania scenariusza.\n\n- Zbuduj talię rekwizytów. W tym celu przeszukaj swoją kolekcję w poszukiwaniu 3 atutów o poziomie 0 bez cechy [[Sprzymierzeniec]] z każdej klasy (<guardian>, <seeker>, <rogue>, <mystic> i <survivor>), w sumie 15 kart (bez powtórzeń, jeśli to możliwe). Potasuj te karty, tworząc talię rekwizytów. Umieść tę talię obok karty pomocy scenariusza.\n:::indent\n:::bullet\n- Sugestia: jeśli żadna z poniższych kart nie jest używana w taliach badaczy, możesz utworzyć talię rekwizytów z tej listy: Trening fizyczny (<elder_sign> #17), Pierwsza pomoc (<elder_sign> #19), Maczeta (<elder_sign> #20), Stara księga wiedzy tajemnej (<elder_sign> #31), Nadświadomość (<elder_sign> #34), Traktaty medyczne (<elder_sign> #35), Włamanie (<elder_sign> #45), Kradzież kieszonkowa (<elder_sign> #46), Szkoła życia (<elder_sign> #49), Różaniec (<elder_sign> #59), Wróżenie (<elder_sign> #61), Znajomość wiedzy tajemnej (<elder_sign> #62), Kij baseballowy (<elder_sign> #74), Królicza łapka (<elder_sign> #75) oraz Nieustępliwość (<elder_sign> #77).\n:::\n:::\n\n- Usuń z gry Mężczyznę w bladej masce i Królewskiego emisariusza.\n- Odłóż na bok, poza grę, wszystkie kopie Drzwi w przedsionku<br>i wszystkie kopie Drzwi za kulisy.\n- Umieść w grze lokalizacje Teatr, Przedsionek, Balkon oraz Kulisy.\n:::indent\n:::bullet\n- Każdy badacz rozpoczyna grę w Teatrze.\n:::\n:::\n- Umieść w grze wroga Złowrogi solista w Kulisach.\n- Pozostałe karty spotkań należy potasować w celu utworzenia talii spotkań.\n- Gracze są teraz gotowi do rozpoczęcia gry.\n\n<img src=\"{./img/enthralling_encore/solog.png}\" style=\"width: 98%; position: fixed; bottom: 0; left: 0; colspan: 2;\">",
+                    "type": "scenario"
+                },
+                {
+                    "name": "Scenario",
+                    "id": "b09497ed",
+                    "encounter_set_id": "b9e82a4e-8c75-4aee-b190-a85f565c3c5e",
+                    "markdown": ":::resolution\n## NIE CZYTAJCIE TEGO FRAGMENTU<br><div style=\"font-size:17px;\"> przed zakończeniem scenariusza\n<div style=\"margin-top: 5px\"></div>\n\n**Nie udało się osiągnąć żadnego zakończenia (każdy badacz został pokonany):** Przejdź do **Zakończenia 2**.\n\n**Zakończenie 1:** <i>Skrzypek został pokonany i możesz jedynie mieć nadzieję, że ostatnie widmo tego bezbożnego przedstawienia wreszcie zaznało spokoju. Każdego dnia po wydarzeniach w Teatrze Warda twoje nerwy są napięte jak struny, ponieważ ciągle spodziewasz się usłyszeć tę melodię. Dni mijają, a melodia nigdy nie powraca. Wydaje się, że możesz żyć dalej, jakby wydarzenia związane z</i> Królem w Żółci <i>nigdy tak naprawdę nie miały miejsca. Ale miały, prawda?</i>\n\n- Każdy badacz zdobywa punkty doświadczenia równe łącznej wartości „Zwycięstwo X” wszystkich kart w puli zwycięstwa.\n- Każdy badacz może albo ulepszyć swoją kartę osobistą do wersji zaawansowanej, albo przywrócić zaawansowaną wersję swojego osłabienia do wersji oryginalnej (jeśli to możliwe).\n:::indent\n:::bullet\n- Każdy badacz, który nie może ulepszyć swojej karty osobistej do wersji zaawansowanej ani zmienić zaawansowanej wersji swojego osłabienia, zamiast tego zdobywa 2 dodatkowe punkty doświadczenia.\n:::\n:::\n\n**Zakończenie 2:** <i>Nie mogąc dłużej opierać się soliście, padasz na kolana i pozwalasz, by przytłaczająca moc melodii zalała cię niczym niepowstrzymana powódź. Nuty wypełniają twoje uszy, zagłuszając każdą inną myśl. Wzrok ci słabnie, a rzeczywistość Teatru Warda ciemnieje, wykrzywiając się i rozciągając pod dziwnymi kątami.\n\nZaciskasz mocno powieki, próbując skupić się na tym, co czujesz, żeby nie stracić kontaktu z rzeczywistością. Twoje dłonie wciskają się w szorstki piasek i co kilka sekund czujesz, jak zimna woda obmywa ci koniuszki palców. Po niedługim czasie, który wydaje się być minutami, ponownie otwierasz oczy i widzisz wysokie iglice tego starożytnego miasta, sięgające nieba rozświetlonego czarnymi gwiazdami. Do skrzypiec dołącza teraz niewidzialna orkiestra, osiągając ogłuszające crescendo. Próbujesz podnieść się z kolan, ale drżące nogi odmawiają ci posłuszeństwa i padasz na plecy…\n\n…i lądujesz na zakurzonych, drewnianych deskach sceny. Odgłos twojego upadku odbija się echem od przepastnych ścian Teatru Warda. Leżąc na proscenium, wpatrujesz się w ciemny sufit nad tobą. Solisty już nie ma. Potworów już nie ma. Teatr jest ciemny i pozornie opuszczony, jeśli nie liczyć ciebie.\n\nPowoli wstajesz, po czym odwracasz się i uciekasz, nie chcąc szukać żadnych dowodów tego, czego doświadczyłeś. Jesteś przekonany, że to miejsce jest przeklęte, że to przedstawienie jest przeklęte i że ta klątwa będzie cię nawiedzać do końca twoich dni.\n\nGdy przechodzisz przez frontowe drzwi teatru z powrotem na ulicę, w twojej głowie znów rozbrzmiewa ta nawiedzona melodia…</i>\n\n- Każdy badacz zdobywa punkty doświadczenia równe łącznej wartości „Zwycięstwo X” wszystkich kart w puli zwycięstwa.\n- Każdy badacz musi albo ulepszyć swoje osłabienie do wersji zaawansowanej, albo przywrócić zaawansowaną wersję swojej karty osobistej do wersji oryginalnej (jeśli to możliwe).\n:::indent\n:::bullet\n- Każdy badacz, który nie może ulepszyć swojej karty osobistej do wersji zaawansowanej ani zmienić zaawansowanej wersji swojego osłabienia, otrzymuje zamiast tego 1 punkt traumy psychicznej.\n:::\n:::\n:::\n\n<div style = \"break-after: column;\"></div>\n\n<h2>Twórcy</h2>\n**Projekt i rozwój:** Nicholas Kory oraz Josiah „Duke” Harrist<br>\n**Producent:** Eric Stanton<br>\n**Korekta:** Molly Glover<br>\n**Specjalista ds. zasad:** Alex Werner<br>\n**Menedżer ds. linii produktowej:** Caitlyn McGrath<br>\n**Menedżer ds. projektu:** Kate Morgan<br>\n**Zespół fabularny Horroru w Arkham:** Daniel Lovat Clark, Ryann Collins, Philip D. Henry i MJ Newman<br>\n**Ocena kulturowa:** członkowie Zespołu ds. Wrażliwości Kulturowej FFG<br>\n**Projekt graficzny rozszerzenia:** Joseph D. Olson<br>\n**Kierownik ds. projektowania graficznego:** Mercedes Opheim<br>\n**Kierownictwo artystyczne:** Tim Flanders, Jeff Lee Johnson, Kate Swazee i Stephen Somers<br>\n**Zarządzający dyrektor artystyczny:** Tony Bradt<br>\n**Koordynacja kontroli jakości:** Zach Tewalthomas<br>\n**Szef ds. licencji, Ameryka Północna:** Ariel Didier<br>\n**Zarządzanie produkcją:** Justin Anger i Austin Litzler<br>\n**Dyrektor kreatywny ds. wizualnych:** Brian Schomburg<br>\n**Dyrektor ds. operacji studia:** John Franz-Wichlacz<br>\n**Wiceprezes ds. strategii:** Jim Cartwright<br>\n**Projektant wykonawczy:** Nate French<br>\n**Kierownik LCG:** Chris Gerber<br>\n\n<h2>Testerzy</h2>\nAvita Amoeba, John Bagley, Ryan Blood, Sam Cahill, Rafa Cerrato, Anthony Clark, Rhylie Colby, Shelley Danielle, Johannes Duckeck, Michael Feldman, Jose Javier Fernández, Sam Fuhrman, Alfredo Gómez, Álvaro González „Kortatu”, James Howell, Josh Jones, Bob Juranek, Nate Langreder, Kenny Ling, Micah McDonald, Cody Mediavilla, Josh Parrish, Jordan Peters, Scott Sesko, Jordi Solera, Egoitz Uribeetxebarria, Ben Wiebracht, Owen Weldon, Alex Xöul\n\n<div style = \"text-align: center; font-size: 8px; margin-top: 350px;\">\n© 2024 Fantasy Flight Games. Arkham Horror, Fantasy Flight Games, logo FFG, Living Card Game, LCG i logo LCG to ® Fantasy Flight Games. Siedziba Fantasy Flight Games mieści się pod adresem 1995 West County Road B2, Roseville, Minnesota, 55113, USA, 651-639-1905. Rzeczywiste komponenty mogą różnić się od przedstawionych.<br>\nZezwolenie na kopiowanie wyłącznie do użytku osobistego.<br>\n</div>",
+                    "type": "scenario"
+                }
+            ]
+        },
         "9f6d3e06-c780-4017-aa86-627640d6d0fc": {
             "name": "Relikty przeszłości",
             "front_page": "./img/relics_of_the_past/Rotp - Cover PL.jpg",
@@ -1260,7 +1888,7 @@
                     "name": "Scenario",
                     "id": "377d1d9e",
                     "encounter_set_id": "2995f081-5ace-43e1-a764-18f475649397",
-                    "markdown": "<h3 style = \"font-size: 15px;\">Przygotowanie scenariusza</h3>\n<div style=\"margin-top: 7px\"></div>\n\n- Niezależnie od tego, która wersja Jima Culvera jest używana w tym scenariuszu, zbuduj talię duchów, korzystając z wymagań dotyczących budowania talii podanych na równoległej wersji karty badacza Jima Culvera. Umieść osobisty atut Zaświaty wraz z talią duchów w grze w obszarze gry Jima Culvera.\n\n- Zbierz wszystkie karty z następujących zestawów spotkań: *Pochowany*, *Zapłata za grzechy*, *Sabat Anette*, *Miasto grzechów*, *Nieunikniony los*, *Królestwo śmierci*, *Uwięzione dusze* i *Czarna magia*. Każdy z tych zestawów, z wyjątkiem *Pochowanego*, można znaleźć w rozszerzeniu kampanijnym *Przerwany krąg*. Zestawy te są oznaczone następującymi symbolami: \n\n<div style=\"display: flex; justify-content: space-between; align-items: center; width: 95%; margin-left: 15px; margin-bottom: 10px\"\">\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/laid1.png}\" alt=\"Ikona 1\" style=\"height: 35px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/the_wages_of_sin.svg}\" alt=\"Ikona 2\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/anettes_coven.svg}\" alt=\"Ikona 3\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/city_of_sins.svg}\" alt=\"Ikona 4\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/inexorable_fate.svg}\" alt=\"Ikona 5\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/realm_of_death.svg}\" alt=\"Ikona 6\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/trapped_spirits.svg}\" alt=\"Ikona 7\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/witchcraft.svg}\" alt=\"Ikona 8\" style=\"height: 30px; max-width: 100%;\"></div>\n</div>\n\n\n- Usuń z gry oryginalną kartę pomocy scenariusza, akty, tajemnice i atuty fabularne Widmowa sieć z zestawu spotkań *Zapłata za grzechy*. Podczas przygotowywania skorzystaj z nowej karty pomocy scenariusza, aktów<br>i tajemnic dostępnych w zestawie spotkań *Pochowany*.\n\n- Wylosuj jedną z dwóch lokalizacji Szubienica, jedną z dwóch lokalizacji Groby heretyków i jedną z dwóch lokalizacji Krypta kaplicy i umieść je<br>w grze wraz z Poddaszem kaplicy (<img src=\"{./icons/tcu.svg}\" style=\"height: 7px\"> 176a). Usuń z gry pozostałe wersje Szubienicy, Grobów heretyków, Krypty kaplicy i Poddasza kaplicy<br>(<img src=\"{./icons/tcu.svg}\" style=\"height: 7px\"> 175a). Następnie umieść w grze Nawiedzone pola, Opuszczoną kaplicę i Potok Wisielca.\n:::indent\n:::bullet\n- Umieść w grze każdą lokalizację na jej nie-[[Widmowej]] stronie. *Uwaga: obrócenie lokalizacji z jednej strony na drugą w tym scenariuszu nie powoduje „odkrycia” nowej lokalizacji.*\n- Umieść wskazówki na każdej lokalizacji bez wskazówek, aż na każdej lokalizacji będzie co najmniej 1<per_large> wskazówek.   \n- Wszyscy badacze rozpoczynają grę w Potoku Wisielca.\n:::\n:::\n\n- Usuń losowo dwóch Heretyków z gry. Wtasuj wszystkich pozostałych Heretyków do talii duchów, stroną wroga ku górze.\n\n- Rozstaw dwustronnego wroga Jeana Devereux w Potoku Wisielca, stroną *(Szukający ukojenia)* ku górze.\n\n- Rozstaw zakrytego wroga Żarłoczny duch pod następującymi lokalizacjami: Szubienica, Groby heretyków, Poddasze kaplicy i Krypta kaplicy.\n\n- Ten scenariusz wykorzystuje dwie osobne talie spotkań.\n:::indent\n:::bullet\n- Oddziel wszystkie pozostałe karty z cechą [[Widmowy]] i potasuj je, tworząc w ten sposób widmową talię spotkań.\n- Pozostałe karty spotkań bez cechy [[Widmowy]] potasuj w celu utworzenia standardowej talii spotkań.\n:::\n:::\n\n- Gracze są teraz gotowi do rozpoczęcia gry. \n\n<h3 style = \"color:#2c6560\">Widmowa talia spotkań</h3>\n\nPodczas przygotowywania tego scenariusza tworzy się dwie talie spotkań: „standardową” talię spotkań oraz „widmową” talię spotkań. Mówiąc najogólniej, kiedy badacz ma wykonać czynność dotyczącą talii spotkań, powinien on użyć standardowej talii spotkań. \n\nJednak w pewnym momencie tego scenariusza lokalizacje mogą zostać odwrócone na stronę z cechą [[Widmowy]]. Dopóki badacz znajduje się w lokalizacji z cechą [[Widmowy]], dany badacz powinien w każdej sytuacji korzystać z widmowej talii spotkań zamiast z standardowej, chyba że zaznaczono inaczej. Dotyczy to dobierania kart z talii spotkań, a także przeszukiwania, podglądania, odkrywania kart i każdej innej formy interakcji z talią spotkań (lub stosem odrzuconych kart spotkań). Dotyczy to również zdolności, które aktywują się, gdy talia spotkań się wyczerpie. Jeśli jakiś efekt odnosi się konkretnie do standardowej talii spotkań lub do widmowej talii spotkań, badacz powinien korzystać ze wskazanej talii spotkań, niezależnie od tego, w jakiej lokalizacji się znajduje.\n\nKażda z dwóch talii spotkań posiada własny stos kart odrzuconych. Kiedy karta z cechą [[Widmowy]] miałaby zostać odrzucona, należy ją umieścić na stosie kart odrzuconych dla widmowej talii spotkań. Wszystkie inne karty spotkań należy odrzucać na stos kart odrzuconych dla standardowej talii spotkań.\n\n<div style = \"break-after: column\"></div>\n\n<h3 style = \"color:#2c6560\">Nawiedzona</h3>\n„Nawiedzona” to nowa zdolność pojawiająca się na niektórych lokalizacjach. Za każdym razem, kiedy podczas badania lokalizacji test umiejętności badacza zakończy się porażką, po zastosowaniu wszystkich rezultatów tego testu umiejętności dany badacz musi rozpatrzyć wszystkie zdolności „**Nawiedzona** --” danej lokalizacji.\n\nDla celów rozpatrywania efektów innych kart lokalizacja jest „nawiedzona”, jeśli posiada przynajmniej jedną zdolność „**Nawiedzona** --” (może być ona wydrukowana na danej lokalizacji lub pochodzić z innego źródła).\n\n<h3 style = \"color:#2c6560\">Zaświaty i talia duchów</h3>\nDwustronny atut osobisty Zaświaty zawarty w tym zestawie pozwala Jimowi Culverowi dołączyć do niego atuty z cechą [[Sprzymierzeniec]] z talii duchów jako duchy. Talia duchów to oddzielna talia, którą na początku gry należy potasować i umieścić zakrytą obok Zaświatów. Jest ona odporna na wszystkie efekty kart graczy z wyjątkiem efektu Wymuszony na Zaświatach.\n\n**Duchy są w grze, ale zachowują jedynie swoje nazwy i pola tekstowe.** Duchy nie zajmują żadnych stref i nie mają wartości wytrzymałości ani poczytalności. Kiedy do gry wchodzi unikalny duch, należy odrzucić wszystkie karty noszące tę samą nazwę. Jeśli dołączony duch miałby zostać odrzucony, zamiast tego należy go umieścić na **spodzie** talii duchów.\n\n<div style=\"margin-top: 25px\"></div>\n\n:::resolution\n## NIE CZYTAJCIE TEGO FRAGMENTU<br><div style=\"font-size:17px;\"> przed zakończeniem scenariusza\n<div style=\"margin-top: 5px\"></div>\n\n**Nie udało się osiągnąć żadnego zakończenia (każdy badacz zrezygnował lub został pokonany):** Przejdź do **Zakończenia 2**.\n\n**Zakończenie 1:** <i>Fantasmagoryczne kształty tworzą się i znikają we mgle wokół ciebie. Kiedy bierzesz Jeana za ręce, medium traci przytomność. W ciemności dostrzegasz twarz ojca: zmarszczki wywołane śmiechem, życzliwe oczy, uśmiech. Twój ojciec w końcu jest<br>z tobą.\n\nTę chwilę przerywa nagły, ciężki oddech, gdy Jean budzi się. Zanim zdążysz zareagować, twarz twojego ojca znika z pola widzenia, zostawiając cię w spokoju. Pomimo ściśniętego żołądka czujesz ulgę, wiedząc, że twój ojciec tu był, choćby na krótko, i że cię widział. Kiedy pomagasz Jeanowi wstać, słyszysz w uchu głos ojca, szepczący słowa wsparcia przebijające się przez duchy kłócące się w twoich uszach. \n\nMasz nadzieję, że nigdy nie ucichnie.</i>\n \n- Jim Culver zdobywa punkty doświadczenia równe łącznej wartości „Zwycięstwo X” wszystkich kart wrogów w puli zwycięstwa.\n- Każdy inny badacz zdobywa punkty doświadczenia równe łącznej wartości „Zwycięstwo X” wszystkich kart lokalizacji w puli zwycięstwa.\n- Jim Culver może ulepszyć Trąbkę Jima do wersji zaawansowanej lub przywrócić wersję zaawansowaną Ostatecznej rapsodii do wersji oryginalnej.\n\n**Zakończenie 2:** <i>Jean przeklina, gdy potykając się, oddalasz się od Wzgórza Wisielca z nisko opuszczoną głową. „Przepraszam, przyjacielu” – mówi. „Umarli mówią, ale nie zawsze słuchają”. Zjadliwy krzyk z nieludzkich ust roznosi się w przestrzeni, podkreślając słowa medium.</i>\n\n- Jim Culver zdobywa punkty doświadczenia równe łącznej wartości „Zwycięstwo X” wszystkich kart wrogów w puli zwycięstwa.\n- Każdy inny badacz zdobywa punkty doświadczenia równe łącznej wartości „Zwycięstwo X” wszystkich kart lokalizacji w puli zwycięstwa.\n- Jim Culver musi ulepszyć Ostateczną rapsodię do wersji zaawansowanej albo przywrócić wersję zaawansowaną Trąbki Jima do wersji oryginalnej.\n",
+                    "markdown": "<h3 style = \"font-size: 15px;\">Przygotowanie scenariusza</h3>\n<div style=\"margin-top: 7px\"></div>\n\n- Niezależnie od tego, która wersja Jima Culvera jest używana w tym scenariuszu, zbuduj talię duchów, korzystając z wymagań dotyczących budowania talii podanych na równoległej wersji karty badacza Jima Culvera. Umieść osobisty atut Zaświaty wraz z talią duchów w grze w obszarze gry Jima Culvera.\n\n- Zbierz wszystkie karty z następujących zestawów spotkań: *Pochowany*, *Zapłata za grzechy*, *Sabat Anette*, *Miasto grzechów*, *Nieunikniony los*, *Królestwo śmierci*, *Uwięzione dusze* i *Czarna magia*. Każdy z tych zestawów, z wyjątkiem *Pochowanego*, można znaleźć w rozszerzeniu kampanijnym *Przerwany krąg*. Zestawy te są oznaczone następującymi symbolami: \n\n<div style=\"display: flex; justify-content: space-between; align-items: center; width: 95%; margin-left: 15px; margin-bottom: 10px\"0>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/laid1.png}\" alt=\"Ikona 1\" style=\"height: 35px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/the_wages_of_sin.svg}\" alt=\"Ikona 2\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/anettes_coven.svg}\" alt=\"Ikona 3\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/city_of_sins.svg}\" alt=\"Ikona 4\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/inexorable_fate.svg}\" alt=\"Ikona 5\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/realm_of_death.svg}\" alt=\"Ikona 6\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/trapped_spirits.svg}\" alt=\"Ikona 7\" style=\"height: 30px; max-width: 100%;\"></div>\n  <div style=\"flex: 1; display: flex; justify-content: center;\"><img src=\"{./icons/witchcraft.svg}\" alt=\"Ikona 8\" style=\"height: 30px; max-width: 100%;\"></div>\n</div>\n\n\n- Usuń z gry oryginalną kartę pomocy scenariusza, akty, tajemnice i atuty fabularne Widmowa sieć z zestawu spotkań *Zapłata za grzechy*. Podczas przygotowywania skorzystaj z nowej karty pomocy scenariusza, aktów<br>i tajemnic dostępnych w zestawie spotkań *Pochowany*.\n\n- Wylosuj jedną z dwóch lokalizacji Szubienica, jedną z dwóch lokalizacji Groby heretyków i jedną z dwóch lokalizacji Krypta kaplicy i umieść je<br>w grze wraz z Poddaszem kaplicy (<img src=\"{./icons/tcu.svg}\" style=\"height: 7px\"> 176a). Usuń z gry pozostałe wersje Szubienicy, Grobów heretyków, Krypty kaplicy i Poddasza kaplicy<br>(<img src=\"{./icons/tcu.svg}\" style=\"height: 7px\"> 175a). Następnie umieść w grze Nawiedzone pola, Opuszczoną kaplicę i Potok Wisielca.\n:::indent\n:::bullet\n- Umieść w grze każdą lokalizację na jej nie-[[Widmowej]] stronie. *Uwaga: obrócenie lokalizacji z jednej strony na drugą w tym scenariuszu nie powoduje „odkrycia” nowej lokalizacji.*\n- Umieść wskazówki na każdej lokalizacji bez wskazówek, aż na każdej lokalizacji będzie co najmniej 1<per_large> wskazówek.   \n- Wszyscy badacze rozpoczynają grę w Potoku Wisielca.\n:::\n:::\n\n- Usuń losowo dwóch Heretyków z gry. Wtasuj wszystkich pozostałych Heretyków do talii duchów, stroną wroga ku górze.\n\n- Rozstaw dwustronnego wroga Jeana Devereux w Potoku Wisielca, stroną *(Szukający ukojenia)* ku górze.\n\n- Rozstaw zakrytego wroga Żarłoczny duch pod następującymi lokalizacjami: Szubienica, Groby heretyków, Poddasze kaplicy i Krypta kaplicy.\n\n- Ten scenariusz wykorzystuje dwie osobne talie spotkań.\n:::indent\n:::bullet\n- Oddziel wszystkie pozostałe karty z cechą [[Widmowy]] i potasuj je, tworząc w ten sposób widmową talię spotkań.\n- Pozostałe karty spotkań bez cechy [[Widmowy]] potasuj w celu utworzenia standardowej talii spotkań.\n:::\n:::\n\n- Gracze są teraz gotowi do rozpoczęcia gry. \n\n<h3 style = \"color:#2c6560\">Widmowa talia spotkań</h3>\n\nPodczas przygotowywania tego scenariusza tworzy się dwie talie spotkań: „standardową” talię spotkań oraz „widmową” talię spotkań. Mówiąc najogólniej, kiedy badacz ma wykonać czynność dotyczącą talii spotkań, powinien on użyć standardowej talii spotkań. \n\nJednak w pewnym momencie tego scenariusza lokalizacje mogą zostać odwrócone na stronę z cechą [[Widmowy]]. Dopóki badacz znajduje się w lokalizacji z cechą [[Widmowy]], dany badacz powinien w każdej sytuacji korzystać z widmowej talii spotkań zamiast z standardowej, chyba że zaznaczono inaczej. Dotyczy to dobierania kart z talii spotkań, a także przeszukiwania, podglądania, odkrywania kart i każdej innej formy interakcji z talią spotkań (lub stosem odrzuconych kart spotkań). Dotyczy to również zdolności, które aktywują się, gdy talia spotkań się wyczerpie. Jeśli jakiś efekt odnosi się konkretnie do standardowej talii spotkań lub do widmowej talii spotkań, badacz powinien korzystać ze wskazanej talii spotkań, niezależnie od tego, w jakiej lokalizacji się znajduje.\n\nKażda z dwóch talii spotkań posiada własny stos kart odrzuconych. Kiedy karta z cechą [[Widmowy]] miałaby zostać odrzucona, należy ją umieścić na stosie kart odrzuconych dla widmowej talii spotkań. Wszystkie inne karty spotkań należy odrzucać na stos kart odrzuconych dla standardowej talii spotkań.\n\n<div style = \"break-after: column\"></div>\n\n<h3 style = \"color:#2c6560\">Nawiedzona</h3>\n„Nawiedzona” to nowa zdolność pojawiająca się na niektórych lokalizacjach. Za każdym razem, kiedy podczas badania lokalizacji test umiejętności badacza zakończy się porażką, po zastosowaniu wszystkich rezultatów tego testu umiejętności dany badacz musi rozpatrzyć wszystkie zdolności „**Nawiedzona** --” danej lokalizacji.\n\nDla celów rozpatrywania efektów innych kart lokalizacja jest „nawiedzona”, jeśli posiada przynajmniej jedną zdolność „**Nawiedzona** --” (może być ona wydrukowana na danej lokalizacji lub pochodzić z innego źródła).\n\n<h3 style = \"color:#2c6560\">Zaświaty i talia duchów</h3>\nDwustronny atut osobisty Zaświaty zawarty w tym zestawie pozwala Jimowi Culverowi dołączyć do niego atuty z cechą [[Sprzymierzeniec]] z talii duchów jako duchy. Talia duchów to oddzielna talia, którą na początku gry należy potasować i umieścić zakrytą obok Zaświatów. Jest ona odporna na wszystkie efekty kart graczy z wyjątkiem efektu Wymuszony na Zaświatach.\n\n**Duchy są w grze, ale zachowują jedynie swoje nazwy i pola tekstowe.** Duchy nie zajmują żadnych stref i nie mają wartości wytrzymałości ani poczytalności. Kiedy do gry wchodzi unikalny duch, należy odrzucić wszystkie karty noszące tę samą nazwę. Jeśli dołączony duch miałby zostać odrzucony, zamiast tego należy go umieścić na **spodzie** talii duchów.\n\n<div style=\"margin-top: 25px\"></div>\n\n:::resolution\n## NIE CZYTAJCIE TEGO FRAGMENTU<br><div style=\"font-size:17px;\"> przed zakończeniem scenariusza\n<div style=\"margin-top: 5px\"></div>\n\n**Nie udało się osiągnąć żadnego zakończenia (każdy badacz zrezygnował lub został pokonany):** Przejdź do **Zakończenia 2**.\n\n**Zakończenie 1:** <i>Fantasmagoryczne kształty tworzą się i znikają we mgle wokół ciebie. Kiedy bierzesz Jeana za ręce, medium traci przytomność. W ciemności dostrzegasz twarz ojca: zmarszczki wywołane śmiechem, życzliwe oczy, uśmiech. Twój ojciec w końcu jest<br>z tobą.\n\nTę chwilę przerywa nagły, ciężki oddech, gdy Jean budzi się. Zanim zdążysz zareagować, twarz twojego ojca znika z pola widzenia, zostawiając cię w spokoju. Pomimo ściśniętego żołądka czujesz ulgę, wiedząc, że twój ojciec tu był, choćby na krótko, i że cię widział. Kiedy pomagasz Jeanowi wstać, słyszysz w uchu głos ojca, szepczący słowa wsparcia przebijające się przez duchy kłócące się w twoich uszach. \n\nMasz nadzieję, że nigdy nie ucichnie.</i>\n \n- Jim Culver zdobywa punkty doświadczenia równe łącznej wartości „Zwycięstwo X” wszystkich kart wrogów w puli zwycięstwa.\n- Każdy inny badacz zdobywa punkty doświadczenia równe łącznej wartości „Zwycięstwo X” wszystkich kart lokalizacji w puli zwycięstwa.\n- Jim Culver może ulepszyć Trąbkę Jima do wersji zaawansowanej lub przywrócić wersję zaawansowaną Ostatecznej rapsodii do wersji oryginalnej.\n\n**Zakończenie 2:** <i>Jean przeklina, gdy potykając się, oddalasz się od Wzgórza Wisielca z nisko opuszczoną głową. „Przepraszam, przyjacielu” – mówi. „Umarli mówią, ale nie zawsze słuchają”. Zjadliwy krzyk z nieludzkich ust roznosi się w przestrzeni, podkreślając słowa medium.</i>\n\n- Jim Culver zdobywa punkty doświadczenia równe łącznej wartości „Zwycięstwo X” wszystkich kart wrogów w puli zwycięstwa.\n- Każdy inny badacz zdobywa punkty doświadczenia równe łącznej wartości „Zwycięstwo X” wszystkich kart lokalizacji w puli zwycięstwa.\n- Jim Culver musi ulepszyć Ostateczną rapsodię do wersji zaawansowanej albo przywrócić wersję zaawansowaną Trąbki Jima do wersji oryginalnej.\n",
                     "type": "scenario"
                 }
             ]
