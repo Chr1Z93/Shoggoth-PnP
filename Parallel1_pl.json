@@ -535,7 +535,7 @@
                     ],
                     [
                         "<b>Wybór klas</b>:",
-                        "podczas tworzenia talii wybierz 2 klasy (<guardian>, <seeker>, <rogue>, <mystic> lub <survivor>)."
+                        "podczas tworzenia talii wybierz<br>2 klasy (<guardian>, <seeker>, <rogue>, <mystic> lub <survivor>)."
                     ],
                     [
                         "<b>Opcje tworzenia talii</b>:",
@@ -547,11 +547,11 @@
                     ],
                     [
                         "<b>Dodatkowe wymogi</b>:",
-                        "twoja talia musi zawierać co najmniej 6 kart z każdej klasy (<guardian>, <seeker>, <rogue>, <mystic> i <survivor>)."
+                        "twoja talia musi zawierać co najmniej 6 kart z każdej <br>klasy (<guardian>, <seeker>, <rogue>, <mystic> i <survivor>)."
                     ]
                 ],
                 "flavor_text": "Lola była przekonana, że czasy, gdy występowała w</i> Królu w Żółci<i>, ma już za sobą. Niedawno jednak usłyszała samotne skrzypce grające nawiedzającą melodię z ostatniej inscenizacji tego przedstawienia. Muzyka wkrada się do jej umysłu w chwilach ciszy i samotności, a ona czuje nieodpartą potrzebę, by po raz ostatni odwiedzić Teatr Warda.\n  ",
-                "text": "<b>Rozmiar talii</b>: 40.\n<b>Wybór klas</b>: podczas tworzenia talii wybierz 2 klasy (<guardian>, <seeker>, <rogue>, <mystic> lub <survivor>).\n<b>Opcje tworzenia talii</b>: karty neutralne<br>o poziomie 0–5, karty z wybranych przez ciebie klas o poziomie 0–4, karty z pozostałych klas o poziomie 0–1.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): 2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie.\n<b>Dodatkowe wymogi</b>: twoja talia musi zawierać co najmniej 6 kart z każdej klasy (<guardian>, <seeker>, <rogue>, <mystic> i <survivor>)."
+                "text": "<b>Rozmiar talii</b>: 40.\n<b>Wybór klas</b>: podczas tworzenia talii wybierz<br>2 klasy (<guardian>, <seeker>, <rogue>, <mystic> lub <survivor>).\n<b>Opcje tworzenia talii</b>: karty neutralne<br>o poziomie 0–5, karty z wybranych przez ciebie klas o poziomie 0–4, karty z pozostałych klas o poziomie 0–1.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): 2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie.\n<b>Dodatkowe wymogi</b>: twoja talia musi zawierać co najmniej 6 kart z każdej <br>klasy (<guardian>, <seeker>, <rogue>, <mystic> i <survivor>)."
             }
         },
         "03006-pf": {
