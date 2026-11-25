@@ -616,6 +616,123 @@
             "back": {
                 "type": "player"
             }
+        },
+        {
+            "name": "Dexter Drake",
+            "id": "40d79722-1564-4661-bd12-afaba8d40c7d",
+            "meta": {
+                "folder": "{player_cards}/06. Blood of Baalshandor"
+            },
+            "amount": 1,
+            "front": {
+                "copyright": "© 2020 FFG",
+                "agility": "2",
+                "classes": [
+                    "mystic"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "16",
+                "flavor_text": "\"Do you want to see true magic?\"",
+                "health": "6",
+                "illustration": "./img/novellas/dexter.png",
+                "illustration_pan_x": -26.0,
+                "illustration_pan_y": 93.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Shane Pierce",
+                "intellect": "2",
+                "sanity": "8",
+                "subtitle": "The Magician",
+                "text": "<free> During your turn, discard an asset you control: Play an asset with a different title from your hand, reducing its cost by 1. (Limit once per round.)\n<elder_sign> effect: +2. You may return an asset from your play area to your hand. Then, draw 1 card.",
+                "traits": "Sorcerer. Veteran.",
+                "type": "investigator",
+                "willpower": "5"
+            },
+            "back": {
+                "classes": [
+                    "mystic"
+                ],
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30."
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        "Mystic cards (<mystic>) level 0-5, Rogue cards (<rogue>) level 0-2, Neutral cards level 0-5."
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "Showmanship, Occult Scraps, 1 random basic weakness."
+                    ]
+                ],
+                "flavor_text": "For Dexter Drake, the magic of fairy tales and myth has been a lifelong fascination. The chance discovery of an old book page during the Great War opened Drake's eyes to the possibility that magic might truly exist. Years later, the promise of arcane tomes locked away in Miskatonic University's special collection draws the successful stage magician to the quiet town of Arkham. Lured to an auction of occult items, \"Drake the Great\" and his assistant, Molly Maxwell, find themselves targeted by the depraved servants of an otherwordly force of disease and corruption. To save Molly, Arkham, and perhaps the world from a horrific transformation, Drake needs more than his wits and quick hands. He must turn to real magic, even if it risks his mind, body, and spirit.",
+                "illustration": "./img/novellas/dextersmol.jpg",
+                "illustration_pan_x": -22.0,
+                "illustration_pan_y": -22.0,
+                "illustration_rotation": "0",
+                "illustration_scale": 1.65,
+                "text": "<b>Deck Size:</b> 30.\n<b>Deckbuilding Options:</b> Mystic cards (<mystic>) level 0-5, Rogue cards (<rogue>) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Showmanship, Occult Scraps, 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Molly Maxwell",
+            "id": "98017",
+            "meta": {
+                "folder": "{player_cards}/06. Blood of Baalshandor"
+            },
+            "front": {
+                "copyright": "© 2020 FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "17",
+                "cost": "3",
+                "health": "2",
+                "icons": "WAQ",
+                "illustration": "./img/novellas/Molly.jpg",
+                "illustration_pan_x": 100.0,
+                "illustration_pan_y": 186.0,
+                "illustration_scale": 1.47,
+                "illustrator": "Illus. Drazenka Kimpel",
+                "level": "None",
+                "name_unique": "<unique>",
+                "sanity": "4",
+                "slots": [
+                    "ally"
+                ],
+                "subtitle": "The Exotic Morgana",
+                "text": "Dexter Drake deck only. Replacement.\n<free> Exhaust Molly Maxwell and deal her 1 horror:<br> Name any trait. One at a time, reveal cards from the<br>top of your deck until an asset with the named trait is<br> revealed. Draw that asset. Shuffle each other revealed<br>card back into your deck.",
+                "traits": "Ally. Assistant.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Yaztaroth",
+            "id": "98018",
+            "meta": {
+                "folder": "{player_cards}/06. Blood of Baalshandor"
+            },
+            "front": {
+                "copyright": "© 2020 FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "18",
+                "illustration": "./img/novellas/yaztaroth.jpg",
+                "illustrator": "Illus. Adam S. Doyle",
+                "text": "Dexter Drake deck only. Replacement.\n<b>Revelation</b> -- Put Yaztaroth into play in your threat area.\nYou cannot play assets or put assets into play.\n<action> <action>: Discard Yaztaroth.",
+                "traits": "Curse. Pact.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
         }
     ],
     "encounter_sets": []

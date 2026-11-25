@@ -1524,7 +1524,7 @@
             "name": "54. Laid to Rest",
             "id": "90054",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "name": "<dbl>Laid to Rest</dbl>",
                 "copyright": "©  203? FFG",
@@ -1631,7 +1631,7 @@
             "name": "Gathering Mists",
             "id": "90055",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "copyright": "©  2023 FFG",
                 "classes": [
@@ -1663,7 +1663,7 @@
             "name": "Laid to Rest",
             "id": "90056",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "copyright": "©  2023 FFG",
                 "classes": [
@@ -1693,7 +1693,7 @@
             "name": "Jean Devereux",
             "id": "90057a",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "name": "<unique><name>",
                 "copyright": "©  2023 FFG",
@@ -3095,7 +3095,7 @@
             "name": "94. Enthralling Encore",
             "id": "90094",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "name": "<dbl>Enthralling Encore</dbl>",
                 "copyright": "©  2024 FFG",
@@ -3202,7 +3202,7 @@
             "name": "The Haunting of the Ward Theatre",
             "id": "90095",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "copyright": "©  2024 FFG",
                 "classes": [
@@ -3230,7 +3230,7 @@
             "name": "Break Free from the Past",
             "id": "90096",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "copyright": "©  2024 FFG",
                 "classes": [
@@ -3260,7 +3260,7 @@
             "name": "Sinister Soloist",
             "id": "90097",
             "meta": {},
-            "amount": 2,
+            "amount": 1,
             "front": {
                 "name": "<unique><name>",
                 "copyright": "©  2024 FFG",
