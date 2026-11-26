@@ -71,7 +71,7 @@
                 "type": "enemy"
             },
             "back": {
-                "type": "encounter"
+                "type": "player"
             }
         },
         {
