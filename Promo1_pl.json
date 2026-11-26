@@ -2,7 +2,6 @@
     "id": "cee61cec-10c6-4e38-87a2-46cd881da214",
     "cards": {
         "3dbd0462-ac13-4949-afa4-e92f373fbbb1": {
-            "name": "Roland Banks",
             "front": {
                 "flavor_text": "Trzymaj się reguł: stawiaj<br>kropkę nad każdym „i”, kreskę<br>na każdym „t”. To zawsze działało. Aż do teraz.",
                 "subtitle": "Agent federalny",
@@ -57,7 +56,6 @@
             }
         },
         "491c1878-d10f-4933-a39b-98e32abf3d41": {
-            "name": "Carolyn Fern",
             "front": {
                 "name": "<unique>Carolyn Fern",
                 "flavor_text": "„Umysł jest kruchy, ale gdy go poznamy, możemy go chronić”.",
@@ -89,7 +87,6 @@
             }
         },
         "52812d75-7b2e-44f8-a5f8-612b7bef9132": {
-            "name": "Silas Marsh",
             "front": {
                 "flavor_text": "„Swoje lęki zostawcie w dokach”.",
                 "subtitle": "Żeglarz",
@@ -116,7 +113,6 @@
             }
         },
         "5d5f333a-7d31-4652-aa70-aec397fd891d": {
-            "name": "Norman Withers",
             "front": {
                 "illustration_pan_x": 5.0,
                 "subtitle": "Astronom",
@@ -246,8 +242,20 @@
                 "traits": "Klątwa. Pakt."
             }
         },
+        "98020": {
+            "front": {
+                "subtitle": "Mroczne objawienia",
+                "text": "Tylko talia Glorii Goldberg. Zamiennik.\n<reaction> Kiedy badacz atakuje, próbuje wymknąć się lub inicjuje test umiejętności na karcie spotkania, odrzuć spod Glorii Goldberg kartę spotkania<br>z taką samą [[cechą]] jak ta karta spotkania: obniż trudność tego testu umiejętności o 2.",
+                "traits": "Sprzymierzeniec. Twórca."
+            }
+        },
+        "98021": {
+            "front": {
+                "text": "Tylko talia Glorii Goldberg. Zamiennik.\n<b>Odkrycie</b> – Dobierz losową kartę spotkania nie-osłabienie spod Glorii Goldberg. Dana karta zyskuje słowo kluczowe Zagrożenie, nie można anulować jej efektów i podczas rozpatrywania jej efektów dostajesz –2 do wszystkich umiejętności. Jeśli dana karta jest wrogiem, natychmiast cię atakuje. Jeśli w wyniku tego efektu nie zostanie dobrana żadna karta, wtasuj tę kartę z powrotem do twojej talii.",
+                "traits": "Kres."
+            }
+        },
         "b36f4676-b051-493f-ab12-0d3f8132ea38": {
-            "name": "Jenny Barnes",
             "front": {
                 "flavor_text": "„Daj spokój z tą »Panną Barnes«.<br>Przyjaciele mówią mi Jenny”.",
                 "illustration_pan_x": 7.0,
@@ -280,6 +288,37 @@
                 ],
                 "flavor_text": "Jenny Barnes spędziła większość swojego młodego życia na pogoni za luksusem, znakomitą kuchnią i najnowszą modą. Wszystko zmieniło się, kiedy otrzymała list od swojej siostry, Isabelle. W liście Isabelle pisała, że sprzysięgły się przeciw niej tajemnicze siły i boi się, że może paść ofiarą jakiegoś nadnaturalnego zagrożenia. Był to ostatni list, jaki Jenny otrzymała od ukochanej siostry. Powróciła więc do Stanów, aby zbadać wszelkie okultystyczne zjawiska, jakie tylko zdoła znaleźć. Jenny wielokrotnie udowodniła, że nie jest delikatnym kwiatuszkiem, lecz wyborowym strzelcem oraz sprytnym i nieustraszonym badaczem tajemnic. Dopóki zniknięcie Isabelle się nie wyjaśni, nie zrezygnuje ze swych poszukiwań.",
                 "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Łotra (<rogue>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Strażnika, Poszukiwacza, Mistyka i/lub Ocalałego).\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Bliźniacze .45 Jenny, Poszukiwanie Izzie,<br>1 losowe podstawowe osłabienie."
+            }
+        },
+        "c5ac2e96-a77d-455f-8671-10f6559045c9": {
+            "front": {
+                "name": "<unique>Gloria Goldberg",
+                "subtitle": "Pisarka",
+                "text": "Wybierasz kolejność badaczy<br>w fazie mitów.\n<reaction> Kiedy podglądasz 1 lub więcej kart z talii spotkań: podejrzyj<br>1 dodatkową kartę i wybierz spośród nich nie-[[Elitarną]] kartę. Następnie odrzuć ją, umieść na wierzchu talii spotkań lub umieść zakrytą pod Glorią Goldberg (maksymalnie 3 karty pod nią).\nEfekt <elder_sign>: +1. Podejrzyj wierzchnią<br>kartę z talii spotkań.",
+                "traits": "Jasnowidz."
+            },
+            "back": {
+                "name": "<unique>Gloria Goldberg",
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Wybór drugorzędnej klasy</b>:",
+                        "podczas tworzenia talii wybierz Strażnika (<guardian>), Poszukiwacza (<seeker>) lub Łotra (<rogue>)."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Mistyka (<mystic>) o poziomie 0–5, karty neutralne o poziomie 0–5, do 10 kart<br>wydarzeń i/lub umiejętności o poziomie 0–1 twojej drugorzędnej klasy."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
+                        "3 kopie Psychicznej wrażliwości, 3 kopie Proroctwa kresu (wtasowywane do talii spotkań), 1 losowe podstawowe osłabienie."
+                    ]
+                ],
+                "flavor_text": "Koszmary i apokaliptyczne wizje nękały powieściopisarkę Glorię Goldberg przez całe życie. Choć nauczyła się przelewać swoje lęki na papier, nigdy nikomu nie zdradziła, skąd czerpie inspirację do swoich niesamowitych opowieści – nawet koledze po piórze, Jamiemu Galbraithowi. Pewnego dnia nawiedza ją wizja, w której Jamie błaga ją o pomoc w dokończeniu tego, co zaczął. Chwilę później otrzymuje wiadomość o jego nagłej śmierci. Gdy Gloria czyta niedokończoną książkę Jamiego, opowieść ją pochłania, a słowa na stronicach zaczynają przenikać do rzeczywistości.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Wybór drugorzędnej klasy</b>: podczas tworzenia talii wybierz Strażnika (<guardian>), Poszukiwacza (<seeker>) lub Łotra (<rogue>).\n<b>Opcje tworzenia talii</b>: karty Mistyka (<mystic>) o poziomie 0–5, karty neutralne o poziomie 0–5, do 10 kart<br>wydarzeń i/lub umiejętności o poziomie 0–1 twojej drugorzędnej klasy.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): 3 kopie Psychicznej wrażliwości, 3 kopie Proroctwa kresu (wtasowywane do talii spotkań), 1 losowe podstawowe osłabienie."
             }
         }
     },

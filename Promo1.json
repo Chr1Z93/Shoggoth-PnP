@@ -75,7 +75,7 @@
             }
         },
         {
-            "name": "01. Jenny Barnes",
+            "name": "Jenny Barnes",
             "id": "b36f4676-b051-493f-ab12-0d3f8132ea38",
             "meta": {
                 "folder": "{player_cards}/01. Hour of the Huntress"
@@ -146,7 +146,7 @@
             }
         },
         {
-            "name": "01. Roland Banks",
+            "name": "Roland Banks",
             "id": "3dbd0462-ac13-4949-afa4-e92f373fbbb1",
             "meta": {
                 "folder": "{player_cards}/02. The Dirge of Reason"
@@ -208,7 +208,7 @@
             }
         },
         {
-            "name": "02. Mysteries Remain",
+            "name": "Mysteries Remain",
             "id": "98005",
             "meta": {
                 "folder": "{player_cards}/02. The Dirge of Reason"
@@ -234,7 +234,7 @@
             }
         },
         {
-            "name": "03. The Dirge of Reason",
+            "name": "The Dirge of Reason",
             "id": "98006",
             "meta": {
                 "folder": "{player_cards}/02. The Dirge of Reason"
@@ -262,7 +262,7 @@
             }
         },
         {
-            "name": "01. Norman Withers",
+            "name": "Norman Withers",
             "id": "5d5f333a-7d31-4652-aa70-aec397fd891d",
             "meta": {
                 "folder": "{player_cards}/03. Ire of the Void"
@@ -319,7 +319,7 @@
             }
         },
         {
-            "name": "02. Split the Angle",
+            "name": "Split the Angle",
             "id": "98008",
             "meta": {
                 "folder": "{player_cards}/03. Ire of the Void"
@@ -350,7 +350,7 @@
             }
         },
         {
-            "name": "03. Vengeful Hound",
+            "name": "Vengeful Hound",
             "id": "98009",
             "meta": {
                 "folder": "{player_cards}/03. Ire of the Void"
@@ -383,7 +383,7 @@
             }
         },
         {
-            "name": "01. Silas Marsh",
+            "name": "Silas Marsh",
             "id": "52812d75-7b2e-44f8-a5f8-612b7bef9132",
             "meta": {
                 "folder": "{player_cards}/05. The Deep Gate"
@@ -440,7 +440,7 @@
             }
         },
         {
-            "name": "02. Nautical Prowess",
+            "name": "Nautical Prowess",
             "id": "98014",
             "meta": {
                 "folder": "{player_cards}/05. The Deep Gate"
@@ -468,7 +468,7 @@
             }
         },
         {
-            "name": "03. Dreams of the Deep",
+            "name": "Dreams of the Deep",
             "id": "98015",
             "meta": {
                 "folder": "{player_cards}/05. The Deep Gate"
@@ -497,7 +497,7 @@
             }
         },
         {
-            "name": "01. Carolyn Fern",
+            "name": "Carolyn Fern",
             "id": "491c1878-d10f-4933-a39b-98e32abf3d41",
             "meta": {
                 "folder": "{player_cards}/04. To Fight the Black Wind"
@@ -555,7 +555,7 @@
             }
         },
         {
-            "name": "02. Foolishness",
+            "name": "Foolishness",
             "id": "98011",
             "meta": {
                 "folder": "{player_cards}/04. To Fight the Black Wind"
@@ -591,7 +591,7 @@
             }
         },
         {
-            "name": "03. To Fight the Black Wind",
+            "name": "To Fight the Black Wind",
             "id": "98012",
             "meta": {
                 "folder": "{player_cards}/04. To Fight the Black Wind"
@@ -728,6 +728,132 @@
                 "illustrator": "Illus. Adam S. Doyle",
                 "text": "Dexter Drake deck only. Replacement.\n<b>Revelation</b> -- Put Yaztaroth into play in your threat area.\nYou cannot play assets or put assets into play.\n<action> <action>: Discard Yaztaroth.",
                 "traits": "Curse. Pact.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Gloria Goldberg",
+            "id": "c5ac2e96-a77d-455f-8671-10f6559045c9",
+            "meta": {
+                "folder": "{player_cards}/07. Dark Revelations"
+            },
+            "amount": 1,
+            "front": {
+                "copyright": "© 2020 FFG",
+                "agility": "1",
+                "classes": [
+                    "mystic"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "19",
+                "collection_total": " ",
+                "combat": "2",
+                "health": "5",
+                "illustration": "./img/novellas/babuszka.png",
+                "illustration_pan_x": -11.0,
+                "illustration_pan_y": 100.0,
+                "illustration_scale": 1.97,
+                "illustrator": "Illus. Colin Boyer",
+                "intellect": "4",
+                "sanity": "9",
+                "subtitle": "The Writer",
+                "text": "You choose the investigator order during the mythos phase.\n<reaction> When you look at 1 or more cards from the encounter deck: Look at 1 additional card and choose 1 non-Elite card among them. Either discard it, put it on top of the encounter deck, or place it facedown beneath Gloria Goldberg (max 3 cards beneath her).\n<elder_sign> effect: +1. Look at the top<br>card of the encounter deck.",
+                "traits": "Clairvoyant.",
+                "type": "investigator",
+                "willpower": "5"
+            },
+            "back": {
+                "classes": [
+                    "mystic"
+                ],
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30."
+                    ],
+                    [
+                        "<b>Secondary Class Choice</b>:",
+                        "At deck creation, choose Guardian (), Seeker (), or Rogue ()."
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        "Mystic cards () level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class."
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "3 copies of Psychic Sensitivity, 3 copies of Prophecy of the End (shuffled into the encounter deck), 1 random basic weakness."
+                    ]
+                ],
+                "flavor_text": "Nightmares and apocalyptic visions have plagued novelist Gloria Goldberg her entire life. Although she learned to exorcise her terrors onto the page, she has never revealed the inspiration for her weird tales, not even to fellow author Jamie Galbraith. One day, she is struck by a vision of Jamie begging her to help finish what he started. Moments later, she receives word of his sudden death. As Gloria reads Jamie's unfinished book, the story takes hold of her, and the words on the page begin to bleed into reality.",
+                "illustration": "./img/novellas/gloriasmol.webp",
+                "illustration_pan_x": -123.0,
+                "illustration_pan_y": -440.0,
+                "illustration_rotation": "-4",
+                "illustration_scale": 0.668,
+                "text": "<b>Deck Size:</b> 30.\n<b>Secondary Class Choice</b>: At deck creation, choose Guardian (), Seeker (), or Rogue ().\n<b>Deckbuilding Options:</b> Mystic cards () level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of Psychic Sensitivity, 3 copies of Prophecy of the End (shuffled into the encounter deck), 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Ruth Westmacott",
+            "id": "98020",
+            "meta": {
+                "folder": "{player_cards}/07. Dark Revelations"
+            },
+            "front": {
+                "name": "Ruth Westmacott",
+                "copyright": "© 2020 FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "20",
+                "cost": "3",
+                "health": "2",
+                "icons": "IIQ",
+                "illustration": "./img/novellas/ruth.jpg",
+                "illustration_pan_x": 114.0,
+                "illustration_pan_y": 246.0,
+                "illustration_scale": 1.084,
+                "illustrator": "Illus. Aleksander Karcz",
+                "level": "None",
+                "name_unique": "<unique>",
+                "sanity": "3",
+                "slots": [
+                    "ally"
+                ],
+                "subtitle": "Dark Revelations",
+                "text": "Gloria Goldberg deck only. Replacement.\n<reaction> When an investigator fights, attempts to evade, or initiates a skill test on an encounter card, discard an encounter card that shares a Trait with that encounter card from beneath Gloria Goldberg: Reduce the difficulty of this skill test by 2.",
+                "traits": "Ally. Artist.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Liber Omnium Finium",
+            "id": "98021",
+            "meta": {
+                "folder": "{player_cards}/07. Dark Revelations"
+            },
+            "front": {
+                "copyright": "© 2020 FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "21",
+                "illustration": "./img/novellas/liber_slop.png",
+                "illustration_pan_x": 130.0,
+                "illustration_pan_y": -30.0,
+                "illustration_scale": 0.945,
+                "illustrator": "Illus. Andreas Zafiratos",
+                "text": "Gloria Goldberg deck only. Replacement.\n<b>Revelation</b> - Draw a random non-weakness encounter<br>card from beneath Gloria Goldberg. That card gains peril, its effects cannot be canceled, and you get -2 to all skills while resolving its effects. If that card is an enemy, it immediately attacks you. If no card is drawn by this effect, shuffle this card back into your deck.",
+                "traits": "Endtimes.",
                 "type": "treachery"
             },
             "back": {

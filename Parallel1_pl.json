@@ -73,6 +73,9 @@
             },
             "back": {
                 "name": "<unique>Zoey Samaras",
+                "classes": [
+                    "guardian"
+                ],
                 "entries": [
                     [
                         "<b>Rozmiar talii</b>:",
@@ -1218,7 +1221,6 @@
         },
         "90054": {
             "name": "Pochowany",
-            "amount": 1,
             "front": {
                 "name": "<dbl>Pochowany</dbl>",
                 "copyright": "©  2023 FFG",
@@ -1286,7 +1288,6 @@
         },
         "90055": {
             "name": "Mgła się zbiera",
-            "amount": 1,
             "front": {
                 "flavor_text": "Wzgórze Wisielca jest pełne widm.",
                 "text": "<b>Wymuszony</b> – Początek fazy wrogów: zadaj 1 obrażenie Jeanowi Devereux za każdego przygotowanego Żarłocznego ducha w jego lokalizacji. \n<b>Wymuszony</b> – Jeśli Jim Culver zostanie pokonany: talia aktów postępuje. \n<Action> Wydajcie, jako grupa, 2<per_large> wskazówek:<br> <b>Pertraktacje.</b> Wyganiasz ducha. Odrzuć wierzchnią kartę z talii duchów. <i>(Podpowiedź: zwab Heretyków<br>z Zaświatów i przywołaj ich z pomocą Jeana!)</i>"
@@ -1298,7 +1299,6 @@
         },
         "90056": {
             "name": "Pochowany",
-            "amount": 1,
             "front": {
                 "flavor_text": "Jeśli pomożesz tym duchom, one pomogą tobie. ",
                 "text": "<free> Albo wyczerp Trąbkę Jima, albo wydajcie, jako grupa, 1<per_large> wskazówek: wybierz wroga, który poruszy się raz w kierunku lokalizacji Jima Culvera. \n<free> Wydajcie, jako grupa, 1<per_large> wskazówek: odwróć twoją lokalizację. (Limit grupowy raz na rundę na lokalizację).\n<b>Cel</b> – Jeśli w puli zwycięstwa znajdują się 4 kopie Niedokończonych spraw,<br>talia postępuje."
@@ -1309,7 +1309,6 @@
             }
         },
         "90057a": {
-            "amount": 1,
             "front": {
                 "health": "3<per>",
                 "illustration": "./img/laid_to_rest/jean2.png",

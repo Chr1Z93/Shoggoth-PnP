@@ -4111,6 +4111,158 @@
                 "type": "investigator_back"
             },
             "encounter_set": "2fa2ac7c-96d0-48eb-9160-dcbe4a49a6e2"
+        },
+        {
+            "name": "Zoey Samaras (Parallel back)",
+            "id": "02001-pb",
+            "meta": {
+                "folder": "{player_cards}/08. Path of the Righteous"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Zoey Samaras",
+                "copyright": "©  2023 FFG",
+                "agility": "2",
+                "classes": [
+                    "parallel_guardian"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\".\\icons\\parallel.png\">",
+                "collection_number": "59",
+                "collection_total": null,
+                "combat": "4",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "\"His work is not yet done.\"",
+                "health": "8",
+                "illustration": "./img/path_of_the_righteous/Zoey.png",
+                "illustration_fade_mode": "distance",
+                "illustration_pan_x": -187.0,
+                "illustration_pan_y": 284.0,
+                "illustration_scale": 1.0,
+                "illustration_shape": "./img/path_of_the_righteous/mask.png",
+                "illustrator": "Illus. Magali Villeneuve",
+                "intellect": "2",
+                "sanity": "6",
+                "subtitle": "The Chef",
+                "text": "<reaction> After you deal 1 or more damage to an enemy: Add 1 <blessing> token to the chaos bag. (Limit once per phase.)\n<free> Before you reveal chaos tokens during an attack, remove 3 <blessing> tokens from the chaos bag: This attack deals +1 damage. (Limit once per round.)\n<elder_sign> effect: +1 for each <blessing> token in the chaos bag.",
+                "traits": "Believer. Hunter.",
+                "type": "investigator",
+                "willpower": "4"
+            },
+            "back": {
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "Zoey had known that she was special ever since God spoke to her one night when she was six years old... the night that terrible fire took away her parents. He told her that He had chosen her from among all the people of the world to be His agent. She would protect the innocent and punish the wicked. Since then, He comes to her in times of trouble, offering guidance and comfort. Zoey now travels from city to city, taking work as a chef to support herself. When she isn’t working, she stalks the night, guided by the Lord’s voice. Wherever she finds wickedness, she strikes it down without remorse or hesitation.",
+                "illustration_pan_x": -22.0,
+                "illustration_pan_y": 109.0,
+                "illustration_rotation": "0",
+                "illustration_scale": 0.597,
+                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, [[Blessed]] and [[Charm]] cards level 0-4, Neutral cards level 0-5, up to five other Mystic cards ([mystic]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Zoey's Cross, Smite the Wicked, 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Zoey Samaras (Parallel back) (Copy)",
+            "id": "02001-pf",
+            "meta": {
+                "folder": "{player_cards}/08. Path of the Righteous"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Zoey Samaras",
+                "copyright": "©  2023 FFG",
+                "agility": "2",
+                "classes": [
+                    "parallel_guardian"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\".\\icons\\parallel.png\">",
+                "collection_number": "59",
+                "collection_total": null,
+                "combat": "4",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "\"His work is not yet done.\"",
+                "health": "8",
+                "illustration": "./img/path_of_the_righteous/Zoey.png",
+                "illustration_fade_mode": "distance",
+                "illustration_pan_x": -187.0,
+                "illustration_pan_y": 284.0,
+                "illustration_scale": 1.0,
+                "illustration_shape": "./img/path_of_the_righteous/mask.png",
+                "illustrator": "Illus. Magali Villeneuve",
+                "intellect": "2",
+                "sanity": "6",
+                "subtitle": "The Chef",
+                "text": "<reaction> After you deal 1 or more damage to an enemy: Add 1 <blessing> token to the chaos bag. (Limit once per phase.)\n<free> Before you reveal chaos tokens during an attack, remove 3 <blessing> tokens from the chaos bag: This attack deals +1 damage. (Limit once per round.)\n<elder_sign> effect: +1 for each <blessing> token in the chaos bag.",
+                "traits": "Believer. Hunter.",
+                "type": "investigator",
+                "willpower": "4"
+            },
+            "back": {
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "Zoey had known that she was special ever since God spoke to her one night when she was six years old... the night that terrible fire took away her parents. He told her that He had chosen her from among all the people of the world to be His agent. She would protect the innocent and punish the wicked. Since then, He comes to her in times of trouble, offering guidance and comfort. Zoey now travels from city to city, taking work as a chef to support herself. When she isn’t working, she stalks the night, guided by the Lord’s voice. Wherever she finds wickedness, she strikes it down without remorse or hesitation.",
+                "illustration_pan_x": -22.0,
+                "illustration_pan_y": 109.0,
+                "illustration_rotation": "0",
+                "illustration_scale": 0.597,
+                "text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, [[Blessed]] and [[Charm]] cards level 0-4, Neutral cards level 0-5, up to five other Mystic cards ([mystic]) level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Zoey's Cross, Smite the Wicked, 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Zoey's Cross",
+            "id": "90060",
+            "meta": {
+                "folder": "{player_cards}/08. Path of the Righteous"
+            },
+            "front": {
+                "copyright": "© 2023 FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\".\\icons\\parallel.png\">",
+                "collection_number": "60",
+                "cost": "1",
+                "illustration": "./img/path_of_the_righteous/cross.png",
+                "illustration_pan_x": 70.0,
+                "illustration_pan_y": 73.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Preston Stone",
+                "level": "None",
+                "slots": [
+                    "accessory"
+                ],
+                "traits": "Item. Charm.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Smite the Wicked",
+            "id": "90061",
+            "meta": {
+                "folder": "{player_cards}/08. Path of the Righteous"
+            },
+            "front": {
+                "copyright": "© 2023 FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image color=\"inverted\" src=\".\\icons\\parallel.png\">",
+                "collection_number": "61",
+                "illustration": "./img/path_of_the_righteous/smite.jpg",
+                "illustration_pan_x": 86.0,
+                "illustration_pan_y": -24.0,
+                "illustration_scale": 0.609,
+                "illustrator": "Illus. Preston Stone",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
         }
     ],
     "encounter_sets": [
