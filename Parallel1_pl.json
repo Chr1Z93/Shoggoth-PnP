@@ -481,7 +481,7 @@
                     ],
                     [
                         "<b>Wybór klas</b>:",
-                        "podczas tworzenia talii wybierz 2 klasy (<guardian>, <seeker>, <rogue>, <mystic> lub <survivor>)."
+                        "podczas tworzenia talii wybierz<br>2 klasy (<guardian>, <seeker>, <rogue>, <mystic> lub <survivor>)."
                     ],
                     [
                         "<b>Opcje tworzenia talii</b>:",
@@ -496,8 +496,8 @@
                         "twoja talia musi zawierać co najmniej 6 kart z każdej klasy (<guardian>, <seeker>, <rogue>, <mystic> i <survivor>)."
                     ]
                 ],
-                "flavor_text": "Lola była przekonana, że czasy, gdy występowała w</i> Królu w Żółci<i>, ma już za sobą. Niedawno jednak usłyszała samotne skrzypce grające nawiedzającą melodię z ostatniej inscenizacji tego przedstawienia. Muzyka wkrada się do jej umysłu w chwilach ciszy i samotności, a ona czuje nieodpartą potrzebę, by po raz ostatni odwiedzić Teatr Warda.\n  ",
-                "text": "<b>Rozmiar talii</b>: 40.\n<b>Wybór klas</b>: podczas tworzenia talii wybierz 2 klasy (<guardian>, <seeker>, <rogue>, <mystic> lub <survivor>).\n<b>Opcje tworzenia talii</b>: karty neutralne<br>o poziomie 0–5, karty z wybranych przez ciebie klas o poziomie 0–4, karty z pozostałych klas o poziomie 0–1.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): 2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie.\n<b>Dodatkowe wymogi</b>: twoja talia musi zawierać co najmniej 6 kart z każdej klasy (<guardian>, <seeker>, <rogue>, <mystic> i <survivor>)."
+                "flavor_text": "Lola była przekonana, że czasy, gdy występowała w</i> Królu w Żółci<i>, ma już za sobą. Niedawno jednak usłyszała samotne skrzypce grające nawiedzającą melodię z ostatniej inscenizacji tego przedstawienia. Muzyka wkrada się do jej umysłu w chwilach ciszy<br>i samotności, a ona czuje nieodpartą potrzebę, by po raz ostatni odwiedzić Teatr Warda.<br>",
+                "text": "<b>Rozmiar talii</b>: 40.\n<b>Wybór klas</b>: podczas tworzenia talii wybierz<br>2 klasy (<guardian>, <seeker>, <rogue>, <mystic> lub <survivor>).\n<b>Opcje tworzenia talii</b>: karty neutralne<br>o poziomie 0–5, karty z wybranych przez ciebie klas o poziomie 0–4, karty z pozostałych klas o poziomie 0–1.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): 2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie.\n<b>Dodatkowe wymogi</b>: twoja talia musi zawierać co najmniej 6 kart z każdej klasy (<guardian>, <seeker>, <rogue>, <mystic> i <survivor>)."
             }
         },
         "03006-pb": {
@@ -562,7 +562,7 @@
                         "karty Ocalałego, Strażnika, Poszukiwacza, Łotra i Mistyka<br>(<survivor>, <guardian>, <seeker>, <rogue> i <mystic>) o poziomie 0–3, karty neutralne o poziomie 0–5."
                     ],
                     [
-                        "<b>Wymogi tworzenia talii</b> (niewliczane do wielkości talii):",
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
                         "2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie."
                     ],
                     [
@@ -570,8 +570,8 @@
                         "twoja talia musi zawierać przynajmniej po 7 kart<br>z 3 różnych klas (<survivor>, <guardian>, <seeker>, <rogue> lub <mystic>)."
                     ]
                 ],
-                "flavor_text": "Lola występowała na scenach całego świata, zawsze grając przy pełnej sali, ale żadna sztuka, w której brała udział, nie była tak niepokojąca ani tak dziwna jak „Król w Żółci”. Nawet podczas prób to przedstawienie sprowadzało nieszczęście i grozę. Kiedy jej koleżankę ze sceny, Miriam, znaleziono martwą w rzece Seine, doszła do wniosku, że to już za wiele, i napisała list do reżysera, oznajmiając, że następny spektakl jest ostatnim, w jakim zamierza wystąpić. Teraz zmierza do Arkham na swoje ostatnie przedstawienie w nadziei, że nareszcie uwolni się od tej koszmarnej sztuki.",
-                "text": "<b>Rozmiar talii</b>: 35.\n<b>Opcje tworzenia talii</b>: karty Ocalałego, Strażnika, Poszukiwacza, Łotra i Mistyka<br>(<survivor>, <guardian>, <seeker>, <rogue> i <mystic>) o poziomie 0–3, karty neutralne o poziomie 0–5.\n<b>Wymogi tworzenia talii</b> (niewliczane do wielkości talii): 2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie.\n<b>Dodatkowe wymogi</b>: twoja talia musi zawierać przynajmniej po 7 kart<br>z 3 różnych klas (<survivor>, <guardian>, <seeker>, <rogue> lub <mystic>)."
+                "flavor_text": "<size 55>Lola występowała na scenach całego świata, zawsze grając przy pełnej sali, ale żadna <br>sztuka, w której brała udział, nie była tak niepokojąca ani tak dziwna jak „Król w Żółci”. Nawet podczas prób to przedstawienie sprowadzało nieszczęście i grozę. Kiedy jej<br>koleżankę ze sceny, Miriam, znaleziono martwą w rzece Seine, doszła do wniosku, że to<br>już za wiele, i napisała list do reżysera, oznajmiając, że następny spektakl jest ostatnim, w jakim zamierza wystąpić. Teraz zmierza do Arkham na swoje ostatnie przedstawienie<br>w nadziei, że nareszcie uwolni się od tej koszmarnej sztuki.",
+                "text": "<b>Rozmiar talii</b>: 35.\n<b>Opcje tworzenia talii</b>: karty Ocalałego, Strażnika, Poszukiwacza, Łotra i Mistyka<br>(<survivor>, <guardian>, <seeker>, <rogue> i <mystic>) o poziomie 0–3, karty neutralne o poziomie 0–5.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): 2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie.\n<b>Dodatkowe wymogi</b>: twoja talia musi zawierać przynajmniej po 7 kart<br>z 3 różnych klas (<survivor>, <guardian>, <seeker>, <rogue> lub <mystic>)."
             }
         },
         "04004-p": {
@@ -650,7 +650,7 @@
                         "karty Mistyka (<mystic>)<br>o poziomie 0–5, karty z cechą [[Błogosławiony]]<br>o poziomie 0–3, karty neutralne o poziomie 0–5."
                     ],
                     [
-                        "<b>Wymogi tworzenia talii</b> (niewliczane do wielkości talii):",
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
                         "Kodeks Wieczności, Węże Yiga, 1 losowe podstawowe osłabienie."
                     ],
                     [
@@ -659,7 +659,7 @@
                     ]
                 ],
                 "flavor_text": "Życie Matea Castile nie należało do najłatwiejszych, odkąd został księdzem. Przez ostatnie dziesięciolecia sytuacja w Meksyku była niestabilna. Ojciec Mateo próbował pogodzić swoją wiarę z pragmatycznymi obawami przed represjami, ponieważ państwo zakazywało ewangelizacji. Jednak nie to wystawiło jego wiarę na najcięższą próbę. Okoliczne morderstwa i porwania nie miały charakteru politycznego, jak podejrzewał. Jakiś koszmarny kult odpowiadał za zgony i żerował na wojennej zawierusze. Mateo zaczął się zastanawiać, jak łaskawy i miłosierny Bóg może pozwalać, aby działy się takie rzeczy?",
-                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Mistyka (<mystic>)<br>o poziomie 0–5, karty z cechą [[Błogosławiony]]<br>o poziomie 0–3, karty neutralne o poziomie 0–5.\n<b>Wymogi tworzenia talii</b> (niewliczane do wielkości talii): Kodeks Wieczności, Węże Yiga, 1 losowe podstawowe osłabienie.\n<b>Bonusowe doświadczenie</b>: rozpoczynasz kampanię<br>z 5 dodatkowymi punktami doświadczenia (w trybie samodzielnej rozgrywki nie wpływa to na liczbę osłabień, które gracz musi wziąć)."
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Mistyka (<mystic>)<br>o poziomie 0–5, karty z cechą [[Błogosławiony]]<br>o poziomie 0–3, karty neutralne o poziomie 0–5.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Kodeks Wieczności, Węże Yiga, 1 losowe podstawowe osłabienie.\n<b>Bonusowe doświadczenie</b>: rozpoczynasz kampanię<br>z 5 dodatkowymi punktami doświadczenia (w trybie samodzielnej rozgrywki nie wpływa to na liczbę osłabień, które gracz musi wziąć)."
             }
         },
         "08007-p": {
@@ -1957,6 +1957,45 @@
                         "settings": {
                             "export_images": true,
                             "folder": "C:/Users/krawc/Desktop/SCEDPL/Export Parallels",
+                            "sync": false,
+                            "update_file": null
+                        },
+                        "type": "tts"
+                    }
+                ]
+            },
+            {
+                "name": "Parallel PL",
+                "id": "545aa62f-3956-4f5c-a1ce-39ae9aebd3c0",
+                "entries": [
+                    {
+                        "id": "27a0b640-72b5-4c1a-af18-9f654f35d377",
+                        "scope": {
+                            "card_ids": [
+                                "90048",
+                                "90061",
+                                "02001-p",
+                                "02001-pf",
+                                "02001-pb",
+                                "02005-pf",
+                                "02005-pb",
+                                "02005-p",
+                                "90047",
+                                "90060"
+                            ],
+                            "encounter_set_ids": [
+                                "68d68ace-50f4-4cfa-8063-0342e7e71664",
+                                "217ea032-41fb-40ee-94e2-e25d8c590897",
+                                "5f05f8f2-f2bd-41bf-8d69-1809b125768c",
+                                "25262f95-4d9a-4300-8854-a155a5cf803a",
+                                "b9e82a4e-8c75-4aee-b190-a85f565c3c5e",
+                                "2fa2ac7c-96d0-48eb-9160-dcbe4a49a6e2"
+                            ],
+                            "type": "all"
+                        },
+                        "settings": {
+                            "export_images": true,
+                            "folder": "C:/Users/krawc/Desktop/Parallel Investigators",
                             "sync": false,
                             "update_file": null
                         },
