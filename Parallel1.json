@@ -1316,7 +1316,7 @@
                 "copyright": "©  2023 FFG",
                 "agility": "2",
                 "classes": [
-                    "mystic"
+                    "parallel_mystic"
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "49",
@@ -1341,6 +1341,9 @@
                 "willpower": "4"
             },
             "back": {
+                "classes": [
+                    "parallel_mystic"
+                ],
                 "encounter_icon": " ",
                 "encounter_overlay": null,
                 "entries": [
@@ -3467,6 +3470,9 @@
             },
             "back": {
                 "name": "<unique>Jim Culver",
+                "classes": [
+                    "mystic"
+                ],
                 "encounter_icon": " ",
                 "encounter_overlay": null,
                 "entries": [
@@ -3649,7 +3655,7 @@
                 "copyright": "©  2024 FFG",
                 "agility": "5",
                 "classes": [
-                    "rogue"
+                    "parallel_rogue"
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "62",
@@ -3674,7 +3680,7 @@
             "back": {
                 "name": "<unique>Monterey Jack",
                 "classes": [
-                    "parallel_rogue"
+                    "rogue"
                 ],
                 "encounter_icon": " ",
                 "encounter_overlay": null,
@@ -3700,7 +3706,7 @@
                 "copyright": "©  2024 FFG",
                 "agility": "3",
                 "classes": [
-                    "parallel_neutral"
+                    "neutral"
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "87",
@@ -3778,6 +3784,9 @@
             },
             "back": {
                 "name": "<unique>Lola Hayes",
+                "classes": [
+                    "neutral"
+                ],
                 "encounter_icon": " ",
                 "encounter_overlay": null,
                 "flavor_text": "Lola had assumed that her days of performing <i>The King in Yellow</i> were behind her. Recently, however, she has heard a lone violin play the haunting melody from the show's last production. The music creeps into her mind in moments of silence and solitude, and she's compelled to visit the Ward Theatre one last time.",
@@ -3941,6 +3950,9 @@
             },
             "back": {
                 "name": "<unique>Jenny Barnes",
+                "classes": [
+                    "parallel_rogue"
+                ],
                 "encounter_icon": " ",
                 "encounter_overlay": null,
                 "flavor_text": "<name> has spent the majority of her young life in pursuit of creature comforts, fine dining, and the latest fashions. That all changed when she received a letter from her sister, Isabelle. In this letter, Isabelle confessed that mysterious forces were aligning against her and that she feared she may fall victim to some paranormal threat. It was the last letter Jenny received from her beloved sister. Jenny has since returned to the States to track down and investigate all occult occurrences she can find. Hardly a wilting flower, she has proven herself a crack shot as well as a fearless and clever investigator of the unknown. Until Isabelle's disappearance is explained, Jenny will never relent in her search.",
@@ -4018,7 +4030,7 @@
                 "copyright": "                       ©  2024 FFG",
                 "agility": "3",
                 "classes": [
-                    "parallel_mystic"
+                    "mystic"
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/parallel.png\">",
                 "collection_number": "81",
@@ -4096,7 +4108,7 @@
             "back": {
                 "name": "<unique>Father Mateo",
                 "classes": [
-                    "parallel_mystic"
+                    "mystic"
                 ],
                 "collection_total": " ",
                 "encounter_icon": " ",
@@ -4124,7 +4136,7 @@
                 "copyright": "©  2023 FFG",
                 "agility": "2",
                 "classes": [
-                    "parallel_guardian"
+                    "guardian"
                 ],
                 "collection_icon": "<image color=\"inverted\" src=\".\\icons\\parallel.png\">",
                 "collection_number": "59",
@@ -4162,7 +4174,7 @@
             }
         },
         {
-            "name": "Zoey Samaras (Parallel back) (Copy)",
+            "name": "Zoey Samaras (Parallel front)",
             "id": "02001-pf",
             "meta": {
                 "folder": "{player_cards}/08. Path of the Righteous"

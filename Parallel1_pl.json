@@ -32,9 +32,6 @@
         "02001-pb": {
             "name": "Zoey Samaras (Równoległy tył)",
             "front": {
-                "classes": [
-                    "guardian"
-                ],
                 "flavor_text": "„Bóg przemówił. Wypełnię Jego wolę bez wahania”.",
                 "subtitle": "Szef kuchni",
                 "text": "<reaction> Po tym, jak znajdziesz się w zwarciu z dowolnym wrogiem: zyskujesz 1 żeton zasobu.\nEfekt <elder_sign>: +1. Jeśli ten test zakończy się sukcesem podczas ataku, dany atak zadaje<br>+1 obrażenie.",
@@ -90,12 +87,12 @@
                         "Krzyż Zoey, Ukarać niegodziwców, 1 losowe podstawowe osłabienie."
                     ]
                 ],
-                "flavor_text": "Zoey wiedziała, że jest wyjątkowa. Wiedziała to od chwili, gdy Bóg przemówił do niej pamiętnej nocy, kiedy miała zaledwie sześć lat… nocy, kiedy straszliwy pożar odebrał jej rodziców. Powiedział jej wtedy, że wybrał ją spośród wszystkich ludzi na świecie, aby została Jego posłańcem. Będzie bronić niewinnych i karać niegodziwców. Od tamtej pory On przemawia do niej w ciężkich chwilach, przynosząc radę i wsparcie. Zoey podróżuje od miasta do miasta, zatrudniając się jako szef kuchni, aby zarobić na życie. Kiedy nie pracuje, nocami skrada się w ciemnościach, prowadzona głosem Pana. Jeśli natrafi na niegodziwość, niszczy ją bez wahania i wyrzutów sumienia.",
+                "flavor_text": "Zoey wiedziała, że jest wyjątkowa. Wiedziała to od chwili, gdy Bóg przemówił do niej pamiętnej nocy, kiedy miała zaledwie sześć lat… nocy, kiedy straszliwy pożar odebrał jej rodziców. Powiedział jej wtedy, że wybrał ją spośród wszystkich ludzi na świecie, aby została Jego posłańcem. Będzie bronić niewinnych i karać niegodziwców. Od tamtej pory On przemawia do niej w ciężkich chwilach, przynosząc radę i wsparcie. Zoey podróżuje od miasta do miasta, zatrudniając się jako szef kuchni, aby zarobić na życie. Kiedy nie pracuje, nocami skrada się w ciemnościach, prowadzona głosem Pana. Jeśli natrafi na niegodziwość, niszczy ją bez wahania i wyrzutów sumienia. ",
                 "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Strażnika (<guardian>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Poszukiwacza, Łotra, Mistyka i/lub Ocalałego).\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Krzyż Zoey, Ukarać niegodziwców, 1 losowe podstawowe osłabienie."
             }
         },
         "02002-p": {
-            "name": "78. Rex Murphy (Równoległy)",
+            "name": "Rex Murphy (Równoległy)",
             "front": {
                 "flavor_text": "„No nie, tylko nie </i>znowu<i>!”",
                 "subtitle": "Reporter",
@@ -126,7 +123,7 @@
             }
         },
         "02002-pb": {
-            "name": "78. Rex Murphy (Równoległy tył)",
+            "name": "Rex Murphy (Równoległy tył)",
             "front": {
                 "flavor_text": "„Tym razem nic mnie nie powstrzyma przed odkryciem prawdy”.",
                 "subtitle": "Reporter",
@@ -157,7 +154,7 @@
             }
         },
         "02002-pf": {
-            "name": "78. Rex Murphy (Równoległy przód)",
+            "name": "Rex Murphy (Równoległy przód)",
             "front": {
                 "flavor_text": "„No nie, tylko nie </i>znowu<i>!”",
                 "subtitle": "Reporter",
@@ -188,7 +185,7 @@
             }
         },
         "02003-p": {
-            "name": "84. Jenny Barnes (Równoległa)",
+            "name": "Jenny Barnes (Równoległa)",
             "front": {
                 "flavor_text": "„Och, skarbie, wymyślam to na bieżąco”.",
                 "subtitle": "Dyletantka",
@@ -215,7 +212,7 @@
             }
         },
         "02003-pb": {
-            "name": "84. Jenny Barnes (Równoległy tył)",
+            "name": "Jenny Barnes (Równoległy tył)",
             "front": {
                 "flavor_text": "„Daj spokój z tą »Panną Barnes«.<br>Przyjaciele mówią mi Jenny”.",
                 "subtitle": "Dyletantka",
@@ -242,7 +239,7 @@
             }
         },
         "02003-pf": {
-            "name": "84. Jenny Barnes (Równoległy przód)",
+            "name": "Jenny Barnes (Równoległy przód)",
             "front": {
                 "flavor_text": "„Och, skarbie, wymyślam to na bieżąco”.",
                 "subtitle": "Dyletantka",
@@ -271,9 +268,6 @@
         "02004-p": {
             "name": "Jim Culver (Równoległy)",
             "front": {
-                "classes": [
-                    "parallel_mystic"
-                ],
                 "flavor_text": "„Wiem, że mogę sprawić, że umarli zatańczą”.",
                 "subtitle": "Muzyk",
                 "text": "<reaction> Po tym, jak podczas wykonywanego przez ciebie testu umiejętności odkryjesz<br>1 lub więcej żetonów <skull> lub <curse>: uzupełnij 1 ładunek na atucie, który kontrolujesz. (Limit raz na rundę).\n<size 62>Efekt <elder_sign>: +2. Możesz potraktować<br>ten żeton, jakby był żetonem <skull> lub <curse>.</size>",
@@ -281,9 +275,6 @@
             },
             "back": {
                 "name": "<unique>Jim Culver",
-                "classes": [
-                    "parallel_mystic"
-                ],
                 "entries": [
                     [
                         "<b>Rozmiar talii</b>:",
@@ -364,9 +355,6 @@
                 "traits": "Artysta. Przeklęty."
             },
             "back": {
-                "classes": [
-                    "mystic"
-                ],
                 "entries": [
                     [
                         "<b>Rozmiar talii</b>:",
@@ -477,7 +465,7 @@
             }
         },
         "03006-p": {
-            "name": "87. Lola Hayes (Równoległa)",
+            "name": "Lola Hayes (Równoległa)",
             "front": {
                 "name": "<unique><size 95>Lola Hayes",
                 "copyright": "              ©  2024 FFG",
@@ -513,13 +501,10 @@
             }
         },
         "03006-pb": {
-            "name": "87. Lola Hayes (Równoległy tył)",
+            "name": "Lola Hayes (Równoległy tył)",
             "front": {
                 "name": "<unique><size 95>Lola Hayes",
                 "copyright": "              ©  2017 FFG",
-                "classes": [
-                    "neutral"
-                ],
                 "collection_icon": "<image src=\"./icons/ptc.svg\" color=\"inverted\">",
                 "collection_number": "6",
                 "flavor_text": "Być może to będzie jej wielki powrót.",
@@ -558,13 +543,10 @@
             }
         },
         "03006-pf": {
-            "name": "87. Lola Hayes (Równoległy przód)",
+            "name": "Lola Hayes (Równoległy przód)",
             "front": {
                 "name": "<unique><size 95>Lola Hayes",
                 "copyright": "              ©  2024 FFG",
-                "classes": [
-                    "neutral"
-                ],
                 "subtitle": "Aktorka",
                 "text": "Rozpoczynasz grę w roli neutralnej.\nMożesz zagrywać lub przeznaczać<br>do testów tylko karty neutralne lub karty należące do twojej obecnej roli.\n<b>Wymuszony</b> – Początek twojej tury: zmień twoją rolę (<guardian>, <seeker>, <rogue>, <mystic>, <survivor> lub neutralna).\nEfekt <elder_sign>: +2. Możesz zmienić rolę.",
                 "traits": "Artysta."
@@ -593,7 +575,7 @@
             }
         },
         "04004-p": {
-            "name": "81. Ojciec Mateo (Równoległy)",
+            "name": "Ojciec Mateo (Równoległy)",
             "front": {
                 "name": "<unique>Ojciec Mateo",
                 "subtitle": "Ksiądz",
@@ -620,13 +602,10 @@
             }
         },
         "04004-pb": {
-            "name": "81. Ojciec Mateo (Równoległy tył)",
+            "name": "Ojciec Mateo (Równoległy tył)",
             "front": {
                 "name": "<unique>Ojciec Mateo",
                 "copyright": "                       ©  2017 FFG",
-                "classes": [
-                    "mystic"
-                ],
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/tfa.svg\">",
                 "collection_number": "4",
                 "subtitle": "Ksiądz",
@@ -653,7 +632,7 @@
             }
         },
         "04004-pf": {
-            "name": "81. Ojciec Mateo (Równoległy przód)",
+            "name": "Ojciec Mateo (Równoległy przód)",
             "front": {
                 "name": "<unique>Ojciec Mateo",
                 "subtitle": "Ksiądz",
@@ -661,9 +640,6 @@
                 "traits": "Wyznawca. Stróż."
             },
             "back": {
-                "classes": [
-                    "mystic"
-                ],
                 "entries": [
                     [
                         "<b>Rozmiar talii</b>:",
@@ -687,7 +663,7 @@
             }
         },
         "08007-p": {
-            "name": "62.1 Monterey Jack (Równoległy)",
+            "name": "Monterey Jack (Równoległy)",
             "front": {
                 "flavor_text": "„To nazywasz archeologią?\"",
                 "subtitle": "Archeolog",
@@ -714,7 +690,7 @@
             }
         },
         "08007-pb": {
-            "name": "62.2 Monterey Jack (Równoległy tył)",
+            "name": "Monterey Jack (Równoległy tył)",
             "front": {
                 "copyright": "©  2021 FFG",
                 "collection_icon": "<image color=\"inverted\" src=\"./icons/eoe.svg\">",
@@ -744,20 +720,14 @@
             }
         },
         "08007-pf": {
-            "name": "62.3 Monterey Jack (Równoległy przód)",
+            "name": "Monterey Jack (Równoległy przód)",
             "front": {
-                "classes": [
-                    "parallel_rogue"
-                ],
                 "flavor_text": "„To nazywasz archeologią?\"",
                 "subtitle": "Archeolog",
                 "text": "<reaction> Po tym, jak odkryjesz ostatnią wskazówkę w twojej lokalizacji: przeszukaj X wierzchnich kart twojej talii w poszukiwaniu atutu z cechą [[Amulet]] lub [[Relikwia]] i zagraj go obniżając jego koszt o X. X to wydrukowana wartość zasłony twojej lokalizacji. Potasuj twoją talię. (Limit raz na rundę).\nEfekt <elder_sign>: +1. Zyskaj 1 zasób za każdy atut z cechą [[Amulet]] i każdy atut z cechą [[Relikwia]], który kontrolujesz.",
                 "traits": "Podróżnik."
             },
             "back": {
-                "classes": [
-                    "rogue"
-                ],
                 "entries": [
                     [
                         "<b>Rozmiar talii</b>:",
@@ -1363,7 +1333,7 @@
             }
         },
         "90063": {
-            "name": "63. Wierny bat",
+            "name": "Wierny bat",
             "front": {
                 "name": "Wierny bat",
                 "text": "Szybka. Tylko talia Montereya Jacka. Zaawansowana.\n<action>: <b>Walka</b> (<agility>). Dostajesz +2 do wartości umiejętności do tego ataku. Jeśli ten atak zakończy się sukcesem, możesz wyczerpać Wierny bat, aby zadać +1 obrażenie do tego ataku<br>i automatycznie wymknąć się atakowanemu wrogowi.<br><br>",
@@ -1371,7 +1341,7 @@
             }
         },
         "90064": {
-            "name": "64. Pogrzebane sekrety",
+            "name": "Pogrzebane sekrety",
             "front": {
                 "name": "Pogrzebane sekrety",
                 "text": "Zaawansowana. <b>Odkrycie</b> – Umieść Pogrzebane sekrety w grze, w twoim obszarze zagrożenia.\nJeśli twoja lokalizacja może zostać zbadana, nie możesz się<br>poruszyć, chyba że na skutek efektów kart scenariusza.\n<action><action>: <b>Badanie.</b> Jeśli test zakończy się sukcesem, zamiast odkrywać wskazówki, odrzuć Pogrzebane sekrety.<br>",
@@ -1491,7 +1461,7 @@
             }
         },
         "90070": {
-            "name": "70. Tajne przejście",
+            "name": "Tajne przejście",
             "front": {
                 "name": "Tajne przejście",
                 "text": "<b>Odkrycie</b> – Jeśli Tajne przejście jest połączone z twoją lokalizacją, umieść je i odłożoną na bok Wewnętrzną komnatę w grze. W przeciwnym razie wtasuj je do talii eksploracji.\n<b>Wymuszony</b> – Po tym, jak wejdziesz do Tajnego przejścia: sprawdź twój ekwipunek. Jeśli posiadasz kompas, odkryj 1 wskazówkę z Tajnego przejścia.",
@@ -1500,7 +1470,7 @@
             }
         },
         "90071": {
-            "name": "71. Wewnętrzna komnata",
+            "name": "Wewnętrzna komnata",
             "front": {
                 "name": "Wewnętrzna komnata",
                 "text": "<action> Wydaj X wskazówek: Odkryj<br>X wierzchnich kart z talii eksploracji. Dobierz<br> 1 odkrytą kartę nie-lokalizację i sprawdź twój ekwipunek. Jeśli posiadasz kredę, możesz wybrać<br>1 dodatkową odkrytą kartę nie-lokalizację i dobrać ją. Wtasuj pozostałe karty z powrotem do talii eksploracji.",
@@ -1512,7 +1482,7 @@
             }
         },
         "90072": {
-            "name": "72. Pradawny korytarz",
+            "name": "Pradawny korytarz",
             "front": {
                 "name": "Pradawny korytarz",
                 "flavor_text": "Rozpadający się korytarz zachęca cię do zapuszczenia się głębiej.",
@@ -1521,7 +1491,7 @@
             }
         },
         "90073": {
-            "name": "73. Jadeitowy krokodyl",
+            "name": "Jadeitowy krokodyl",
             "front": {
                 "name": "<unique>Jadeitowy krokodyl",
                 "subtitle": "Wizerunek strażnika",
@@ -1531,7 +1501,7 @@
             }
         },
         "90074": {
-            "name": "74. Obsydianowy jaguar",
+            "name": "Obsydianowy jaguar",
             "front": {
                 "name": "<unique>Obsydianowy jaguar",
                 "subtitle": "Wizerunek łowczyni",
@@ -1541,7 +1511,7 @@
             }
         },
         "90075": {
-            "name": "75. Cytrynowy wąż",
+            "name": "Cytrynowy wąż",
             "front": {
                 "name": "<unique>Cytrynowy wąż",
                 "subtitle": "Wizerunek dziecka",
@@ -1551,7 +1521,7 @@
             }
         },
         "90076": {
-            "name": "76. Turkusowy orzeł",
+            "name": "Turkusowy orzeł",
             "front": {
                 "name": "<unique>Turkusowy orzeł",
                 "subtitle": "Wizerunek obserwatora",
@@ -1561,7 +1531,7 @@
             }
         },
         "90077": {
-            "name": "77. Mściwa przeszłość",
+            "name": "Mściwa przeszłość",
             "front": {
                 "name": "Mściwa przeszłość",
                 "text": "Zagrożenie.\n<b>Odkrycie</b> – Za każdy atut fabularny z cechą [[Starożytna]] kontrolowany przez badacza, musisz <i>(wybierz jedno)</i>:\n- Zadaj 1 obrażenie lub 1 punkt przerażenia badaczowi kontrolującemu dany atut.\n- Wtasuj dany atut do talii eksploracji.\nPo tym, jak ten efekt zostanie rozpatrzony, wtasuj Mściwą przeszłość do talii eksploracji.",
@@ -1569,7 +1539,7 @@
             }
         },
         "90079": {
-            "name": "79. Poszukiwanie prawdy",
+            "name": "Poszukiwanie prawdy",
             "front": {
                 "name": "Poszukiwanie prawdy",
                 "text": "Tylko talia Rexa Murphy’ego. Zaawansowana.\nZa każdą wskazówkę na Rexie Murphym (maksymalnie 5) możesz albo:\n- Dobrać 1 kartę.\n- Umieścić tę wskazówkę na twojej lokalizacji i cofnąć dowolną kartę z twojego stosu kart odrzuconych na twoją rękę.",
@@ -1577,7 +1547,7 @@
             }
         },
         "90080": {
-            "name": "80. Klątwa",
+            "name": "Klątwa",
             "front": {
                 "name": "Klątwa Rexa",
                 "text": "Zaawansowana.\n<b>Odkrycie</b> – Umieść Klątwę Rexa w grze, w twoim obszarze zagrożenia.\n<b>Wymuszony</b> – Kiedy twój test umiejętności miałby zakończyć się sukcesem: odkryj dodatkowy żeton chaosu. Jeśli ten efekt sprawi, że twój test zakończy się porażką, wtasuj Klątwę Rexa do twojej talii. (Limit raz na test).<br>",
@@ -1585,7 +1555,7 @@
             }
         },
         "90082": {
-            "name": "82. Kodeks Wieczności",
+            "name": "Kodeks Wieczności",
             "front": {
                 "name": "<unique>Kodeks Wieczności",
                 "text": "Tylko talia Ojca Mateo. Zaawansowana. Pieczęć (<elder_sign> lub maksymalnie 3 <blessing>).\nDostajesz +1 do każdej z twoich umiejętności, dopóki znajduje się tu zapieczętowany żeton.\n<reaction> Kiedy badacz w twojej lokalizacji miałby odkryć żeton chaosu<br>z worka chaosu: zamiast tego dany badacz rozpatruje zapieczętowany tu żeton, a następnie go uwalnia. (Limit raz na test).",
@@ -1593,7 +1563,7 @@
             }
         },
         "90083": {
-            "name": "83. Węże Yiga",
+            "name": "Węże Yiga",
             "front": {
                 "name": "Węże Yiga",
                 "text": "Zaawansowana. <b>Polowanie</b> – Tylko Ojciec Mateo.\nŁowca.\n<b>Odkrycie</b> – Przeszukaj worek chaosu i wszystkie obszary gry w poszukiwaniu żetonu <elder_sign> oraz wszystkich żetonów <blessing> i zapieczętuj je na Wężach Yiga.",
@@ -1601,7 +1571,7 @@
             }
         },
         "90085": {
-            "name": "85. Bliźniacze .45 Jenny",
+            "name": "Bliźniacze .45 Jenny",
             "front": {
                 "name": "<unique>Bliźniacze .45 Jenny",
                 "subtitle": "Idealnie dopasowane",
@@ -1610,7 +1580,7 @@
             }
         },
         "90086": {
-            "name": "86. Poszukiwanie Izzie",
+            "name": "Poszukiwanie Izzie",
             "front": {
                 "name": "Poszukiwanie Izzie",
                 "text": "Zaawansowana.\n<b>Odkrycie</b> – Dołącz Poszukiwanie Izzie do lokalizacji znajdującej się najdalej od ciebie. Lokalizacja, do której dołączono tę kartę, dostaje +2 do wartości zasłony.\n<action><action>: <b>Badanie.</b> Jeśli test zakończy się sukcesem, zamiast odkrywać wskazówki, odrzuć Poszukiwanie Izzie.\n<b>Wymuszony</b> – Kiedy gra się kończy, jeśli Poszukiwanie Izzie znajduje się w grze: otrzymujesz 1 punkt traumy psychicznej.<br>",
@@ -1618,7 +1588,7 @@
             }
         },
         "90088": {
-            "name": "88. Główna rola (Bohaterka)",
+            "name": "Główna rola (Bohaterka)",
             "front": {
                 "name": "Główna rola (Bohaterka)",
                 "flavor_text": "„Mam dość czekania za kulisami”.",
@@ -1627,7 +1597,7 @@
             }
         },
         "90089": {
-            "name": "89. Główna rola (Mentorka)",
+            "name": "Główna rola (Mentorka)",
             "front": {
                 "name": "Główna rola (Mentorka)",
                 "flavor_text": "„Na scenie nauczyłam się tego i owego”.",
@@ -1636,7 +1606,7 @@
             }
         },
         "90090": {
-            "name": "90. Główna rola (Femme fatale)",
+            "name": "Główna rola (Femme fatale)",
             "front": {
                 "name": "Główna rola (Femme fatale)",
                 "flavor_text": "„Zaufaj mi, kochanie, zostanę gwiazdą”.",
@@ -1645,7 +1615,7 @@
             }
         },
         "90091": {
-            "name": "91. Główna rola (Czarodziejka)",
+            "name": "Główna rola (Czarodziejka)",
             "front": {
                 "name": "Główna rola (Czarodziejka)",
                 "flavor_text": "„Cała sztuka polega na tym, by pokazywać im tylko to, co chcesz, żeby zobaczyli”.",
@@ -1654,7 +1624,7 @@
             }
         },
         "90092": {
-            "name": "92. Główna rola (Ostatnia ocalała)",
+            "name": "Główna rola (Ostatnia ocalała)",
             "front": {
                 "name": "Główna rola (Ostatnia ocalała)",
                 "flavor_text": "„Dalej, Lola, wytrzymaj do ukłonu\".",
@@ -1663,6 +1633,7 @@
             }
         },
         "90093": {
+            "name": "Samuel Blake",
             "front": {
                 "subtitle": "Natrętny producent",
                 "text": "Tylko talia Loli Hayes. Zamiennik. Zagrożenie.\nDopóki Samuel Blake jest na twojej ręce, nie możesz zmieniać ról ani zagrywać kart należących do innej roli.\nDopóki Samuel Blake jest w grze, jako dodatkowy koszt zmiany twojej roli musisz otrzymać 1 punkt przerażenia.",
@@ -1670,7 +1641,7 @@
             }
         },
         "90094": {
-            "name": "94. Urzekający bis",
+            "name": "Urzekający bis",
             "front": {
                 "name": "<dbl>Urzekający bis</dbl>",
                 "chaos_extra": "Takty",
@@ -1759,7 +1730,7 @@
             }
         },
         "90097": {
-            "name": "97. Złowrogi solista",
+            "name": "Złowrogi solista",
             "front": {
                 "name": "<unique>Złowrogi solista",
                 "subtitle": "Trubadur z Carcosy",
