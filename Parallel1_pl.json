@@ -567,11 +567,11 @@
                     ],
                     [
                         "<b>Dodatkowe wymogi</b>:",
-                        "twoja talia musi zawierać przynajmniej po 7 kart<br>z 3 różnych klas (<survivor>, <guardian>, <seeker>, <rogue> lub <mystic>)."
+                        "twoja talia musi zawierać przynajmniej po 7 kart z 3 różnych klas (<survivor>, <guardian>, <seeker>, <rogue> lub <mystic>)."
                     ]
                 ],
                 "flavor_text": "<size 55>Lola występowała na scenach całego świata, zawsze grając przy pełnej sali, ale żadna <br>sztuka, w której brała udział, nie była tak niepokojąca ani tak dziwna jak „Król w Żółci”. Nawet podczas prób to przedstawienie sprowadzało nieszczęście i grozę. Kiedy jej<br>koleżankę ze sceny, Miriam, znaleziono martwą w rzece Seine, doszła do wniosku, że to<br>już za wiele, i napisała list do reżysera, oznajmiając, że następny spektakl jest ostatnim, w jakim zamierza wystąpić. Teraz zmierza do Arkham na swoje ostatnie przedstawienie<br>w nadziei, że nareszcie uwolni się od tej koszmarnej sztuki.",
-                "text": "<b>Rozmiar talii</b>: 35.\n<b>Opcje tworzenia talii</b>: karty Ocalałego, Strażnika, Poszukiwacza, Łotra i Mistyka<br>(<survivor>, <guardian>, <seeker>, <rogue> i <mystic>) o poziomie 0–3, karty neutralne o poziomie 0–5.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): 2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie.\n<b>Dodatkowe wymogi</b>: twoja talia musi zawierać przynajmniej po 7 kart<br>z 3 różnych klas (<survivor>, <guardian>, <seeker>, <rogue> lub <mystic>)."
+                "text": "<b>Rozmiar talii</b>: 35.\n<b>Opcje tworzenia talii</b>: karty Ocalałego, Strażnika, Poszukiwacza, Łotra i Mistyka<br>(<survivor>, <guardian>, <seeker>, <rogue> i <mystic>) o poziomie 0–3, karty neutralne o poziomie 0–5.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): 2 kopie Improwizacji, 2 kopie Kryzysu tożsamości, 1 losowe podstawowe osłabienie.\n<b>Dodatkowe wymogi</b>: twoja talia musi zawierać przynajmniej po 7 kart z 3 różnych klas (<survivor>, <guardian>, <seeker>, <rogue> lub <mystic>)."
             }
         },
         "04004-p": {
@@ -2000,6 +2000,45 @@
                             "update_file": null
                         },
                         "type": "tts"
+                    }
+                ]
+            },
+            {
+                "name": "Lola print",
+                "id": "3ef8c3dc-5ba2-424e-a2a7-346e59eee065",
+                "entries": [
+                    {
+                        "id": "a89f831f-d725-497d-9af6-83e9677ae979",
+                        "scope": {
+                            "card_ids": [
+                                "03006-p",
+                                "03006-pf",
+                                "03006-pb",
+                                "90093",
+                                "90088",
+                                "90091",
+                                "90090",
+                                "90089",
+                                "90092"
+                            ],
+                            "encounter_set_ids": [
+                                "b9e82a4e-8c75-4aee-b190-a85f565c3c5e"
+                            ],
+                            "type": "encounter_sets"
+                        },
+                        "settings": {
+                            "bleed": true,
+                            "filename_format": "order",
+                            "folder": "C:/Users/krawc/Desktop/SCEDPL/Lola wydruk/wat",
+                            "format": "jpeg",
+                            "include_backs": true,
+                            "quality": 95,
+                            "rotate": true,
+                            "rounded": false,
+                            "separate_versions": false,
+                            "size_label": "FFG 726×1039 px (Default)"
+                        },
+                        "type": "images"
                     }
                 ]
             }
