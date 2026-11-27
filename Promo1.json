@@ -1,0 +1,865 @@
+{
+    "name": "Promo Cards Chapter 1",
+    "id": "b855c90e-d488-4f5f-b501-e6f9e40af8c5",
+    "code": "prom1",
+    "icon": "",
+    "meta": {
+        "dirty": []
+    },
+    "cards": [
+        {
+            "name": "Green Man Medallion",
+            "id": "98002",
+            "meta": {
+                "folder": "{player_cards}/01. Hour of the Huntress"
+            },
+            "amount": 1,
+            "front": {
+                "name": "Green Man Medallion",
+                "copyright": "© 2017 FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image src=\"./icons/novella.svg\" color=\"inverted\">",
+                "collection_number": "2",
+                "cost": "1",
+                "icons": "QQ",
+                "illustration": "./img/novellas/medallion.png",
+                "illustration_pan_x": 62.0,
+                "illustration_pan_y": 57.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. David Griffith",
+                "level": "None",
+                "slots": [
+                    "accessory"
+                ],
+                "subtitle": "Hour of the Huntress",
+                "text": "Jenny Barnes deck only. Replacement.\n<free> Spend up to 3 resources and exhaust Green Man Medallion: Place those resources on it, as offerings.\n<reaction> When you resign or the game ends: For every 6 offerings on Green Man Medallion, reduce the experience cost of the next card you purchase before the next scenario by 1.",
+                "traits": "Item. Relic.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Sacrificial Beast",
+            "id": "98003",
+            "meta": {
+                "folder": "{player_cards}/01. Hour of the Huntress"
+            },
+            "amount": 1,
+            "front": {
+                "copyright": "© 2017 FFG",
+                "attack": "4",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image src=\"./icons/novella.svg\" color=\"inverted\">",
+                "collection_number": "3",
+                "damage": "1",
+                "evade": "2",
+                "flavor_text": "Thick limbs like wet branches yearned skyward, high above the platform. They swayed, whether in agony or exaltation Jenny could not tell. - Dave Gross, </i>Hour of the Huntress",
+                "health": "3",
+                "horror": "1",
+                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/novellas/beast.png",
+                "illustration_pan_x": 13.0,
+                "illustration_pan_y": 80.0,
+                "illustrator": "Illus.  Tiffany Turrill",
+                "text": "Jenny Barnes deck only. Replacement.\n<b>Spawn</b> - Location farthest from you.\nJenny Barnes cannot gain resources via card effects.",
+                "traits": "Monster. Dark Young.",
+                "type": "enemy"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Jenny Barnes",
+            "id": "b36f4676-b051-493f-ab12-0d3f8132ea38",
+            "meta": {
+                "folder": "{player_cards}/01. Hour of the Huntress"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Jenny Barnes",
+                "copyright": "©  2017 FFG",
+                "agility": "3",
+                "classes": [
+                    "rogue"
+                ],
+                "collection_icon": "<image src=\"./icons/novella.svg\" color=\"inverted\">",
+                "collection_number": "1",
+                "collection_total": " ",
+                "combat": "3",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "flavor_text": "\"No more 'Miss Barnes' from you. My friends call me Jenny.\"",
+                "health": "8",
+                "illustration": "./img/novellas/jenny.png",
+                "illustration_pan_x": 80.0,
+                "illustration_pan_y": 92.0,
+                "illustration_scale": 2.0,
+                "illustration_shape_overflow": true,
+                "illustrator": "Illus. Tony Foti",
+                "intellect": "3",
+                "sanity": "7",
+                "subtitle": "The Dilettante",
+                "text": "You collect 1 additional<br>resource during each upkeep phase.\n<elder_sign> effect: +1 for each resource you have.",
+                "traits": "Drifter.",
+                "type": "investigator",
+                "willpower": "3"
+            },
+            "back": {
+                "name": "<unique>Jenny Barnes",
+                "encounter_icon": " ",
+                "encounter_overlay": null,
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        "a"
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        "a"
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "a"
+                    ],
+                    [
+                        "<b>Deckbuilding Restrictions:</b>",
+                        "a"
+                    ]
+                ],
+                "flavor_text": "<name> has spent the majority of her young life in pursuit of creature comforts, fine dining, and the latest fashions. That all changed when she received a letter from her sister, Isabelle. In this letter, Isabelle confessed that mysterious forces were aligning against her and that she feared she may fall victim to some paranormal threat. It was the last letter Jenny received from her beloved sister. Jenny has since returned to the States to track down and investigate all occult occurrences she can find. Hardly a wilting flower, she has proven herself a crack shot as well as a fearless and clever investigator of the unknown. Until Isabelle's disappearance is explained, Jenny will never relent in her search.",
+                "illustration": "./img/novellas/jennysmol.webp",
+                "illustration_pan_x": -96.0,
+                "illustration_pan_y": -330.0,
+                "illustration_scale": 1.687,
+                "text": "<b>Deck Size:</b> 30\n<b>Secondary Class Choice:</b> a\n<b>Deckbuilding Options:</b> a\n<b>Deckbuilding Requirements</b> (do not count toward deck size): a\n<b>Deckbuilding Restrictions:</b> a",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Roland Banks",
+            "id": "3dbd0462-ac13-4949-afa4-e92f373fbbb1",
+            "meta": {
+                "folder": "{player_cards}/02. The Dirge of Reason"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Roland Banks",
+                "copyright": "©  2017 FFG",
+                "agility": "2",
+                "classes": [
+                    "guardian"
+                ],
+                "collection_icon": "<image src=\"./icons/novella.svg\" color=\"inverted\">",
+                "collection_number": "4",
+                "combat": "4",
+                "flavor_text": "Everything by the book: every \"i\" dotted, every \"t\" crossed. It had worked, until now.",
+                "health": "9",
+                "illustration": "./img/novellas/roland.png",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 85.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Brian Valenzuela",
+                "intellect": "3",
+                "name_unique": "<unique>",
+                "sanity": "5",
+                "subtitle": "The Fed",
+                "text": "<reaction> After you defeat an enemy: Discover 1 clue at your location. (Limit once per round.)\n<elder_sign> effect: +1 for each clue on your location.",
+                "traits": "Agency. Detective.",
+                "type": "investigator",
+                "willpower": "3"
+            },
+            "back": {
+                "name": "<unique>Roland Banks",
+                "classes": [
+                    "guardian"
+                ],
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30."
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        "Guardian cards (<guardian>) level 0-5, Seeker cards (<seeker>) level 0-2, Neutral cards level 0-5."
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "Roland's .38 Special, Cover Up, 1 random basic weakness."
+                    ]
+                ],
+                "flavor_text": "Roland had always taken comfort in procedure and rules. As an agent in the Bureau, he was relieved to have guidelines to follow in any given situation. But lately, his Federal Agent's Handbook had been entirely unhelpful given the cases he'd been assigned. Try as he might, Roland could find no mention of what to do when confronted with strange creatures, gates through time and space, or magic spells. If he hadn't seen it with his own eyes, he would never have believed it... and there's no way his superiors would understand. Roland knew he would have to handle this one himself.",
+                "illustration": "./img/novellas/roland.png",
+                "illustration_pan_x": -232.0,
+                "illustration_pan_y": -170.0,
+                "illustration_rotation": "-10",
+                "illustration_scale": 1.68,
+                "text": "<b>Deck Size:</b> 30.\n<b>Deckbuilding Options:</b> Guardian cards (<guardian>) level 0-5, Seeker cards (<seeker>) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Roland's .38 Special, Cover Up, 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Mysteries Remain",
+            "id": "98005",
+            "meta": {
+                "folder": "{player_cards}/02. The Dirge of Reason"
+            },
+            "front": {
+                "name": "Mysteries Remain",
+                "copyright": "©  2017 FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "5",
+                "cost": "0",
+                "icons": "ICQ",
+                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/novellas/mysteries.png",
+                "illustrator": "Illus. Anthony Devine",
+                "text": "Roland Banks deck only. Replacement.\nFast. Play only during your turn.\nEither place 1 clue <i>(from the token bank</i>) on your location, or discover 1 clue at your location. Remove Mysteries Remain from the game.\n",
+                "traits": "Insight.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "The Dirge of Reason",
+            "id": "98006",
+            "meta": {
+                "folder": "{player_cards}/02. The Dirge of Reason"
+            },
+            "front": {
+                "name": "The Dirge of Reason",
+                "copyright": "©  2017 FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "6",
+                "flavor_text": "...was the music a part of the dream, or the dream a part of<br>the music? - Graeme Davis, The Dirge of Reason",
+                "illustration": "./img/novellas/dirge.jpg",
+                "illustration_pan_x": 121.0,
+                "illustration_pan_y": -76.0,
+                "illustration_scale": 0.425,
+                "illustrator": "Illus.  Shane Pierce",
+                "text": "Roland Banks deck only. Replacement.\n<b>Revelation</b> - Place 2 of your clues on your location. If you cannot, place all of your clues on your location, take 1 horror, and shuffle The Dirge of Reason back into your deck.",
+                "traits": "Madness.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Norman Withers",
+            "id": "5d5f333a-7d31-4652-aa70-aec397fd891d",
+            "meta": {
+                "folder": "{player_cards}/03. Ire of the Void"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Norman Withers",
+                "copyright": "©  2017 FFG",
+                "agility": "1",
+                "classes": [
+                    "seeker"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "7",
+                "combat": "2",
+                "health": "6",
+                "illustration": "./img/novellas/norman.png",
+                "illustration_pan_x": 6.0,
+                "illustration_pan_y": 96.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Shane Pierce",
+                "intellect": "5",
+                "sanity": "8",
+                "subtitle": "The Astronomer",
+                "text": "Play with the top card of your deck revealed.\nOnce per round, you may play the top card of your deck as if it were in your hand, at -1 resource cost.\n<b>Forced</b> - After a weakness is revealed while on top of your deck: Draw it.\n <elder_sign> effect: +X. You may swap the top card of your deck with a card in your hand. X is the resource cost of the top card of your deck.",
+                "traits": "Miskatonic.",
+                "type": "investigator",
+                "willpower": "4"
+            },
+            "back": {
+                "name": "<unique>Norman Withers",
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30."
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        "Seeker cards (<seeker>) level 0, Mystic cards (<mystic>) level 1-5, Neutral cards level 0-5, up to 5 other Mystic cards (<mystic>)<br>level 0."
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "Livre d'Eibon, The Harbinger, 1 random basic weakness."
+                    ]
+                ],
+                "flavor_text": "Nobody believes him, and why should they? How could six stars vanish from sight all at once, never to reappear? Astronomer and Miskatonic University professor Norman Withers had all but given up on regaining his colleagues' esteem when a protege of the renowned Albert Einstein comes to speak on campus. The visiting physicist, with unsettling theories about the curvature of space-time, may hold the key to helping Norman explain the phenomenon of the vanishing stars...",
+                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/novellas/norman small.jpg",
+                "illustration_pan_x": -300.0,
+                "illustration_pan_y": -226.0,
+                "illustration_rotation": "-10",
+                "illustration_scale": 1.5,
+                "text": "<b>Deck Size:</b> 30.\n<b>Deckbuilding Options:</b> Seeker cards (<seeker>) level 0, Mystic cards (<mystic>) level 1-5, Neutral cards level 0-5, up to 5 other Mystic cards (<mystic>)<br>level 0.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Livre d'Eibon, The Harbinger, 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Split the Angle",
+            "id": "98008",
+            "meta": {
+                "folder": "{player_cards}/03. Ire of the Void"
+            },
+            "front": {
+                "name": "Split the Angle",
+                "copyright": "©  2017 FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "8",
+                "cost": "2",
+                "flavor_text": "...another spell, likewise rendered phonetically, for \"splitting the angle\" and walking through time in the flesh.",
+                "icons": "WIQ",
+                "illustration": "./img/novellas/split.png",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": -19.0,
+                "illustrator": "Illus.  Chris Ostrowski",
+                "level": "None",
+                "subtitle": "Ire of the Void",
+                "text": "Norman Withers deck only. Replacement.\n<action>: Reveal the top card of the encounter deck.\n<free> Exhaust Split the Angle and discard the top card of your deck: Discard the top card of the encounter deck.",
+                "traits": "Spell.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Vengeful Hound",
+            "id": "98009",
+            "meta": {
+                "folder": "{player_cards}/03. Ire of the Void"
+            },
+            "front": {
+                "name": "Vengeful Hound",
+                "copyright": "©  2017 FFG",
+                "attack": "2",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "9",
+                "damage": "1",
+                "evade": "3",
+                "flavor_text": "\"On those rare occasions when a man escapes the Hounds, he doesn't always stay escaped. Sooner or later, they're apt to<br>come after him.\" -- Richard Lee Byers, </i>Ire of the Void",
+                "health": "2",
+                "horror": "1",
+                "illustration": "./img/novellas/hound.png",
+                "illustration_pan_x": 14.0,
+                "illustration_pan_y": 71.0,
+                "illustration_scale": 1.95,
+                "illustrator": "Illus. Reiko Murakami",
+                "text": "Norman Withers deck only. Replacement.\n<b>Prey</b> - Norman Withers.\nWhile Vengeful Hounds is engaged with you, you cannot draw or reveal cards via player card effects.\n",
+                "traits": "Monster. Extradimensional. Tindalos.",
+                "type": "enemy"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Silas Marsh",
+            "id": "52812d75-7b2e-44f8-a5f8-612b7bef9132",
+            "meta": {
+                "folder": "{player_cards}/05. The Deep Gate"
+            },
+            "amount": 1,
+            "front": {
+                "name": "<unique>Silas Marsh",
+                "copyright": "© 2017 FFG",
+                "agility": "4",
+                "classes": [
+                    "survivor"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "13",
+                "combat": "4",
+                "flavor_text": "\"Leave your fears on the docks, lads.\"<br>",
+                "health": "9",
+                "illustration": "./img/novellas/silas.png",
+                "illustration_pan_x": 9.0,
+                "illustration_pan_y": 100.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Shane Pierce",
+                "intellect": "2",
+                "sanity": "5",
+                "subtitle": "The Sailor",
+                "text": " <reaction> After you reveal a chaos token during a skill test you are performing. Return a skill you committed to this test to your hand. (Limit once per round.)\n<elder_sign>  effect: +0. You may commit a skill from your discard pile to this test. After this test ends, return that skill to your hand instead of discarding it.",
+                "traits": "Drifter.",
+                "type": "investigator",
+                "willpower": "2"
+            },
+            "back": {
+                "name": "<unique>Silas Marsh",
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30."
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        "Survivor cards () level 0-5, Neutral cards level 0-5, Innate skills level 0-2."
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "Sea Change Harpoon, Silas's Net, Siren Call, 1 random basic weakness."
+                    ]
+                ],
+                "flavor_text": "Silas Marsh has always felt called to the sea. As a young lad, he left his family in fear-shadowed Innsmouth and made a name for himself sailing the seven seas. But after the death of his parents, the sea's call has only grown stronger. Silas has dreams - nightmares - of pointed teeth grinning, webbed hands reaching, and eyes glowing in the darkness of the ocean deeps. No one in his family is able to offer an explanation for his dreams, or at least, no one is willing. So when desperate librarian Abigail Foreman comes to Silas with questions of her own, he cannot turn her away. Her ancient and mysterious tome, the Profesiae Profana, points to a stellar event foretelling the end of the world, and painted in its margins are the very same creatures that haunt Silas's nightmares...",
+                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/novellas/silassmol.jpg",
+                "illustration_pan_x": -621.0,
+                "illustration_pan_y": -453.0,
+                "illustration_scale": 0.995,
+                "text": "<b>Deck Size:</b> 30.\n<b>Secondary Class Choice:</b> Survivor cards () level 0-5, Neutral cards level 0-5, Innate skills level 0-2.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Sea Change Harpoon, Silas's Net, Siren Call, 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Nautical Prowess",
+            "id": "98014",
+            "meta": {
+                "folder": "{player_cards}/05. The Deep Gate"
+            },
+            "front": {
+                "name": "Nautical Prowess",
+                "copyright": "©  2017 FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "14",
+                "icons": "WIQ",
+                "illustration": "./img/novellas/Prowess.png",
+                "illustration_pan_x": 74.0,
+                "illustration_pan_y": 53.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Stephen Somers",
+                "text": "Silas Marsh deck only. Replacement.\nIf a chaos token with a negative modifier is revealed during this test, either draw 1 card or Nautical Prowess gains <wild> <wild>.<br>",
+                "traits": "Innate. Developed.",
+                "type": "skill"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Dreams of the Deep",
+            "id": "98015",
+            "meta": {
+                "folder": "{player_cards}/05. The Deep Gate"
+            },
+            "front": {
+                "name": "Dreams of the Deep",
+                "copyright": "© 2017 FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "15",
+                "icons": "QQ",
+                "illustration": "./img/novellas/dreams.png",
+                "illustration_pan_x": 25.0,
+                "illustration_pan_y": -43.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Mariusz Gandzel",
+                "subtitle": "The Deep Gate",
+                "text": "Silas Marsh deck only. Replacement.\nThis skill's icons subtract from your skill value instead of adding to it.\nIf this skill test fails, return this skill to your hand.\n<b>Forced</b> -- If Dreams of the Deep is in your hand at the end of your turn: Reveal it and take 2 damage.",
+                "traits": "Curse.",
+                "type": "skill"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Carolyn Fern",
+            "id": "491c1878-d10f-4933-a39b-98e32abf3d41",
+            "meta": {
+                "folder": "{player_cards}/04. To Fight the Black Wind"
+            },
+            "amount": 1,
+            "front": {
+                "name": "Carolyn Fern",
+                "copyright": "© 2017 FFG",
+                "agility": "2",
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "10",
+                "combat": "2",
+                "flavor_text": "\"The mind is fragile, but through understanding, we can protect it.\"",
+                "health": "6",
+                "illustration": "./img/novellas/carolyn.png",
+                "illustration_pan_x": -20.0,
+                "illustration_pan_y": 78.0,
+                "illustration_scale": 1.98,
+                "illustrator": "Illus. Shane Pierce",
+                "intellect": "4",
+                "sanity": "9",
+                "subtitle": "The Psychologist",
+                "text": "<reaction> After one of your card effects heals horror from an investigator or Ally asset: The healed card's controller gains 1 resource.\n<elder_sign> effect: +1. You may heal 1 horror from an investigator or Ally asset at your location.",
+                "traits": "Medic.",
+                "type": "investigator"
+            },
+            "back": {
+                "name": "<unique>Carolyn Fern",
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30."
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        "Guardian cards () level 0-3, Neutral cards level 0-5, cards that \"heal horror\" level 0-5, up to 15 other Seeker and/or Mystic cards level 0-1 ( and/or )."
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "Hypnotic Therapy, Rational Thought, 1 random basic weakness."
+                    ],
+                    [
+                        "<b>Additional Restrictions</b>:",
+                        "No Weapon cards level 1-5."
+                    ]
+                ],
+                "flavor_text": "Visiting psychologist Carolyn Fern's newest patient is Josephine Ruggles, an heiress whose nightmares leave glyph-shaped wounds across her back. Miss Ruggles's case is unusual, even for an institution like Arkham Sanatorium. Her case takes an even stranger turn after she claims to have met Malachi - Carolyn's former patient whose treatment was cut short when he was brutally murdered - in her dreams. When Carolyn uses hypnotherapy to address Josephine's trauma, they find themselves both journeying to a strange place Josephine calls \"the Dreamlands.\"",
+                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/novellas/carolynsmol.jpg",
+                "illustration_pan_x": -124.0,
+                "illustration_pan_y": -205.0,
+                "illustration_rotation": "0",
+                "illustration_scale": 0.4,
+                "text": "<b>Deck Size:</b> 30.\n<b>Deckbuilding Options:</b> Guardian cards () level 0-3, Neutral cards level 0-5, cards that \"heal horror\" level 0-5, up to 15 other Seeker and/or Mystic cards level 0-1 ( and/or ).\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Hypnotic Therapy, Rational Thought, 1 random basic weakness.\n<b>Additional Restrictions</b>: No Weapon cards level 1-5.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Foolishness",
+            "id": "98011",
+            "meta": {
+                "folder": "{player_cards}/04. To Fight the Black Wind"
+            },
+            "front": {
+                "name": "Foolishness",
+                "copyright": "©  2017 FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "11",
+                "flavor_text": "\"Will we need to save you again?\" Foolishness flicked his tail back and forth. \"Perhaps. Perhaps I'll do the saving.\"",
+                "health": "1",
+                "icons": "QQ",
+                "illustration": "./img/novellas/fool.png",
+                "illustration_pan_x": 68.0,
+                "illustration_pan_y": 65.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Tiffany Turrill",
+                "level": "None",
+                "sanity": "4",
+                "slots": [
+                    "ally"
+                ],
+                "subtitle": "Foolish Cat of Ulthar",
+                "text": "Carolyn Fern deck only. Replacement.\nFoolishness enters play with 3 horror on him. Horror on him may be healed as if it were on Carolyn Fern. While Foolishness has no horror on him, you get +1 to all skills.",
+                "traits": "Ally. Creature. Dreamlands.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "To Fight the Black Wind",
+            "id": "98012",
+            "meta": {
+                "folder": "{player_cards}/04. To Fight the Black Wind"
+            },
+            "front": {
+                "name": "To Fight the Black Wind",
+                "copyright": "©  2017 FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "12",
+                "illustration": "C:/Users/krawc/Desktop/SCEDPL/Shoggoth-PnP/img/novellas/blackwind.png",
+                "illustration_pan_x": 76.0,
+                "illustration_pan_y": -150.0,
+                "illustration_scale": 1.97,
+                "illustrator": "Illus. Tiffany Turrill",
+                "text": "Carolyn Fern deck only. Replacement.\n<b>Revelation</b> -- Attach To Fight the Black Wind to the current agenda. Carolyn Fern takes 1 direct horror.\n<b>Forced</b> -- At the end of the round, if any amount of horror was assigned to an investigator this round and it was not healed: Place 1 doom on attached agenda.",
+                "traits": "Task. Dreamlands.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Dexter Drake",
+            "id": "40d79722-1564-4661-bd12-afaba8d40c7d",
+            "meta": {
+                "folder": "{player_cards}/06. Blood of Baalshandor"
+            },
+            "amount": 1,
+            "front": {
+                "copyright": "© 2020 FFG",
+                "agility": "2",
+                "classes": [
+                    "mystic"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "16",
+                "flavor_text": "\"Do you want to see true magic?\"",
+                "health": "6",
+                "illustration": "./img/novellas/dexter.png",
+                "illustration_pan_x": -26.0,
+                "illustration_pan_y": 93.0,
+                "illustration_scale": 2.0,
+                "illustrator": "Illus. Shane Pierce",
+                "intellect": "2",
+                "sanity": "8",
+                "subtitle": "The Magician",
+                "text": "<free> During your turn, discard an asset you control: Play an asset with a different title from your hand, reducing its cost by 1. (Limit once per round.)\n<elder_sign> effect: +2. You may return an asset from your play area to your hand. Then, draw 1 card.",
+                "traits": "Sorcerer. Veteran.",
+                "type": "investigator",
+                "willpower": "5"
+            },
+            "back": {
+                "classes": [
+                    "mystic"
+                ],
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30."
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        "Mystic cards (<mystic>) level 0-5, Rogue cards (<rogue>) level 0-2, Neutral cards level 0-5."
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "Showmanship, Occult Scraps, 1 random basic weakness."
+                    ]
+                ],
+                "flavor_text": "For Dexter Drake, the magic of fairy tales and myth has been a lifelong fascination. The chance discovery of an old book page during the Great War opened Drake's eyes to the possibility that magic might truly exist. Years later, the promise of arcane tomes locked away in Miskatonic University's special collection draws the successful stage magician to the quiet town of Arkham. Lured to an auction of occult items, \"Drake the Great\" and his assistant, Molly Maxwell, find themselves targeted by the depraved servants of an otherwordly force of disease and corruption. To save Molly, Arkham, and perhaps the world from a horrific transformation, Drake needs more than his wits and quick hands. He must turn to real magic, even if it risks his mind, body, and spirit.",
+                "illustration": "./img/novellas/dextersmol.jpg",
+                "illustration_pan_x": -22.0,
+                "illustration_pan_y": -22.0,
+                "illustration_rotation": "0",
+                "illustration_scale": 1.65,
+                "text": "<b>Deck Size:</b> 30.\n<b>Deckbuilding Options:</b> Mystic cards (<mystic>) level 0-5, Rogue cards (<rogue>) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Showmanship, Occult Scraps, 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Molly Maxwell",
+            "id": "98017",
+            "meta": {
+                "folder": "{player_cards}/06. Blood of Baalshandor"
+            },
+            "front": {
+                "copyright": "© 2020 FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "17",
+                "cost": "3",
+                "health": "2",
+                "icons": "WAQ",
+                "illustration": "./img/novellas/Molly.jpg",
+                "illustration_pan_x": 100.0,
+                "illustration_pan_y": 186.0,
+                "illustration_scale": 1.47,
+                "illustrator": "Illus. Drazenka Kimpel",
+                "level": "None",
+                "name_unique": "<unique>",
+                "sanity": "4",
+                "slots": [
+                    "ally"
+                ],
+                "subtitle": "The Exotic Morgana",
+                "text": "Dexter Drake deck only. Replacement.\n<free> Exhaust Molly Maxwell and deal her 1 horror:<br> Name any trait. One at a time, reveal cards from the<br>top of your deck until an asset with the named trait is<br> revealed. Draw that asset. Shuffle each other revealed<br>card back into your deck.",
+                "traits": "Ally. Assistant.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Yaztaroth",
+            "id": "98018",
+            "meta": {
+                "folder": "{player_cards}/06. Blood of Baalshandor"
+            },
+            "front": {
+                "copyright": "© 2020 FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "18",
+                "illustration": "./img/novellas/yaztaroth.jpg",
+                "illustrator": "Illus. Adam S. Doyle",
+                "text": "Dexter Drake deck only. Replacement.\n<b>Revelation</b> -- Put Yaztaroth into play in your threat area.\nYou cannot play assets or put assets into play.\n<action> <action>: Discard Yaztaroth.",
+                "traits": "Curse. Pact.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Gloria Goldberg",
+            "id": "c5ac2e96-a77d-455f-8671-10f6559045c9",
+            "meta": {
+                "folder": "{player_cards}/07. Dark Revelations"
+            },
+            "amount": 1,
+            "front": {
+                "copyright": "© 2020 FFG",
+                "agility": "1",
+                "classes": [
+                    "mystic"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "19",
+                "collection_total": " ",
+                "combat": "2",
+                "health": "5",
+                "illustration": "./img/novellas/babuszka.png",
+                "illustration_pan_x": -11.0,
+                "illustration_pan_y": 100.0,
+                "illustration_scale": 1.97,
+                "illustrator": "Illus. Colin Boyer",
+                "intellect": "4",
+                "sanity": "9",
+                "subtitle": "The Writer",
+                "text": "You choose the investigator order during the mythos phase.\n<reaction> When you look at 1 or more cards from the encounter deck: Look at 1 additional card and choose 1 non-Elite card among them. Either discard it, put it on top of the encounter deck, or place it facedown beneath Gloria Goldberg (max 3 cards beneath her).\n<elder_sign> effect: +1. Look at the top<br>card of the encounter deck.",
+                "traits": "Clairvoyant.",
+                "type": "investigator",
+                "willpower": "5"
+            },
+            "back": {
+                "classes": [
+                    "mystic"
+                ],
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30."
+                    ],
+                    [
+                        "<b>Secondary Class Choice</b>:",
+                        "At deck creation, choose Guardian (), Seeker (), or Rogue ()."
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        "Mystic cards () level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class."
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        "3 copies of Psychic Sensitivity, 3 copies of Prophecy of the End (shuffled into the encounter deck), 1 random basic weakness."
+                    ]
+                ],
+                "flavor_text": "Nightmares and apocalyptic visions have plagued novelist Gloria Goldberg her entire life. Although she learned to exorcise her terrors onto the page, she has never revealed the inspiration for her weird tales, not even to fellow author Jamie Galbraith. One day, she is struck by a vision of Jamie begging her to help finish what he started. Moments later, she receives word of his sudden death. As Gloria reads Jamie's unfinished book, the story takes hold of her, and the words on the page begin to bleed into reality.",
+                "illustration": "./img/novellas/gloriasmol.webp",
+                "illustration_pan_x": -123.0,
+                "illustration_pan_y": -440.0,
+                "illustration_rotation": "-4",
+                "illustration_scale": 0.668,
+                "text": "<b>Deck Size:</b> 30.\n<b>Secondary Class Choice</b>: At deck creation, choose Guardian (), Seeker (), or Rogue ().\n<b>Deckbuilding Options:</b> Mystic cards () level 0-5, Neutral cards level 0-5, up to 10 level 0-1 events and/or skills of your chosen secondary class.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 3 copies of Psychic Sensitivity, 3 copies of Prophecy of the End (shuffled into the encounter deck), 1 random basic weakness.",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Ruth Westmacott",
+            "id": "98020",
+            "meta": {
+                "folder": "{player_cards}/07. Dark Revelations"
+            },
+            "front": {
+                "name": "Ruth Westmacott",
+                "copyright": "© 2020 FFG",
+                "classes": [
+                    "neutral"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "20",
+                "cost": "3",
+                "health": "2",
+                "icons": "IIQ",
+                "illustration": "./img/novellas/ruth.jpg",
+                "illustration_pan_x": 114.0,
+                "illustration_pan_y": 246.0,
+                "illustration_scale": 1.084,
+                "illustrator": "Illus. Aleksander Karcz",
+                "level": "None",
+                "name_unique": "<unique>",
+                "sanity": "3",
+                "slots": [
+                    "ally"
+                ],
+                "subtitle": "Dark Revelations",
+                "text": "Gloria Goldberg deck only. Replacement.\n<reaction> When an investigator fights, attempts to evade, or initiates a skill test on an encounter card, discard an encounter card that shares a Trait with that encounter card from beneath Gloria Goldberg: Reduce the difficulty of this skill test by 2.",
+                "traits": "Ally. Artist.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Liber Omnium Finium",
+            "id": "98021",
+            "meta": {
+                "folder": "{player_cards}/07. Dark Revelations"
+            },
+            "front": {
+                "copyright": "© 2020 FFG",
+                "classes": [
+                    "weakness"
+                ],
+                "collection_icon": "<image src=\\\"./icons/novella.svg\\\" color=\\\"inverted\\\">",
+                "collection_number": "21",
+                "illustration": "./img/novellas/liber_slop.png",
+                "illustration_pan_x": 130.0,
+                "illustration_pan_y": -30.0,
+                "illustration_scale": 0.945,
+                "illustrator": "Illus. Andreas Zafiratos",
+                "text": "Gloria Goldberg deck only. Replacement.\n<b>Revelation</b> - Draw a random non-weakness encounter<br>card from beneath Gloria Goldberg. That card gains peril, its effects cannot be canceled, and you get -2 to all skills while resolving its effects. If that card is an enemy, it immediately attacks you. If no card is drawn by this effect, shuffle this card back into your deck.",
+                "traits": "Endtimes.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            }
+        }
+    ],
+    "encounter_sets": []
+}

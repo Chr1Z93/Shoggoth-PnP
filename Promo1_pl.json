@@ -1,0 +1,372 @@
+{
+    "id": "cee61cec-10c6-4e38-87a2-46cd881da214",
+    "cards": {
+        "3dbd0462-ac13-4949-afa4-e92f373fbbb1": {
+            "front": {
+                "flavor_text": "Trzymaj się reguł: stawiaj<br>kropkę nad każdym „i”, kreskę<br>na każdym „t”. To zawsze działało. Aż do teraz.",
+                "subtitle": "Agent federalny",
+                "text": "<reaction> Po tym, jak pokonasz<br>wroga: odkryj 1 żeton wskazówki w twojej lokalizacji. (Limit raz na rundę).\nEfekt <elder_sign>: +1 za każdy żeton wskazówki w twojej lokalizacji.",
+                "traits": "Agencja. Detektyw."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Strażnika (<guardian>)<br>o poziomie 0–5, karty Poszukiwacza (<seeker>)<br>o poziomie 0–2, karty neutralne o poziomie 0–5."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do<br>wielkości talii):",
+                        "Specjalna .38 Rolanda, Zacieranie śladów, 1 losowe podstawowe osłabienie."
+                    ]
+                ],
+                "flavor_text": "Procedury i przepisy dawały Rolandowi poczucie wewnętrznego spokoju. Czuł ogromną ulgę, że jako agent Biura zawsze posiadał ścisłe wytyczne, jak postępować w każdej sytuacji. Jednak w ostatnich sprawach, które mu przydzielono, Podręcznik Agenta Federalnego okazał się zupełnie bezużyteczny. Mimo usilnych starań Roland nie znalazł w podręczniku żadnej wzmianki na temat tego, co robić, gdy natrafi się na dziwne stwory, portale czasoprzestrzenne albo magiczne zaklęcia. Gdyby nie zobaczył tego na własne oczy, na pewno nie uwierzyłby w takie rzeczy... i nie ma mowy, żeby jego zwierzchnicy uwierzyli. Roland wiedział, że tym razem musi rozpracować to sam.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Strażnika (<guardian>)<br>o poziomie 0–5, karty Poszukiwacza (<seeker>)<br>o poziomie 0–2, karty neutralne o poziomie 0–5.\n<b>Wymogi tworzenia talii</b> (nie wliczane do<br>wielkości talii): Specjalna .38 Rolanda, Zacieranie śladów, 1 losowe podstawowe osłabienie."
+            }
+        },
+        "40d79722-1564-4661-bd12-afaba8d40c7d": {
+            "front": {
+                "name": "<unique>Dexter Drake",
+                "flavor_text": "„Chcesz zobaczyć<br>prawdziwą magię?”",
+                "subtitle": "Magik",
+                "text": "<free> Podczas twojej tury<br>odrzuć atut, który kontrolujesz: zagraj z twojej ręki atut o innym tytule, obniżając jego koszt o 1. (Limit raz na rundę).\nEfekt <elder_sign>: +2. Możesz cofnąć na twoją rękę atut z twojego obszaru<br>gry. Następnie dobierz 1 kartę.",
+                "traits": "Czarnoksiężnik. Weteran."
+            },
+            "back": {
+                "name": "<unique>Dexter Drake",
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Mistyka (<mystic>)<br>o poziomie 0–5, karty Łotra (<rogue>) o poziomie 0–2,<br>karty neutralne o poziomie 0–5."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do<br>wielkości talii):",
+                        "W centrum uwagi, Okultystyczne skrawki, 1 losowe podstawowe osłabienie."
+                    ]
+                ],
+                "flavor_text": "Dextera Drake’a od zawsze fascynowała magia z baśni<br>i mitów. Przypadkowe znalezisko – stara stronica księgi odkryta podczas Wielkiej Wojny – otworzyło mu oczy na możliwość, że magia może naprawdę istnieć. Po latach obietnica tajemnych ksiąg zamkniętych w zbiorach specjalnych Uniwersytetu Miskatonic przyciąga cieszącego się powodzeniem magika scenicznego do spokojnego miasteczka Arkham. Zwabieni na aukcję okultystycznych przedmiotów „Wielki Drake” i jego asystentka, Molly Maxwell, stają się celem zdeprawowanych sług nieziemskiej siły zarazy<br>i zepsucia. Aby ocalić Molly, Arkham, a może i cały świat przed potworną przemianą, Drake potrzebuje czegoś więcej niż bystrego umysłu i zręcznych dłoni. Musi sięgnąć po prawdziwą magię, nawet jeśli naraża tym swój umysł, ciało i ducha.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Mistyka (<mystic>)<br>o poziomie 0–5, karty Łotra (<rogue>) o poziomie 0–2,<br>karty neutralne o poziomie 0–5.\n<b>Wymogi tworzenia talii</b> (nie wliczane do<br>wielkości talii): W centrum uwagi, Okultystyczne skrawki, 1 losowe podstawowe osłabienie."
+            }
+        },
+        "491c1878-d10f-4933-a39b-98e32abf3d41": {
+            "front": {
+                "name": "<unique>Carolyn Fern",
+                "flavor_text": "„Umysł jest kruchy, ale gdy go poznamy, możemy go chronić”.",
+                "subtitle": "Psycholożka",
+                "text": "<reaction> Po tym, jak efekt jednej<br>z twoich kart wyleczy punkty przerażenia z dowolnego badacza lub atutu z cechą [[Sprzymierzeniec]]: gracz kontrolujący wyleczoną<br>kartę zyskuje 1 żeton zasobu.\nEfekt <elder_sign>: +1. Możesz wyleczyć<br>1 punkt przerażenia z badacza lub atutu z cechą [[Sprzymierzeniec]]<br>w twojej lokalizacji.",
+                "traits": "Lekarz."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Strażnika (<guardian>)<br>o poziomie 0–3, karty neutralne o poziomie 0–5,<br>karty pozwalające „wyleczyć punkty przerażenia”<br>o poziomie 0–5, do 15 innych kart Poszukiwacza<br>i/lub Mistyka (<seeker> i/lub <mystic>) o poziomie 0–1."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości<br>talii):",
+                        "Terapia hipnozą, Racjonalne myślenie, 1 losowe podstawowe osłabienie."
+                    ],
+                    [
+                        "<b>Dodatkowe ograniczenia</b>:",
+                        "bez kart z cechą [[Broń]]<br>o poziomie 1–5."
+                    ]
+                ],
+                "flavor_text": "Najnowszą pacjentką Carolyn Fern, psycholożki przyjmującej gościnnie w Sanatorium Arkham, jest Josephine Ruggles – dziedziczka, której koszmary pozostawiają na jej plecach rany w kształcie glifów. Przypadek panny Ruggles jest niezwykły, nawet jak na taką placówkę. Sprawa przybiera jeszcze dziwniejszy obrót, gdy Josephine twierdzi, że spotkała w snach Malachiego – byłego pacjenta Carolyn, którego leczenie przerwało jego brutalne morderstwo. Kiedy Carolyn sięga po hipnoterapię, by zmierzyć się z traumą Josephine, obie wyruszają w podróż do dziwnego miejsca, które Josephine nazywa „Krainami snów”.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Strażnika (<guardian>)<br>o poziomie 0–3, karty neutralne o poziomie 0–5,<br>karty pozwalające „wyleczyć punkty przerażenia”<br>o poziomie 0–5, do 15 innych kart Poszukiwacza<br>i/lub Mistyka (<seeker> i/lub <mystic>) o poziomie 0–1.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości<br>talii): Terapia hipnozą, Racjonalne myślenie, 1 losowe podstawowe osłabienie.\n<b>Dodatkowe ograniczenia</b>: bez kart z cechą [[Broń]]<br>o poziomie 1–5."
+            }
+        },
+        "52812d75-7b2e-44f8-a5f8-612b7bef9132": {
+            "front": {
+                "flavor_text": "„Swoje lęki zostawcie w dokach”.",
+                "subtitle": "Żeglarz",
+                "text": "<reaction> Po tym, jak podczas wykonywanego przez ciebie testu umiejętności odkryjesz żeton chaosu: cofnij na twoją rękę kartę umiejętności, którą przeznaczyłeś do tego testu. (Limit raz na rundę).\nEfekt <elder_sign>: +0. Do tego testu możesz przeznaczyć kartę umiejętności z twojego stosu kart odrzuconych. Kiedy ten test dobiegnie końca, cofnij daną kartę umiejętności na twoją rękę zamiast ją odrzucać.",
+                "traits": "Tułacz."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Ocalałego (<survivor>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>karty umiejętności z cechą [[Wrodzona]] o poziomie<br>0–2."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do<br>wielkości talii):",
+                        "Harpun pełnej przemiany, Sieć Silasa, Syreni śpiew, 1 losowe podstawowe osłabienie."
+                    ]
+                ],
+                "flavor_text": "Silas Marsh zawsze czuł zew morza. Jako młody chłopak opuścił rodzinę w spowitym strachem Innsmouth i wyrobił sobie imię, żeglując po siedmiu morzach. Jednak po śmierci rodziców zew morza tylko przybrał na sile. Silas ma sny – koszmary – o szczerzących się spiczastych zębach, wyciągających się błoniastych dłoniach i oczach jarzących się w mroku oceanicznych głębin. Nikt w jego rodzinie nie potrafi wyjaśnić tych snów, a przynajmniej nikt nie chce tego zrobić. Dlatego gdy zdesperowana bibliotekarka Abigail Foreman przychodzi do Silasa z własnymi pytaniami, nie potrafi jej odprawić. Jej starożytna i tajemnicza księga,</i> Profesiae Profana<i>, wskazuje na zjawisko gwiezdne zwiastujące koniec świata, a na jej marginesach namalowano te same stworzenia, które nawiedzają koszmary Silasa…",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Ocalałego (<survivor>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>karty umiejętności z cechą [[Wrodzona]] o poziomie<br>0–2.\n<b>Wymogi tworzenia talii</b> (nie wliczane do<br>wielkości talii): Harpun pełnej przemiany, Sieć Silasa, Syreni śpiew, 1 losowe podstawowe osłabienie."
+            }
+        },
+        "5d5f333a-7d31-4652-aa70-aec397fd891d": {
+            "front": {
+                "illustration_pan_x": 5.0,
+                "subtitle": "Astronom",
+                "text": "Graj z odkrytą wierzchnią kartą<br>twojej talii.\nRaz na rundę możesz zagrać wierzchnią kartę twojej talii tak,<br>jakby znajdowała się na twojej ręce<br>za koszt niższy o 1.\n<b>Wymuszony</b> – Po tym, jak na wierzchu twojej talii zostanie odkryte osłabienie: dobierz je.\nEfekt <elder_sign>: +X. Możesz zamienić miejscami wierzchnią kartę twojej talii z dowolną kartą na twojej ręce. X to koszt w zasobach wierzchniej karty twojej talii."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Poszukiwacza (<seeker>) o poziomie 0, karty Mistyka (<mystic>) o poziomie 1–5,<br>karty neutralne o poziomie 0–5, do pięciu innych kart Mistyka (<mystic>) o poziomie 0."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
+                        "Livre d’Eibon, Herald, 1 losowe podstawowe osłabienie."
+                    ]
+                ],
+                "flavor_text": "Nikt mu nie wierzy, a niby dlaczego miałby? Jak sześć gwiazd mogło zniknąć z nieba jednocześnie i już nigdy się nie pojawić? Astronom i profesor Uniwersytetu Miskatonic Norman Withers niemal stracił już nadzieję na odzyskanie szacunku kolegów, gdy na kampus przybywa z wykładem protegowany słynnego Alberta Einsteina. Gość, fizyk o niepokojących teoriach na temat zakrzywienia czasoprzestrzeni, może okazać się kluczem, który pomoże Normanowi wyjaśnić zjawisko znikających gwiazd…",
+                "subtitle": "Astronom",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Poszukiwacza (<seeker>) o poziomie 0, karty Mistyka (<mystic>) o poziomie 1–5,<br>karty neutralne o poziomie 0–5, do pięciu innych kart Mistyka (<mystic>) o poziomie 0.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Livre d’Eibon, Herald, 1 losowe podstawowe osłabienie."
+            }
+        },
+        "98002": {
+            "name": "Medalion Zielonego Człowieka",
+            "front": {
+                "name": "Medalion Zielonego Człowieka",
+                "subtitle": "Godzina łowczyni",
+                "text": "Tylko talia Jenny Barnes. Zamiennik.\n<free> Wydaj maksymalnie 3 zasoby i wyczerp Medalion Zielonego Człowieka: umieść te zasoby na nim, jako ofiary.\n<reaction> Kiedy zrezygnujesz lub gra się skończy: za każde 6 ofiar na Medalionie Zielonego Człowieka obniż o 1 koszt w punktach doświadczenia następnej karty, którą kupisz przed następnym scenariuszem.",
+                "traits": "Przedmiot. Relikwia."
+            }
+        },
+        "98003": {
+            "name": "Ofiarna bestia",
+            "front": {
+                "name": "Ofiarna bestia",
+                "flavor_text": "Grube kończyny, niczym mokre gałęzie, wyciągały<br>się ku niebu wysoko ponad podestem. Kołysały się,<br>a Jenny nie potrafiła stwierdzić, czy w agonii,<br>czy w uniesieniu. \n– Dave Gross, </i>Hour of the Huntress<i>",
+                "text": "Tylko talia Jenny Barnes. Zamiennik.\n<b>Rozstawienie</b> – Lokalizacja najdalsza od ciebie.\nJenny Barnes nie może zyskiwać zasobów w wyniku efektów kart.",
+                "traits": "Potwór. Mroczne Młode."
+            }
+        },
+        "98005": {
+            "name": "Niewyjaśnione tajemnice",
+            "front": {
+                "name": "Niewyjaśnione tajemnice",
+                "illustration_pan_x": 6.0,
+                "illustration_scale": 1.97,
+                "text": "Tylko talia Rolanda Banksa. Zamiennik.\nSzybka. Zagraj tylko podczas twojej tury.\nAlbo umieść 1 wskazówkę <i>(z puli żetonów)</i> na twojej lokalizacji, albo odkryj 1 wskazówkę w twojej lokalizacji. Usuń Niewyjaśnione tajemnice z gry.",
+                "traits": "Informacja."
+            }
+        },
+        "98006": {
+            "name": "Lament rozumu",
+            "front": {
+                "name": "Lament rozumu",
+                "flavor_text": "…czy muzyka była częścią snu, czy sen częścią muzyki?<br>– Graeme Davis, </i>The Dirge of Reason<i>",
+                "text": "Tylko talia Rolanda Banksa. Zamiennik.\n<b>Odkrycie</b> – Umieść 2 z twoich wskazówek na twojej lokalizacji. Jeśli nie możesz tego zrobić, umieść wszystkie twoje wskazówki na twojej lokalizacji, otrzymaj 1 punkt przerażenia i wtasuj Lament rozumu z powrotem do twojej talii.",
+                "traits": "Szaleństwo."
+            }
+        },
+        "98008": {
+            "name": "Rozszczepienie kąta",
+            "front": {
+                "name": "Rozszczepienie kąta",
+                "flavor_text": "…kolejne zaklęcie, również zapisane fonetycznie, służące do „rozszczepiania kąta” i wędrowania przez czas we własnej osobie.",
+                "subtitle": "Gniew pustki",
+                "text": "Tylko talia Normana Withersa. Zamiennik.\n<action>: Odkryj wierzchnią kartę talii spotkań.\n<free> Wyczerp Rozszczepienie kąta i odrzuć wierzchnią kartę twojej talii: odrzuć wierzchnią kartę talii spotkań.",
+                "traits": "Zaklęcie."
+            }
+        },
+        "98009": {
+            "name": "Mściwy ogar",
+            "front": {
+                "name": "Mściwy ogar",
+                "flavor_text": "„W tych rzadkich przypadkach, gdy komuś uda się umknąć Ogarom, zwykle nie pozostaje bezpieczny na długo. Prędzej czy później stają się skłonni po niego przyjść”.<br>– Richard Lee Byers, </i>Ire of the Void<i>",
+                "text": "Tylko talia Normana Withersa. Zamiennik.\n<b>Polowanie</b> – Norman Withers.\nDopóki Mściwy ogar jest z tobą w zwarciu, nie możesz dobierać ani odkrywać kart w wyniku efektów kart gracza.\n",
+                "traits": "Potwór. Ponadwymiarowa. Tindalos."
+            }
+        },
+        "98011": {
+            "name": "Głupotka",
+            "front": {
+                "name": "Głupotka",
+                "flavor_text": "„Może tym razem oszczędzisz nam kłopotów?”. Kot machnął ogonem<br>w tę i we w tę. „Może. A może sam oszczędzę parę groszy”.",
+                "subtitle": "Głupiutki kot z Ultharu",
+                "text": "Tylko talia Carolyn Fern. Zamiennik.\nGłupotka wchodzi do gry z 3 punktami przerażenia. Punkty przerażenia na Głupotce mogą zostać wyleczone tak, jakby znajdowały się na Carolyn Fern. Dopóki na Głupotce nie ma żadnych punktów przerażenia, dostajesz +1 do wszystkich umiejętności.",
+                "traits": "Sprzymierzeniec. Stworzenie. Krainy Snów."
+            }
+        },
+        "98012": {
+            "name": "Walka z Czarnym Wiatrem",
+            "front": {
+                "name": "Walka z Czarnym Wiatrem",
+                "text": "Tylko talia Carolyn Fern. Zamiennik.\n<b>Odkrycie</b> – Dołącz Walkę z Czarnym Wiatrem do obecnej tajemnicy. Carolyn Fern otrzymuje 1 bezpośredni<br>punkt przerażenia.\n<b>Wymuszony</b> – Na koniec rundy, jeśli w tej rundzie badaczowi przypisano jakiekolwiek punkty przerażenia, które nie zostały wyleczone: umieść 1 żeton zagłady na tajemnicy, do której dołączono tę kartę.",
+                "traits": "Zadanie. Krainy Snów."
+            }
+        },
+        "98014": {
+            "name": "Biegłość żeglarska",
+            "front": {
+                "name": "Biegłość żeglarska",
+                "text": "Tylko talia Silasa Marsha. Zamiennik. \nJeśli podczas tego testu zostanie odkryty żeton chaosu z ujemnym modyfikatorem, albo dobierz 1 kartę, albo Biegłość żeglarska zyskuje <wild><wild>.",
+                "traits": "Wrodzona. Rozwinięta."
+            }
+        },
+        "98015": {
+            "name": "Sny o głębinach",
+            "front": {
+                "name": "Sny o głębinach",
+                "subtitle": "Wrota głębin",
+                "text": "Tylko talia Silasa Marsha. Zamiennik.\nSymbole z tej karty umiejętności odejmij od twojej wartości umiejętności, zamiast je dodawać.\nJeśli ten test umiejętności zakończy się porażką, cofnij tę kartę umiejętności na twoją rękę.\n<b>Wymuszony</b> – Jeśli na koniec twojej tury Sny o głębinach znajdują się na twojej ręce: odkryj je i otrzymujesz 2 obrażenia.",
+                "traits": "Klątwa."
+            }
+        },
+        "98017": {
+            "front": {
+                "subtitle": "Egzotyczna Morgana",
+                "text": "Tylko talia Dextera Drake’a. Zamiennik.\n<free> Wyczerp Molly Maxwell i zadaj jej 1 punkt przerażenia: wymień dowolną cechę. Pojedynczo, odkrywaj karty z wierzchu twojej talii, dopóki nie zostanie odkryty atut z wymienioną cechą. Dobierz ten atut. Wtasuj pozostałe odkryte karty z powrotem do twojej talii.",
+                "traits": "Sprzymierzeniec. Asystent."
+            }
+        },
+        "98018": {
+            "front": {
+                "text": "Tylko talia Dextera Drake’a. Zamiennik.\n<b>Odkrycie</b> – Umieść Yaztarotha w grze, w twoim obszarze zagrożenia.\nNie możesz zagrywać atutów ani umieszczać atutów w grze.\n<action><action>: Odrzuć Yaztarotha.",
+                "traits": "Klątwa. Pakt."
+            }
+        },
+        "98020": {
+            "front": {
+                "subtitle": "Mroczne objawienia",
+                "text": "Tylko talia Glorii Goldberg. Zamiennik.\n<reaction> Kiedy badacz atakuje, próbuje wymknąć się lub inicjuje test umiejętności na karcie spotkania, odrzuć spod Glorii Goldberg kartę spotkania<br>z taką samą [[cechą]] jak ta karta spotkania: obniż trudność tego testu umiejętności o 2.",
+                "traits": "Sprzymierzeniec. Twórca."
+            }
+        },
+        "98021": {
+            "front": {
+                "text": "Tylko talia Glorii Goldberg. Zamiennik.\n<b>Odkrycie</b> – Dobierz losową kartę spotkania nie-osłabienie spod Glorii Goldberg. Dana karta zyskuje słowo kluczowe Zagrożenie, nie można anulować jej efektów i podczas rozpatrywania jej efektów dostajesz –2 do wszystkich umiejętności. Jeśli dana karta jest wrogiem, natychmiast cię atakuje. Jeśli w wyniku tego efektu nie zostanie dobrana żadna karta, wtasuj tę kartę z powrotem do twojej talii.",
+                "traits": "Kres."
+            }
+        },
+        "b36f4676-b051-493f-ab12-0d3f8132ea38": {
+            "front": {
+                "flavor_text": "„Daj spokój z tą »Panną Barnes«.<br>Przyjaciele mówią mi Jenny”.",
+                "illustration_pan_x": 7.0,
+                "subtitle": "Dyletantka",
+                "text": "Podczas każdej fazy<br>utrzymania otrzymujesz 1 dodatkowy żeton zasobu.\nEfekt <elder_sign>: +1 za każdy żeton zasobu, który posiadasz.",
+                "traits": "Tułacz."
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Łotra (<rogue>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Strażnika, Poszukiwacza, Mistyka i/lub Ocalałego)."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
+                        "Bliźniacze .45 Jenny, Poszukiwanie Izzie,<br>1 losowe podstawowe osłabienie."
+                    ],
+                    [
+                        "",
+                        "a"
+                    ],
+                    [
+                        "",
+                        "a"
+                    ]
+                ],
+                "flavor_text": "Jenny Barnes spędziła większość swojego młodego życia na pogoni za luksusem, znakomitą kuchnią i najnowszą modą. Wszystko zmieniło się, kiedy otrzymała list od swojej siostry, Isabelle. W liście Isabelle pisała, że sprzysięgły się przeciw niej tajemnicze siły i boi się, że może paść ofiarą jakiegoś nadnaturalnego zagrożenia. Był to ostatni list, jaki Jenny otrzymała od ukochanej siostry. Powróciła więc do Stanów, aby zbadać wszelkie okultystyczne zjawiska, jakie tylko zdoła znaleźć. Jenny wielokrotnie udowodniła, że nie jest delikatnym kwiatuszkiem, lecz wyborowym strzelcem oraz sprytnym i nieustraszonym badaczem tajemnic. Dopóki zniknięcie Isabelle się nie wyjaśni, nie zrezygnuje ze swych poszukiwań.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Opcje tworzenia talii</b>: karty Łotra (<rogue>)<br>o poziomie 0–5, karty neutralne o poziomie 0–5,<br>do pięciu kart o poziomie 0 z dowolnej innej klasy (Strażnika, Poszukiwacza, Mistyka i/lub Ocalałego).\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): Bliźniacze .45 Jenny, Poszukiwanie Izzie,<br>1 losowe podstawowe osłabienie."
+            }
+        },
+        "c5ac2e96-a77d-455f-8671-10f6559045c9": {
+            "front": {
+                "name": "<unique>Gloria Goldberg",
+                "subtitle": "Pisarka",
+                "text": "Wybierasz kolejność badaczy<br>w fazie mitów.\n<reaction> Kiedy podglądasz 1 lub więcej kart z talii spotkań: podejrzyj<br>1 dodatkową kartę i wybierz spośród nich nie-[[Elitarną]] kartę. Następnie odrzuć ją, umieść na wierzchu talii spotkań lub umieść zakrytą pod Glorią Goldberg (maksymalnie 3 karty pod nią).\nEfekt <elder_sign>: +1. Podejrzyj wierzchnią<br>kartę z talii spotkań.",
+                "traits": "Jasnowidz."
+            },
+            "back": {
+                "name": "<unique>Gloria Goldberg",
+                "entries": [
+                    [
+                        "<b>Rozmiar talii</b>:",
+                        "30."
+                    ],
+                    [
+                        "<b>Wybór drugorzędnej klasy</b>:",
+                        "podczas tworzenia talii wybierz Strażnika (<guardian>), Poszukiwacza (<seeker>) lub Łotra (<rogue>)."
+                    ],
+                    [
+                        "<b>Opcje tworzenia talii</b>:",
+                        "karty Mistyka (<mystic>) o poziomie 0–5, karty neutralne o poziomie 0–5, do 10 kart<br>wydarzeń i/lub umiejętności o poziomie 0–1 twojej drugorzędnej klasy."
+                    ],
+                    [
+                        "<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii):",
+                        "3 kopie Psychicznej wrażliwości, 3 kopie Proroctwa kresu (wtasowywane do talii spotkań), 1 losowe podstawowe osłabienie."
+                    ]
+                ],
+                "flavor_text": "Koszmary i apokaliptyczne wizje nękały powieściopisarkę Glorię Goldberg przez całe życie. Choć nauczyła się przelewać swoje lęki na papier, nigdy nikomu nie zdradziła, skąd czerpie inspirację do swoich niesamowitych opowieści – nawet koledze po piórze, Jamiemu Galbraithowi. Pewnego dnia nawiedza ją wizja, w której Jamie błaga ją o pomoc w dokończeniu tego, co zaczął. Chwilę później otrzymuje wiadomość o jego nagłej śmierci. Gdy Gloria czyta niedokończoną książkę Jamiego, opowieść ją pochłania, a słowa na stronicach zaczynają przenikać do rzeczywistości.",
+                "text": "<b>Rozmiar talii</b>: 30.\n<b>Wybór drugorzędnej klasy</b>: podczas tworzenia talii wybierz Strażnika (<guardian>), Poszukiwacza (<seeker>) lub Łotra (<rogue>).\n<b>Opcje tworzenia talii</b>: karty Mistyka (<mystic>) o poziomie 0–5, karty neutralne o poziomie 0–5, do 10 kart<br>wydarzeń i/lub umiejętności o poziomie 0–1 twojej drugorzędnej klasy.\n<b>Wymogi tworzenia talii</b> (nie wliczane do wielkości talii): 3 kopie Psychicznej wrażliwości, 3 kopie Proroctwa kresu (wtasowywane do talii spotkań), 1 losowe podstawowe osłabienie."
+            }
+        }
+    },
+    "encounter_sets": {},
+    "guides": {},
+    "parent": "Promo1.json",
+    "project": {
+        "meta": {
+            "language": "pl"
+        },
+        "export_profiles": [
+            {
+                "name": "Default",
+                "id": "eabb7262-2d3a-4688-886c-67e2048f33d8",
+                "entries": [
+                    {
+                        "id": "230eebe9-4d01-4841-91bb-c02ae0df833d",
+                        "scope": {
+                            "card_ids": [
+                                "98006",
+                                "98021",
+                                "98012",
+                                "98018",
+                                "98009",
+                                "98003",
+                                "98015",
+                                "98005",
+                                "98014",
+                                "98011",
+                                "98002",
+                                "98017",
+                                "98008",
+                                "98020"
+                            ],
+                            "encounter_set_ids": [],
+                            "type": "cards"
+                        },
+                        "settings": {
+                            "export_images": true,
+                            "folder": "C:/Users/krawc/Desktop/test",
+                            "sync": false,
+                            "update_file": null
+                        },
+                        "type": "tts"
+                    }
+                ]
+            }
+        ]
+    },
+    "type": "modification"
+}
